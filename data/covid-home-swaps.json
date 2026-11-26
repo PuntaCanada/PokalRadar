@@ -108,5 +108,15 @@
     "swapSource": "https://schalke04.de/dfb-pokal/heimrechttausch-pokal/index.html",
     "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/1-fc-schweinfurt-05-fc-schalke-04-2311438",
     "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "e60bca4a95b897e682a9471b",
+    "originalHome": "SSV Ulm 1846",
+    "finalHome": "FC Schalke 04",
+    "homeRightSwap": true,
+    "venue": "Veltins-Arena, Gelsenkirchen",
+    "swapSource": "https://www.ssvulm1846-fussball.de/profis/dfb-stimmt-zu-ssv-spielt-auf-schalke/",
+    "venueSource": "https://datencenter.dfb.de/matches/2320851",
+    "drawSlotUnresolved": false
   }
 ]
