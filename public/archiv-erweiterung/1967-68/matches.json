@@ -932,11 +932,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 76
+    },
+    {
+      "id": "hist-814cea5a15e164dd86c845b7",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 142
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

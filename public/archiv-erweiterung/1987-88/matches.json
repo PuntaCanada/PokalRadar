@@ -2063,11 +2063,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 238
+    },
+    {
+      "id": "hist-c70e0d37cb2965656eb0aa79",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 320
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

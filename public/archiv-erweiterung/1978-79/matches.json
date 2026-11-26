@@ -3925,11 +3925,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 480
+    },
+    {
+      "id": "hist-37bdaae0bbb0aca59d79c047",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 574
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

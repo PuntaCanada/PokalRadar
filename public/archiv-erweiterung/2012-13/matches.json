@@ -1808,11 +1808,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 709
+    },
+    {
+      "id": "hist-d6ea2ff87cbd3e31a7ebab14",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 845
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

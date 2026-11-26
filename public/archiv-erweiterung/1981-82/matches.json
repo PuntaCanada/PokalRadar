@@ -3948,11 +3948,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 357
+    },
+    {
+      "id": "hist-d0e37d54e834e74f6c0c3e75",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "1. FC Nürnberg",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 451
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

@@ -1083,11 +1083,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 91
+    },
+    {
+      "id": "hist-5d74f6497e695fcd069cea93",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 160
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

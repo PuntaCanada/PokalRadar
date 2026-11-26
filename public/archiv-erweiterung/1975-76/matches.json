@@ -3919,11 +3919,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 481
+    },
+    {
+      "id": "hist-c67ef5478b5ae22e9d7f6159",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 562
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

@@ -1889,11 +1889,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 132
+    },
+    {
+      "id": "hist-015c08f3642bc66c9b10c008",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 216
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

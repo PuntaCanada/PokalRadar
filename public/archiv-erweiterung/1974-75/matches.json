@@ -3983,11 +3983,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 488
+    },
+    {
+      "id": "hist-ab46ad71f16cbeb1298bfdd0",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 565
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

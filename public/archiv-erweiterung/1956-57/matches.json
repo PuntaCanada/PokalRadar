@@ -294,11 +294,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 47
+    },
+    {
+      "id": "hist-307f47feeeab7f885f0a4092",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 120
     }
   ],
-  "issues": [
-    {
-      "reason": "final section not detected"
-    }
-  ]
+  "issues": []
 }

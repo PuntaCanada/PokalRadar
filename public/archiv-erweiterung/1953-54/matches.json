@@ -236,11 +236,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 44
+    },
+    {
+      "id": "hist-136ea64a130314d1d733c098",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 114
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

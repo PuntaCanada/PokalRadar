@@ -1826,11 +1826,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 271
+    },
+    {
+      "id": "hist-ff63323ada9be5f6f9c60a55",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "FC Energie Cottbus",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 331
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

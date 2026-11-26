@@ -439,11 +439,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 53
+    },
+    {
+      "id": "hist-9d0fab1defae4c5d4a088dbf",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 125
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

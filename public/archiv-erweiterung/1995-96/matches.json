@@ -1826,11 +1826,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 112
+    },
+    {
+      "id": "hist-80c8bb157a44274a51b7fcb4",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 187
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

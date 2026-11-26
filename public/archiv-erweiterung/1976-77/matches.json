@@ -3922,11 +3922,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 477
+    },
+    {
+      "id": "hist-e1b79b2dc750004f80863d72",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 566
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

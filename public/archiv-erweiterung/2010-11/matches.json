@@ -1820,11 +1820,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 771
+    },
+    {
+      "id": "hist-b9696a1b67087bd1a653d920",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "MSV Duisburg (II)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 885
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

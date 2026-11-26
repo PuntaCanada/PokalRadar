@@ -2063,11 +2063,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 264
+    },
+    {
+      "id": "hist-57127f5662940fd017efde8f",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Werder Bremen",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 341
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

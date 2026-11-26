@@ -3832,11 +3832,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 465
+    },
+    {
+      "id": "hist-c452ad971f688dbc69e76374",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 550
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

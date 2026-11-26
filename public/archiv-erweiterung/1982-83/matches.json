@@ -2005,11 +2005,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 274
+    },
+    {
+      "id": "hist-35765a3a4c908754c108c818",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "SC Fortuna Köln",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 334
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

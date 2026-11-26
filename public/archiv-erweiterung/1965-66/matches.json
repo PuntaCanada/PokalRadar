@@ -961,11 +961,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 77
+    },
+    {
+      "id": "hist-51ddccca32a8e1d7d0e3cce5",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Meidericher SV",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 143
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

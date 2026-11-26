@@ -1832,11 +1832,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 729
+    },
+    {
+      "id": "hist-0defc86a8060aed9751a8146",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 830
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

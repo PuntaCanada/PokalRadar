@@ -3948,11 +3948,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 476
+    },
+    {
+      "id": "hist-580ee5351ff7e4b086f4e48d",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 576
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

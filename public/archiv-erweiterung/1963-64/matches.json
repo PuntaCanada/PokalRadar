@@ -961,11 +961,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 69
+    },
+    {
+      "id": "hist-6229e76860127f1552e28351",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 132
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

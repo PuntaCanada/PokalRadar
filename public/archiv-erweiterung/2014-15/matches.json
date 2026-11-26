@@ -1838,11 +1838,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 1152
+    },
+    {
+      "id": "hist-a32afa776054f98814406e62",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "VfL Wolfsburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1256
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

@@ -1823,11 +1823,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 273
+    },
+    {
+      "id": "hist-7f6aecfb2da7999cf34e2a6d",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 395
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

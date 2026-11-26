@@ -1976,11 +1976,33 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 278
+    },
+    {
+      "id": "hist-52300c54890c19456c3e6529",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Borussia Mönchengladbach",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:1), 7:6 i. E.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 362
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

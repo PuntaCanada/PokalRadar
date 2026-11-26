@@ -1823,11 +1823,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 295
+    },
+    {
+      "id": "hist-0e91b57f886a161b06a96679",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 420
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

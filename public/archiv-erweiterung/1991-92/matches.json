@@ -3166,6 +3166,32 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 432
+    },
+    {
+      "id": "hist-1777ee6aae9be6bf23f6a4f2",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Hannover 96",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V., 3:4 i. E.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 523
     }
   ],
   "issues": [
@@ -3193,9 +3219,6 @@
       "line": 113,
       "reason": "unparsed row",
       "raw": ""
-    },
-    {
-      "reason": "final template not parsed"
     }
   ]
 }

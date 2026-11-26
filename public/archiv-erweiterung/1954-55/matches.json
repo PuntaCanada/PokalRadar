@@ -990,11 +990,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 84
+    },
+    {
+      "id": "hist-34fdd2ab450905b586a4aefa",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 160
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

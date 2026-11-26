@@ -1193,11 +1193,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 99
+    },
+    {
+      "id": "hist-3cae16ee522932f8fcbbf138",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 170
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

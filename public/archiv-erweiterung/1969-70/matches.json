@@ -961,11 +961,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 85
+    },
+    {
+      "id": "hist-7c18f42d717fec08aa81ebb3",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 148
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

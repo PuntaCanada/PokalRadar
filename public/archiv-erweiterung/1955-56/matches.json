@@ -91,11 +91,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 58
+    },
+    {
+      "id": "hist-b0cbb4de5e13930051f8d5a3",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Hamburger SV",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 142
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

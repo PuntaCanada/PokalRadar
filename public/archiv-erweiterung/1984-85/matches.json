@@ -1924,11 +1924,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 269
+    },
+    {
+      "id": "hist-2383a7b6c939fcabb4f0a853",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 329
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

@@ -120,11 +120,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 36
+    },
+    {
+      "id": "hist-5ab1f50782630620e41f3ae2",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 108
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

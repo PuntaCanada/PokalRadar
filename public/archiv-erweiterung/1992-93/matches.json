@@ -2377,11 +2377,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 277
+    },
+    {
+      "id": "hist-656ee9e7f3808d76844e0e48",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Hertha BSC Amateure",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 340
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

@@ -1814,11 +1814,33 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 786
+    },
+    {
+      "id": "hist-2f497a6bbe673564184ab7ab",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Borussia Dortmund",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V., 4:3 i. E.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 921
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

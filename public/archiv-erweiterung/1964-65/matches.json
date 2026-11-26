@@ -903,11 +903,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 67
+    },
+    {
+      "id": "hist-f6c14d488135dc5d5de73c16",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Alemannia Aachen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 139
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

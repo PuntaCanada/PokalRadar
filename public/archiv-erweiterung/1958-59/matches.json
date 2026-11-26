@@ -91,11 +91,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 27
+    },
+    {
+      "id": "hist-c85d3c02f8813521486137e2",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 112
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

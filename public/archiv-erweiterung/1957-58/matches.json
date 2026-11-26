@@ -120,11 +120,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 57
+    },
+    {
+      "id": "hist-7cc58c7650e0a2e47e7cfed8",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V. (3:3, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 147
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

@@ -1820,11 +1820,33 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 111
+    },
+    {
+      "id": "hist-d95523cc647aeb13dc665d0c",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC Bayern München",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:1), 5:4 i. E.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
     }
   ],
-  "issues": [
-    {
-      "reason": "final template not parsed"
-    }
-  ]
+  "issues": []
 }

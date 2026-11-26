@@ -104,109 +104,73 @@
   {
     "season": "1953-54",
     "revision": 266123832,
-    "count": 8,
+    "count": 9,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1954-55",
     "revision": 266123841,
-    "count": 34,
+    "count": 35,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1955-56",
     "revision": 266123857,
-    "count": 3,
+    "count": 4,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1956-57",
     "revision": 266402058,
-    "count": 10,
+    "count": 11,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final section not detected"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1957-58",
     "revision": 266123900,
-    "count": 4,
+    "count": 5,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1958-59",
     "revision": 266123920,
-    "count": 3,
+    "count": 4,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1959-60",
     "revision": 266123953,
-    "count": 4,
+    "count": 5,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1960-61",
     "revision": 267754441,
-    "count": 14,
+    "count": 15,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1961-62",
     "revision": 265846553,
-    "count": 15,
+    "count": 16,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -220,61 +184,41 @@
   {
     "season": "1963-64",
     "revision": 265846579,
-    "count": 33,
+    "count": 34,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1964-65",
     "revision": 265846597,
-    "count": 31,
+    "count": 32,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1965-66",
     "revision": 265846610,
-    "count": 33,
+    "count": 34,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1966-67",
     "revision": 265846625,
-    "count": 41,
+    "count": 42,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1967-68",
     "revision": 265846678,
-    "count": 32,
+    "count": 33,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -288,13 +232,9 @@
   {
     "season": "1969-70",
     "revision": 265852309,
-    "count": 33,
+    "count": 34,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -328,49 +268,33 @@
   {
     "season": "1973-74",
     "revision": 267289970,
-    "count": 37,
+    "count": 38,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1974-75",
     "revision": 265881492,
-    "count": 137,
+    "count": 138,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1975-76",
     "revision": 271463265,
-    "count": 135,
+    "count": 136,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1976-77",
     "revision": 270784190,
-    "count": 135,
+    "count": 136,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -384,85 +308,57 @@
   {
     "season": "1978-79",
     "revision": 265915742,
-    "count": 135,
+    "count": 136,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1979-80",
     "revision": 265933552,
-    "count": 132,
+    "count": 133,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1980-81",
     "revision": 265927026,
-    "count": 136,
+    "count": 137,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1981-82",
     "revision": 272137253,
-    "count": 136,
+    "count": 137,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1982-83",
     "revision": 265958346,
-    "count": 69,
+    "count": 70,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1983-84",
     "revision": 272046513,
-    "count": 68,
+    "count": 69,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1984-85",
     "revision": 266973713,
-    "count": 66,
+    "count": 67,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -484,55 +380,39 @@
   {
     "season": "1987-88",
     "revision": 270512747,
-    "count": 71,
+    "count": 72,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1988-89",
     "revision": 270512772,
-    "count": 71,
+    "count": 72,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1989-90",
     "revision": 266624220,
-    "count": 65,
+    "count": 66,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1990-91",
     "revision": 270512871,
-    "count": 68,
+    "count": 69,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1991-92",
     "revision": 270512890,
-    "count": 108,
+    "count": 109,
     "bye": 1,
     "issues": [
       {
@@ -559,9 +439,6 @@
         "line": 113,
         "reason": "unparsed row",
         "raw": ""
-      },
-      {
-        "reason": "final template not parsed"
       }
     ],
     "complete": false
@@ -569,13 +446,9 @@
   {
     "season": "1992-93",
     "revision": 270512098,
-    "count": 81,
+    "count": 82,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -597,25 +470,17 @@
   {
     "season": "1995-96",
     "revision": 266106100,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1996-97",
     "revision": 269706690,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -629,25 +494,17 @@
   {
     "season": "1998-99",
     "revision": 266487983,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1999-00",
     "revision": 266487968,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -685,25 +542,17 @@
   {
     "season": "2004-05",
     "revision": 270509883,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "2005-06",
     "revision": 270511637,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -717,25 +566,17 @@
   {
     "season": "2007-08",
     "revision": 270511438,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "2008-09",
     "revision": 270511062,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -749,13 +590,9 @@
   {
     "season": "2010-11",
     "revision": 270511315,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -769,49 +606,33 @@
   {
     "season": "2012-13",
     "revision": 271105277,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "2013-14",
     "revision": 271653648,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "2014-15",
     "revision": 270510825,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "2015-16",
     "revision": 270510799,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
