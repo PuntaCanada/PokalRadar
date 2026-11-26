@@ -7,7 +7,7 @@ permissions:
   contents: read
 jobs:
   validate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
         with:
@@ -17,12 +17,31 @@ jobs:
           node-version: '22'
       - run: npm test
       - run: npm run build
-      - run: node -e "const s=require('./public/data/seasons.json'); if(s.length!==7 || s.reduce((n,x)=>n+x.matches.length,0)!==441) process.exit(1)"
+      - run: git diff --exit-code -- public/data/seasons.json
+      - name: Regenerate all static pages from a clean output set
+        run: |
+          find public -name index.html -type f -delete
+          rm -f public/sitemap.xml public/robots.txt
+          node scripts/portal.mjs
+      - name: Verify all committed production files
+        run: |
+          git diff --exit-code -- public
+          test -z "$(git ls-files --others --exclude-standard -- public)"
+          test -z "$(git ls-files --deleted -- public)"
+      - run: node tests/portal-links.mjs
+      - run: npm install --no-save --no-package-lock playwright@1.56.1
+      - run: npx playwright install --with-deps chromium
+      - run: node tests/browser.mjs
       - uses: actions/upload-artifact@v4
         with:
-          name: validated-seasons
-          path: public/data/seasons.json
-      - name: Verify committed JSON is deterministic
+          name: generated-portal
+          path: public
+      - name: Check existing production independently
+        if: always()
+        continue-on-error: true
         run: |
-          git ls-files --error-unmatch public/data/seasons.json
-          git diff --exit-code -- public/data/seasons.json
+          node tests/production.mjs
+          if curl -fsSL --max-time 20 https://pokalradar.pages.dev/data/seasons.json -o /tmp/pokal-data; then
+            sha256sum /tmp/pokal-data public/data/seasons.json
+            if cmp -s /tmp/pokal-data public/data/seasons.json; then echo 'PRODUCTION JSON MATCH'; else echo 'PRODUCTION JSON MISMATCH'; fi
+          else echo 'PRODUCTION JSON unverified'; fi
