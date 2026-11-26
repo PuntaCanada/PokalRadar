@@ -1,0 +1,1 @@
+23 original placeholder slots recorded separately; 18 linked to confirmed qualification winners, five remain unresolved by the cited reports. No additional first-round home observations or probabilities are inferred. Finaltag article reports Westfalen assignment still pending. Second-round original Ulm home right is modeled independently of transferred venue.

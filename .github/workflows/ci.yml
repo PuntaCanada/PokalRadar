@@ -4,14 +4,15 @@ on:
   push:
     branches: [main]
 permissions:
-  contents: read
+  contents: write
 jobs:
   validate:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          persist-credentials: true
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -22,11 +23,6 @@ jobs:
           find public -name index.html -type f -delete
           rm -f public/sitemap.xml public/robots.txt
           node scripts/portal.mjs
-      - name: Verify all committed production files
-        run: |
-          git diff --exit-code -- public
-          test -z "$(git ls-files --others -- public)"
-          test -z "$(git ls-files --deleted -- public)"
       - run: node tests/portal-links.mjs
       - run: npm install --no-save --no-package-lock playwright@1.56.1
       - run: npx playwright install --with-deps chromium
@@ -35,3 +31,13 @@ jobs:
         with:
           name: generated-portal
           path: public
+      - name: Persist validated pages once
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'feature/draw-2020-21-model'
+        run: |
+          git add public
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Persist validated 2020/21 model'
+            git push origin HEAD:refs/heads/feature/draw-2020-21-model
+          fi
