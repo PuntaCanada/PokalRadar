@@ -210,6 +210,30 @@
       "sourceLine": 53
     },
     {
+      "id": "hist-1eb33e311fa45694655b9c2f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Königsberg",
+      "away": "Polizei Tilsit",
+      "score": null,
+      "reportedScore": null,
+      "raw": "kampflos",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "walkover",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54,
+      "sourceRevision": 265709132
+    },
+    {
       "id": "hist-85cab68ac521f90dd30c156b",
       "round": "1. Schlussrunde",
       "replay": false,
@@ -614,6 +638,54 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 68
+    },
+    {
+      "id": "hist-a43a3b74be5d8bf316692d34",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Victoria Köln",
+      "away": "Fortuna Düsseldorf",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Abgebrochen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "abandoned",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69,
+      "sourceRevision": 265709132
+    },
+    {
+      "id": "hist-88eba6ed31d7be0b82aa794d",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Reichsbahn TSV Rot-Weiß Frankfurt",
+      "away": "VfL Köln 1899",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Abgebrochen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "abandoned",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70,
+      "sourceRevision": 265709132
     },
     {
       "id": "hist-1f9f63c90dd445ea02d17600",
@@ -1863,21 +1935,5 @@
       "sourceLine": 215
     }
   ],
-  "issues": [
-    {
-      "line": 54,
-      "reason": "unparsed row",
-      "raw": "kampflos"
-    },
-    {
-      "line": 69,
-      "reason": "unparsed row",
-      "raw": ""
-    },
-    {
-      "line": 70,
-      "reason": "unparsed row",
-      "raw": ""
-    }
-  ]
+  "issues": []
 }

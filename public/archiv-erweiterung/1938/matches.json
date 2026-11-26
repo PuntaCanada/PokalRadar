@@ -935,6 +935,30 @@
       "sourceLine": 153
     },
     {
+      "id": "hist-55bd8f7951e1b1cc173c55dd",
+      "round": "1. Schlussrunde",
+      "replay": true,
+      "date": null,
+      "time": null,
+      "home": "Yorck-Boyen Insterburg",
+      "away": "Stettiner SC",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Kampfloses Weiterkommen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "walkover",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 158,
+      "sourceRevision": 267541214
+    },
+    {
       "id": "hist-9a5376aef98447273597607b",
       "round": "2. Schlussrunde",
       "replay": false,
@@ -1049,6 +1073,30 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 173
+    },
+    {
+      "id": "hist-4f65b50a90e6ee68f632ee52",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-25",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "SV Hindenburg Allenstein",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Kampfloses Weiterkommen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "walkover",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 174,
+      "sourceRevision": 267541214
     },
     {
       "id": "hist-3237aac2f18f410d3e392d88",
@@ -2037,16 +2085,5 @@
       "sourceLine": 307
     }
   ],
-  "issues": [
-    {
-      "line": 158,
-      "reason": "unparsed row",
-      "raw": ""
-    },
-    {
-      "line": 174,
-      "reason": "unparsed row",
-      "raw": ""
-    }
-  ]
+  "issues": []
 }

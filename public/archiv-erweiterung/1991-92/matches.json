@@ -7,6 +7,30 @@
   "bye": 1,
   "matches": [
     {
+      "id": "hist-bea14787253746d411874c25",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1991-06-01",
+      "time": null,
+      "home": "SV Chemie Guben",
+      "away": "PSV Schwerin",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Kampfloses Weiterkommen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "walkover",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 82,
+      "sourceRevision": 270512890
+    },
+    {
       "id": "hist-2d5c8faab3536b879cb4410f",
       "round": "1. Runde",
       "replay": false,
@@ -121,6 +145,30 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 86
+    },
+    {
+      "id": "hist-bd7fb3f49f5db1a33cba086f",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1991-06-01",
+      "time": null,
+      "home": "Bischofswerdaer FV 08",
+      "away": "SV Hafen Rostock 61",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Kampfloses Weiterkommen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "walkover",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 87,
+      "sourceRevision": 270512890
     },
     {
       "id": "hist-d4864a8be2eed0774b8e135e",
@@ -324,6 +372,54 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 94
+    },
+    {
+      "id": "hist-db170a5b9123ad6e4a8e7acd",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1991-06-01",
+      "time": null,
+      "home": "SV Germania Ilmenau",
+      "away": "Chemnitzer SV 1951 Heckert",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Kampfloses Weiterkommen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "walkover",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 95,
+      "sourceRevision": 270512890
+    },
+    {
+      "id": "hist-1257130079b67680a92e9810",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1991-06-01",
+      "time": null,
+      "home": "FC Meißen",
+      "away": "1. Suhler SV",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Kampfloses Weiterkommen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "walkover",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 96,
+      "sourceRevision": 270512890
     },
     {
       "id": "hist-b5e51dbac5ba647ae77cece1",
@@ -533,6 +629,30 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 112
+    },
+    {
+      "id": "hist-0de7b5adbefa43762ffb9bea",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1991-06-09",
+      "time": null,
+      "home": "FSV Wacker 90 Nordhausen",
+      "away": "FC Victoria 91 Frankfurt",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Kampfloses Weiterkommen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "walkover",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 113,
+      "sourceRevision": 270512890
     },
     {
       "id": "hist-3c6263ef2ff7598c77a328a2",
@@ -3195,31 +3315,5 @@
       "sourceLine": 523
     }
   ],
-  "issues": [
-    {
-      "line": 82,
-      "reason": "unparsed row",
-      "raw": ""
-    },
-    {
-      "line": 87,
-      "reason": "unparsed row",
-      "raw": ""
-    },
-    {
-      "line": 95,
-      "reason": "unparsed row",
-      "raw": ""
-    },
-    {
-      "line": 96,
-      "reason": "unparsed row",
-      "raw": ""
-    },
-    {
-      "line": 113,
-      "reason": "unparsed row",
-      "raw": ""
-    }
-  ]
+  "issues": []
 }

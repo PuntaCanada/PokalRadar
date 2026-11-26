@@ -906,6 +906,30 @@
       "sourceLine": 77
     },
     {
+      "id": "hist-b9744d99577cef7940d2c9cb",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Sportvgg. Masovia Lyck",
+      "away": "MSV Tilsit",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Ausgefallen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "cancelled",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 78,
+      "sourceRevision": 268190999
+    },
+    {
       "id": "hist-6f153892bb627125516ab56c",
       "round": "1. Schlussrunde",
       "replay": true,
@@ -1805,6 +1829,36 @@
       "sourceLine": 152
     },
     {
+      "id": "hist-2e147dd3eed9c70356335930",
+      "round": "Halbfinale",
+      "replay": true,
+      "date": null,
+      "time": null,
+      "home": "Waldhof Mannheim",
+      "away": "Wacker Wien",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "(L)0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "drawing-lots",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 153,
+      "sourceRevision": 268190999
+    },
+    {
       "id": "hist-9693dc05310f18d631e95bce",
       "round": "Finale",
       "replay": false,
@@ -1834,16 +1888,5 @@
       "sourceLine": 211
     }
   ],
-  "issues": [
-    {
-      "line": 78,
-      "reason": "unparsed row",
-      "raw": ""
-    },
-    {
-      "line": 153,
-      "reason": "unparsed row",
-      "raw": "(L)0:0 n. V."
-    }
-  ]
+  "issues": []
 }
