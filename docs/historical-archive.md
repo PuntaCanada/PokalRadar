@@ -1,0 +1,5 @@
+# Historical archive staging
+OpenFootball tree c34532ab6950aa0089ef1c736ffdb8c818c3356f contains regular cup files 2018/19–2025/26 and OpenLiga mirrors 2020/21–2026/27. The root LICENSE.md is CC0; the mirrors explicitly derive from OpenLigaDB, so upstream ODbL obligations must be preserved before redistribution. Do not treat CC0 as a waiver of third-party rights.
+2025/26 regular snapshot: 48 reported results, eight unreported pairings, three placeholders. Mirror appears to contain all 63 results, but discrepancies in penalty scores and missing extra-time flags require reconciliation. 2026/27 mirror has 32 reported results and 16 unreported pairings; stale dates are not future fixtures.
+DFB Datencenter and Historank have historical coverage from 1935; bulk reuse not yet cleared. No imports from those archives.
+Staging parser keeps unknown fields null, supports arbitrary round labels and separate dated replays, retains source line and raw score. It does not infer winners or verified home rights. Existing production build and 441 records are unchanged. No claim of historical completeness.
