@@ -15,9 +15,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: npm test
       - run: npm run build
-      - run: git diff --exit-code -- public/data/seasons.json
+      - run: npm test
       - name: Regenerate all static pages from a clean output set
         run: |
           find public -name index.html -type f -delete

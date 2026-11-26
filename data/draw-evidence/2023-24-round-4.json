@@ -1,0 +1,73 @@
+{
+  "season": "2023-24",
+  "round": 4,
+  "drawDate": "2023-12-10",
+  "mode": "one",
+  "scope": "formal home right at draw, not venue",
+  "matches": [
+    {
+      "matchId": "5b48cdb782aecdbf23b17410",
+      "home": "FC St. Pauli",
+      "away": "Fortuna Düsseldorf",
+      "homeTier": 2,
+      "awayTier": 2,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "FC St. Pauli",
+      "venue": null,
+      "ruleSource": "https://www.dfb.de/news/detail/dfb-pokal-die-auslosung-vom-achtelfinale-heute-live-im-free-tv-256258",
+      "pairingSource": "https://www.dfb.de/news/detail/stuttgart-in-leverkusen-saarbruecken-empfaengt-gladbach-257691",
+      "tierSource": "existing season league snapshots"
+    },
+    {
+      "matchId": "fc9a5abc9fc7929b77932f91",
+      "home": "Hertha BSC",
+      "away": "1. FC Kaiserslautern",
+      "homeTier": 2,
+      "awayTier": 2,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "Hertha BSC",
+      "venue": null,
+      "ruleSource": "https://www.dfb.de/news/detail/dfb-pokal-die-auslosung-vom-achtelfinale-heute-live-im-free-tv-256258",
+      "pairingSource": "https://www.dfb.de/news/detail/stuttgart-in-leverkusen-saarbruecken-empfaengt-gladbach-257691",
+      "tierSource": "existing season league snapshots"
+    },
+    {
+      "matchId": "5d214265ca037492c594c94a",
+      "home": "Bayer Leverkusen",
+      "away": "VfB Stuttgart",
+      "homeTier": 1,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "Bayer Leverkusen",
+      "venue": null,
+      "ruleSource": "https://www.dfb.de/news/detail/dfb-pokal-die-auslosung-vom-achtelfinale-heute-live-im-free-tv-256258",
+      "pairingSource": "https://www.dfb.de/news/detail/stuttgart-in-leverkusen-saarbruecken-empfaengt-gladbach-257691",
+      "tierSource": "existing season league snapshots"
+    },
+    {
+      "matchId": "18e33c0297878a6090efd036",
+      "home": "1. FC Saarbrücken",
+      "away": "Bor. Mönchengladbach",
+      "homeTier": 3,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": true,
+      "awayAmateur": false,
+      "formalHome": "1. FC Saarbrücken",
+      "venue": null,
+      "ruleSource": "https://www.dfb.de/news/detail/dfb-pokal-die-auslosung-vom-achtelfinale-heute-live-im-free-tv-256258",
+      "pairingSource": "https://www.dfb.de/news/detail/stuttgart-in-leverkusen-saarbruecken-empfaengt-gladbach-257691",
+      "tierSource": "existing season league snapshots"
+    }
+  ]
+}
