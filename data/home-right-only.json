@@ -212,93 +212,6 @@
   },
   {
     "season": "2022-23",
-    "round": 2,
-    "source": "https://www.fcaugsburg.de/article/dfb-pokal-fca-empfaengt-fc-bayern-muenchen-in-der-2-runde-16404",
-    "pairs": [
-      [
-        "e6a71652300f72cc2fcbcbba",
-        "Stuttgarter Kickers",
-        "Eintracht Frankfurt"
-      ],
-      [
-        "84f6c438dc85ff462925132d",
-        "Waldhof Mannheim",
-        "1. FC Nürnberg"
-      ],
-      [
-        "8d605538170e0a92c25dbed5",
-        "RB Leipzig",
-        "Hamburger SV"
-      ],
-      [
-        "9bd8fc203841c8ad96f1e383",
-        "SV Darmstadt 98",
-        "Bor. Mönchengladbach"
-      ],
-      [
-        "1ed8b743bf2607169ae42861",
-        "SV 07 Elversberg",
-        "VfL Bochum"
-      ],
-      [
-        "ef6b6d8b3a1e826e6182d6ea",
-        "Eintracht Braunschweig",
-        "VfL Wolfsburg"
-      ],
-      [
-        "cf0a6739365ba35a5e7f4d84",
-        "1899 Hoffenheim",
-        "FC Schalke 04"
-      ],
-      [
-        "9e29a79ee9e12677c9cf4991",
-        "VfB Lübeck",
-        "1. FSV Mainz 05"
-      ],
-      [
-        "c47568eb53bbfe81d9378c11",
-        "Hannover 96",
-        "Borussia Dortmund"
-      ],
-      [
-        "0531121f35b13fc92205efdd",
-        "SC Freiburg",
-        "FC St. Pauli"
-      ],
-      [
-        "7f6017a6d88e746c38e1e351",
-        "SV Sandhausen",
-        "Karlsruher SC"
-      ],
-      [
-        "12ce002dddfd9f1be32e2db6",
-        "SC Paderborn 07",
-        "Werder Bremen"
-      ],
-      [
-        "69686704dc3ea3a759a73db7",
-        "FC Augsburg",
-        "Bayern München"
-      ],
-      [
-        "7a3c3264d4cd30902e4d3559",
-        "VfB Stuttgart",
-        "Arminia Bielefeld"
-      ],
-      [
-        "eb52bafd767b9e7d594ac8d4",
-        "1. FC Union Berlin",
-        "1. FC Heidenheim 1846"
-      ],
-      [
-        "f620878a714714ba205c1156",
-        "Jahn Regensburg",
-        "Fortuna Düsseldorf"
-      ]
-    ]
-  },
-  {
-    "season": "2022-23",
     "round": 3,
     "source": "https://www.sport1.de/news/fussball/dfb-pokal/2022/10/dfb-pokal-auslosung-achtelfinale-alle-infos-zu-teams-termin-ubertragung-austragung",
     "pairs": [
@@ -341,6 +254,346 @@
         "57a16c71f3e7b6e19a2a4d67",
         "VfL Bochum",
         "Borussia Dortmund"
+      ]
+    ]
+  },
+  {
+    "season": "2021-22",
+    "round": 1,
+    "source": "https://www.fussball.de/newsdetail/dfb-pokal-bremer-sv-trifft-auf-fc-bayern/-/article-id/229641",
+    "pairs": [
+      [
+        "9b63ab611cab65df7bcec0e9",
+        "TSV 1860 München",
+        "SV Darmstadt 98"
+      ],
+      [
+        "1b3f7a5970a66ddb1929d068",
+        "Dynamo Dresden",
+        "SC Paderborn 07"
+      ],
+      [
+        "de7b0725d242159cfe5a21e3",
+        "Weiche Flensburg 08",
+        "Holstein Kiel"
+      ],
+      [
+        "287ea40b93bdc0bd481831af",
+        "1. FC Lok Leipzig",
+        "Bayer Leverkusen"
+      ],
+      [
+        "56af3ad7fd7afec0c28ee832",
+        "SV Sandhausen",
+        "RB Leipzig"
+      ],
+      [
+        "28bc551973e6087b4990e6e4",
+        "SpVgg Bayreuth",
+        "Arminia Bielefeld"
+      ],
+      [
+        "3bc25d5133f15b8760aaaf41",
+        "Greifswalder FC",
+        "FC Augsburg"
+      ],
+      [
+        "034ffb1bcd7c02f3a6737d16",
+        "VfL Osnabrück",
+        "Werder Bremen"
+      ],
+      [
+        "faec6f0c70dd0b14b11b267e",
+        "Eintracht Norderstedt",
+        "Hannover 96"
+      ],
+      [
+        "28627bc3b26679c6bf97bc4e",
+        "Wuppertaler SV",
+        "VfL Bochum"
+      ],
+      [
+        "99836f0158b6cc2fc7c8f37a",
+        "SSV Ulm 1846",
+        "1. FC Nürnberg"
+      ],
+      [
+        "18b7c04e374aa32cc4cc6176",
+        "SV Babelsberg 03",
+        "SpVgg Greuther Fürth"
+      ],
+      [
+        "f1484a5ef6af0bb771024f1f",
+        "1. FC Magdeburg",
+        "FC St. Pauli"
+      ],
+      [
+        "02f9b55f60fe1ebc5966dc78",
+        "SV Wehen Wiesbaden",
+        "Borussia Dortmund"
+      ],
+      [
+        "5989a0464383d61046e5cbaa",
+        "SV Meppen",
+        "Hertha BSC"
+      ],
+      [
+        "7f7d0dd5281e0f7615c1fc41",
+        "SV 07 Elversberg",
+        "1. FSV Mainz 05"
+      ],
+      [
+        "5079e35947c5e6df477fcfdb",
+        "FC Carl Zeiss Jena",
+        "1. FC Köln"
+      ],
+      [
+        "343630b2e1c83e9779784b24",
+        "FC 08 Villingen",
+        "FC Schalke 04"
+      ],
+      [
+        "f2a103ea5354fd8b40b795f3",
+        "Waldhof Mannheim",
+        "Eintracht Frankfurt"
+      ],
+      [
+        "c27cdcbd690b341d3783728f",
+        "Rot-Weiß Koblenz",
+        "Jahn Regensburg"
+      ],
+      [
+        "d34dcb70e4a4889efd84c481",
+        "Türkgücü München",
+        "1. FC Union Berlin"
+      ],
+      [
+        "c827dab1a89f9626e8df7a41",
+        "VfL Oldenburg",
+        "Fortuna Düsseldorf"
+      ],
+      [
+        "4c5cadcd9c985c73c0fa4758",
+        "Preußen Münster",
+        "VfL Wolfsburg"
+      ],
+      [
+        "b651b5c2edc7733226bde044",
+        "Eintracht Braunschweig",
+        "Hamburger SV"
+      ],
+      [
+        "c2a201a921327aff2c5e93ed",
+        "Würzburger Kickers",
+        "SC Freiburg"
+      ],
+      [
+        "353c47d91c7069f30314ec05",
+        "Hansa Rostock",
+        "1. FC Heidenheim 1846"
+      ],
+      [
+        "cf0a6cea74b8333e1d00e718",
+        "Viktoria Köln",
+        "1899 Hoffenheim"
+      ],
+      [
+        "0bcb5b239a5f9b3bac1022fc",
+        "Sportfreunde Lotte",
+        "Karlsruher SC"
+      ],
+      [
+        "50316b8be487f81ddea88767",
+        "1. FC Kaiserslautern",
+        "Bor. Mönchengladbach"
+      ],
+      [
+        "03d246bbe6ec826ab97c6df1",
+        "FC Ingolstadt 04",
+        "Erzgebirge Aue"
+      ],
+      [
+        "1ec0179032b482268b0f60a9",
+        "Bremer SV",
+        "Bayern München"
+      ]
+    ]
+  },
+  {
+    "season": "2021-22",
+    "round": 2,
+    "source": "https://www.sportal.de/fussball/auslosung/2021-08-29.html",
+    "pairs": [
+      [
+        "c754ef1752351907d2a53b95",
+        "SV Babelsberg 03",
+        "RB Leipzig"
+      ],
+      [
+        "40bd32c957100d16372753fb",
+        "TSV 1860 München",
+        "FC Schalke 04"
+      ],
+      [
+        "4ac83ac46eea529f48b731f7",
+        "1899 Hoffenheim",
+        "Holstein Kiel"
+      ],
+      [
+        "07d3f8d3aeba11a762f9479b",
+        "Borussia Dortmund",
+        "FC Ingolstadt 04"
+      ],
+      [
+        "c5d3e43172c7e243d53dc4af",
+        "VfL Osnabrück",
+        "SC Freiburg"
+      ],
+      [
+        "bd79e39b3bc929336defc228",
+        "1. FC Nürnberg",
+        "Hamburger SV"
+      ],
+      [
+        "1036f5925ae7f3f94cb41b0d",
+        "1. FSV Mainz 05",
+        "Arminia Bielefeld"
+      ],
+      [
+        "21888733071d7a6b6253ed05",
+        "Preußen Münster",
+        "Hertha BSC"
+      ],
+      [
+        "60b7ce460074fc45a23b6fca",
+        "Waldhof Mannheim",
+        "1. FC Union Berlin"
+      ],
+      [
+        "1c7c3d3aa2478b74fda0b5bb",
+        "VfL Bochum",
+        "FC Augsburg"
+      ],
+      [
+        "bc08f03f920423f6bdbba892",
+        "Dynamo Dresden",
+        "FC St. Pauli"
+      ],
+      [
+        "87d55f898ca97aedb220bae8",
+        "Bayer Leverkusen",
+        "Karlsruher SC"
+      ],
+      [
+        "6cdf54a4ab1f232e2cd40fe8",
+        "Hannover 96",
+        "Fortuna Düsseldorf"
+      ],
+      [
+        "7a49131d9aa865319be532f0",
+        "Bor. Mönchengladbach",
+        "Bayern München"
+      ],
+      [
+        "236a7e5739985dff2b701a7f",
+        "Jahn Regensburg",
+        "Hansa Rostock"
+      ],
+      [
+        "ed5240bf0726f9bbe0982a60",
+        "VfB Stuttgart",
+        "1. FC Köln"
+      ]
+    ]
+  },
+  {
+    "season": "2021-22",
+    "round": 3,
+    "source": "https://www.t-online.de/sport/fussball/dfb-pokal/id_91064420/dfb-pokal-bvb-gastiert-bei-st-pauli-spannendes-stadtderby-in-berlin.html",
+    "pairs": [
+      [
+        "ea5c1a4ef95ed48befa4ef2f",
+        "1. FC Köln",
+        "Hamburger SV"
+      ],
+      [
+        "f810210d10dd1904b502e962",
+        "FC St. Pauli",
+        "Borussia Dortmund"
+      ],
+      [
+        "f9e831532629e967b92815f7",
+        "VfL Bochum",
+        "1. FSV Mainz 05"
+      ],
+      [
+        "5a1d68ee340115e4177ca628",
+        "TSV 1860 München",
+        "Karlsruher SC"
+      ],
+      [
+        "8feb28c2815bc63dc7df7407",
+        "RB Leipzig",
+        "Hansa Rostock"
+      ],
+      [
+        "17a014af75f137e9de700683",
+        "Hannover 96",
+        "Bor. Mönchengladbach"
+      ],
+      [
+        "a4687bddb71c88aafbd60da9",
+        "1899 Hoffenheim",
+        "SC Freiburg"
+      ],
+      [
+        "4fe95d248d4372602f59d76e",
+        "Hertha BSC",
+        "1. FC Union Berlin"
+      ]
+    ]
+  },
+  {
+    "season": "2021-22",
+    "round": 4,
+    "source": "https://www.sport1.de/news/fussball/dfb-pokal/2022/01/dfb-pokal-heute-live-viertelfinal-auslosung-im-tv-stream-ticker-mit-leipzig-union-hsv",
+    "pairs": [
+      [
+        "1e98a6a3cf21137747ed0d49",
+        "1. FC Union Berlin",
+        "FC St. Pauli"
+      ],
+      [
+        "56299ba2c24b0efa4185a061",
+        "Hannover 96",
+        "RB Leipzig"
+      ],
+      [
+        "ebeca278e5c8a19845f2470b",
+        "VfL Bochum",
+        "SC Freiburg"
+      ],
+      [
+        "c0e38f737ff558b65c7db9de",
+        "Hamburger SV",
+        "Karlsruher SC"
+      ]
+    ]
+  },
+  {
+    "season": "2021-22",
+    "round": 5,
+    "source": "https://www.sport1.de/news/fussball/dfb-pokal/2022/03/dfb-pokal-auslosung-halbfinale-am-sonntag-im-tv-stream-ticker",
+    "pairs": [
+      [
+        "47da5acc703da6cfa6e4b40e",
+        "Hamburger SV",
+        "SC Freiburg"
+      ],
+      [
+        "a54ebcc0cfd09c5925929c90",
+        "RB Leipzig",
+        "1. FC Union Berlin"
       ]
     ]
   }
