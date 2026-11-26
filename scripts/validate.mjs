@@ -1,0 +1,3 @@
+export function validate(matches){const ids=new Set();const expected=[32,16,8,4,2,1];for(const m of matches){if(ids.has(m.id))throw Error('Duplicate '+m.id);ids.add(m.id);if(m.home===m.away||![m.home,m.away].includes(m.winner))throw Error('Invalid teams');if(m.round===6&&m.neutral!==true)throw Error('Nonneutral final');}
+ for(let r=1;r<=6;r++){const current=matches.filter(m=>m.round===r);if(current.length!==expected[r-1])throw Error('Round '+r+' count '+current.length);const teams=current.flatMap(m=>[m.home,m.away]);if(new Set(teams).size!==teams.length)throw Error('Repeated team round '+r);if(r>1){const prev=new Set(matches.filter(m=>m.round===r-1).map(m=>m.winner));if(teams.some(t=>!prev.has(t)))throw Error('Bracket mismatch '+r);}}
+ return true;}
