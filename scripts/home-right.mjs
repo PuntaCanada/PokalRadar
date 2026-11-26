@@ -28,6 +28,7 @@ export function historicalHomeRows(seasons,archive,observations){
  }}
  return rows;
 }
+function streaks(rows){const runs=new Map();const ordered=[...rows].sort((a,b)=>a.season.localeCompare(b.season)||String(a.date??'').localeCompare(String(b.date??''))||a.id.localeCompare(b.id));for(const r of ordered){if(!runs.has(r.club))runs.set(r.club,{home:0,away:0,longHome:0,longAway:0,season:null});const x=runs.get(r.club);if(x.season!==r.season){x.home=x.away=0;x.season=r.season;}if(r.home===null||!r.date||r.replay){x.home=x.away=0;continue;}x.home=r.home?x.home+1:0;x.away=r.home?0:x.away+1;x.longHome=Math.max(x.longHome,x.home);x.longAway=Math.max(x.longAway,x.away);}return runs;}
 export function summarizeHistoricalRows(rows){
  const clubs=new Map();
  for(const r of rows){
@@ -35,5 +36,5 @@ export function summarizeHistoricalRows(rows){
  const c=clubs.get(r.club);c.total++;if(r.home===null)c.unknown++;else{c.known++;c.home+=Number(r.home);c.away+=Number(!r.home);}
  if(r.home!==null&&Number.isFinite(r.probability)){c.modeled++;c.expected+=r.probability;c.modeledHome+=Number(r.home);}
  }
- return [...clubs.values()];
+ const runs=streaks(rows);return [...clubs.values()].map(c=>({...c,longHome:runs.get(c.name)?.longHome??0,longAway:runs.get(c.name)?.longAway??0}));
 }
