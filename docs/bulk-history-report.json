@@ -248,7 +248,7 @@
   {
     "season": "1971-72",
     "revision": 266792022,
-    "count": 1,
+    "count": 61,
     "bye": 0,
     "issues": [],
     "complete": false
@@ -256,9 +256,12 @@
   {
     "season": "1972-73",
     "revision": 267289962,
-    "count": 0,
+    "count": 60,
     "bye": 0,
     "issues": [
+      {
+        "reason": "missing separate final source"
+      },
       {
         "reason": "final template not parsed"
       }
@@ -642,6 +645,9 @@
     "bye": 0,
     "issues": [
       {
+        "reason": "missing separate final source"
+      },
+      {
         "reason": "final template not parsed"
       }
     ],
@@ -653,6 +659,9 @@
     "count": 62,
     "bye": 0,
     "issues": [
+      {
+        "reason": "missing separate final source"
+      },
       {
         "reason": "final template not parsed"
       }
