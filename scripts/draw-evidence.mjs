@@ -7,7 +7,7 @@ export function evaluateDraw(evidence,seasons){
  if(actual.length!==matches.length||new Set(matches.map(m=>m.matchId)).size!==matches.length)throw Error('Incomplete match coverage');
  const teams=matches.flatMap(m=>[{id:m.home,pot:m.homePot,tier:m.homeTier,amateur:m.homeAmateur},{id:m.away,pot:m.awayPot,tier:m.awayTier,amateur:m.awayAmateur}]);
  if(new Set(teams.map(t=>t.id)).size!==matches.length*2||(mode==='two'&&(teams.filter(t=>t.pot==='A').length!==(round===1?32:season==='2023-24'?6:['2022-23','2019-20'].includes(season)?4:['2021-22','2020-21'].includes(season)?5:season==='2018-19'?6:3)||teams.filter(t=>t.pot==='P').length!==(round===1?32:season==='2023-24'?26:['2022-23','2019-20'].includes(season)?28:['2021-22','2020-21'].includes(season)?27:season==='2018-19'?26:29))))throw Error('Wrong field');
- if(teams.some(t=>!Number.isInteger(t.tier)||t.tier<1||t.tier>5||(mode==='two'?(round===1?!['A','P'].includes(t.pot):t.pot!==(t.tier>2?'A':'P')):t.pot!==null||t.amateur!==(t.tier>2))))throw Error('Invalid pot evidence');
+ if(teams.some(t=>!Number.isSafeInteger(t.tier)||t.tier<1||(mode==='two'?(round===1?!['A','P'].includes(t.pot):t.pot!==(t.tier>2?'A':'P')):t.pot!==null||t.amateur!==(t.tier>2))))throw Error('Invalid pot evidence');
  const out=[];
  for(const m of matches){
  const a=actual.find(x=>x.id===m.matchId);
