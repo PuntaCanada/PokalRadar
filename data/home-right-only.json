@@ -1091,5 +1091,93 @@
         "Borussia Dortmund"
       ]
     ]
+  },
+  {
+    "season": "2020-21",
+    "round": 3,
+    "source": "https://www.faz.net/aktuell/sport/fussball/dfb-pokal/dfb-pokal-auslosung-nur-zwei-bundesliga-duelle-im-achtelfinale-17128960.html",
+    "pairs": [
+      [
+        "9c0957bf9ae78f9f91da52af",
+        "Holstein Kiel",
+        "SV Darmstadt 98"
+      ],
+      [
+        "d887930ec40d5a0721fafce1",
+        "Werder Bremen",
+        "SpVgg Greuther Fürth"
+      ],
+      [
+        "1baafbadb8f492da0493264f",
+        "Borussia Dortmund",
+        "SC Paderborn 07"
+      ],
+      [
+        "615f6c37dda69d2073a768de",
+        "Rot-Weiss Essen",
+        "Bayer Leverkusen"
+      ],
+      [
+        "d2b4bc05f4a4d6a5ceac86b4",
+        "VfL Wolfsburg",
+        "FC Schalke 04"
+      ],
+      [
+        "cd68d3e415096b6e6b073fd4",
+        "RB Leipzig",
+        "VfL Bochum"
+      ],
+      [
+        "cba2c3d2e2bb994fcabdad55",
+        "Jahn Regensburg",
+        "1. FC Köln"
+      ],
+      [
+        "06909dbef7951dc220eb4d88",
+        "VfB Stuttgart",
+        "Bor. Mönchengladbach"
+      ]
+    ]
+  },
+  {
+    "season": "2020-21",
+    "round": 5,
+    "source": "https://www.welt.de/sport/article227801145/Auslosung-DFB-Pokal-Halbfinale-BVB-und-Leipzig-gehen-sich-aus-dem-Weg.html",
+    "pairs": [
+      [
+        "e637871984b8e02fc00e0731",
+        "Werder Bremen",
+        "RB Leipzig"
+      ]
+    ]
+  },
+  {
+    "season": "2021-22",
+    "round": 1,
+    "source": "https://www.berliner-fussball.de/mehr-als-fussball/news/ansicht/bfc-dynamo-als-dfb-pokal-teilnehmer-2021-22-bestaetigt",
+    "pairs": [
+      [
+        "b62fab2327f6038547ec3fb8",
+        "BFC Dynamo",
+        "VfB Stuttgart"
+      ]
+    ]
+  },
+  {
+    "season": "2023-24",
+    "round": 5,
+    "source": "https://www.dfb.de/news/detail/halbfinale-leverkusen-empfaengt-duesseldorf-258769",
+    "pairs": [
+      [
+        "b6039ca6dc47bc332d91f516",
+        "1. FC Saarbrücken",
+        "1. FC Kaiserslautern"
+      ],
+      [
+        "73a50b26fe19dbb70621dd23",
+        "Bayer Leverkusen",
+        "Fortuna Düsseldorf"
+      ]
+    ]
   }
 ]

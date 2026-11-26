@@ -412,5 +412,299 @@
     "club": "SV Linx",
     "tier": 6,
     "source": "https://www.tz.de/sport/fussball/dfb-pokal-2018-2019-auslosung-1-runde-heute-live-im-tv-und-live-stream-ard-9931540.html"
+  },
+  {
+    "season": "2018-19",
+    "club": "SV Drochtersen/Assel",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2018-2019/tabelle"
+  },
+  {
+    "season": "2018-19",
+    "club": "SSV Jeddeloh II",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2018-2019/tabelle"
+  },
+  {
+    "season": "2018-19",
+    "club": "Rot-Weiß Oberhausen",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2018-2019/tabelle"
+  },
+  {
+    "season": "2018-19",
+    "club": "Viktoria Köln",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2018-2019/tabelle"
+  },
+  {
+    "season": "2018-19",
+    "club": "Rot-Weiß Koblenz",
+    "tier": 5,
+    "source": "https://www.fussballtransfers.com/deutschland/oberliga/2018-2019/tabelle"
+  },
+  {
+    "season": "2018-19",
+    "club": "TuS Erndtebrück",
+    "tier": 5,
+    "source": "https://www.fussballtransfers.com/deutschland/oberliga/2018-2019/tabelle"
+  },
+  {
+    "season": "2019-20",
+    "club": "VfB Lübeck",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2019-2020/tabelle"
+  },
+  {
+    "season": "2019-20",
+    "club": "SV Drochtersen/Assel",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2019-2020/tabelle"
+  },
+  {
+    "season": "2019-20",
+    "club": "SSV Ulm 1846",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2019-2020/tabelle"
+  },
+  {
+    "season": "2019-20",
+    "club": "SV Rödinghausen",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2019-2020/tabelle"
+  },
+  {
+    "season": "2019-20",
+    "club": "TuS Dassendorf",
+    "tier": 5,
+    "source": "https://www.fussballtransfers.com/deutschland/oberliga/2019-2020/tabelle"
+  },
+  {
+    "season": "2019-20",
+    "club": "Atlas Delmenhorst",
+    "tier": 5,
+    "source": "https://tabellen.traunsteiner-tagblatt.de/fussball/maenner-__berregional-oberligen_/oberliga_niedersachsen/2019_20.html"
+  },
+  {
+    "season": "2021-22",
+    "club": "Weiche Flensburg 08",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2021-2022/tabelle"
+  },
+  {
+    "season": "2021-22",
+    "club": "Eintracht Norderstedt",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2021-2022/tabelle"
+  },
+  {
+    "season": "2021-22",
+    "club": "Wuppertaler SV",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2021-2022/tabelle"
+  },
+  {
+    "season": "2021-22",
+    "club": "Rot-Weiß Koblenz",
+    "tier": 4,
+    "source": "https://www.fussballtransfers.com/deutschland/regionalliga/2021-2022/tabelle"
+  },
+  {
+    "season": "2022-23",
+    "club": "Bremer SV",
+    "tier": 4,
+    "source": "https://www.bremer-sv.de/matchcenter/2022-2023"
+  },
+  {
+    "season": "2022-23",
+    "club": "Blau-Weiß Lohne",
+    "tier": 4,
+    "source": "https://www.bremer-sv.de/matchcenter/2022-2023"
+  },
+  {
+    "season": "2018-19",
+    "club": "1. FC Schweinfurt 05",
+    "tier": 4,
+    "source": "https://www.fcn.de/index.php?id=23537"
+  },
+  {
+    "season": "2018-19",
+    "club": "SV 07 Elversberg",
+    "tier": 4,
+    "source": "https://ofc.de/mannschaften/saison-historie/saison-2018-2019/spieltag-tabelle/?mid=6894"
+  },
+  {
+    "season": "2018-19",
+    "club": "Wormatia Worms",
+    "tier": 4,
+    "source": "https://ofc.de/mannschaften/saison-historie/saison-2018-2019/spieltag-tabelle/?mid=6894"
+  },
+  {
+    "season": "2018-19",
+    "club": "TSV Steinbach Haiger",
+    "tier": 4,
+    "source": "https://ofc.de/mannschaften/saison-historie/saison-2018-2019/spieltag-tabelle/?mid=6894"
+  },
+  {
+    "season": "2018-19",
+    "club": "TuS Dassendorf",
+    "tier": 5,
+    "source": "https://www.ndr.de/sport/ergebnisse/fussballmaenner386.html"
+  },
+  {
+    "season": "2018-19",
+    "club": "1. FC Lok Stendal",
+    "tier": 5,
+    "source": "https://www.1fc-lok-stendal.de/verein/geschichte"
+  },
+  {
+    "season": "2018-19",
+    "club": "BFC Dynamo",
+    "tier": 4,
+    "source": "https://www.ndr.de/sport/ergebnisse/fussballmaenner432.html"
+  },
+  {
+    "season": "2018-19",
+    "club": "BSC Hastedt",
+    "tier": 5,
+    "source": "https://bsc-hastedt.de/onlineservice/historie/"
+  },
+  {
+    "season": "2018-19",
+    "club": "1. CfR Pforzheim",
+    "tier": 5,
+    "source": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2018/19"
+  },
+  {
+    "season": "2019-20",
+    "club": "FC Viktoria 1889 Berlin",
+    "tier": 4,
+    "source": "https://www.transfermarkt.de/regionalliga-nordost/tabelle/wettbewerb/RLN4/saison_id/2019"
+  },
+  {
+    "season": "2019-20",
+    "club": "Wacker Nordhausen",
+    "tier": 4,
+    "source": "https://www.transfermarkt.de/regionalliga-nordost/tabelle/wettbewerb/RLN4/saison_id/2019"
+  },
+  {
+    "season": "2019-20",
+    "club": "Germania Halberstadt",
+    "tier": 4,
+    "source": "https://www.transfermarkt.de/regionalliga-nordost/tabelle/wettbewerb/RLN4/saison_id/2019"
+  },
+  {
+    "season": "2019-20",
+    "club": "FC 08 Villingen",
+    "tier": 5,
+    "source": "https://wa-mediengruppe.de/tabellen-wa/fussball/maenner-__berregional-oberligen/oberliga_baden_wuerttemberg/v%3A2019_20.html"
+  },
+  {
+    "season": "2019-20",
+    "club": "FC Oberneuland",
+    "tier": 5,
+    "source": "https://tabellen.traunsteiner-tagblatt.de/fussball/maenner-__berregional-oberligen_/bremen_liga/2019_20.html"
+  },
+  {
+    "season": "2019-20",
+    "club": "VfB Eichstätt",
+    "tier": 4,
+    "source": "https://www.tabellen.berchtesgadener-anzeiger.de/fussball/maenner-regionale_top_ligen/regionalliga_bayern/2019_20.html"
+  },
+  {
+    "season": "2020-21",
+    "club": "SC Wiedenbrück",
+    "tier": 4,
+    "source": "https://footballsoccerapi.com/our-football-api-data/germany/regionalliga-west/2020"
+  },
+  {
+    "season": "2021-22",
+    "club": "1. FC Lok Leipzig",
+    "tier": 4,
+    "source": "https://www.sportal.de/fussball/regionalliga-nordost/tabelle/tabelle-saison-2021-2022"
+  },
+  {
+    "season": "2021-22",
+    "club": "BFC Dynamo",
+    "tier": 4,
+    "source": "https://www.sportal.de/fussball/regionalliga-nordost/tabelle/tabelle-saison-2021-2022"
+  },
+  {
+    "season": "2021-22",
+    "club": "SpVgg Bayreuth",
+    "tier": 4,
+    "source": "https://www.fcn.de/clubnachwuchs/1-fcn-ii/tabellenarchiv/tabelle-202122/"
+  },
+  {
+    "season": "2021-22",
+    "club": "Greifswalder FC",
+    "tier": 5,
+    "source": "https://tabellen.op-online.de/fussball/dreispaltig-maenner-oberligen___verbandsligen-oberligen/oberliga_nord_nofv/v%3A2021_22.html"
+  },
+  {
+    "season": "2021-22",
+    "club": "SSV Ulm 1846",
+    "tier": 4,
+    "source": "https://ofc.de/mannschaften/saison-historie/saison-2021-2022/spieltag-tabelle/?mid=6894"
+  },
+  {
+    "season": "2021-22",
+    "club": "SV 07 Elversberg",
+    "tier": 4,
+    "source": "https://ofc.de/mannschaften/saison-historie/saison-2021-2022/spieltag-tabelle/?mid=6894"
+  },
+  {
+    "season": "2021-22",
+    "club": "SpVgg Greuther Fürth",
+    "tier": 1,
+    "source": "https://www.bundesliga.com/de/bundesliga/spieltag/2021-2022/22/spvgg-greuther-fuerth-vs-hertha-bsc/table"
+  },
+  {
+    "season": "2021-22",
+    "club": "Türkgücü München",
+    "tier": 3,
+    "source": "https://datencenter.dfb.de/competitions/3-liga/seasons/2021-22/teams/tuerkguecue-muenchen"
+  },
+  {
+    "season": "2021-22",
+    "club": "VfL Oldenburg",
+    "tier": 5,
+    "source": "https://footballsoccerapi.com/our-football-api-data/germany/oberliga-niedersachsen/2021"
+  },
+  {
+    "season": "2021-22",
+    "club": "Sportfreunde Lotte",
+    "tier": 4,
+    "source": "https://datencenter.dfb.de/competitions/regionalliga-west/seasons/2021-22/teams/sportfreunde-lotte"
+  },
+  {
+    "season": "2021-22",
+    "club": "Bremer SV",
+    "tier": 5,
+    "source": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bremen-Liga_2021/22"
+  },
+  {
+    "season": "2022-23",
+    "club": "1. FC Kaan-Marienborn",
+    "tier": 4,
+    "source": "https://footballsoccerapi.com/our-football-api-data/germany/regionalliga-west/2022"
+  },
+  {
+    "season": "2019-20",
+    "club": "KSV Baunatal",
+    "tier": 5,
+    "source": "https://www.transfermarkt.com/ksv-baunatal/platzierungen/verein/1315"
+  },
+  {
+    "season": "2021-22",
+    "club": "FC Carl Zeiss Jena",
+    "tier": 4,
+    "source": "https://www.nofv-online.de/index.php/aktuelles-leser/zulassung-und-staffeleinteilungen-saison-2021-22.html"
+  },
+  {
+    "season": "2021-22",
+    "club": "FC 08 Villingen",
+    "tier": 5,
+    "source": "https://www.suedkurier.de/ueberregional/sport/fc-08-villingen-infos-zur-mannschaft-gruendung-und-spielstaette%3Bart410965%2C11337483"
   }
 ]
