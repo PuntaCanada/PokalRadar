@@ -1,0 +1,46 @@
+[
+  {
+    "season": "2022-23",
+    "round": 4,
+    "source": "https://www.dfb.de/news/detail/viertelfinale-dortmund-in-leipzig-fc-bayern-empfaengt-freiburg-248624",
+    "pairs": [
+      [
+        "a91854846b90d7554d4b3c84",
+        "Bayern München",
+        "SC Freiburg"
+      ],
+      [
+        "f0e005fd9faf6cdb5f377b0c",
+        "Eintracht Frankfurt",
+        "1. FC Union Berlin"
+      ],
+      [
+        "f084355a389d2de011a15f98",
+        "RB Leipzig",
+        "Borussia Dortmund"
+      ],
+      [
+        "f4fa6365c7c299a36e21ffa6",
+        "1. FC Nürnberg",
+        "VfB Stuttgart"
+      ]
+    ]
+  },
+  {
+    "season": "2022-23",
+    "round": 5,
+    "source": "https://www.dfb.de/news/detail/halbfinale-freiburg-empfaengt-leipzig-stuttgart-gegen-frankfurt-250421",
+    "pairs": [
+      [
+        "a104329d3cf611b4119e1897",
+        "SC Freiburg",
+        "RB Leipzig"
+      ],
+      [
+        "8fee1094c2606cb418e2a23f",
+        "VfB Stuttgart",
+        "Eintracht Frankfurt"
+      ]
+    ]
+  }
+]
