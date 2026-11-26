@@ -4,14 +4,14 @@ on:
   push:
     branches: [main]
 permissions:
-  contents: write
+  contents: read
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -22,15 +22,7 @@ jobs:
         with:
           name: validated-seasons
           path: public/data/seasons.json
-      - name: Persist validated data once on project branch
-        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'feature/data-foundation'
+      - name: Verify committed JSON is deterministic
         run: |
-          if git ls-files --error-unmatch public/data/seasons.json >/dev/null 2>&1; then
-            git diff --exit-code -- public/data/seasons.json
-          else
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add public/data/seasons.json
-            git commit -m 'Persist validated historical data for Cloudflare'
-            git push origin HEAD:refs/heads/feature/data-foundation
-          fi
+          git ls-files --error-unmatch public/data/seasons.json
+          git diff --exit-code -- public/data/seasons.json
