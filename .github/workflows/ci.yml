@@ -19,7 +19,7 @@ jobs:
       - run: npm test
       - name: Regenerate all static pages from a clean output set
         run: |
-          find public -name index.html -type f -delete
+          find public -path public/archiv-erweiterung -prune -o -name index.html -type f -exec rm {} +
           rm -f public/sitemap.xml public/robots.txt
           node scripts/portal.mjs
       - name: Verify all committed production files
