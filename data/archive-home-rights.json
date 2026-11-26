@@ -139,14 +139,149 @@
     "source": "https://www.dfb.de/news/fc-bayern-zu-gast-beim-sv-wehen-wiesbaden-eintracht-braunschweig-empfaengt-stuttgart",
     "pairs": [
       [
+        "oldb-77192",
+        "FC Gütersloh",
+        "1. FC Union Berlin"
+      ],
+      [
+        "oldb-77202",
+        "1. FC Saarbrücken",
+        "1. FC Magdeburg"
+      ],
+      [
+        "oldb-77203",
+        "SG Sonnenhof Großaspach",
+        "Bayer 04 Leverkusen"
+      ],
+      [
         "oldb-77206",
         "DSC Arminia Bielefeld",
         "Werder Bremen"
       ],
       [
+        "oldb-77179",
+        "FK Pirmasens",
+        "Hamburger SV"
+      ],
+      [
+        "oldb-77190",
+        "BFC Dynamo",
+        "VfL Bochum"
+      ],
+      [
+        "oldb-77175",
+        "SV Hemelingen",
+        "VfL Wolfsburg"
+      ],
+      [
+        "oldb-77186",
+        "FV Illertissen",
+        "1. FC Nürnberg"
+      ],
+      [
         "oldb-77189",
         "Eintracht Norderstedt",
         "FC St. Pauli"
+      ],
+      [
+        "oldb-77197",
+        "SV Sandhausen",
+        "RB Leipzig"
+      ],
+      [
+        "oldb-77199",
+        "Hansa Rostock",
+        "TSG Hoffenheim"
+      ],
+      [
+        "oldb-77200",
+        "Bahlinger SC",
+        "1. FC Heidenheim 1846"
+      ],
+      [
+        "oldb-77178",
+        "Sportfreunde Lotte",
+        "SC Freiburg"
+      ],
+      [
+        "oldb-77188",
+        "VfB Lübeck",
+        "SV Darmstadt 98"
+      ],
+      [
+        "oldb-77196",
+        "Energie Cottbus",
+        "Hannover 96"
+      ],
+      [
+        "oldb-77182",
+        "Viktoria Köln",
+        "SC Paderborn 07"
+      ],
+      [
+        "oldb-77187",
+        "FV Engers 07",
+        "Eintracht Frankfurt"
+      ],
+      [
+        "oldb-77181",
+        "Atlas Delmenhorst",
+        "Borussia Mönchengladbach"
+      ],
+      [
+        "oldb-77183",
+        "RSV Eintracht 1949",
+        "1. FC Kaiserslautern"
+      ],
+      [
+        "oldb-77185",
+        "ZFC Meuselwitz",
+        "Karlsruher SC"
+      ],
+      [
+        "oldb-77194",
+        "Jahn Regensburg",
+        "1. FC Köln"
+      ],
+      [
+        "oldb-77198",
+        "Blau-Weiß Lohne",
+        "SpVgg Greuther Fürth"
+      ],
+      [
+        "oldb-77201",
+        "1. FC Lok Leipzig",
+        "FC Schalke 04"
+      ],
+      [
+        "oldb-77176",
+        "SSV Ulm 1846",
+        "SV 07 Elversberg"
+      ],
+      [
+        "oldb-77180",
+        "Hallescher FC",
+        "FC Augsburg"
+      ],
+      [
+        "oldb-77195",
+        "FC 08 Homburg",
+        "Holstein Kiel"
+      ],
+      [
+        "oldb-77191",
+        "Dynamo Dresden",
+        "1. FSV Mainz 05"
+      ],
+      [
+        "oldb-77193",
+        "Preußen Münster",
+        "Hertha BSC"
+      ],
+      [
+        "oldb-77205",
+        "1. FC Schweinfurt 05",
+        "Fortuna Düsseldorf"
       ],
       [
         "oldb-77177",
@@ -161,6 +296,351 @@
       [
         "oldb-77204",
         "SV Wehen Wiesbaden",
+        "FC Bayern München"
+      ]
+    ]
+  },
+  {
+    "season": "2025-26",
+    "round": "2. Runde",
+    "source": "https://www.dfb.de/news/pokalsieger-stuttgart-muss-nach-mainz-frankfurt-empfaengt-den-bvb",
+    "pairs": [
+      [
+        "oldb-79585",
+        "1. FC Heidenheim 1846",
+        "Hamburger SV"
+      ],
+      [
+        "oldb-79587",
+        "Hertha BSC",
+        "SV 07 Elversberg"
+      ],
+      [
+        "oldb-79589",
+        "Eintracht Frankfurt",
+        "Borussia Dortmund"
+      ],
+      [
+        "oldb-79595",
+        "VfL Wolfsburg",
+        "Holstein Kiel"
+      ],
+      [
+        "oldb-79583",
+        "Energie Cottbus",
+        "RB Leipzig"
+      ],
+      [
+        "oldb-79586",
+        "Borussia Mönchengladbach",
+        "Karlsruher SC"
+      ],
+      [
+        "oldb-79591",
+        "FC Augsburg",
+        "VfL Bochum"
+      ],
+      [
+        "oldb-79597",
+        "FC St. Pauli",
+        "TSG Hoffenheim"
+      ],
+      [
+        "oldb-79582",
+        "FV Illertissen",
+        "1. FC Magdeburg"
+      ],
+      [
+        "oldb-79588",
+        "SpVgg Greuther Fürth",
+        "1. FC Kaiserslautern"
+      ],
+      [
+        "oldb-79593",
+        "SC Paderborn 07",
+        "Bayer 04 Leverkusen"
+      ],
+      [
+        "oldb-79594",
+        "1. FSV Mainz 05",
+        "VfB Stuttgart"
+      ],
+      [
+        "oldb-79584",
+        "1. FC Union Berlin",
+        "DSC Arminia Bielefeld"
+      ],
+      [
+        "oldb-79590",
+        "SV Darmstadt 98",
+        "FC Schalke 04"
+      ],
+      [
+        "oldb-79592",
+        "Fortuna Düsseldorf",
+        "SC Freiburg"
+      ],
+      [
+        "oldb-79596",
+        "1. FC Köln",
+        "FC Bayern München"
+      ]
+    ]
+  },
+  {
+    "season": "2025-26",
+    "round": "Achtelfinale",
+    "source": "https://www.dfb.de/news/pokal-achtelfinale-bvb-gegen-leverkusen-stuttgart-gastiert-in-bochum/",
+    "pairs": [
+      [
+        "oldb-79780",
+        "Borussia Mönchengladbach",
+        "FC St. Pauli"
+      ],
+      [
+        "oldb-79782",
+        "Hertha BSC",
+        "1. FC Kaiserslautern"
+      ],
+      [
+        "oldb-79778",
+        "Borussia Dortmund",
+        "Bayer 04 Leverkusen"
+      ],
+      [
+        "oldb-79783",
+        "RB Leipzig",
+        "1. FC Magdeburg"
+      ],
+      [
+        "oldb-79779",
+        "VfL Bochum",
+        "VfB Stuttgart"
+      ],
+      [
+        "oldb-79786",
+        "SC Freiburg",
+        "SV Darmstadt 98"
+      ],
+      [
+        "oldb-79781",
+        "Hamburger SV",
+        "Holstein Kiel"
+      ],
+      [
+        "oldb-79784",
+        "1. FC Union Berlin",
+        "FC Bayern München"
+      ]
+    ]
+  },
+  {
+    "season": "2025-26",
+    "round": "Viertelfinale",
+    "source": "https://www.dfb.de/news/viertelfinalkracher-fc-bayern-trifft-auf-rb-leipzig",
+    "pairs": [
+      [
+        "oldb-80175",
+        "Bayer 04 Leverkusen",
+        "FC St. Pauli"
+      ],
+      [
+        "oldb-80174",
+        "Holstein Kiel",
+        "VfB Stuttgart"
+      ],
+      [
+        "oldb-80173",
+        "Hertha BSC",
+        "SC Freiburg"
+      ],
+      [
+        "oldb-80172",
+        "FC Bayern München",
+        "RB Leipzig"
+      ]
+    ]
+  },
+  {
+    "season": "2025-26",
+    "round": "Halbfinale",
+    "source": "https://www.dfb.de/news/stuttgart-empfaengt-freiburg-leverkusen-fordert-fc-bayern",
+    "pairs": [
+      [
+        "oldb-81113",
+        "Bayer 04 Leverkusen",
+        "FC Bayern München"
+      ],
+      [
+        "oldb-81114",
+        "VfB Stuttgart",
+        "SC Freiburg"
+      ]
+    ]
+  },
+  {
+    "season": "2026-27",
+    "round": "1. Runde",
+    "source": "https://www.dfb.de/news/erste-pokalrunde-osnabrueck-gegen-bayern-hebc-hamburg-gegen-bvb",
+    "pairs": [
+      [
+        "oldb-81832",
+        "SC St. Tönis",
+        "Eintracht Frankfurt"
+      ],
+      [
+        "oldb-81848",
+        "Preußen Münster",
+        "Karlsruher SC"
+      ],
+      [
+        "oldb-81859",
+        "SV Waldhof Mannheim",
+        "1. FC Kaiserslautern"
+      ],
+      [
+        "oldb-81855",
+        "Hansa Rostock",
+        "VfB Stuttgart"
+      ],
+      [
+        "oldb-81842",
+        "SV Wehen Wiesbaden",
+        "Bayer 04 Leverkusen"
+      ],
+      [
+        "oldb-81844",
+        "Energie Cottbus",
+        "FC Augsburg"
+      ],
+      [
+        "oldb-81833",
+        "Erzgebirge Aue",
+        "TSG Hoffenheim"
+      ],
+      [
+        "oldb-81847",
+        "SV Hemelingen",
+        "Hannover 96"
+      ],
+      [
+        "oldb-81849",
+        "1. FC Saarbrücken",
+        "Hertha BSC"
+      ],
+      [
+        "oldb-81850",
+        "Viktoria Köln",
+        "1. FC Nürnberg"
+      ],
+      [
+        "oldb-81851",
+        "MSV Duisburg",
+        "SV 07 Elversberg"
+      ],
+      [
+        "oldb-81853",
+        "Lüneburger SK Hansa",
+        "SV Werder Bremen"
+      ],
+      [
+        "oldb-81835",
+        "Eintracht Trier",
+        "RB Leipzig"
+      ],
+      [
+        "oldb-81840",
+        "SG Sonnenhof Großaspach",
+        "DSC Arminia Bielefeld"
+      ],
+      [
+        "oldb-81858",
+        "TSV 1860 München",
+        "Holstein Kiel"
+      ],
+      [
+        "oldb-81841",
+        "SSV Jeddeloh II",
+        "1. FC Heidenheim 1846"
+      ],
+      [
+        "oldb-81846",
+        "SpVgg Greuther Fürth",
+        "VfL Bochum"
+      ],
+      [
+        "oldb-81834",
+        "Eintracht Braunschweig",
+        "1. FC Union Berlin"
+      ],
+      [
+        "oldb-81837",
+        "TSV Schott Mainz",
+        "Borussia Mönchengladbach"
+      ],
+      [
+        "oldb-81845",
+        "VfB 1921 Krieschow",
+        "1. FSV Mainz 05"
+      ],
+      [
+        "oldb-81856",
+        "FC Carl Zeiss Jena",
+        "SV Darmstadt 98"
+      ],
+      [
+        "oldb-81857",
+        "Bahlinger SC",
+        "1. FC Magdeburg"
+      ],
+      [
+        "oldb-81860",
+        "SV Westfalia Rhynern",
+        "Dynamo Dresden"
+      ],
+      [
+        "oldb-81838",
+        "Fortuna Düsseldorf",
+        "SC Freiburg"
+      ],
+      [
+        "oldb-81839",
+        "Rot-Weiss Essen",
+        "FC St. Pauli"
+      ],
+      [
+        "oldb-81861",
+        "1. FC Phönix Lübeck",
+        "SC Paderborn 07"
+      ],
+      [
+        "oldb-81854",
+        "SC Verl",
+        "Hamburger SV"
+      ],
+      [
+        "oldb-81862",
+        "VSG Altglienicke Berlin",
+        "VfL Wolfsburg"
+      ],
+      [
+        "oldb-81863",
+        "Würzburger Kickers",
+        "1. FC Köln"
+      ],
+      [
+        "oldb-81843",
+        "Hallescher FC",
+        "FC Schalke 04"
+      ],
+      [
+        "oldb-81836",
+        "Hamburg Eimsbütteler BC",
+        "Borussia Dortmund"
+      ],
+      [
+        "oldb-81852",
+        "VfL Osnabrück",
         "FC Bayern München"
       ]
     ]
