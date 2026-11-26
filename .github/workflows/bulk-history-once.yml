@@ -22,6 +22,7 @@ jobs:
           python3 - <<'PY'
           import urllib.request,urllib.parse,json,time,pathlib
           seasons=[(str(y),f'Tschammerpokal {y}') for y in range(1936,1944)]+[(f'{y}-{(y+1)%100:02}',f'DFB-Pokal {y}/{(y+1)%100:02}') for y in range(1953,2018)]
+          seasons += [(f'final-{y}',f'DFB-Pokal-Finale {y}') for y in (1973,2017,2018)]
           for key,title in seasons:
               if '1955-56' <= key <= '1962-63': title=f'DFB-Pokal {int(key[:4])+1}'
               if key=='1999-00': title='DFB-Pokal 1999/2000'
