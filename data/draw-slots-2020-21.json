@@ -1,0 +1,209 @@
+[
+  {
+    "matchId": "b70961db3095a8fec9cd2737",
+    "slot": "Schleswig-Holstein",
+    "opponent": "VfL Osnabrück",
+    "confirmedParticipant": "SV Todesfelde",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "8e5a597da19177cfb6efde36",
+    "slot": "Niedersachsen (3. Liga/Regionalliga)",
+    "opponent": "1. FSV Mainz 05",
+    "confirmedParticipant": null,
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": null,
+    "status": "unresolved"
+  },
+  {
+    "matchId": "c54cdd46523e535217d6fafa",
+    "slot": "Sachsen",
+    "opponent": "1899 Hoffenheim",
+    "confirmedParticipant": "Chemnitzer FC",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "e56c62776d7b9791f50bd554",
+    "slot": "Bayern (Pokalsieger)",
+    "opponent": "Eintracht Frankfurt",
+    "confirmedParticipant": null,
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": null,
+    "status": "unresolved"
+  },
+  {
+    "matchId": "17abc0fca0fa9e1f1f943197",
+    "slot": "Thüringen",
+    "opponent": "Werder Bremen",
+    "confirmedParticipant": "FC Carl Zeiss Jena",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "85765407acf27eb26fe9b901",
+    "slot": "Mittelrhein",
+    "opponent": "Bayern München",
+    "confirmedParticipant": "1. FC Düren",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "61b268f8cbc82e535cfa20f9",
+    "slot": "Niedersachsen (Amateure)",
+    "opponent": "FC Augsburg",
+    "confirmedParticipant": "MTV Eintracht Celle",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "ce428e991417de97cfcbe3bb",
+    "slot": "Südbaden",
+    "opponent": "Holstein Kiel",
+    "confirmedParticipant": "1. FC Rielasingen-Arlen",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "04d9bf51dc46bf54e325a43f",
+    "slot": "Mecklenburg-Vorpommern",
+    "opponent": "VfB Stuttgart",
+    "confirmedParticipant": "Hansa Rostock",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "66a2a9492c149951aadfbbd3",
+    "slot": "Hessen",
+    "opponent": "SV Sandhausen",
+    "confirmedParticipant": "TSV Steinbach Haiger",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "e786be330a7beee9273b228b",
+    "slot": "Württemberg",
+    "opponent": "Erzgebirge Aue",
+    "confirmedParticipant": "SSV Ulm 1846",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "8baff9b5a1271eb5acce3712",
+    "slot": "Rheinland",
+    "opponent": "VfL Bochum",
+    "confirmedParticipant": "FV Engers 07",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "54928420bec27ca79b678bbd",
+    "slot": "Baden",
+    "opponent": "SC Freiburg",
+    "confirmedParticipant": "Waldhof Mannheim",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "876b894959217b10ac58a35d",
+    "slot": "Brandenburg",
+    "opponent": "VfL Wolfsburg",
+    "confirmedParticipant": "Union Fürstenwalde",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "76579d444cd49dffa1a3393b",
+    "slot": "Bremen",
+    "opponent": "Bor. Mönchengladbach",
+    "confirmedParticipant": "FC Oberneuland",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "a5a68e65a18a92b6b10cd402",
+    "slot": "Saarland",
+    "opponent": "FC St. Pauli",
+    "confirmedParticipant": "SV 07 Elversberg",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "c338989f8d08a41ef77f0e46",
+    "slot": "Hamburg",
+    "opponent": "Bayer Leverkusen",
+    "confirmedParticipant": "Eintracht Norderstedt",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "2d7e89547cee95c7510880d5",
+    "slot": "Westfalen (2. Teilnehmer)",
+    "opponent": "SpVgg Greuther Fürth",
+    "confirmedParticipant": null,
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": null,
+    "status": "unresolved"
+  },
+  {
+    "matchId": "71bf89ed5e6eb7ecb3e47149",
+    "slot": "Südwest",
+    "opponent": "Jahn Regensburg",
+    "confirmedParticipant": "1. FC Kaiserslautern",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "c3724a0fc0e750ed967e028c",
+    "slot": "Berlin",
+    "opponent": "1. FC Köln",
+    "confirmedParticipant": "VSG Altglienicke",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "01ccdf34d6cb40a146404577",
+    "slot": "Niederrhein",
+    "opponent": "Arminia Bielefeld",
+    "confirmedParticipant": "Rot-Weiss Essen",
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "status": "confirmed"
+  },
+  {
+    "matchId": "539775c20353350bb9c62a38",
+    "slot": "Bayern (Regionalliga-Amateur)",
+    "opponent": "FC Schalke 04",
+    "confirmedParticipant": null,
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": null,
+    "status": "unresolved"
+  },
+  {
+    "matchId": "776fdc6f954e2623211d167c",
+    "slot": "Westfalen (1. Teilnehmer)",
+    "opponent": "SC Paderborn 07",
+    "confirmedParticipant": null,
+    "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "qualificationSource": null,
+    "status": "unresolved"
+  }
+]
