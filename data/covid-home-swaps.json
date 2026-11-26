@@ -1,0 +1,112 @@
+[
+  {
+    "matchId": "8e5a597da19177cfb6efde36",
+    "originalHome": "TSV Havelse",
+    "finalHome": "1. FSV Mainz 05",
+    "homeRightSwap": true,
+    "venue": "OPEL Arena, Mainz",
+    "swapSource": "https://www.mainz05.de/news/dfb-pokal-tsv-havelse-und-mainz-05-tauschen-heimrecht/",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/tsv-havelse-1-fsv-mainz-05-2311414",
+    "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "876b894959217b10ac58a35d",
+    "originalHome": "Union Fürstenwalde",
+    "finalHome": "VfL Wolfsburg",
+    "homeRightSwap": true,
+    "venue": "Volkswagen Arena, Wolfsburg",
+    "swapSource": "https://www.vfl-wolfsburg.de/newsdetails/news-detail/detail/news/dfb-pokal-heimrecht-getauscht",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/fsv-union-fuerstenwalde-vfl-wolfsburg-2311430",
+    "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "76579d444cd49dffa1a3393b",
+    "originalHome": "FC Oberneuland",
+    "finalHome": "Bor. Mönchengladbach",
+    "homeRightSwap": true,
+    "venue": "Stadion im Borussia-Park, Mönchengladbach",
+    "swapSource": "https://sport.sky.de/fussball/artikel/dfb-pokal-gladbach-koeln-und-augsburg-mit-heimrecht-in-runde-eins/12057746/34351",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/fc-oberneuland-borussia-moenchengladbach-2311431",
+    "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "8baff9b5a1271eb5acce3712",
+    "originalHome": "FV Engers 07",
+    "finalHome": "VfL Bochum",
+    "homeRightSwap": true,
+    "venue": "Vonovia Ruhrstadion, Bochum",
+    "swapSource": "https://www.n-tv.de/regionales/nordrhein-westfalen/Engers-tauscht-Heimrecht-DFB-Pokal-in-Bochum-article21999326.html",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/fv-engers-07-vfl-bochum-2311428",
+    "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "2d7e89547cee95c7510880d5",
+    "originalHome": "RSV Meinerzhagen",
+    "finalHome": "SpVgg Greuther Fürth",
+    "homeRightSwap": true,
+    "venue": "Sportpark Ronhof | Thomas Sommer, Fürth",
+    "swapSource": "https://www.westfalenkick.de/News/1591267139/1594588935/202021",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/rsv-meinerzhagen-spvgg-greuther-fuerth-2311435",
+    "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "c3724a0fc0e750ed967e028c",
+    "originalHome": "VSG Altglienicke",
+    "finalHome": "1. FC Köln",
+    "homeRightSwap": true,
+    "venue": "RheinEnergieSTADION, Köln",
+    "swapSource": "https://sport.sky.de/fussball/artikel/dfb-pokal-gladbach-koeln-und-augsburg-mit-heimrecht-in-runde-eins/12057746/34351",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/vsg-altglienicke-1-fc-koeln-2311436",
+    "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "61b268f8cbc82e535cfa20f9",
+    "originalHome": "MTV Eintracht Celle",
+    "finalHome": "FC Augsburg",
+    "homeRightSwap": true,
+    "venue": "WWK Arena, Augsburg",
+    "swapSource": "https://schalke04.de/dfb-pokal/heimrechttausch-pokal/index.html",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/mtv-eintracht-celle-fc-augsburg-2311420",
+    "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "c338989f8d08a41ef77f0e46",
+    "originalHome": "Eintracht Norderstedt",
+    "finalHome": "Bayer Leverkusen",
+    "homeRightSwap": true,
+    "venue": "BayArena, Leverkusen",
+    "swapSource": "https://www.bayer04.de/de-de/news/dfb-pokal/pokal-spiel-am-13-september-in-der-bayarena",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/eintracht-norderstedt-bayer-04-leverkusen-2311433",
+    "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "ce428e991417de97cfcbe3bb",
+    "originalHome": "1. FC Rielasingen-Arlen",
+    "finalHome": "Holstein Kiel",
+    "homeRightSwap": true,
+    "venue": "Holstein-Stadion, Kiel",
+    "swapSource": "https://www.ndr.de/sport/fussball/DFB-Pokal-Holstein-Kiel-besiegt-Rielasingen-Arlen%2Cholsteinkiel2704.html",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/1-fc-rielasingen-arlen-holstein-kiel-2311421",
+    "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "85765407acf27eb26fe9b901",
+    "originalHome": "1. FC Düren",
+    "finalHome": "Bayern München",
+    "homeRightSwap": true,
+    "venue": "Allianz Arena, München",
+    "swapSource": "https://schalke04.de/dfb-pokal/heimrechttausch-pokal/index.html",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/1-fc-dueren-bayern-muenchen-2311419",
+    "drawSlotUnresolved": true
+  },
+  {
+    "matchId": "539775c20353350bb9c62a38",
+    "originalHome": "1. FC Schweinfurt 05",
+    "finalHome": "FC Schalke 04",
+    "homeRightSwap": true,
+    "venue": "Veltins-Arena, Gelsenkirchen",
+    "swapSource": "https://schalke04.de/dfb-pokal/heimrechttausch-pokal/index.html",
+    "venueSource": "https://datencenter.dfb.de/datencenter/dfb-pokal/2020-21/1-runde/1-fc-schweinfurt-05-fc-schalke-04-2311438",
+    "drawSlotUnresolved": true
+  }
+]

@@ -232,5 +232,17 @@
     "club": "FC Teutonia 05",
     "tier": 4,
     "source": "https://schalke04.de/dfb-pokal/auslosung-erste-runde-29-mai/"
+  },
+  {
+    "season": "2021-22",
+    "club": "SV Babelsberg 03",
+    "tier": 4,
+    "source": "https://sport.sky.de/fussball/artikel/dfb-pokal-news-auslosung-fuer-2-runde-am-29-august-in-der-ard/12388491/35311"
+  },
+  {
+    "season": "2021-22",
+    "club": "Preußen Münster",
+    "tier": 4,
+    "source": "https://sport.sky.de/fussball/artikel/dfb-pokal-news-auslosung-fuer-2-runde-am-29-august-in-der-ard/12388491/35311"
   }
 ]
