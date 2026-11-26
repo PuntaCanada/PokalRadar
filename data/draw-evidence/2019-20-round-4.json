@@ -1,0 +1,68 @@
+{
+  "season": "2019-20",
+  "round": 4,
+  "drawDate": "2020-02-09",
+  "mode": "one",
+  "matches": [
+    {
+      "matchId": "6d92dc85d16c840f7ac167fe",
+      "home": "1. FC Saarbrücken",
+      "away": "Fortuna Düsseldorf",
+      "homeTier": 4,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": true,
+      "awayAmateur": false,
+      "formalHome": "1. FC Saarbrücken",
+      "venue": null,
+      "ruleSource": "https://schalke04.de/dfb-pokal/dfb-pokal-achtelfinal-paarungen-werden-am-sonntag-ausgelost/",
+      "pairingSource": "https://www.fussball.de/newsdetail/pokal-saarbruecken-nun-gegen-duesseldorf/-/article-id/212853"
+    },
+    {
+      "matchId": "4e635c468cac95b1de61df32",
+      "home": "FC Schalke 04",
+      "away": "Bayern München",
+      "homeTier": 1,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "FC Schalke 04",
+      "venue": null,
+      "ruleSource": "https://schalke04.de/dfb-pokal/dfb-pokal-achtelfinal-paarungen-werden-am-sonntag-ausgelost/",
+      "pairingSource": "https://www.fussball.de/newsdetail/pokal-saarbruecken-nun-gegen-duesseldorf/-/article-id/212853"
+    },
+    {
+      "matchId": "66a9a1c1ec1afce970ba84f0",
+      "home": "Bayer Leverkusen",
+      "away": "1. FC Union Berlin",
+      "homeTier": 1,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "Bayer Leverkusen",
+      "venue": null,
+      "ruleSource": "https://schalke04.de/dfb-pokal/dfb-pokal-achtelfinal-paarungen-werden-am-sonntag-ausgelost/",
+      "pairingSource": "https://www.fussball.de/newsdetail/pokal-saarbruecken-nun-gegen-duesseldorf/-/article-id/212853"
+    },
+    {
+      "matchId": "6cae61f78b97e93926e75af8",
+      "home": "Eintracht Frankfurt",
+      "away": "Werder Bremen",
+      "homeTier": 1,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "Eintracht Frankfurt",
+      "venue": null,
+      "ruleSource": "https://schalke04.de/dfb-pokal/dfb-pokal-achtelfinal-paarungen-werden-am-sonntag-ausgelost/",
+      "pairingSource": "https://www.fussball.de/newsdetail/pokal-saarbruecken-nun-gegen-duesseldorf/-/article-id/212853"
+    }
+  ]
+}
