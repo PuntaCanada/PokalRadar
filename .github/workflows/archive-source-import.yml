@@ -1,0 +1,57 @@
+name: Archive source import
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - '.github/workflows/archive-source-import.yml'
+permissions:
+  contents: read
+jobs:
+  fetch:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Fetch and validate actual source snapshots
+        run: |
+          mkdir -p archive-sources/openligadb archive-sources/wikipedia
+          python3 - <<'PY'
+          import json, urllib.request, pathlib, datetime, hashlib
+          root=pathlib.Path('archive-sources')
+          manifest=[]
+          def fetch(url,path,license):
+              req=urllib.request.Request(url,headers={'User-Agent':'PokalRadar archive research/1.0 (https://github.com/PuntaCanada/PokalRadar)'})
+              with urllib.request.urlopen(req,timeout=35) as response:
+                  data=response.read(15000001)
+              if len(data)>15000000: raise ValueError('Source too large')
+              obj=json.loads(data)
+              path.write_bytes(data)
+              manifest.append(dict(url=url,file=str(path.relative_to(root)),license=license,sha256=hashlib.sha256(data).hexdigest(),retrieved=datetime.datetime.now(datetime.timezone.utc).isoformat()))
+              return obj
+          for year in (2025,2026):
+              url=f'https://api.openligadb.de/getmatchdata/dfb/{year}'
+              rows=fetch(url,root/'openligadb'/f'{year}.json','ODbL-1.0')
+              assert isinstance(rows,list) and rows
+              ids=set()
+              for m in rows:
+                  assert m['matchID'] not in ids
+                  ids.add(m['matchID'])
+                  assert m['team1']['teamName'] and m['team2']['teamName']
+              print(year,'records',len(rows),'finished',sum(m.get('matchIsFinished') is True for m in rows))
+          import urllib.parse
+          for title in ('Tschammerpokal 1935','DFB-Pokal 1952/53'):
+              url='https://de.wikipedia.org/w/api.php?'+urllib.parse.urlencode(dict(action='parse',page=title,prop='wikitext|revid',format='json',formatversion=2))
+              try:
+                  obj=fetch(url,root/'wikipedia'/(title.replace('/','-').replace(' ','_')+'.json'),'CC-BY-SA-4.0; verify page-specific attribution')
+                  print(title,'revision',obj['parse']['revid'])
+              except Exception as e:
+                  print('Historical source unavailable:',title,str(e))
+          (root/'manifest.json').write_text(json.dumps(manifest,indent=2))
+          (root/'openligadb'/'NOTICE.txt').write_text('Source: OpenLigaDB https://www.openligadb.de/ ; ODbL 1.0 https://opendatacommons.org/licenses/odbl/1-0/ . Raw snapshots for reconciliation, not verified production data.')
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: archive-source-snapshots
+          path: archive-sources
+          retention-days: 3
+          if-no-files-found: error
