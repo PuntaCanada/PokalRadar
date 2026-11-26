@@ -38,3 +38,5 @@ export function summarizeHistoricalRows(rows){
  }
  const runs=streaks(rows);return [...clubs.values()].map(c=>({...c,longHome:runs.get(c.name)?.longHome??0,longAway:runs.get(c.name)?.longAway??0}));
 }
+
+export function loadArchiveHome(archive){const obs=[];for(const e of JSON.parse(readFileSync('data/archive-home-rights.json','utf8'))){for(const [id,home,away] of e.pairs){const m=archive.find(s=>s.season===e.season)?.matches.find(m=>m.id===id);if(!m||m.round!==e.round||m.home!==home||m.away!==away)throw Error('Archive home evidence mismatch '+id);obs.push({matchId:id,formalHome:home,source:e.source,probabilities:null});}}return obs;}

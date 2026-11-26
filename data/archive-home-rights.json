@@ -1,0 +1,168 @@
+[
+  {
+    "season": "2026-27",
+    "round": "2. Runde",
+    "source": "https://www.dfb.de/news/vier-bundesligaduelle-in-der-zweiten-dfb-pokalrunde/",
+    "pairs": [
+      [
+        "oldb-87618",
+        "SG Sonnenhof Großaspach",
+        "FC Augsburg"
+      ],
+      [
+        "oldb-87620",
+        "Rot-Weiss Essen",
+        "RB Leipzig"
+      ],
+      [
+        "oldb-87624",
+        "VfL Bochum",
+        "1. FSV Mainz 05"
+      ],
+      [
+        "oldb-87625",
+        "Hamburger SV",
+        "Eintracht Frankfurt"
+      ],
+      [
+        "oldb-87621",
+        "1. FC Köln",
+        "1. FC Union Berlin"
+      ],
+      [
+        "oldb-87623",
+        "Borussia Dortmund",
+        "SV Werder Bremen"
+      ],
+      [
+        "oldb-87626",
+        "Borussia Mönchengladbach",
+        "Karlsruher SC"
+      ],
+      [
+        "oldb-87632",
+        "SV 07 Elversberg",
+        "SV Darmstadt 98"
+      ],
+      [
+        "oldb-87619",
+        "SSV Jeddeloh II",
+        "Hertha BSC"
+      ],
+      [
+        "oldb-87622",
+        "Dynamo Dresden",
+        "FC Schalke 04"
+      ],
+      [
+        "oldb-87630",
+        "SC Paderborn 07",
+        "VfB Stuttgart"
+      ],
+      [
+        "oldb-87631",
+        "SC Freiburg",
+        "VfL Wolfsburg"
+      ],
+      [
+        "oldb-87627",
+        "Holstein Kiel",
+        "TSG Hoffenheim"
+      ],
+      [
+        "oldb-87628",
+        "Bayer 04 Leverkusen",
+        "1. FC Nürnberg"
+      ],
+      [
+        "oldb-87629",
+        "Hannover 96",
+        "1. FC Kaiserslautern"
+      ],
+      [
+        "oldb-87633",
+        "FC Bayern München",
+        "1. FC Magdeburg"
+      ]
+    ]
+  },
+  {
+    "season": "2026-27",
+    "round": "Achtelfinale",
+    "source": "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb/",
+    "pairs": [
+      [
+        "oldb-88750",
+        "VfB Stuttgart",
+        "Dynamo Dresden"
+      ],
+      [
+        "oldb-88755",
+        "Holstein Kiel",
+        "1. FC Köln"
+      ],
+      [
+        "oldb-88752",
+        "FC Bayern München",
+        "Hertha BSC"
+      ],
+      [
+        "oldb-88753",
+        "Borussia Mönchengladbach",
+        "SV Darmstadt 98"
+      ],
+      [
+        "oldb-88751",
+        "Bayer 04 Leverkusen",
+        "RB Leipzig"
+      ],
+      [
+        "oldb-88754",
+        "1. FC Kaiserslautern",
+        "SC Freiburg"
+      ],
+      [
+        "oldb-88749",
+        "Eintracht Frankfurt",
+        "Borussia Dortmund"
+      ],
+      [
+        "oldb-88756",
+        "VfL Bochum",
+        "FC Augsburg"
+      ]
+    ]
+  },
+  {
+    "season": "2025-26",
+    "round": "1. Runde",
+    "source": "https://www.dfb.de/news/fc-bayern-zu-gast-beim-sv-wehen-wiesbaden-eintracht-braunschweig-empfaengt-stuttgart",
+    "pairs": [
+      [
+        "oldb-77206",
+        "DSC Arminia Bielefeld",
+        "Werder Bremen"
+      ],
+      [
+        "oldb-77189",
+        "Eintracht Norderstedt",
+        "FC St. Pauli"
+      ],
+      [
+        "oldb-77177",
+        "Rot-Weiss Essen",
+        "Borussia Dortmund"
+      ],
+      [
+        "oldb-77184",
+        "Eintracht Braunschweig",
+        "VfB Stuttgart"
+      ],
+      [
+        "oldb-77204",
+        "SV Wehen Wiesbaden",
+        "FC Bayern München"
+      ]
+    ]
+  }
+]
