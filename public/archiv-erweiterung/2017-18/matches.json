@@ -2,7 +2,7 @@
   "season": "2017-18",
   "source": "https://de.wikipedia.org/w/index.php?oldid=270510685",
   "license": "CC-BY-SA-4.0",
-  "finalSource": null,
+  "finalSource": "https://de.wikipedia.org/w/index.php?oldid=272435843",
   "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
   "bye": 0,
   "matches": [
@@ -1809,14 +1809,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 1284
-    }
-  ],
-  "issues": [
-    {
-      "reason": "missing separate final source"
     },
     {
-      "reason": "final template not parsed"
+      "id": "hist-2633b389f1882aa390d6ae9c",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1398
     }
-  ]
+  ],
+  "issues": []
 }

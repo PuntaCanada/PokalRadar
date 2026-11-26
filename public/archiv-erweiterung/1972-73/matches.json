@@ -2,7 +2,7 @@
   "season": "1972-73",
   "source": "https://de.wikipedia.org/w/index.php?oldid=267289962",
   "license": "CC-BY-SA-4.0",
-  "finalSource": null,
+  "finalSource": "https://de.wikipedia.org/w/index.php?oldid=269924368",
   "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
   "bye": 0,
   "matches": [
@@ -1745,14 +1745,36 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 75
-    }
-  ],
-  "issues": [
-    {
-      "reason": "missing separate final source"
     },
     {
-      "reason": "final template not parsed"
+      "id": "hist-dd7032c61b77b6bf1116bfaa",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 136
     }
-  ]
+  ],
+  "issues": []
 }

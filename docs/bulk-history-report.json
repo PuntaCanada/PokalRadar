@@ -256,16 +256,9 @@
   {
     "season": "1972-73",
     "revision": 267289962,
-    "count": 60,
+    "count": 61,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "missing separate final source"
-      },
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -480,10 +473,7 @@
   },
   {
     "season": "1996-97",
-    "revision": 269706690,
-    "count": 63,
-    "bye": 0,
-    "issues": [],
+    "error": "Error: ENOENT: no such file or directory, open 'bulk-sources/1996-97.json'",
     "complete": false
   },
   {
@@ -641,31 +631,17 @@
   {
     "season": "2016-17",
     "revision": 271124912,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "missing separate final source"
-      },
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "2017-18",
     "revision": 270510685,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "reason": "missing separate final source"
-      },
-      {
-        "reason": "final template not parsed"
-      }
-    ],
+    "issues": [],
     "complete": false
   }
 ]
