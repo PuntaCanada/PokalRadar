@@ -1,0 +1,73 @@
+{
+  "season": "2024-25",
+  "round": 4,
+  "drawDate": "2024-12-15",
+  "mode": "one",
+  "scope": "formal home right at draw, not venue",
+  "matches": [
+    {
+      "matchId": "21253d149ed9871484a6341c",
+      "home": "VfB Stuttgart",
+      "away": "FC Augsburg",
+      "homeTier": 1,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "VfB Stuttgart",
+      "venue": null,
+      "ruleSource": "https://www.dfb.de/fileadmin/_dfbdam/307865-Heft_04_Spielordnung_Schiedsrichterordnung_20240701.pdf",
+      "pairingSource": "https://www.dfb.de/news/rhine-derby-in-quarter-finals-leverkusen-to-take-on-koeln",
+      "tierSource": "existing season league snapshots"
+    },
+    {
+      "matchId": "df5ed1964d6771009b743838",
+      "home": "Bayer Leverkusen",
+      "away": "1. FC Köln",
+      "homeTier": 1,
+      "awayTier": 2,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "Bayer Leverkusen",
+      "venue": null,
+      "ruleSource": "https://www.dfb.de/fileadmin/_dfbdam/307865-Heft_04_Spielordnung_Schiedsrichterordnung_20240701.pdf",
+      "pairingSource": "https://www.dfb.de/news/rhine-derby-in-quarter-finals-leverkusen-to-take-on-koeln",
+      "tierSource": "existing season league snapshots"
+    },
+    {
+      "matchId": "85350b28ca8dfa7327a58c17",
+      "home": "Arminia Bielefeld",
+      "away": "Werder Bremen",
+      "homeTier": 3,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": true,
+      "awayAmateur": false,
+      "formalHome": "Arminia Bielefeld",
+      "venue": null,
+      "ruleSource": "https://www.dfb.de/fileadmin/_dfbdam/307865-Heft_04_Spielordnung_Schiedsrichterordnung_20240701.pdf",
+      "pairingSource": "https://www.dfb.de/news/rhine-derby-in-quarter-finals-leverkusen-to-take-on-koeln",
+      "tierSource": "existing season league snapshots"
+    },
+    {
+      "matchId": "85af25dce4a3c679579a2ba3",
+      "home": "RB Leipzig",
+      "away": "VfL Wolfsburg",
+      "homeTier": 1,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "RB Leipzig",
+      "venue": null,
+      "ruleSource": "https://www.dfb.de/fileadmin/_dfbdam/307865-Heft_04_Spielordnung_Schiedsrichterordnung_20240701.pdf",
+      "pairingSource": "https://www.dfb.de/news/rhine-derby-in-quarter-finals-leverkusen-to-take-on-koeln",
+      "tierSource": "existing season league snapshots"
+    }
+  ]
+}

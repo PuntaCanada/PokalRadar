@@ -13,5 +13,5 @@ export function drawOdds(teams,id,mode){
  else{p=same.length?(1-cross)/same.length:0;home=.5;}
  return {id:t.id,p,homeGivenOpponent:home};
  }).filter(t=>t.p>0);
- return {opponents:out,homeProbability:out.reduce((s,t)=>s+t.p*t.homeGivenOpponent,0)};
+ return {opponents:out,homeProbability:out.every(t=>t.homeGivenOpponent===1)?1:out.every(t=>t.homeGivenOpponent===0)?0:out.reduce((s,t)=>s+t.p*t.homeGivenOpponent,0)};
 }
