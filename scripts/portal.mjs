@@ -10,13 +10,15 @@ for(const s of seasons){for(const m of s.matches){const home=club(m.home),away=c
 const archive=readdirSync('public/archiv-erweiterung',{withFileTypes:true}).filter(d=>d.isDirectory()).map(d=>JSON.parse(readFileSync('public/archiv-erweiterung/'+d.name+'/matches.json','utf8')));
 const archiveCount=archive.reduce((n,s)=>n+s.matches.length,0);
 for(const s of archive)for(const m of s.matches){
- const home=club(m.home),away=club(m.away),winner=canonicalName(m.winner),final=/^(Finale|Endspiel)$/i.test(String(m.round))||/^(Finale|Final)$/i.test(String(m.round));
+ const historicalIdentity=name=>{const match=String(name??'').match(/^(.*?)\s+\(([IVX]+)\)$/);if(!match||s.season<'2008-09'||s.season>'2017-18')return {name,tier:null};const values={I:1,II:2,III:3,IV:4,V:5,VI:6,VII:7,VIII:8,IX:9,X:10};return values[match[2]]?{name:match[1],tier:values[match[2]]}:{name,tier:null};};
+ const hi=historicalIdentity(m.home),ai=historicalIdentity(m.away);
+ const home=club(hi.name),away=club(ai.name),winner=canonicalName(historicalIdentity(m.winner).name),final=/^(Finale|Endspiel)$/i.test(String(m.round))||/^(Finale|Final)$/i.test(String(m.round));
  const played=m.status==='completed'||m.status==='drawing-lots',score=played?m.score:null;
  for(const [c,o,i] of [[home,away,0],[away,home,1]]){
  c.seasons.add(s.season);const won=winner===c.name&&home!==away;
  c.wins+=Number(won);c.finals+=Number(final&&played);c.titles+=Number(final&&won&&played);
  if(score){c.goals+=score[i];c.against+=score[1-i]}else if(played)c.unknownGoals++;
- c.matches.push({season:s.season,date:m.date??'Unbekannt',round:m.round,opponent:o.name,opponentId:o.id,won,score:score?score[i]+' : '+score[1-i]:null,penalties:played&&m.penalties?m.penalties[i]+' : '+m.penalties[1-i]:null,awarded:false,tier:null,neutral:false,decision:m.status==='scheduled'?'Offen':m.status==='cancelled'?'Ausgefallen':m.status==='abandoned'?'Abgebrochen':m.status==='walkover'?(won?'Kampflos weiter':'Kampflos / Entscheidung'):m.status==='drawing-lots'?(won?'Losentscheid gewonnen':'Losentscheid verloren'):m.status==='reported-unclear'?'Unklar':won?'Gewonnen':winner?'Verloren':'Unentschieden / offen'});
+ c.matches.push({season:s.season,date:m.date??'Unbekannt',round:m.round,opponent:o.name,opponentId:o.id,won,score:score?score[i]+' : '+score[1-i]:null,penalties:played&&m.penalties?m.penalties[i]+' : '+m.penalties[1-i]:null,awarded:false,tier:i===0?hi.tier:ai.tier,neutral:false,decision:m.status==='scheduled'?'Offen':m.status==='cancelled'?'Ausgefallen':m.status==='abandoned'?'Abgebrochen':m.status==='walkover'?(won?'Kampflos weiter':'Kampflos / Entscheidung'):m.status==='drawing-lots'?(won?'Losentscheid gewonnen':'Losentscheid verloren'):m.status==='reported-unclear'?'Unklar':won?'Gewonnen':winner?'Verloren':'Unentschieden / offen'});
  }
 }
 const list=[...clubs.values()].sort((a,b)=>a.name.localeCompare(b.name,'de'));if(new Set(list.map(c=>c.id)).size!==list.length)throw Error('Duplicate club ID');
