@@ -1,0 +1,38 @@
+{
+  "season": "2019-20",
+  "round": 5,
+  "drawDate": "2020-03-08",
+  "mode": "one",
+  "matches": [
+    {
+      "matchId": "e9a42dd0668d5b6b84dc282c",
+      "home": "1. FC Saarbrücken",
+      "away": "Bayer Leverkusen",
+      "homeTier": 4,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": true,
+      "awayAmateur": false,
+      "formalHome": "1. FC Saarbrücken",
+      "venue": null,
+      "ruleSource": "https://www.goal.com/de/meldungen/dfb-pokal-auslosung-halbfinale-live-ticker/1hskgoqx235xy146xzhlxil6e3",
+      "pairingSource": "https://www.goal.com/de/meldungen/dfb-pokal-auslosung-halbfinale-live-ticker/1hskgoqx235xy146xzhlxil6e3"
+    },
+    {
+      "matchId": "d5e7a112d97f679c6414ef23",
+      "home": "Bayern München",
+      "away": "Eintracht Frankfurt",
+      "homeTier": 1,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "Bayern München",
+      "venue": null,
+      "ruleSource": "https://www.goal.com/de/meldungen/dfb-pokal-auslosung-halbfinale-live-ticker/1hskgoqx235xy146xzhlxil6e3",
+      "pairingSource": "https://www.goal.com/de/meldungen/dfb-pokal-auslosung-halbfinale-live-ticker/1hskgoqx235xy146xzhlxil6e3"
+    }
+  ]
+}

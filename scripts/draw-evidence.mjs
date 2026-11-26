@@ -2,7 +2,7 @@ import {drawOdds} from './draw.mjs';
 export function evaluateDraw(evidence,seasons){
  const {season,round,matches}=evidence;
  const mode=round<=2?'two':'one';
- if(!((season==='2024-25'&&[1,2,3,4,5].includes(round))||(season==='2023-24'&&[1,2,3,4].includes(round))||(['2022-23','2021-22','2020-21','2019-20'].includes(season)&&round===2))||matches.length!==2**(6-round))throw Error('Unsupported or incomplete round');
+ if(!((season==='2024-25'&&[1,2,3,4,5].includes(round))||(season==='2019-20'&&[3,4,5].includes(round))||(season==='2023-24'&&[1,2,3,4].includes(round))||(['2022-23','2021-22','2020-21','2019-20'].includes(season)&&round===2))||matches.length!==2**(6-round))throw Error('Unsupported or incomplete round');
  const actual=seasons.find(s=>s.season===season)?.matches.filter(m=>m.round===round)||[];
  if(actual.length!==matches.length||new Set(matches.map(m=>m.matchId)).size!==matches.length)throw Error('Incomplete match coverage');
  const teams=matches.flatMap(m=>[{id:m.home,pot:m.homePot,tier:m.homeTier,amateur:m.homeAmateur},{id:m.away,pot:m.awayPot,tier:m.awayTier,amateur:m.awayAmateur}]);

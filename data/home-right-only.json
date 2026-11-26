@@ -608,5 +608,154 @@
         "SC Paderborn 07"
       ]
     ]
+  },
+  {
+    "season": "2020-21",
+    "round": 1,
+    "source": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
+    "pairs": [
+      [
+        "855e0e027a6c2d51a1371a55",
+        "Eintracht Braunschweig",
+        "Hertha BSC"
+      ],
+      [
+        "c657fa5c1ca58e5d84be9b2c",
+        "1. FC Nürnberg",
+        "RB Leipzig"
+      ],
+      [
+        "248bdfe99eb1d75025bb7d7a",
+        "FC Ingolstadt 04",
+        "Fortuna Düsseldorf"
+      ],
+      [
+        "a87bca28315831c4121d23d6",
+        "Karlsruher SC",
+        "1. FC Union Berlin"
+      ],
+      [
+        "fe86798cec12a15fd69ef263",
+        "SV Wehen Wiesbaden",
+        "1. FC Heidenheim 1846"
+      ],
+      [
+        "007febf6f35e1db8916acdf2",
+        "1. FC Magdeburg",
+        "SV Darmstadt 98"
+      ],
+      [
+        "4ed2bd240129f4835180f697",
+        "Würzburger Kickers",
+        "Hannover 96"
+      ],
+      [
+        "d6e139cb9543690a2ee03e7d",
+        "MSV Duisburg",
+        "Borussia Dortmund"
+      ],
+      [
+        "ec3536ac607817bfcad06d5b",
+        "Dynamo Dresden",
+        "Hamburger SV"
+      ]
+    ]
+  },
+  {
+    "season": "2020-21",
+    "round": 1,
+    "source": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343",
+    "pairs": [
+      [
+        "b70961db3095a8fec9cd2737",
+        "SV Todesfelde",
+        "VfL Osnabrück"
+      ],
+      [
+        "61b268f8cbc82e535cfa20f9",
+        "MTV Eintracht Celle",
+        "FC Augsburg"
+      ],
+      [
+        "8baff9b5a1271eb5acce3712",
+        "FV Engers 07",
+        "VfL Bochum"
+      ],
+      [
+        "876b894959217b10ac58a35d",
+        "Union Fürstenwalde",
+        "VfL Wolfsburg"
+      ],
+      [
+        "76579d444cd49dffa1a3393b",
+        "FC Oberneuland",
+        "Bor. Mönchengladbach"
+      ],
+      [
+        "c3724a0fc0e750ed967e028c",
+        "VSG Altglienicke",
+        "1. FC Köln"
+      ],
+      [
+        "e786be330a7beee9273b228b",
+        "SSV Ulm 1846",
+        "Erzgebirge Aue"
+      ],
+      [
+        "17abc0fca0fa9e1f1f943197",
+        "FC Carl Zeiss Jena",
+        "Werder Bremen"
+      ],
+      [
+        "c54cdd46523e535217d6fafa",
+        "Chemnitzer FC",
+        "1899 Hoffenheim"
+      ],
+      [
+        "ce428e991417de97cfcbe3bb",
+        "1. FC Rielasingen-Arlen",
+        "Holstein Kiel"
+      ],
+      [
+        "04d9bf51dc46bf54e325a43f",
+        "Hansa Rostock",
+        "VfB Stuttgart"
+      ],
+      [
+        "66a2a9492c149951aadfbbd3",
+        "TSV Steinbach Haiger",
+        "SV Sandhausen"
+      ],
+      [
+        "a5a68e65a18a92b6b10cd402",
+        "SV 07 Elversberg",
+        "FC St. Pauli"
+      ],
+      [
+        "c338989f8d08a41ef77f0e46",
+        "Eintracht Norderstedt",
+        "Bayer Leverkusen"
+      ],
+      [
+        "71bf89ed5e6eb7ecb3e47149",
+        "1. FC Kaiserslautern",
+        "Jahn Regensburg"
+      ],
+      [
+        "54928420bec27ca79b678bbd",
+        "Waldhof Mannheim",
+        "SC Freiburg"
+      ],
+      [
+        "01ccdf34d6cb40a146404577",
+        "Rot-Weiss Essen",
+        "Arminia Bielefeld"
+      ],
+      [
+        "85765407acf27eb26fe9b901",
+        "1. FC Düren",
+        "Bayern München"
+      ]
+    ]
   }
 ]
