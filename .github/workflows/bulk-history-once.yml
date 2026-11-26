@@ -23,6 +23,8 @@ jobs:
           import urllib.request,urllib.parse,json,time,pathlib
           seasons=[(str(y),f'Tschammerpokal {y}') for y in range(1936,1944)]+[(f'{y}-{(y+1)%100:02}',f'DFB-Pokal {y}/{(y+1)%100:02}') for y in range(1953,2018)]
           for key,title in seasons:
+              if '1955-56' <= key <= '1962-63': title=f'DFB-Pokal {int(key[:4])+1}'
+              if key=='1999-00': title='DFB-Pokal 1999/2000'
               url='https://de.wikipedia.org/w/api.php?'+urllib.parse.urlencode(dict(action='parse',page=title,prop='wikitext|revid',redirects=1,format='json',formatversion=2))
               try:
                   req=urllib.request.Request(url,headers={'User-Agent':'PokalRadar archive research/1.0 (https://github.com/PuntaCanada/PokalRadar)'})
@@ -49,5 +51,7 @@ jobs:
         if: always()
         with:
           name: bulk-history-report
-          path: docs/bulk-history-report.json
+          path: |
+            docs/bulk-history-report.json
+            bulk-sources
           retention-days: 3
