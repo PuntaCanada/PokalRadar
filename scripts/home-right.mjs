@@ -14,3 +14,29 @@ export function loadHome(seasons){
  for(const e of JSON.parse(readFileSync('data/home-right-only.json','utf8'))){for(const [matchId,home,away] of e.pairs){const m=seasons.find(s=>s.season===e.season)?.matches.find(m=>m.id===matchId);if(!m||m.round!==e.round||m.home!==home||m.away!==away)throw Error('Home evidence mismatch');obs.push({matchId,formalHome:home,source:e.source,probabilities:null});}}
  return {observations:obs,...summarizeHome(seasons,obs)};
 }
+
+export function historicalHomeRows(seasons,archive,observations){
+ const evidence=new Map(observations.map(o=>[o.matchId,o]));const swaps=new Map(JSON.parse(readFileSync('data/covid-home-swaps.json','utf8')).map(o=>[o.matchId,o]));
+ const rows=[];
+ const name=(n,s)=>canonicalName(s>='2008-09'&&s<='2017-18'?n.replace(/\s+\([IVX]+\)$/,''):n);
+ for(const s of [...seasons,...archive])for(const m of s.matches){
+ if(m.round===6||/^(Finale|Endspiel|Final)$/i.test(String(m.round)))continue;
+ const o=evidence.get(m.id),status=m.result?.status??m.status;
+ for(const [n,other] of [[m.home,m.away],[m.away,m.home]]){
+ const p=o?.probabilities?.[n],swap=swaps.get(m.id),score=m.result?.playedScore??m.score,side=n===m.home?0:1;
+ rows.push({season:s.season,id:m.id,club:name(n,s.season),opponent:name(other,s.season),date:m.date??null,round:m.round,status,home:o?o.formalHome===n:null,probability:Number.isFinite(p)?p:null,venue:m.venue??null,source:o?.source??null,replay:m.replay===true,score:status==='completed'&&score?score[side]+' : '+score[1-side]:null,actual:status==='completed'&&swap?.venue?swap.finalHome===n:null,venue:swap?.venue??m.venue??null});
+ }}
+ return rows;
+}
+function streaks(rows){const runs=new Map();const ordered=[...rows].sort((a,b)=>a.season.localeCompare(b.season)||String(a.date??'').localeCompare(String(b.date??''))||a.id.localeCompare(b.id));for(const r of ordered){if(!runs.has(r.club))runs.set(r.club,{home:0,away:0,longHome:0,longAway:0,season:null});const x=runs.get(r.club);if(r.home===null||!r.date||r.replay){x.home=x.away=0;continue;}x.home=r.home?x.home+1:0;x.away=r.home?0:x.away+1;x.longHome=Math.max(x.longHome,x.home);x.longAway=Math.max(x.longAway,x.away);}return runs;}
+export function summarizeHistoricalRows(rows){
+ const clubs=new Map();
+ for(const r of rows){
+ if(!clubs.has(r.club))clubs.set(r.club,{name:r.club,total:0,known:0,home:0,away:0,unknown:0,modeled:0,expected:0,modeledHome:0});
+ const c=clubs.get(r.club);c.total++;if(r.home===null)c.unknown++;else{c.known++;c.home+=Number(r.home);c.away+=Number(!r.home);}
+ if(r.home!==null&&Number.isFinite(r.probability)){c.modeled++;c.expected+=r.probability;c.modeledHome+=Number(r.home);}
+ }
+ const runs=streaks(rows);return [...clubs.values()].map(c=>({...c,longHome:runs.get(c.name)?.longHome??0,longAway:runs.get(c.name)?.longAway??0}));
+}
+
+export function loadArchiveHome(archive){const obs=[];for(const e of JSON.parse(readFileSync('data/archive-home-rights.json','utf8'))){for(const [id,home,away] of e.pairs){const m=archive.find(s=>s.season===e.season)?.matches.find(m=>m.id===id);if(!m||m.round!==e.round||m.home!==home||m.away!==away)throw Error('Archive home evidence mismatch '+id);obs.push({matchId:id,formalHome:home,source:e.source,probabilities:null});}}return obs;}
