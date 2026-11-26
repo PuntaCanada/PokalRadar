@@ -757,5 +757,172 @@
         "Bayern München"
       ]
     ]
+  },
+  {
+    "season": "2019-20",
+    "round": 1,
+    "source": "https://www.goal.com/de/meldungen/dfb-pokal-auslosung-erste-runde-2019-20-bvb-fc-bayern/16u9qlfn418811c2shfuh7bil3",
+    "pairs": [
+      [
+        "690d294e08c54d386a0212e0",
+        "KFC Uerdingen 05",
+        "Borussia Dortmund"
+      ],
+      [
+        "539dfc487fc3471666eacb3e",
+        "FC Ingolstadt 04",
+        "1. FC Nürnberg"
+      ],
+      [
+        "5e33f78cf84b741016d84a34",
+        "SV Sandhausen",
+        "Bor. Mönchengladbach"
+      ],
+      [
+        "ac79ba43d409696a8fa1d17d",
+        "1. FC Kaiserslautern",
+        "1. FSV Mainz 05"
+      ],
+      [
+        "1f52494d1517156bf4ae8c43",
+        "Alemannia Aachen",
+        "Bayer Leverkusen"
+      ],
+      [
+        "d78486ae012a97172cc394eb",
+        "TuS Dassendorf",
+        "Dynamo Dresden"
+      ],
+      [
+        "3218731ca7e217c3cae147b5",
+        "FC 08 Villingen",
+        "Fortuna Düsseldorf"
+      ],
+      [
+        "7e43063a98974253aec86d54",
+        "SV Drochtersen/Assel",
+        "FC Schalke 04"
+      ],
+      [
+        "311603a55ccf292b623afebd",
+        "FC Viktoria 1889 Berlin",
+        "Arminia Bielefeld"
+      ],
+      [
+        "6ee87317f6a2e8d09100b354",
+        "SC Verl",
+        "FC Augsburg"
+      ],
+      [
+        "fe72961a947d1b81175e4b80",
+        "Wacker Nordhausen",
+        "Erzgebirge Aue"
+      ],
+      [
+        "ed10748529553e8f71719518",
+        "1. FC Magdeburg",
+        "SC Freiburg"
+      ],
+      [
+        "50424ebdaf5dbd1db013e32b",
+        "Würzburger Kickers",
+        "1899 Hoffenheim"
+      ],
+      [
+        "78fe3da2644d15c7c9a815a0",
+        "KSV Baunatal",
+        "VfL Bochum"
+      ],
+      [
+        "114fc41e469a907c2800b632",
+        "SSV Ulm 1846",
+        "1. FC Heidenheim 1846"
+      ],
+      [
+        "75729d8cd6ded024f1b43c33",
+        "Atlas Delmenhorst",
+        "Werder Bremen"
+      ],
+      [
+        "85288d06c9e9d4d909a8a462",
+        "FSV Salmrohr",
+        "Holstein Kiel"
+      ],
+      [
+        "4b132bbeed4282fcbe778c5c",
+        "Germania Halberstadt",
+        "1. FC Union Berlin"
+      ],
+      [
+        "ee93937828bca8eb2bf496e8",
+        "SV Rödinghausen",
+        "SC Paderborn 07"
+      ],
+      [
+        "08780a62c10bcee97e9afbb9",
+        "Waldhof Mannheim",
+        "Eintracht Frankfurt"
+      ],
+      [
+        "fe06dbb31a7d1e8db071b2b6",
+        "FC Oberneuland",
+        "SV Darmstadt 98"
+      ],
+      [
+        "d13174e47a38faf9a9905713",
+        "1. FC Saarbrücken",
+        "Jahn Regensburg"
+      ],
+      [
+        "040803230d8f036ccb151d4a",
+        "VfB Lübeck",
+        "FC St. Pauli"
+      ],
+      [
+        "69862391fd717352951ea61c",
+        "VfB Eichstätt",
+        "Hertha BSC"
+      ],
+      [
+        "9fd8e7757a36302d918347e3",
+        "VfL Osnabrück",
+        "RB Leipzig"
+      ],
+      [
+        "5adb344016de820dd50826eb",
+        "Chemnitzer FC",
+        "Hamburger SV"
+      ],
+      [
+        "f12c173c66dbfe99e07bc0c4",
+        "MSV Duisburg",
+        "SpVgg Greuther Fürth"
+      ],
+      [
+        "2a1f5a7076ee5be89be42edb",
+        "SV Wehen Wiesbaden",
+        "1. FC Köln"
+      ],
+      [
+        "91717ca9d47cdc65475f6aee",
+        "Hallescher FC",
+        "VfL Wolfsburg"
+      ],
+      [
+        "ab4a09d64c69cac7aca67248",
+        "Karlsruher SC",
+        "Hannover 96"
+      ],
+      [
+        "73de82b7c6df8a8379a00948",
+        "Hansa Rostock",
+        "VfB Stuttgart"
+      ],
+      [
+        "066687bd854ed0dd6bc977b2",
+        "Energie Cottbus",
+        "Bayern München"
+      ]
+    ]
   }
 ]
