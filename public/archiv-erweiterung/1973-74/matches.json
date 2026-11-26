@@ -1,0 +1,1081 @@
+{
+  "season": "1973-74",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=267289970",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-6e1bd495988576d9fb58b4ff",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "TuS Neuendorf",
+      "away": "Wuppertaler SV",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wuppertaler SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 25
+    },
+    {
+      "id": "hist-6e140b80a81713335498a07c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-5742f8d2c4cc112320f1a71c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "MSV Duisburg",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-653f5ab1f029512fd470c0c1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "Alemannia Aachen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-3fbc0c210d390a611e527669",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-02",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        8
+      ],
+      "reportedScore": [
+        1,
+        8
+      ],
+      "raw": "1:8 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-5e9367e795307551f5c1e20d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-d96979f0b0f59b82af1f58d4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "VfB Oldenburg",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-36c72cadb2e924d321264781",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-9058d1579b9fa8cb308d3afc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-4cd924c4c25e9b5289b76e3b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-9ec843d3faeaef7f3bdd1249",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "SV Darmstadt 98",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-a262056678af94d19aedca9d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-2645128defd93cffbd4f5721",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "VfR Heilbronn",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-946b7d82b120ebb0f4209c87",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "HSV Barmbek-Uhlenhorst",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSV Hessen Kassel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-b824b3ab392656b53b28db3c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-01",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-bf2a787c50bfa08f7b853944",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1973-12-03",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-ec63a35afca93c6cb73781c6",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1973-12-04",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Hertha BSC",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.<br /><small>(1:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-3a25408daf00f9e017c08a7d",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1973-12-05",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-97dfa0a2f5840483d5efed50",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1973-12-11",
+      "time": null,
+      "home": "VfR Heilbronn",
+      "away": "Kickers Offenbach",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-9db4a6940ebcbe0607d0ad1d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1973-12-15",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-12c3a3b44255e6e66243fe7d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1973-12-15",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-ac31b807943d25e942c41c05",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1973-12-15",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Wuppertaler SV",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-ef1be412b473f9334c1965e0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1973-12-15",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-cce07881e061decbae92b41c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1973-12-15",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-556caf0e903392506837a41e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1973-12-19",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-6c8558e25e737d07ebdcaab2",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1973-12-22",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-4bc43b3e72a04c7b1e73610c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1973-12-22",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "1. FC Nürnberg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-3a552b992ff570d1c8c89921",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1973-12-21",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Borussia Mönchengladbach",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.<br /><small>(3:1 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-488092ca5b34d1e68dd22d3e",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1973-12-29",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Arminia Bielefeld",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-10fc88c3c7a26b730ab2dedb",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1973-12-29",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "SC Fortuna Köln",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-9daec2b52aea54468327a7b8",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1974-02-16",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Hannover 96",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-630d40c65525d2e659d1e47a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1974-02-16",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-872f8d4d26e5809cbdc03ab5",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1974-02-16",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "1. FC Köln",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-37edabe46c0ebfdeb5bcbeab",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1974-02-23",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 78
+    },
+    {
+      "id": "hist-49419ee084a780fc45bd7282",
+      "round": "Viertelfinale",
+      "replay": true,
+      "date": "1974-03-06",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Kickers Offenbach",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 84
+    },
+    {
+      "id": "hist-f54cca64d1c82d55ed0c635a",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1974-04-11",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 90
+    },
+    {
+      "id": "hist-817d959f06db0e703be6987f",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1974-04-13",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "FC Bayern München",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 91
+    }
+  ],
+  "issues": [
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

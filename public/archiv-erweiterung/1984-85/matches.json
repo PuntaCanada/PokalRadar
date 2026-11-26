@@ -1,0 +1,1922 @@
+{
+  "season": "1984-85",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266973713",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-55480532256fa725c3698d15",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-08-31",
+      "time": null,
+      "home": "Duisburger FV 08",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-8781e10a207c49fea61492ee",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-08-31",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "SC Rot-Weiß Oberhausen",
+      "score": [
+        5,
+        4
+      ],
+      "reportedScore": [
+        5,
+        4
+      ],
+      "raw": "5:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
+      "id": "hist-3101aedb2513e7aa8a4dbf4e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-08-31",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Friesen Hänigsen",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Friesen Hänigsen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-f16619ad10c6f72a88e8d309",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "Altona 93",
+      "away": "Eintracht Trier",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Altona 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-fdc9ab651396ae481f227e36",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "SC Geislingen",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Geislingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-cd6744b8551a13dde1840f30",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-2a261f0885c790a4c74f16c8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 182
+    },
+    {
+      "id": "hist-85f259507dd81757108c94a2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        8,
+        0
+      ],
+      "reportedScore": [
+        8,
+        0
+      ],
+      "raw": "8:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    },
+    {
+      "id": "hist-271b64e9f38914eeae623c93",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 184
+    },
+    {
+      "id": "hist-98e0e2c729fc4d3ec0f57ff1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-36c51e2e99ba5b9af4323ebb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "Olympia Bocholt",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    },
+    {
+      "id": "hist-9f9ca13ce4f7c960835f12cf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "ASC Dudweiler",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 187
+    },
+    {
+      "id": "hist-f8de6a765a5ffcfaf07d31f6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "KSV Hessen Kassel",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 188
+    },
+    {
+      "id": "hist-bd2f4475e909cbbb23994832",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "SC Freiburg",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 189
+    },
+    {
+      "id": "hist-7ec1680da0a7a38a835617e9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "1. FC Paderborn",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 190
+    },
+    {
+      "id": "hist-51540f12cbf5acffc81ff94d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "VfL Kellinghusen",
+      "away": "SG Union Solingen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Union Solingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    },
+    {
+      "id": "hist-73fbdca1400dfa8b952dac42",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "TSV Ofterdingen",
+      "away": "VfL Bochum (A)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 192
+    },
+    {
+      "id": "hist-061f8c131f8afc0cd41e0f58",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "1. FC Nürnberg (A)",
+      "away": "Südwest Ludwigshafen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-d6376e42a2c99137469d0ac3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "SC Jülich 1910",
+      "away": "FC Rastatt 04",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Jülich 1910",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-d8502947a6556f0e9063ae2b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "TSV Havelse",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-1f9416d1e350fb51b7548582",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "SV Mettlach",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Bayreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-9e95d9b0b6dfe3a61a77edd3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-01",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-0381add6f6a35d90058ce00a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-02",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "SSV Ulm 1846",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-11fd0523e64f0c66e6258618",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-02",
+      "time": null,
+      "home": "VfB Oldenburg",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-779a753a4aa04d36b44e5be8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-02",
+      "time": null,
+      "home": "BV 08 Lüttringhausen",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-6770d0b9ca6ef164999b7fff",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-02",
+      "time": null,
+      "home": "SC Charlottenburg",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-1c1f9709f84524d24f52649e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-02",
+      "time": null,
+      "home": "OSC Bremerhaven",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-31a512de026b76362686895c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-02",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-161f7c2a40ddefc3e962474d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-02",
+      "time": null,
+      "home": "SC Herford",
+      "away": "Kickers Offenbach",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-02394a028592fa7e60700fa1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-02",
+      "time": null,
+      "home": "SV 98 Schwetzingen",
+      "away": "Alemannia Aachen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-dd1bb20a6690542380a18c8e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-02",
+      "time": null,
+      "home": "FC Bayern München (A)",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-5c551428cd0d2eab3c98777b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1984-09-02",
+      "time": null,
+      "home": "Eintracht Haiger",
+      "away": "CSC 03 Kassel",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Haiger",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-6a826eab6e15cc6523c9dc61",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1984-09-25",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "TSV Havelse",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-bff882ec496e7290e0747345",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1984-10-02",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "SC Fortuna Köln",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(3:5 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 213
+    },
+    {
+      "id": "hist-24b9ac9e49e6cefaf709f836",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-10-13",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-123b925ee35f819a734d47db",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-20",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-0a7a8a460ac4cfc12d0699ed",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-20",
+      "time": null,
+      "home": "VfL Bochum (A)",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-2cc7a96f28dd4032d5dd978a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "Friesen Hänigsen",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        8
+      ],
+      "reportedScore": [
+        0,
+        8
+      ],
+      "raw": "0:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 221
+    },
+    {
+      "id": "hist-9019843e37fb0bb6e8ccf9fe",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "Altona 93",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 222
+    },
+    {
+      "id": "hist-846875f4833b0322e92547dc",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "Eintracht Haiger",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Haiger",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 223
+    },
+    {
+      "id": "hist-e497416e67759a1f96ce75f5",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "SG Union Solingen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Union Solingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 224
+    },
+    {
+      "id": "hist-c48d6a6e98d7e821b1375648",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "SC Geislingen",
+      "away": "Kickers Offenbach",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Geislingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 225
+    },
+    {
+      "id": "hist-38192d89ed42a55efe3d730b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "1. FC Nürnberg (A)",
+      "away": "SC Jülich 1910",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Jülich 1910",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-74dab62939a936427cefd87a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-0c7c0f2c452e8edbc7e6c8cc",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "SC Fortuna Köln",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-a9f9aa630414af87be277c0b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-33db9af56e9d9882f7e4a78e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "SV Darmstadt 98",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-c90b26485c7c321fcd512a3b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "VfL Bochum",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 231
+    },
+    {
+      "id": "hist-e06d2f5effc2156555bdd05e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "1. FC Nürnberg",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 232
+    },
+    {
+      "id": "hist-d12fe4c3cebc1c8829e9c422",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1984-11-21",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 233
+    },
+    {
+      "id": "hist-5eced80090798429281fd60c",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1984-10-31",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Borussia Dortmund",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 238
+    },
+    {
+      "id": "hist-055c4d5fccd6bb636bc1cad2",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-12-04",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-c1669bca1282173670e99422",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-12-12",
+      "time": null,
+      "home": "SC Jülich 1910",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-b3d40f9337dc257946774f5e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-12-22",
+      "time": null,
+      "home": "SC Geislingen",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 245
+    },
+    {
+      "id": "hist-86bc99dcfef267c0514b99d1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-12-22",
+      "time": null,
+      "home": "Eintracht Haiger",
+      "away": "SG Union Solingen",
+      "score": [
+        0,
+        8
+      ],
+      "reportedScore": [
+        0,
+        8
+      ],
+      "raw": "0:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Union Solingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 246
+    },
+    {
+      "id": "hist-631b348130a3d80ddee94e12",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-12-22",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 247
+    },
+    {
+      "id": "hist-2be7ad7d6f3ca5d96ab52988",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-12-22",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 248
+    },
+    {
+      "id": "hist-0c1a26041c1e2b8adb2ebfaf",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-12-22",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 249
+    },
+    {
+      "id": "hist-d4e444d5a8b3796835dbc09f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1985-02-05",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 250
+    },
+    {
+      "id": "hist-cedb8449299a8bad4535b8fa",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1985-02-05",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "VfB Stuttgart",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(3:0 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 255
+    },
+    {
+      "id": "hist-2228c654d1bb5e35183da331",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1985-02-16",
+      "time": null,
+      "home": "SG Union Solingen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 260
+    },
+    {
+      "id": "hist-913ac3af20a147d5e266fab0",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1985-02-16",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 261
+    },
+    {
+      "id": "hist-57f8c3273e5135ab30462345",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1985-03-12",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 262
+    },
+    {
+      "id": "hist-ac72b999346768163ec138ad",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1985-03-26",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 263
+    },
+    {
+      "id": "hist-8b47e7724becf5e35e782c36",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1985-04-06",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 268
+    },
+    {
+      "id": "hist-2d9a99ca7eb4efdd63a35625",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1985-04-06",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 269
+    }
+  ],
+  "issues": [
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

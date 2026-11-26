@@ -1,0 +1,2015 @@
+{
+  "season": "1982-83",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265958346",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-2391cc23517a97047bbb0206",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-27",
+      "time": null,
+      "home": "Hannover 96 (A)",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 174
+    },
+    {
+      "id": "hist-263e28c8e7c94881bbed7fbf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-27",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 175
+    },
+    {
+      "id": "hist-4d355ee76f49b3e77cb4aa7d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-27",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-dc6afda2849e85ff042621ea",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-27",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
+      "id": "hist-282b50fc4cdd7b1ab8fc45d3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "FC Bayern Hof",
+      "away": "Arminia Bielefeld",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-846cb2e8e4e985b66bd3aee7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-baa41e77f1d909e2eef6beb2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-64c1ad6ba04a42cfa2f1e3ed",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-253561ea321053ea66ea74c4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 182
+    },
+    {
+      "id": "hist-97163701a7f2e4aa1401188f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    },
+    {
+      "id": "hist-acb12a14b1921cf0bc0c851b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "KSV Hessen Kassel",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 184
+    },
+    {
+      "id": "hist-975c9e2d802f2e68a9c4044d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-9e6518ecfb9d2605d77a0307",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "VfB Wissen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    },
+    {
+      "id": "hist-de35cab493c96cb0406e6e7c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "Germania Walsrode",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 187
+    },
+    {
+      "id": "hist-ecd274835719bf422f831db7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "Hertha 03 Zehlendorf",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 188
+    },
+    {
+      "id": "hist-01de1836baf6a14c75f910fe",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "Offenburger FV",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 189
+    },
+    {
+      "id": "hist-2d382f49f4567a525db94cb0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "ASV Bergedorf 85",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 190
+    },
+    {
+      "id": "hist-77edc23d754a72c02e64343b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "SpVgg Fürth",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Bayreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    },
+    {
+      "id": "hist-41367fa5105aa6f64beb991b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "FC Ensdorf",
+      "away": "SG Union Solingen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Union Solingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 192
+    },
+    {
+      "id": "hist-3f04a756a3370d5f42dc1b00",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "TuS Schloß Neuhaus",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-8decbfec758d0fcdf798dc77",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "SV Arminia Hannover",
+      "away": "Eintracht Trier",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-f8fc8e2321089e117f1a1235",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "Rot-Weiß Lüdenscheid",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-df3da5d84bebbd0f96c2f6c5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "FC Bayern München (A)",
+      "away": "Werder Bremen (A)",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-03488e1eb1005247c05c19bc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "Alemannia Aachen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-41d9f473ab006aaa3cad5d8d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-94b1734a1566c29456501ce3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-28",
+      "time": null,
+      "home": "VfB Stuttgart (A)",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-a1a62af021938f84b55b7bbc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-29",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "SV Darmstadt 98",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-7f8ad13beb3b6d9f96212b07",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-29",
+      "time": null,
+      "home": "Bayer 05 Uerdingen (A)",
+      "away": "KSV Baunatal",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSV Baunatal",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-d087a0305cc9e1e2452393ba",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-29",
+      "time": null,
+      "home": "SVO Germaringen",
+      "away": "Hammer SpVg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hammer SpVg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-1180d513863ef77a69dc5fc2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-29",
+      "time": null,
+      "home": "1. FC Köln (A)",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-53938d14e1ec98fa95ea2501",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-29",
+      "time": null,
+      "home": "Heider SV",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-089b9a08e84d2039ab5a2400",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1982-08-29",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-eaee5e2804fb164d8ff3ccf9",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1982-09-07",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Heider SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 210
+    },
+    {
+      "id": "hist-5ac9da0b28fa5ece6fa56711",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1982-09-08",
+      "time": null,
+      "home": "Rot-Weiß Lüdenscheid",
+      "away": "Freiburger FC",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Lüdenscheid",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    },
+    {
+      "id": "hist-b892622bded88956987c6a13",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1982-10-05",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "MSV Duisburg",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-3fa40df851125f439553108b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-15",
+      "time": null,
+      "home": "Rot-Weiß Lüdenscheid",
+      "away": "SV Darmstadt 98",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-e4050960607a3e1ea9230141",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "KSV Baunatal",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-c96219e1b4b9e69b6ca6008e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        6
+      ],
+      "reportedScore": [
+        3,
+        6
+      ],
+      "raw": "3:6 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-109f2a0b4cd88e747009237e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "Hammer SpVg",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-40d312b454ebae13c9e10ebe",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "FSV Frankfurt",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 221
+    },
+    {
+      "id": "hist-5430c762f2dda2a1e639a053",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "SC Fortuna Köln",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 222
+    },
+    {
+      "id": "hist-a8fc4775cc339d9ffad65765",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 223
+    },
+    {
+      "id": "hist-5c7a20a544a86d78d3f9067c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "FC Bayern München (A)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 224
+    },
+    {
+      "id": "hist-0141a4a12a7305f7c2fd044d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 225
+    },
+    {
+      "id": "hist-7298c29f910b94c4639e9d4c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-5c1f7232b005f975ed4cde42",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-2a3712a07c01e281388836c2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-f4fd09f335c6d4d752e684a5",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Werder Bremen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-54962d46bd7abe9e56c54659",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "SG Union Solingen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-5f00fe039a5354a551289777",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 231
+    },
+    {
+      "id": "hist-0271635a69b18270f5033350",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1982-10-16",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 232
+    },
+    {
+      "id": "hist-9c85db9889859cf932a1a627",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1982-10-26",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Hammer SpVg",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 237
+    },
+    {
+      "id": "hist-e51b6cb8f0d3598e99f1465e",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1982-11-09",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "SSV Ulm 1846",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 238
+    },
+    {
+      "id": "hist-089b99753443598f608d926b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-12-14",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "SC Fortuna Köln",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-13aa337754f67cb51d019693",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-12-15",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "SV Darmstadt 98",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-ef9015a5809e77e7878a707e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-12-15",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 245
+    },
+    {
+      "id": "hist-0cfe7a98e9c2e35664d7a787",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-12-17",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 246
+    },
+    {
+      "id": "hist-408a9be652a96868fef0a5a7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-12-18",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 247
+    },
+    {
+      "id": "hist-539c890cd1751c6aafca44eb",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-12-18",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 248
+    },
+    {
+      "id": "hist-f14a6e4915c7000575ab2963",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-12-18",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Arminia Bielefeld",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 249
+    },
+    {
+      "id": "hist-387a7aae3158d8bbce1546da",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-12-18",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 250
+    },
+    {
+      "id": "hist-fea9e4eaf59b8b9fb10ee2a9",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1983-01-25",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 255
+    },
+    {
+      "id": "hist-98a360d0e2d8930e23399980",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1983-02-12",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "SC Fortuna Köln",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 260
+    },
+    {
+      "id": "hist-1025b492f4b7502e1ee685cf",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1983-03-01",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 261
+    },
+    {
+      "id": "hist-237c9b56e4a384be34071bf2",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1983-03-01",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "FC Schalke 04",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 262
+    },
+    {
+      "id": "hist-3c22c6fbcad17d9b52cbfa33",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1983-03-08",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "VfL Bochum",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 263
+    },
+    {
+      "id": "hist-c97b5d371b2e24bc7855bb1a",
+      "round": "Viertelfinale",
+      "replay": true,
+      "date": "1983-03-08",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 268
+    },
+    {
+      "id": "hist-4fafda8848f82975ccc5951a",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1983-04-02",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 273
+    },
+    {
+      "id": "hist-55418bc6b004429d600fe8b9",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1983-04-04",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "Borussia Dortmund",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 274
+    }
+  ],
+  "issues": [
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

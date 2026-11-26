@@ -1,0 +1,1988 @@
+{
+  "season": "1936",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265709089",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-e349b47594dc99b32cea52fd",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-07",
+      "time": null,
+      "home": "SV Algermissen",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 120
+    },
+    {
+      "id": "hist-ef2fddbd9e0f45b5962e76d8",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-07",
+      "time": null,
+      "home": "VfB Peine",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Peine",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 121
+    },
+    {
+      "id": "hist-208859077d803e56e8be7cde",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-11",
+      "time": null,
+      "home": "Westmark 05 Trier",
+      "away": "FV Saarbrücken",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westmark 05 Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 122
+    },
+    {
+      "id": "hist-3f06b91c8a452c93ea60ab8d",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-11",
+      "time": null,
+      "home": "Kölner CfR",
+      "away": "SSV Vingst 05",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 123
+    },
+    {
+      "id": "hist-cfed71da7c1ab1d2ee9e238a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-13",
+      "time": null,
+      "home": "Wacker Marktredwitz",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 124
+    },
+    {
+      "id": "hist-03a5e233df6a3a61b7420c19",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-13",
+      "time": null,
+      "home": "Viktoria 89 Berlin",
+      "away": "Wacker Leipzig",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Viktoria 89 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 125
+    },
+    {
+      "id": "hist-936339dd391a1782ddd567cb",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-13",
+      "time": null,
+      "home": "Sportvg Feuerbach",
+      "away": "Karlsruher FC Phönix",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Sportvg Feuerbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 126
+    },
+    {
+      "id": "hist-3f607410e7596e0a5d962ab0",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "1. FC Pforzheim",
+      "away": "FK Pirmasens",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Pforzheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 127
+    },
+    {
+      "id": "hist-d40deb23939e6d8a664276af",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "1. FC Schweinfurt 05",
+      "away": "FC Hanau 93",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Schweinfurt 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 128
+    },
+    {
+      "id": "hist-575e1caac4cb89f4cb1b0e89",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "BC Hartha",
+      "away": "Wacker Halle",
+      "score": [
+        8,
+        0
+      ],
+      "reportedScore": [
+        8,
+        0
+      ],
+      "raw": "8:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BC Hartha",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 129
+    },
+    {
+      "id": "hist-a566af5c548db1e276163114",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "Cherusker Görlitz",
+      "away": "Berliner SV 92",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Berliner SV 92",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 130
+    },
+    {
+      "id": "hist-1cfcd2abcc57e9345fdee630",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "CSC 03 Kassel",
+      "away": "Polizei Chemnitz",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Polizei Chemnitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 131
+    },
+    {
+      "id": "hist-f2e4aee2b80512a2b49bb0f1",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "FC Altona 93",
+      "away": "Wacker 04 Berlin",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wacker 04 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 132
+    },
+    {
+      "id": "hist-b822f5ce5cee23fa1b2bf433",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "1. SSV Ulm 1928",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. SSV Ulm 1928",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 133
+    },
+    {
+      "id": "hist-71d00bd8155e2c0f3120d867",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "Kickers Offenbach",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Freiburger FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 134
+    },
+    {
+      "id": "hist-709a3f59463f5bfb6658dc21",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Eimsbütteler TV",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 135
+    },
+    {
+      "id": "hist-74b0ef3079318452e58c4524",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "SV Polizei Lübeck",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Polizei Lübeck",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 136
+    },
+    {
+      "id": "hist-5b59323462a9372192dde1d7",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "VfB Preußen Langenbielau",
+      "away": "Vorwärts-Rasensport Gleiwitz",
+      "score": [
+        2,
+        7
+      ],
+      "reportedScore": [
+        2,
+        7
+      ],
+      "raw": "2:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Vorwärts-Rasensport Gleiwitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 137
+    },
+    {
+      "id": "hist-0532b3d29adae7d21c5b70f9",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "SpVgg Röhlinghausen",
+      "away": "Arminia Bielefeld",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Röhlinghausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 138
+    },
+    {
+      "id": "hist-a3a79c3c20deba313265c9be",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 139
+    },
+    {
+      "id": "hist-a51cd0ef6e42f78b72d489be",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "Beuthener SuSV 09",
+      "away": "Minerva 93 Berlin",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Beuthener SuSV 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 140
+    },
+    {
+      "id": "hist-57273a2b5d0e774e3b856334",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "VfB Leipzig",
+      "away": "1. SV Jena",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 141
+    },
+    {
+      "id": "hist-5db05614ddeec35ba0c3b6f1",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "VfL Benrath",
+      "away": "Rheydter SV",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Benrath",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 142
+    },
+    {
+      "id": "hist-be402ad28d9cbcb8a332e1b8",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "VfvB Ruhrort",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 143
+    },
+    {
+      "id": "hist-222bd961391df47f797bd063",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "SC Victoria Hamburg",
+      "away": "SV Dessau 05",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Victoria Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 144
+    },
+    {
+      "id": "hist-e664a645f8cb8b5f873b0845",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "SV ASA Atsch",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 145
+    },
+    {
+      "id": "hist-b706a8fa9bd03801cb133743",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-14",
+      "time": null,
+      "home": "SV Flörsheim",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 146
+    },
+    {
+      "id": "hist-5d86f8fae354db77414b29da",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-21",
+      "time": null,
+      "home": "MSV von der Goltz Tilsit",
+      "away": "SV Hindenburg Allenstein",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Hindenburg Allenstein",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 147
+    },
+    {
+      "id": "hist-05a0119361f57ca0c17df002",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-21",
+      "time": null,
+      "home": "Viktoria Stolp",
+      "away": "Preußen Danzig",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Viktoria Stolp",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 148
+    },
+    {
+      "id": "hist-6eecf82133c1fe4863d02326",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-21",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "VfB Friedberg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n.V",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 149
+    },
+    {
+      "id": "hist-5693389b02fcce7d458207a1",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-08-16",
+      "time": null,
+      "home": "SpVgg 08 Klafeld-Geisweid",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg 08 Klafeld-Geisweid",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 150
+    },
+    {
+      "id": "hist-29efb01bef5df70ada2713ab",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1936-08-16",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Planitzer SC",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 151
+    },
+    {
+      "id": "hist-4aa236d571fba852b0fa53ab",
+      "round": "1. Schlussrunde",
+      "replay": true,
+      "date": "1936-06-21",
+      "time": null,
+      "home": "SSV Vingst 05",
+      "away": "Kölner CfR",
+      "score": [
+        8,
+        3
+      ],
+      "reportedScore": [
+        8,
+        3
+      ],
+      "raw": "8:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Vingst 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 157
+    },
+    {
+      "id": "hist-109d6ede95b68561a2d23367",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-21",
+      "time": null,
+      "home": "Westmark 05 Trier",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 164
+    },
+    {
+      "id": "hist-4f17e387cd324c4d562e99d6",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-27",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "1. FC Pforzheim",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 165
+    },
+    {
+      "id": "hist-7f2cc40c82591a0fca532f58",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "1. FC Schweinfurt 05",
+      "away": "Sportvg Feuerbach",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Schweinfurt 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 166
+    },
+    {
+      "id": "hist-044b3dea5807cae6d5cb759f",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "Berliner SV 92",
+      "away": "SuSV Beuthen 1909",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Berliner SV 92",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 167
+    },
+    {
+      "id": "hist-8f54f2acfa8309825c7c97ea",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "SpVgg Röhlinghausen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 168
+    },
+    {
+      "id": "hist-b144ecc3e8047cf4765468e1",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "Polizei Chemnitz",
+      "away": "Viktoria 89 Berlin",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Polizei Chemnitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 169
+    },
+    {
+      "id": "hist-25337f10f155f67a6bf9a3ce",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "1. SSV Ulm 1928",
+      "away": "Freiburger FC",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. SSV Ulm 1928",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 170
+    },
+    {
+      "id": "hist-d80f67689731b528631778f6",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "SV Hindenburg Allenstein",
+      "away": "Viktoria Stolp",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Hindenburg Allenstein",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 171
+    },
+    {
+      "id": "hist-1a8e9fbb1182940d1eccc1e1",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "SV Polizei Lübeck",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 172
+    },
+    {
+      "id": "hist-ca0f41434602e8ae74a804ba",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "VfB Peine",
+      "away": "BC Hartha",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Peine",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 173
+    },
+    {
+      "id": "hist-3bb353e00f49e492185bc92c",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "Vorwärts Rasensport Gleiwitz",
+      "away": "VfB Leipzig",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 174
+    },
+    {
+      "id": "hist-c5ec41e4a99fafe043e836e9",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "Wacker 04 Berlin",
+      "away": "Victoria Hamburg",
+      "score": [
+        5,
+        4
+      ],
+      "reportedScore": [
+        5,
+        4
+      ],
+      "raw": "5:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wacker 04 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 175
+    },
+    {
+      "id": "hist-1779215016fda80688899025",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-864f3c19ed1f5848f17e3491",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-08-23",
+      "time": null,
+      "home": "VfL Benrath",
+      "away": "1. FC Nürnberg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Benrath",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-ccc1d6f90f26862a4c5bd3ad",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-08-23",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "SpVgg 08 Klafeld-Geisweid",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-7fbf7a18cb566dd0ada4797e",
+      "round": "2. Schlussrunde",
+      "replay": true,
+      "date": "1936-08-16",
+      "time": null,
+      "home": "1. FC Pforzheim",
+      "away": "TSV 1860 München",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Pforzheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-4a0c3af8c6a86a13c28a267b",
+      "round": "2. Schlussrunde",
+      "replay": true,
+      "date": "1936-08-23",
+      "time": null,
+      "home": "VfB Leipzig",
+      "away": "Vorwärts Rasensport Gleiwitz",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    },
+    {
+      "id": "hist-e1d58e937efa648baf8c990b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1936-09-05",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-33fb46a93a1777d973116059",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1936-09-06",
+      "time": null,
+      "home": "1. SSV Ulm 1928",
+      "away": "1. FC Schweinfurt 05",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Schweinfurt 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-dc631439e1357ada59f23cc6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1936-09-06",
+      "time": null,
+      "home": "1. FC Pforzheim",
+      "away": "Wormatia Worms",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-54d537c2acc8b197969b05f7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1936-09-06",
+      "time": null,
+      "home": "Wacker 04 Berlin",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-f0515d7d65b4c52994e7e04b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1936-09-06",
+      "time": null,
+      "home": "Polizei Chemnitz",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-d684c7b29eee1eb060b04c69",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1936-09-06",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "VfL Benrath",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-4290e86743c177eb2f1bb018",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1936-09-06",
+      "time": null,
+      "home": "VfB Leipzig",
+      "away": "Berliner SV 92",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-31001f84a11ac31e886a61b6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1936-09-13",
+      "time": null,
+      "home": "SV Hindenburg Allenstein",
+      "away": "VfB Peine",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Peine",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-ddb5ca136a060bf7ed15fddc",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1936-09-20",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "VfB Stuttgart",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-0c7b7c40eb683fcee98491c1",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1936-09-20",
+      "time": null,
+      "home": "VfL Benrath",
+      "away": "Hertha BSC",
+      "score": [
+        8,
+        2
+      ],
+      "reportedScore": [
+        8,
+        2
+      ],
+      "raw": "8:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Benrath",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-16b560f54065bda3bfc55c1d",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1936-10-25",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 213
+    },
+    {
+      "id": "hist-b57dcde92d1d34ae6d3bc5e6",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1936-10-25",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "1. FC Schweinfurt 05",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Schweinfurt 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 214
+    },
+    {
+      "id": "hist-bf95aa95a87e5c43875cee1c",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1936-10-25",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "VfL Benrath",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    },
+    {
+      "id": "hist-01fa34c1a4f241e3410ee1e4",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1936-10-25",
+      "time": null,
+      "home": "VfB Peine",
+      "away": "VfB Leipzig",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 216
+    },
+    {
+      "id": "hist-5902c13dc219826fe50772de",
+      "round": "Viertelfinale",
+      "replay": true,
+      "date": "1936-11-08",
+      "time": null,
+      "home": "VfL Benrath",
+      "away": "Wormatia Worms",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 222
+    },
+    {
+      "id": "hist-e0817284a5db67ca9a14038a",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1936-11-08",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "FC Schweinfurt 05",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-70168245a978129127ca4168",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1936-11-22",
+      "time": null,
+      "home": "VfB Leipzig",
+      "away": "Wormatia Worms",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-8a88891a5a8d1d40c527ce5b",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Leipzig",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 289
+    }
+  ],
+  "issues": [
+    {
+      "line": 177,
+      "reason": "unparsed row",
+      "raw": "11:1{{0}}"
+    }
+  ]
+}

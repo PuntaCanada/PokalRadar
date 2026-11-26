@@ -1,0 +1,928 @@
+{
+  "season": "1954-55",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266123841",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-b51ebebc1142e042857c251e",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-02",
+      "time": null,
+      "home": "SG Düren 99",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 23
+    },
+    {
+      "id": "hist-79bd12048a5ff60d42f28974",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "SSV Jahn Regensburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 24
+    },
+    {
+      "id": "hist-7649a0ff32e175730c85e022",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "TuRa 1882 Ludwigshafen",
+      "away": "FC St. Pauli",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 25
+    },
+    {
+      "id": "hist-45db201f1cbd6d57bbec8759",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Hannover 96",
+      "score": [
+        6,
+        3
+      ],
+      "reportedScore": [
+        6,
+        3
+      ],
+      "raw": "6:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-2c833ac2329aa4bba0adc729",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "FK Pirmasens",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-80c37d861314723625606079",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "TuS Bremerhaven 1893",
+      "away": "SpVgg Erkenschwick",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Bremerhaven 1893",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-8a5794f496779c518c10bfbd",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "STV Horst-Emscher",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-6f1f5a2c36c30fc12c6d342d",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "BV Union Krefeld",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BV Union Krefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-ed301cc3cbd53723fe15e564",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Eintracht Trier",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-6a6e515667c4fa6d1eca48f9",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "Spandauer SV",
+      "away": "VfB Lübeck",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Lübeck",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-da4d4ea15f9d940956ef784d",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "TSV Marl-Hüls",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-818404d996a88cedf7c70588",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "FSV Frankfurt",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-10fc83324d44a2eb00d749e8",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "SV Arminia Hannover",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-e6ea73fe56a0fb80cc4d12de",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "Altona 93",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Altona 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-31cba06a8f2236dbbd1054ed",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "Phönix Ludwigshafen",
+      "away": "Alemannia Aachen",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-1c329150b104bc2ec661cf3a",
+      "round": "Vorrunde",
+      "replay": false,
+      "date": "1954-08-15",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "1. FC Schweinfurt 05",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Schweinfurt 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-d58b163f463163a911634b33",
+      "round": "Vorrunde",
+      "replay": true,
+      "date": "1954-09-01",
+      "time": null,
+      "home": "SSV Jahn Regensburg",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        6
+      ],
+      "reportedScore": [
+        3,
+        6
+      ],
+      "raw": "3:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-8ff93757ca943d452ab2c5ca",
+      "round": "Vorrunde",
+      "replay": true,
+      "date": "1954-09-15",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Phönix Ludwigshafen",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-56c97e1cd49c14f102e05e44",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1954-09-21",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "1. FC Köln",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-b8b987bb39e8c4b529d7934f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1954-09-25",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-0e97dff868dcc182a8c510c1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1954-09-26",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "FC Schweinfurt 05",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-6fd2ae74d65733b3c8687775",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1954-09-26",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "VfB Lübeck",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-c9e0c0cf92815fa86e9fe710",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1954-09-26",
+      "time": null,
+      "home": "FC Altona 93",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Altona 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-cd02c3b324b8c5046f804189",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1954-09-26",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "BV Union 05 Krefeld",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-1bf857b1ddd950c5ec4a6422",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1954-09-26",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "FC St. Pauli",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-7dd70d504d17d149dfe6d50a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1954-12-19",
+      "time": null,
+      "home": "TuS Bremerhaven 1893",
+      "away": "Hamburger SV",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Bremerhaven 1893",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-493222d7a65401e7ad95c489",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1954-10-17",
+      "time": null,
+      "home": "FC Schweinfurt 05",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-0fa4b068715d1d1dfa0aa868",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1954-11-27",
+      "time": null,
+      "home": "FC Altona 93",
+      "away": "Alemannia Aachen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Altona 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-f3a8c1074b7509374410d323",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1954-12-19",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Karlsruher SC",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-f0fe707e4cd8ee3af9cb6bd5",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1955-01-02",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-34db1f455a29c0a22df81a9e",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1955-01-02",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "TuS Bremerhaven 1893",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    }
+  ],
+  "issues": [
+    {
+      "line": 75,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}2:1{{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 76,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}3:3 n. V.{{FN|2|gruppe=h1}}"
+    },
+    {
+      "line": 84,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}3:0{{FN|3|gruppe=h1}}"
+    },
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

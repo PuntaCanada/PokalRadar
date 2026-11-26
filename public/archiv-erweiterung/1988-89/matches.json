@@ -1,0 +1,1977 @@
+{
+  "season": "1988-89",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270512772",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-dc6e13a17b0a3b3b2d6de619",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-03",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 150
+    },
+    {
+      "id": "hist-a7378669fdd286247768ba15",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-05",
+      "time": null,
+      "home": "TSV Verden",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 151
+    },
+    {
+      "id": "hist-102654143e9669b03fe509d6",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-05",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "FC St. Pauli",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 152
+    },
+    {
+      "id": "hist-c1ae7343234725f7e7a1dc74",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-05",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 153
+    },
+    {
+      "id": "hist-47ca5c23402a8837e576b2ef",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-05",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "SV Darmstadt 98",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1 (4:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 154
+    },
+    {
+      "id": "hist-ad801525b3b85333f95efa85",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-05",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "VfL Osnabrück",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 (1:1, 0:0) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 155
+    },
+    {
+      "id": "hist-b280d1931c11d44a68f21ef5",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "Alemannia Aachen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 156
+    },
+    {
+      "id": "hist-13de27701ef38de010597f90",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Hannover 96",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 157
+    },
+    {
+      "id": "hist-e3cb33930742a65cf28add2d",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 158
+    },
+    {
+      "id": "hist-821fdd286448ec817afe243b",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 (1:1, 1:1) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 160
+    },
+    {
+      "id": "hist-cf56da10b6c4d5866f3117d0",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "Eintracht Frankfurt (TV)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 (0:0, 0:0) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 161
+    },
+    {
+      "id": "hist-9631b881d9e897ee1a8b4b60",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "SGK Heidelberg",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 162
+    },
+    {
+      "id": "hist-6cbc537606b0d936b2d1b0de",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 163
+    },
+    {
+      "id": "hist-7e017fc626ccaaf06bf45337",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "BSC Erlangen",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 165
+    },
+    {
+      "id": "hist-8c15973b2add23241cf4a391",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "VfL Kirchheim/Teck",
+      "away": "SV Wehen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Wehen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 166
+    },
+    {
+      "id": "hist-9ec14e850d1a53ad0610ee8b",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "TuS Hoisdorf",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Hoisdorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 167
+    },
+    {
+      "id": "hist-32964f7d97ab0fe0595df5d8",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 168
+    },
+    {
+      "id": "hist-e62c26f95026dfc1b7725b67",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "SSV Reutlingen 05",
+      "away": "Hamborn 07",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Reutlingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 169
+    },
+    {
+      "id": "hist-850cb4333a63c92c1dcd941c",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "FC Germania Dörnigheim",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Bayreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 170
+    },
+    {
+      "id": "hist-ba260a52c0558d886ef8cd61",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "Türkiyemspor Berlin",
+      "away": "FC Emmendingen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Emmendingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 171
+    },
+    {
+      "id": "hist-aaba0aa2b088301648061ec5",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "SG Düren 99",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 172
+    },
+    {
+      "id": "hist-209a9d936fa73dfbc377cf74",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-07",
+      "time": null,
+      "home": "SV Meppen",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 173
+    },
+    {
+      "id": "hist-0f30062f15aa6d210376aa2a",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-07",
+      "time": null,
+      "home": "TBV Lemgo",
+      "away": "FC 08 Homburg",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 174
+    },
+    {
+      "id": "hist-b0a21bc32734039a566e6677",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-07",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Salmrohr",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 175
+    },
+    {
+      "id": "hist-3d312b24d3e4ff26a16ca620",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-07",
+      "time": null,
+      "home": "STV Horst-Emscher",
+      "away": "SG Union Solingen",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-4cedc1d37272c57c672ffc20",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-07",
+      "time": null,
+      "home": "Meiendorfer SV",
+      "away": "OT Bremen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "OT Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
+      "id": "hist-ddc83cbf26894cf9eb44a674",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-07",
+      "time": null,
+      "home": "BVL 08 Remscheid",
+      "away": "SpVgg Landshut",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Landshut",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-26aa7f9df19eb1046b2d1b65",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-07",
+      "time": null,
+      "home": "FC Bitburg",
+      "away": "SV Saar 05 Saarbrücken",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Saar 05 Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-c3d8b20efa8303544a29cd12",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-07",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-f4a331c29d3d1bab6d5d275f",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-07",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Hamburger SV",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5 (3:3, 1:1) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-b6a8cfd92971da78ec93170a",
+      "round": "1. Runde",
+      "replay": true,
+      "date": "1988-08-16",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 192
+    },
+    {
+      "id": "hist-edc89bff65e90aa8e231ef06",
+      "round": "1. Runde",
+      "replay": true,
+      "date": "1988-08-17",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-476d1c58eefda1dd185a5c8a",
+      "round": "1. Runde",
+      "replay": true,
+      "date": "1988-08-17",
+      "time": null,
+      "home": "SG Union Solingen",
+      "away": "STV Horst-Emscher",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Union Solingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-7b4d54c523f7cf0ef8a39a5f",
+      "round": "1. Runde",
+      "replay": true,
+      "date": "1988-09-07",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Arminia Bielefeld",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (1:1, 0:1) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-34ddd207568228def032e70e",
+      "round": "1. Runde",
+      "replay": true,
+      "date": "1988-09-24",
+      "time": null,
+      "home": "Eintracht Frankfurt (TV)",
+      "away": "VfL Wolfsburg",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (TV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-30be1987786cfe9c9903b37c",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-09-24",
+      "time": null,
+      "home": "SG Union Solingen",
+      "away": "SC Fortuna Köln",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 (1:1, 1:0) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-4f86906c440e6e23a671022f",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-09-24",
+      "time": null,
+      "home": "SSV Reutlingen 05",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 (1:1, 1:1) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-066e353238cfda3b900e9f48",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-09-24",
+      "time": null,
+      "home": "FC Emmendingen",
+      "away": "SV Wehen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Wehen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-9907a9eb46dccfc05e6f6b55",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-09-24",
+      "time": null,
+      "home": "SpVgg Landshut",
+      "away": "Alemannia Aachen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-3fb4e5107cb26b8bcf720c8f",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-09-25",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 208
+    },
+    {
+      "id": "hist-90c540b273a35ac2c1f2aa95",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-09-25",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 209
+    },
+    {
+      "id": "hist-4172006fcfc11dd23fc57fce",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-10-05",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 210
+    },
+    {
+      "id": "hist-931915d37533641965ccb179",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-10-12",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "Eintracht Frankfurt (TV)",
+      "score": [
+        5,
+        4
+      ],
+      "reportedScore": [
+        5,
+        4
+      ],
+      "raw": "5:4 (3:3, 0:0) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    },
+    {
+      "id": "hist-4445725a2df48a337185096e",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-10-30",
+      "time": null,
+      "home": "OT Bremen",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-6286478de308212b508dfe43",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-11-01",
+      "time": null,
+      "home": "SV Saar 05 Saarbrücken",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 (3:3, 0:2) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 213
+    },
+    {
+      "id": "hist-6e7ec1def193fc4d927c6d18",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-11-01",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 214
+    },
+    {
+      "id": "hist-788a3774ce78ab29f1812306",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-11-01",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 (1:1, 0:0) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    },
+    {
+      "id": "hist-bc172b843ff2b412e0d60043",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-11-01",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "FC 08 Homburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 216
+    },
+    {
+      "id": "hist-8d360fb66709facd046558dd",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-11-02",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Kickers Offenbach",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-c6857403517e6e869d519423",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-11-29",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "VfL Bochum",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (2:2, 0:1) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-42b68593d68c144662f2e850",
+      "round": "2. Runde",
+      "replay": true,
+      "date": "1988-10-12",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "SSV Reutlingen 05",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-080dbb93d88024319bad127f",
+      "round": "2. Runde",
+      "replay": true,
+      "date": "1988-10-13",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "SG Union Solingen",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-904cf160c9dfadd0cbe3005a",
+      "round": "2. Runde",
+      "replay": true,
+      "date": "1988-11-29",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "SV Saar 05 Saarbrücken",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-30418187bf5e18fe9467b65f",
+      "round": "2. Runde",
+      "replay": true,
+      "date": "1988-11-29",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-ad246ce41f773ffa77b8ecb5",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1988-11-16",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 237
+    },
+    {
+      "id": "hist-77e3f36ff2042c53c843a2ba",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1988-12-09",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "SC Fortuna Köln",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:1, 1:1) n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 239
+    },
+    {
+      "id": "hist-dd697cfcd0207f0968209202",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1988-12-10",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 240
+    },
+    {
+      "id": "hist-f7b07f1166317ed89ee77792",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1988-12-10",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 241
+    },
+    {
+      "id": "hist-94c2bc28792718123f48010d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1988-12-10",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 242
+    },
+    {
+      "id": "hist-7df94bc448687d58b76b1b04",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1989-02-11",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-280a4d7452e3aac174010750",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1989-02-14",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 (2:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-bcfd9608f5db35dc763d3152",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1989-03-28",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 253
+    },
+    {
+      "id": "hist-fb7eb653c7df603deb2903d2",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1989-03-28",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 254
+    },
+    {
+      "id": "hist-827be52c6cb75d5262f29977",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1989-03-29",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 255
+    },
+    {
+      "id": "hist-2bb213e0e4a76b422153bdae",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1989-03-29",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 256
+    },
+    {
+      "id": "hist-8a0ea07d7164357435416aeb",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1989-05-09",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "VfB Stuttgart",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 263
+    },
+    {
+      "id": "hist-43ed68475471f2f775d128a8",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1989-05-10",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 264
+    }
+  ],
+  "issues": [
+    {
+      "line": 159,
+      "reason": "unparsed row",
+      "raw": "11:2{{0}} (4:0)"
+    },
+    {
+      "line": 164,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}0:5 (0:1){{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 203,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}0:4 (0:2){{FN|2|gruppe=h1}}"
+    },
+    {
+      "line": 238,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}2:3 (0:1){{FN|3|gruppe=h1}}"
+    },
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

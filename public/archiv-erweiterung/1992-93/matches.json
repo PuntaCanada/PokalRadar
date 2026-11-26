@@ -1,0 +1,2339 @@
+{
+  "season": "1992-93",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270512098",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-75424b989337cba3f595c9f1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-18",
+      "time": null,
+      "home": "FSV Wacker 90 Nordhausen",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        8
+      ],
+      "reportedScore": [
+        0,
+        8
+      ],
+      "raw": "0:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-b17f8528424fc3ed8abb0da0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-18",
+      "time": null,
+      "home": "Bayer 04 Leverkusen (A)",
+      "away": "Hamburger SV",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(7:8 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
+      "id": "hist-a8789d601a7dcb3cccc9e701",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-18",
+      "time": null,
+      "home": "BSV Stahl Brandenburg",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-888061eee9d7e7d5ff7f28a7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-18",
+      "time": null,
+      "home": "OT Bremen",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        7
+      ],
+      "reportedScore": [
+        1,
+        7
+      ],
+      "raw": "1:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-03b049b600f858b015b5b219",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-18",
+      "time": null,
+      "home": "FC Gundelfingen",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-bbf91204fcf6bf0d8f3e5382",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-18",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "1. FC Dynamo Dresden",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Dynamo Dresden",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-5697545a2ffce713ef8fb706",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Salmrohr",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 182
+    },
+    {
+      "id": "hist-6a689c24937681aa1cfb0be3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "Sportfreunde Siegen",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    },
+    {
+      "id": "hist-62fc8872193aca4520f1e324",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 184
+    },
+    {
+      "id": "hist-030cea31c8db64f01a4bb308",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "ASV Bergedorf 85",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-bd146888f06d52b632ebec91",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "SC Jülich 1910",
+      "away": "SV Werder Bremen",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    },
+    {
+      "id": "hist-0d3b60060d1648d1a79de528",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "1. SC Göttingen 05",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 187
+    },
+    {
+      "id": "hist-0bb8fc4245b2cacb9dd1c32a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "Lüneburger SK",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 188
+    },
+    {
+      "id": "hist-2cb16d934412dd37cf8045ad",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "SSV Jahn Regensburg",
+      "away": "VfB Lübeck",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Jahn Regensburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 189
+    },
+    {
+      "id": "hist-975d181106bc434742d58a3a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "Hallescher FC",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 190
+    },
+    {
+      "id": "hist-e99ee9ad08cd668ac772ba75",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "Kickers Emden",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    },
+    {
+      "id": "hist-58c6246016e35c7e692942c1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "Fortuna Düsseldorf (A)",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 192
+    },
+    {
+      "id": "hist-b120ffe42ddd0f78ac58247b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-19",
+      "time": null,
+      "home": "SV Wehen",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-33f11a47824caf85db922e03",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1992-08-25",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-9ed7fc3427c8fed2f629b862",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-11",
+      "time": null,
+      "home": "SV Viktoria Aschaffenburg",
+      "away": "VfL Osnabrück",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-d6d5c5238ea1f5405f25268d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-11",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "1. FC Köln",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(4:3 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-c4291299d139412c8a7c7a6b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-11",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Hamburger SV",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-fe8046b66f63e77d9e58d888",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-11",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-8fe24628712821f5afbe69c1",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-11",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "SV Meppen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Meppen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-9da21d9e90500d4a4ca90a11",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "FC Rot-Weiß Erfurt",
+      "away": "FC Bayer 05 Uerdingen",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(2:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-84bf52982d1c6be2684dcfab",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "SC 08 Bamberg",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-cf6a2f6bc1a526a65b6522d1",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "TSV Bayer 04 Leverkusen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-fd605098feb78c8b2974b00d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 208
+    },
+    {
+      "id": "hist-fe3594f1e46d631be67349a9",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "1. FC Dynamo Dresden",
+      "away": "VfB Leipzig",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 209
+    },
+    {
+      "id": "hist-295f178fa7acdc4597dc6a73",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "Hansa Rostock",
+      "away": "VfB Stuttgart",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 210
+    },
+    {
+      "id": "hist-1eb1e2a10cf0bba2f44b030a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    },
+    {
+      "id": "hist-317841ea2b730870499d2835",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "SV Werder Bremen (A)",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-1278ebfa28a23abe29dd60b7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "SpVg Beckum",
+      "away": "SV Werder Bremen",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 213
+    },
+    {
+      "id": "hist-4aabed4687a6246470848a9b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "FC Remscheid",
+      "away": "SV Darmstadt 98",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Remscheid",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 214
+    },
+    {
+      "id": "hist-77417402c09aacdc8c4a7f91",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "SV Stuttgarter Kickers",
+      "away": "Chemnitzer FC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Chemnitzer FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    },
+    {
+      "id": "hist-8509b5fcf1705958c57de9de",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 216
+    },
+    {
+      "id": "hist-ad98ef5dcbce69157570be43",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "Bischofswerdaer FV 08",
+      "away": "VfB Oldenburg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bischofswerdaer FV 08",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-ba9a4aeb5e6b28c1851407db",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-5848fb70f9a32d2c2ca9855e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "Eisenhüttenstädter FC Stahl",
+      "away": "Wuppertaler SV",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.<br /><small>(5:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-ffa2b403b537ae55c05b4acf",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "SpVgg Bad Homburg",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-f156663b32ca293c8c321505",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "VfR Aalen",
+      "away": "FC 08 Homburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 221
+    },
+    {
+      "id": "hist-d7d9b632d6e82201e24d6c1a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "Sportfreunde Ricklingen",
+      "away": "SC Verl",
+      "score": [
+        5,
+        4
+      ],
+      "reportedScore": [
+        5,
+        4
+      ],
+      "raw": "5:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Sportfreunde Ricklingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 222
+    },
+    {
+      "id": "hist-f8b09c68b212f0b6d591fa81",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "SV Post T. Neubrandenburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 223
+    },
+    {
+      "id": "hist-df73a402fbdb24c8bacf8b7f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "SpVgg Plattling",
+      "away": "SSV Jahn Regensburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Plattling",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 224
+    },
+    {
+      "id": "hist-488007c61ff45c2140de889e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "TuS Hoppstädten",
+      "away": "VfR Heilbronn",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Heilbronn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 225
+    },
+    {
+      "id": "hist-02a1c7c89eb5cad699b12261",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "Hertha BSC (A)",
+      "away": "SGK Heidelberg",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-338595788b6919bbe0f7ec63",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "FSV Lok Altmark Stendal",
+      "away": "FSV Salmrohr",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Salmrohr",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-1ec8c56e98ba9208559a949e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-12",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "FC Bayern München",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(5:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-37616609a1ea54845832e380",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-13",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-c89f5bf8c4f5c5c40f087680",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-13",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-38468a33e4371b9ff6ec308d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1992-09-13",
+      "time": null,
+      "home": "Rot-Weiss Frankfurt",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 231
+    },
+    {
+      "id": "hist-07415817f2255603a3286c44",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-09",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 236
+    },
+    {
+      "id": "hist-5bde1fd067d71696046d4759",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-09",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "FC Remscheid",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 237
+    },
+    {
+      "id": "hist-e9154273ebd38331fd6403f7",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-09",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 238
+    },
+    {
+      "id": "hist-e716910732334885fa938065",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "Bischofswerdaer FV 08",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 239
+    },
+    {
+      "id": "hist-d876d219e168ce85926f47d7",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "Hertha BSC (A)",
+      "away": "VfB Leipzig",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 240
+    },
+    {
+      "id": "hist-d7a6129c75b25085c7b54deb",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "Sportfreunde Ricklingen",
+      "away": "Chemnitzer FC",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Chemnitzer FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 241
+    },
+    {
+      "id": "hist-ab57ce9b2131daf291cdfd94",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "SpVgg Plattling",
+      "away": "FC Carl Zeiss Jena",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 242
+    },
+    {
+      "id": "hist-d88fee63c280a62217a6ab2b",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "VfR Heilbronn",
+      "away": "TSV Bayer 04 Leverkusen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-d1e705be44a253185362785c",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "FC 08 Homburg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-fbd08bc3ec18630e613384da",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "FC Bayer 05 Uerdingen",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 245
+    },
+    {
+      "id": "hist-6e7d342d8c328d14a4ba929f",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 246
+    },
+    {
+      "id": "hist-f6517fa36863b6eded2e0a90",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "SV Werder Bremen",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 247
+    },
+    {
+      "id": "hist-d07bbca0ade746564393cc36",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 248
+    },
+    {
+      "id": "hist-f2c45d16c3ef3e04ae543d82",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Hansa Rostock",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(3:0 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 249
+    },
+    {
+      "id": "hist-b0380f175e77af9c545c9895",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-10",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Eisenhüttenstädter FC Stahl",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 250
+    },
+    {
+      "id": "hist-4f44a9f3934fb8504d20e401",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1992-10-11",
+      "time": null,
+      "home": "SV Meppen",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 251
+    },
+    {
+      "id": "hist-815a6c7dad62246882a3b207",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1992-11-06",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "MSV Duisburg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 256
+    },
+    {
+      "id": "hist-881baa03dedb45a76d8ed1a6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1992-11-06",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "1. FC Nürnberg",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(2:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 257
+    },
+    {
+      "id": "hist-a20cfef53cf2d07f538f01dd",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1992-11-06",
+      "time": null,
+      "home": "Hertha BSC (A)",
+      "away": "Hannover 96",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 258
+    },
+    {
+      "id": "hist-515431421111dfd5bfd8cbfa",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1992-11-07",
+      "time": null,
+      "home": "TSV Bayer 04 Leverkusen",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 259
+    },
+    {
+      "id": "hist-0757014edb83cbda986c9f40",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1992-11-07",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 260
+    },
+    {
+      "id": "hist-2da920ffad676489a9811844",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1992-11-07",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "VfL Osnabrück",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 261
+    },
+    {
+      "id": "hist-362d3611197ba4d6101dc894",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1992-11-07",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Chemnitzer FC",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Chemnitzer FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 262
+    },
+    {
+      "id": "hist-63a9c342ef05be90cd794655",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1992-11-07",
+      "time": null,
+      "home": "SV Werder Bremen",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 263
+    },
+    {
+      "id": "hist-0b3bb2e2e626aba986396a57",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1992-12-01",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "TSV Bayer 04 Leverkusen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 268
+    },
+    {
+      "id": "hist-41fbc04457fc3cff7fe2b52e",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1992-12-01",
+      "time": null,
+      "home": "Chemnitzer FC",
+      "away": "SV Werder Bremen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Chemnitzer FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 269
+    },
+    {
+      "id": "hist-3ab22097d3b7140bdb407580",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1992-12-01",
+      "time": null,
+      "home": "Hertha BSC (A)",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 270
+    },
+    {
+      "id": "hist-1a4de8d863d2d11999e8a41d",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1992-12-02",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Eintracht Frankfurt",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.<br /><small>(3:5 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 271
+    },
+    {
+      "id": "hist-d238959e6d87db0b8e9e67fd",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1993-03-30",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "TSV Bayer 04 Leverkusen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 276
+    },
+    {
+      "id": "hist-c70fd78dfb774f2afe6adaa2",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1993-03-31",
+      "time": null,
+      "home": "Hertha BSC (A)",
+      "away": "Chemnitzer FC",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 277
+    }
+  ],
+  "issues": [
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

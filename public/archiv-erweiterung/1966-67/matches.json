@@ -1,0 +1,1203 @@
+{
+  "season": "1966-67",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265846625",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-05a9cfe9d92eafe4ac192031",
+      "round": "Qualifikation",
+      "replay": false,
+      "date": "1966-12-26",
+      "time": null,
+      "home": "Altona 93",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Altona 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 24
+    },
+    {
+      "id": "hist-e2cce9bbd84cdb4f2420ecc3",
+      "round": "Qualifikation",
+      "replay": false,
+      "date": "1966-12-31",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSV Hessen Kassel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 25
+    },
+    {
+      "id": "hist-5cff80593db3fb8ef515aea2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-ce4ca71c751052090d95bc2e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "Kickers Offenbach",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-fc329f8cd9639d23517368b9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "SpVgg Erkenschwick",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Erkenschwick",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-6c82f00b62985449b083f904",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "Altona 93",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-c455af22255825cd532c259c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-c3c027130895f3209b46ecc3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-1cc8353dc4dcbbbda2aa55ee",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "FK Pirmasens",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-9753ec5d1b708b13dc4ffc32",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "VfB Stuttgart",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-ccc81e43befbf7205636a2be",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-b157eb3c2229943271d4ddd6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "Duisburger FV 08",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-59ddc5fffd547adab7d1c2b2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-698a5a0fc480931d53f54e0d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 42
+    },
+    {
+      "id": "hist-2eece9e9167e610a54cf9a0f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-5196958a0505d6c627fd4760",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-14",
+      "time": null,
+      "home": "SV Arminia Hannover",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-3a5baa3abcc14eefad0f3dd3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-15",
+      "time": null,
+      "home": "Hannover 96 II",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 45
+    },
+    {
+      "id": "hist-537ea22ac8af5f986dc668f7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1967-01-18",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-0309627e6fa62b285bee4fc2",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1967-01-24",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-cf047b9ed88f546dc001ddf5",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1967-01-25",
+      "time": null,
+      "home": "FK Pirmasens",
+      "away": "Alemannia Aachen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-430b945f49f84c11c9d478f1",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1967-01-25",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "Hannover 96 (Amateure)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-4ea574378762b1661c735af4",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1967-01-25",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "KSV Hessen Kassel",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-9a7383c2284469a3f757088b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1967-02-03",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-3ac2aef13ffa7ffb284df746",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1967-02-04",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-3d4edc9deeb427bef089a9e1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1967-02-04",
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-626d1d51abee295d419caa0f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1967-02-04",
+      "time": null,
+      "home": "SpVgg Erkenschwick",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 64
+    },
+    {
+      "id": "hist-655171c35e45b8896026db9c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1967-02-04",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Karlsruher SC",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 65
+    },
+    {
+      "id": "hist-87e371f3580efde9eafd4529",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1967-02-04",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 66
+    },
+    {
+      "id": "hist-47aabc004e56af17ed402164",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1967-02-04",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Kickers Offenbach",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-f5a195341fdc76eda89a7c3e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1967-02-04",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-0141464eb5a63b539875c727",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1967-02-14",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-9182a33497ac49863c66c10d",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1967-02-14",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-8a576ba3e8a88564bde7b007",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1967-02-14",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-00cde2e7a6ef141464c85835",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1967-02-15",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-556dbdd02600a3f3290842ae",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1967-03-23",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 83
+    },
+    {
+      "id": "hist-ed523a06040dcf0996c16fd4",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1967-03-25",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 84
+    },
+    {
+      "id": "hist-537deca66624ce257ba67860",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1967-03-25",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 85
+    },
+    {
+      "id": "hist-03620b9e43dd4988628855fe",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1967-03-25",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 86
+    },
+    {
+      "id": "hist-3ce9a52af451780b5e700c4b",
+      "round": "Viertelfinale",
+      "replay": true,
+      "date": "1967-04-12",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Kickers Offenbach",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 92
+    },
+    {
+      "id": "hist-93db341c7cc3ae50733f00be",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1967-05-06",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Alemannia Aachen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 98
+    },
+    {
+      "id": "hist-a08d6be71581a1503997e3c7",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1967-05-06",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "TSV 1860 München",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 99
+    }
+  ],
+  "issues": [
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

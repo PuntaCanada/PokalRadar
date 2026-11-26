@@ -1,0 +1,1025 @@
+{
+  "season": "1968-69",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266483294",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-8b5998f836df06aa87daa664",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-04",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "Preußen Münster",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Preußen Münster",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 22
+    },
+    {
+      "id": "hist-b4a95307af6ac9c760e8cf6d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-04",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Hertha BSC",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 23
+    },
+    {
+      "id": "hist-758fff6372517126ce3ac33c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-04",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 24
+    },
+    {
+      "id": "hist-80b5dea6b9052185c777d7f2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-04",
+      "time": null,
+      "home": "SV Alsenborn",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Alsenborn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 25
+    },
+    {
+      "id": "hist-b3021a47d7b153f04dfa8c54",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-04",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-774fc2f31dc2e2723d7676d8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-04",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-86a93af83393de37fb1d1863",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-04",
+      "time": null,
+      "home": "SSV Jahn Regensburg",
+      "away": "Alemannia Aachen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-3922965cc1b4dd6a0cbecbae",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-04",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-cc072149ef12aa970bbf50da",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-05",
+      "time": null,
+      "home": "Langenhorner TSV Hamburg",
+      "away": "SC Sperber Hamburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Sperber Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-d903ecea04593fb2861ce193",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-05",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-10f26fdce34e6e3831a417d0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-15",
+      "time": null,
+      "home": "SV Arminia Hannover",
+      "away": "1. FC Schweinfurt 05",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Arminia Hannover",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-8a32152848fdc996ee378183",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-22",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-c3f605b342e14cf629067bc2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-01-28",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-f7e9b5d31f2af98bbfae8302",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-02-05",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Kickers Offenbach",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-55b58354b5c29d3a754ed5a4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-02-05",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Borussia Dortmund",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-8e5723e98e3e227a68085848",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1969-02-12",
+      "time": null,
+      "home": "Wacker 04 Berlin",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-21edfc8f2c52a95b94cdb513",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1969-02-11",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-c2c5d771b9a01d9f6d5e2e7d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1969-02-15",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-b3623aab79c47e90c7b6d4c1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1969-02-15",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Preußen Münster",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-eab06ab424381cf39b1d4c44",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1969-02-15",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "SV Arminia Hannover",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-c72e37d57fc2fbc61409e8f6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1969-02-15",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "SV Alsenborn",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-89eb4178d7cf85097fb828c1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1969-02-15",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-cba6f74b776c94e808edde00",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1969-02-15",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-f50631ad57e6d9f2a1ed46b4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1969-02-15",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "VfB Stuttgart",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-27c7edc9506595b18a9a84e0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1969-04-02",
+      "time": null,
+      "home": "SC Sperber Hamburg",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-8f10fe2a06d0b6ddc51d7873",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1969-03-05",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-cc510d04afac3edd42b6b1bb",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1969-04-12",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "SC Sperber Hamburg",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-fb8a6dc76d63a31886992ab0",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1969-04-03",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-8b4b39198635c42047ab4f91",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1969-04-03",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Alemannia Aachen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-b7cc6ae5528559cd1ccad41b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1969-04-03",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Werder Bremen",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 71
+    },
+    {
+      "id": "hist-510f919c48b29d46e6250e1a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1969-04-23",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 72
+    },
+    {
+      "id": "hist-a912da9c39f641dc0e3dbcfb",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1969-05-03",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 78
+    },
+    {
+      "id": "hist-d8e2fedb396e91eafbbef820",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1969-05-03",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 79
+    },
+    {
+      "id": "hist-8aaf8159ec38cbde1dcb4703",
+      "round": "Halbfinale",
+      "replay": true,
+      "date": "1969-05-13",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 85
+    },
+    {
+      "id": "hist-513171db40a10949e53ab9f9",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 151
+    }
+  ],
+  "issues": []
+}

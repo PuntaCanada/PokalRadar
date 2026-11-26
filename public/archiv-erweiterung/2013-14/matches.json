@@ -1,0 +1,1587 @@
+{
+  "season": "2013-14",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=271653648",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-6bff34c70b75dc95c7cc175d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-02",
+      "time": null,
+      "home": "1. FC Heidenheim (III)",
+      "away": "TSV 1860 München (II)",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:0)<br /><small>(3:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 622
+    },
+    {
+      "id": "hist-f7df98149aaf1764feb84791",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-02",
+      "time": null,
+      "home": "VfL Osnabrück (III)",
+      "away": "FC Erzgebirge Aue (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 623
+    },
+    {
+      "id": "hist-019ea3d9b0f03d8c8bf4755d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-02",
+      "time": null,
+      "home": "RB Leipzig (III)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 624
+    },
+    {
+      "id": "hist-d43b1d4f16648917a8d0360d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-03",
+      "time": null,
+      "home": "SV Lippstadt 08 (IV)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6 (1:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 626
+    },
+    {
+      "id": "hist-5f57964083e77df8bc1ba46c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-03",
+      "time": null,
+      "home": "SC Fortuna Köln (IV)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 627
+    },
+    {
+      "id": "hist-51854f8dee76e24957b423ad",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-03",
+      "time": null,
+      "home": "TSG Neustrelitz (IV)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Freiburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 628
+    },
+    {
+      "id": "hist-f214ad381e3814d253316cef",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-03",
+      "time": null,
+      "home": "SV Wilhelmshaven (IV)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 629
+    },
+    {
+      "id": "hist-797f57a160e1bc1507f710fc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-03",
+      "time": null,
+      "home": "1. FC Magdeburg (IV)",
+      "away": "Energie Cottbus (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 632
+    },
+    {
+      "id": "hist-e4ade6a817b6f6db950ddb4b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-03",
+      "time": null,
+      "home": "Bahlinger SC (V)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 633
+    },
+    {
+      "id": "hist-a067b1257f27efbe0a9e1115",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-03",
+      "time": null,
+      "home": "TSV 1860 Rosenheim (IV)",
+      "away": "VfR Aalen (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Aalen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 634
+    },
+    {
+      "id": "hist-8d3051ccf0737409ce2b3e6b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-03",
+      "time": null,
+      "home": "Karlsruher SC (II)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 635
+    },
+    {
+      "id": "hist-2a9358d67df24bb605dc3c46",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-03",
+      "time": null,
+      "home": "Eintracht Trier (IV)",
+      "away": "1. FC Köln (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 636
+    },
+    {
+      "id": "hist-758c68a8e64f1dd2b813a0df",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-04",
+      "time": null,
+      "home": "1. FC Saarbrücken (III)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V. (1:1, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 637
+    },
+    {
+      "id": "hist-b7cadfbef13c7565f4f748de",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-04",
+      "time": null,
+      "home": "SV Darmstadt 98 (III)",
+      "away": "Bor. Mönchengladbach (I)",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(5:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 638
+    },
+    {
+      "id": "hist-519f0de25c678addd9b70d2b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-04",
+      "time": null,
+      "home": "Arminia Bielefeld (II)",
+      "away": "Eintracht Braunschweig (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 639
+    },
+    {
+      "id": "hist-a23f512955ca5d89d01b41c4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-04",
+      "time": null,
+      "home": "SC Victoria Hamburg (IV)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 640
+    },
+    {
+      "id": "hist-b0bd3f1749262ddcac3641cb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-04",
+      "time": null,
+      "home": "BFC Dynamo (V)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 643
+    },
+    {
+      "id": "hist-b46aa0dd434cb3ae18814a5f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-04",
+      "time": null,
+      "home": "VfR Neumünster (IV)",
+      "away": "Hertha BSC (I)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 644
+    },
+    {
+      "id": "hist-b4869e84b3b0730d8ed8213a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-04",
+      "time": null,
+      "home": "FSV Optik Rathenow (IV)",
+      "away": "FSV Frankfurt (II)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FSV Frankfurt (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 646
+    },
+    {
+      "id": "hist-58a6fd28e935cb35bdc30d7d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-04",
+      "time": null,
+      "home": "Preußen Münster (III)",
+      "away": "FC St. Pauli (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Preußen Münster (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 648
+    },
+    {
+      "id": "hist-ec0e78fe011a6be7e9964fdf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-04",
+      "time": null,
+      "home": "SV Sandhausen (II)",
+      "away": "1. FC Nürnberg (I)",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:1)<br /><small>(4:3 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 649
+    },
+    {
+      "id": "hist-d89da68c13c3aeb878483320",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-05",
+      "time": null,
+      "home": "SSV Jahn Regensburg (III)",
+      "away": "1. FC Union Berlin (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 651
+    },
+    {
+      "id": "hist-38bac9e82dbfcd3924da6a7f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2013-08-05",
+      "time": null,
+      "home": "MSV Duisburg (III)",
+      "away": "SC Paderborn 07 (II)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Paderborn 07 (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 652
+    },
+    {
+      "id": "hist-3ce39500fa691d55794d4f9c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-24",
+      "time": null,
+      "home": "Preußen Münster (III)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 669
+    },
+    {
+      "id": "hist-372ed015adcc7be5f22c41fd",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-24",
+      "time": null,
+      "home": "SC Wiedenbrück 2000 (IV)",
+      "away": "SV Sandhausen (II)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Sandhausen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 670
+    },
+    {
+      "id": "hist-92c5ad48b6161a9bc26a497f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-24",
+      "time": null,
+      "home": "TSV 1860 München (II)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 671
+    },
+    {
+      "id": "hist-48c45057bd3bbc267c7586a4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-24",
+      "time": null,
+      "home": "VfL Wolfsburg (I)",
+      "away": "VfR Aalen (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 672
+    },
+    {
+      "id": "hist-46633df79bb32a139e6b7bdc",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-24",
+      "time": null,
+      "home": "Arminia Bielefeld (II)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 673
+    },
+    {
+      "id": "hist-801ad3939824204fe7d54d3f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-24",
+      "time": null,
+      "home": "Hamburger SV (I)",
+      "away": "SpVgg Greuther Fürth (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 674
+    },
+    {
+      "id": "hist-2552a4dce572fda1a4f8a772",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-24",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim (I)",
+      "away": "Energie Cottbus (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 675
+    },
+    {
+      "id": "hist-0491b96d1240f3552333c881",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-24",
+      "time": null,
+      "home": "1. FSV Mainz 05 (I)",
+      "away": "1. FC Köln (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 676
+    },
+    {
+      "id": "hist-13eb1b46b71691c57b6ecf68",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-25",
+      "time": null,
+      "home": "1. FC Saarbrücken (III)",
+      "away": "SC Paderborn 07 (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 677
+    },
+    {
+      "id": "hist-89fa80c588f1f8784f602b98",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-25",
+      "time": null,
+      "home": "Eintracht Frankfurt (I)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 678
+    },
+    {
+      "id": "hist-ab8ce9a8accc501ff5d87185",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-25",
+      "time": null,
+      "home": "FSV Frankfurt (II)",
+      "away": "FC Ingolstadt 04 (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Ingolstadt 04 (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 679
+    },
+    {
+      "id": "hist-39d936f95604cfd88db97d8a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-25",
+      "time": null,
+      "home": "1. FC Kaiserslautern (II)",
+      "away": "Hertha BSC (I)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 680
+    },
+    {
+      "id": "hist-c3e5f7d0c9d266bff2ab8ac2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-25",
+      "time": null,
+      "home": "VfL Osnabrück (III)",
+      "away": "1. FC Union Berlin (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 681
+    },
+    {
+      "id": "hist-be86feb0634d779ca3f533a9",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-25",
+      "time": null,
+      "home": "SV Darmstadt 98 (III)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 682
+    },
+    {
+      "id": "hist-b78c5629a39cdc64d69cec36",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-25",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 683
+    },
+    {
+      "id": "hist-6b2fb3d66639ddea421570a9",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2013-09-25",
+      "time": null,
+      "home": "SC Freiburg (I)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 684
+    },
+    {
+      "id": "hist-c21b377348ae2cd36fee7fc1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2013-12-03",
+      "time": null,
+      "home": "1. FC Union Berlin (II)",
+      "away": "1. FC Kaiserslautern (II)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 691
+    },
+    {
+      "id": "hist-fc700682c7a7a6e3c4da4a8b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2013-12-03",
+      "time": null,
+      "home": "Hamburger SV (I)",
+      "away": "1. FC Köln (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 692
+    },
+    {
+      "id": "hist-b0db2f564e12792da116352e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2013-12-03",
+      "time": null,
+      "home": "FC Schalke 04 (I)",
+      "away": "TSG 1899 Hoffenheim (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 693
+    },
+    {
+      "id": "hist-3fb761814c695107e7c8e778",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2013-12-03",
+      "time": null,
+      "home": "1. FC Saarbrücken (III)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 694
+    },
+    {
+      "id": "hist-1197de72c8d946958d60faf9",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2013-12-04",
+      "time": null,
+      "home": "SC Freiburg (I)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 695
+    },
+    {
+      "id": "hist-32cff9b60a257fad53d08e8c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2013-12-04",
+      "time": null,
+      "home": "VfL Wolfsburg (I)",
+      "away": "FC Ingolstadt 04 (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 696
+    },
+    {
+      "id": "hist-454c5b4cb15d140516c6355f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2013-12-04",
+      "time": null,
+      "home": "Eintracht Frankfurt (I)",
+      "away": "SV Sandhausen (II)",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 697
+    },
+    {
+      "id": "hist-c005e2854bc083dc9b40e3b4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2013-12-04",
+      "time": null,
+      "home": "FC Augsburg (I)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 698
+    },
+    {
+      "id": "hist-f83be5c1cfe266e651dc1412",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2014-02-11",
+      "time": null,
+      "home": "Eintracht Frankfurt (I)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 705
+    },
+    {
+      "id": "hist-58a0a4788716f419bd502658",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2014-02-12",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim (I)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 706
+    },
+    {
+      "id": "hist-75efa212bf568578f49fe0bf",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2014-02-12",
+      "time": null,
+      "home": "Bayer 04 Leverkusen (I)",
+      "away": "1. FC Kaiserslautern (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 707
+    },
+    {
+      "id": "hist-4fcdd0acbfc6728bfe7d7853",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2014-02-12",
+      "time": null,
+      "home": "Hamburger SV (I)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 708
+    },
+    {
+      "id": "hist-c779639fc323d0983440dcfb",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2014-04-15",
+      "time": null,
+      "home": "Borussia Dortmund (I)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 715
+    },
+    {
+      "id": "hist-d75af9c8716f62b9e63b600a",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2014-04-16",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "1. FC Kaiserslautern (II)",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 716
+    }
+  ],
+  "issues": [
+    {
+      "line": 625,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup> 1</sup>}}0:9 (0:0){{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 630,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup> 2</sup>}}1:4 (0:2){{FN|2|gruppe=h1}}"
+    },
+    {
+      "line": 631,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup> 3</sup>}}0:7 (0:2){{FN|3|gruppe=h1}}"
+    },
+    {
+      "line": 641,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup> 4</sup>}}0:2 (0:1){{FN|4|gruppe=h1}}"
+    },
+    {
+      "line": 642,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup> 5</sup>}}0:4 (0:0){{FN|5|gruppe=h1}}"
+    },
+    {
+      "line": 645,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup> 6</sup>}}1:0 (0:0){{FN|6|gruppe=h1}}"
+    },
+    {
+      "line": 647,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup> 7</sup>}}0:2 (0:0){{FN|7|gruppe=h1}}"
+    },
+    {
+      "line": 650,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup> 8</sup>}}0:2 (0:1){{FN|8|gruppe=h1}}"
+    },
+    {
+      "line": 653,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup> 9</sup>}}0:5 (0:2){{FN|9|gruppe=h1}}"
+    },
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

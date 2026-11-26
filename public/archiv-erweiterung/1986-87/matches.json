@@ -1,0 +1,2031 @@
+{
+  "season": "1986-87",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270444346",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-0d32dfa09c67f31bc72fa23b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-27",
+      "time": null,
+      "home": "SC Charlottenburg",
+      "away": "SV Darmstadt 98",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 160
+    },
+    {
+      "id": "hist-d33d1033080a8a2037d3b868",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-29",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 161
+    },
+    {
+      "id": "hist-880e9820dca0472d9a258276",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-29",
+      "time": null,
+      "home": "TSG Giengen",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 162
+    },
+    {
+      "id": "hist-441b98902a2888739edf86fa",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-29",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "SG Union Solingen",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 163
+    },
+    {
+      "id": "hist-40b677bad03c6258ef1caa32",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-29",
+      "time": null,
+      "home": "Rot-Weiß Lüdenscheid",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 164
+    },
+    {
+      "id": "hist-092786641dc167699bfa7dee",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-29",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 165
+    },
+    {
+      "id": "hist-4922c1e5e863583c2f88261e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-29",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Alemannia Aachen",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 166
+    },
+    {
+      "id": "hist-4db3967b50654535c7245519",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "FC Amberg",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 167
+    },
+    {
+      "id": "hist-399352123c9dc423b880ec13",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "FC Blau-Weiß Friedrichstadt",
+      "away": "Hassia Bingen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Blau-Weiß Friedrichstadt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 168
+    },
+    {
+      "id": "hist-7118eb34f2751521bd036226",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "FC Bayer 05 Uerdingen",
+      "away": "VfB Stuttgart",
+      "score": [
+        6,
+        4
+      ],
+      "reportedScore": [
+        6,
+        4
+      ],
+      "raw": "6:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 169
+    },
+    {
+      "id": "hist-040327d41b12e1177466a05e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 170
+    },
+    {
+      "id": "hist-7ba004ed918fe012151d6c72",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "VfL Osnabrück",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 171
+    },
+    {
+      "id": "hist-a4605c899e01ddd730a9c8cb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "Viktoria Aschaffenburg",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 172
+    },
+    {
+      "id": "hist-f753ce1bfdca2c93c1f6e813",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 173
+    },
+    {
+      "id": "hist-92a853104048bf1c6cb7fad2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "DSC Wanne-Eickel",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 174
+    },
+    {
+      "id": "hist-01d4c2de4571cf549194fa6b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "VfR Aalen",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 175
+    },
+    {
+      "id": "hist-27ce14f73045720bc6fc7905",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "FC Emmendingen",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-c4c80f7ae60d4198686a82e7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "Karlsruher SC",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
+      "id": "hist-aa91b9bd046206d69f463811",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "SC Viktoria Köln",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-089797dc8a4b401e0c334493",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "TSV Stelingen",
+      "away": "Arminia Bielefeld",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-1c073b35065f98ce86cc2431",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-032a2f1d56a173f76cfff2dd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "SV Meppen",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-7a36789de7a17c85263ea23b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "VfL Hamm/Sieg",
+      "away": "FC Gütersloh",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 182
+    },
+    {
+      "id": "hist-92e2f3e51dbd977e8ad1b4d6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "FC Augsburg",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    },
+    {
+      "id": "hist-dfc563e8797c20ad8d217769",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "SV Viktoria Goch",
+      "away": "FC 08 Homburg / Saar",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg / Saar",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 184
+    },
+    {
+      "id": "hist-f2d1c0db0f5dec050aa020e4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-48df184438d10d683c22eb80",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "SC Fortuna Köln",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    },
+    {
+      "id": "hist-dc9a4a4e59dd7c2b4f6768ff",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "SKV Mörfelden",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 187
+    },
+    {
+      "id": "hist-0d3d715a1d7df26432edf71d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-30",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 188
+    },
+    {
+      "id": "hist-26e5f1a61859b485d4ec3363",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-31",
+      "time": null,
+      "home": "BVL 08 Remscheid",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BVL 08 Remscheid",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 189
+    },
+    {
+      "id": "hist-b13271f036b5d2c7df229a0a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-31",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        8
+      ],
+      "reportedScore": [
+        2,
+        8
+      ],
+      "raw": "2:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 190
+    },
+    {
+      "id": "hist-eaa06b964467615f4599404e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1986-08-31",
+      "time": null,
+      "home": "Bremer SV",
+      "away": "KSV Hessen Kassel",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    },
+    {
+      "id": "hist-d89f8881a81b5286c4b9f2f9",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1986-09-10",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "Bremer SV",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.<br /><small>(4:5 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-520aa4685acb055c70cb6e24",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1986-09-10",
+      "time": null,
+      "home": "FC Gütersloh",
+      "away": "VfL Hamm/Sieg",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(5:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-39c3a55e39ac68145b83ec69",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1986-09-23",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "VfL Wolfsburg",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-605cbb4e97bba03e9090851c",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1986-10-07",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "SV Werder Bremen",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(7:6 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-90074ecf11c73e0126ccb41a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-23",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-3744b029f2d89d176278da39",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-24",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-38aaca6157133df5a01ad183",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-24",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-f617321fab3a124d7aeb889c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-24",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-981903939aa8ef417be05a27",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-24",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 208
+    },
+    {
+      "id": "hist-89ce14427acbf608adac9011",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-25",
+      "time": null,
+      "home": "FC 08 Homburg / Saar",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 209
+    },
+    {
+      "id": "hist-7a44f18fcef27f13893a7e26",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-25",
+      "time": null,
+      "home": "FC Gütersloh",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 210
+    },
+    {
+      "id": "hist-0a4aa7bf8170cc688cddd550",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-25",
+      "time": null,
+      "home": "Bremer SV",
+      "away": "FC St. Pauli",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    },
+    {
+      "id": "hist-ea2cace3345c879194e79778",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-25",
+      "time": null,
+      "home": "Blau-Weiß Friedrichstadt",
+      "away": "SV Darmstadt 98",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-01d5f130bbcb59a276c5429f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-25",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "1. FC Nürnberg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 213
+    },
+    {
+      "id": "hist-8e47b9b3282da696e21d8c11",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-25",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 214
+    },
+    {
+      "id": "hist-b5501f7bd85116b293a7d089",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-25",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    },
+    {
+      "id": "hist-bed3ff03613867da20562b3e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-26",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 216
+    },
+    {
+      "id": "hist-019a0c858ccb7df4254de52e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-26",
+      "time": null,
+      "home": "BVL 08 Remscheid",
+      "away": "Hannover 96",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-369b73698456f13206062744",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-26",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-f8414bb7072d8f1488fc5209",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1986-10-26",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Borussia Dortmund",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-82c6fcf22a31ff62be97a04b",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1986-11-11",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "SC Fortuna Köln",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 224
+    },
+    {
+      "id": "hist-b0c0bde9eece7d26c00a9824",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1986-11-12",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 225
+    },
+    {
+      "id": "hist-1a63777b5fbb14c2405c7c67",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1986-11-12",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "BVL 08 Remscheid",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-552b51daa9da3109d89cc861",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1986-11-18",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "FC Bayern München",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 231
+    },
+    {
+      "id": "hist-49dfcce51bc9f696f4a022b2",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1986-11-18",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 232
+    },
+    {
+      "id": "hist-191e9296706cfa336d9d92cd",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1986-11-19",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 233
+    },
+    {
+      "id": "hist-4c5644b158f3fb75afe91fb7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1986-11-19",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "FC St. Pauli",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 234
+    },
+    {
+      "id": "hist-0f9b9cf1b0480a07a944b806",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1986-11-19",
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 235
+    },
+    {
+      "id": "hist-032cd8119619d0f1e958c08a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1986-11-19",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "SV Darmstadt 98",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 236
+    },
+    {
+      "id": "hist-943b0e00ab3a85cf438c96f8",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1986-11-19",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 237
+    },
+    {
+      "id": "hist-9995d9e37aa961411f7249e2",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1986-11-19",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 238
+    },
+    {
+      "id": "hist-fe84cb3196e5d3a67a3f31ab",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1987-03-07",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-0e84096802c46249a6ee697f",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1987-03-07",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        9,
+        2
+      ],
+      "reportedScore": [
+        9,
+        2
+      ],
+      "raw": "9:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-0f3c88c03e35199f9f341f28",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1987-03-07",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 245
+    },
+    {
+      "id": "hist-69bfa0c59f81ad20ae5b6aee",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1987-03-07",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 246
+    },
+    {
+      "id": "hist-8a348490d55ef8630759810a",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1987-03-31",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 251
+    },
+    {
+      "id": "hist-049aefcce860060daac92b7e",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1987-04-01",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 252
+    },
+    {
+      "id": "hist-e4492fcd59c17104724d7413",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 320
+    }
+  ],
+  "issues": []
+}

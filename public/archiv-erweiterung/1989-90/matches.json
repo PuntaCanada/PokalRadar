@@ -1,0 +1,1851 @@
+{
+  "season": "1989-90",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266624220",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-542bdcaa76610398f0c35bb4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-18",
+      "time": null,
+      "home": "Rot-Weiss Frankfurt",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-d7bf389e4624417698835828",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-18",
+      "time": null,
+      "home": "SV Arminia Hannover",
+      "away": "FC 08 Homburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Arminia Hannover",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-eca6fb1b9d7602d4ca5f5c33",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-18",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-1f614213d01763f003432d48",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-18",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Bayer Uerdingen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-486888d03dd0dfe037b1cb5a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Borussia M’gladbach",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia M’gladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-10584416df872ec464dc55b0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-32024dc8812b26e3190cb412",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-64f1870cd1fcff4aebeea63a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "SV Wiesbaden",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-3f9c706c3aed5e8b76d126ef",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-2855ae9c7fab3727d72958a2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-19e2ca2bf3c919cbbaec45c2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "Bayer 04 Leverkusen Am.",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 45
+    },
+    {
+      "id": "hist-360a7dfb9aebd20009056304",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "Hertha Zehlendorf",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-5bf7135b03a1965d6fef1f9c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "SpVgg Plattling",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-c126c009738c1a166a5355c2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "SV Meppen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-411321654eca7ad2ee8d884a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-9f2af20ff873ab9c6b3880c8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "SpV Langenau 08",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-9f3be185165041f8320ddf82",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "SC Jülich 1910",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-0ac07077355d728d60c494e3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "FC Wangen 05",
+      "away": "SV Darmstadt 98",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-0aeb2eaef58ddd9e7ed9ebb7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "1. FC Pforzheim",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Pforzheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-362a526ac7cf2bcb86ebcfad",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "1. FC Schweinfurt 05",
+      "away": "Altona 93",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Schweinfurt 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-343cb82598edb8d81e59bb68",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "TSG Pfeddersheim",
+      "away": "VfB Gaggenau",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG Pfeddersheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-d283a13e89fb298d30e7634d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "SC Geislingen",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-489de5d01b5598e5314fb1ef",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "SV Edenkoben",
+      "away": "SV Saar 05 Saarbrücken",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Edenkoben",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-aa79637925e95f0f1880a34f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "Borussia Dortmund (TV)",
+      "away": "SC Fortuna Köln",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (TV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-9645202bfbc6fca7401ed053",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-20",
+      "time": null,
+      "home": "Werder Bremen Am.",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-c9e3ee999fab3b9f52fcafe1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-20",
+      "time": null,
+      "home": "SG Union Solingen",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-8855ae86ec513bb925971fc6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-20",
+      "time": null,
+      "home": "FC Gütersloh",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-9fbf8c477a416d17f4f7bf79",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-20",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "TuS Hoisdorf",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Hoisdorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-6971428d791162a7f813a6e3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-20",
+      "time": null,
+      "home": "Viktoria Aschaffenburg",
+      "away": "Karlsruher SC",
+      "score": [
+        2,
+        6
+      ],
+      "reportedScore": [
+        2,
+        6
+      ],
+      "raw": "2:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-0da7c775630e6fd60e83625f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-20",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "Alemannia Aachen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 64
+    },
+    {
+      "id": "hist-293dc81cc1218041ee42b7ba",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1989-08-29",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "FC Gütersloh",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Gütersloh",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-ae2e2911e913b290a854b019",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1989-08-30",
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "SC Jülich 1910",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-9a5d0e74127d38173e5b742d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "Borussia M’gladbach",
+      "away": "1. FC Nürnberg",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia M’gladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 81
+    },
+    {
+      "id": "hist-2a3096d371c1fdaeeb71093c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 82
+    },
+    {
+      "id": "hist-57870a4d21829a5ccadee525",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 83
+    },
+    {
+      "id": "hist-020e4acd6a57f346d6b67100",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 84
+    },
+    {
+      "id": "hist-d43b725d8004defa0f78dd85",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 85
+    },
+    {
+      "id": "hist-b741941637f462f4c4b164d6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "Borussia Dortmund (TV)",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 86
+    },
+    {
+      "id": "hist-c263575572d1b663e3a96e8d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "1. FC Pforzheim",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Pforzheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 87
+    },
+    {
+      "id": "hist-cc03a23091d49f8cd3532a4e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "SV Arminia Hannover",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 88
+    },
+    {
+      "id": "hist-9349dd677c44021cc73b6aee",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 89
+    },
+    {
+      "id": "hist-fdf8b21e88b76ca39d20aff6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "FC Gütersloh",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 90
+    },
+    {
+      "id": "hist-2acfabb150cdc2d4499ee3a7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "SV Edenkoben",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 91
+    },
+    {
+      "id": "hist-938321eff3b540c4f7b1048a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "1. FC Schweinfurt 05",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Schweinfurt 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 92
+    },
+    {
+      "id": "hist-41cf80848fe835653ad60200",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "TSG Pfeddersheim",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 93
+    },
+    {
+      "id": "hist-95282e2345c2bd493ff501de",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-23",
+      "time": null,
+      "home": "TuS Hoisdorf",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 94
+    },
+    {
+      "id": "hist-8377c5ea5868757975da5d82",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-24",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 95
+    },
+    {
+      "id": "hist-f8924968270b2111e310f456",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1989-09-24",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "VfL Osnabrück",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 96
+    },
+    {
+      "id": "hist-bd00ab1b851fcfcfecf5f55d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1989-11-08",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 102
+    },
+    {
+      "id": "hist-fbc09a92ec3ca20adb67f155",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1989-11-09",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 103
+    },
+    {
+      "id": "hist-57fb0441cf972a6e75ac052d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1989-11-09",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "FC Bayern München",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 104
+    },
+    {
+      "id": "hist-8b7b61b15cf5319df773a300",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1989-11-10",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 105
+    },
+    {
+      "id": "hist-4fc9538b50bc4839da7f2812",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1989-11-11",
+      "time": null,
+      "home": "1. FC Schweinfurt 05",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 106
+    },
+    {
+      "id": "hist-7346987ffac2c692bfe391cf",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1989-11-11",
+      "time": null,
+      "home": "1. FC Pforzheim",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 107
+    },
+    {
+      "id": "hist-245060d841f35ce4bbffcfe6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1989-11-11",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "SV Darmstadt 98",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 108
+    },
+    {
+      "id": "hist-61d2c29541d463c04880f414",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1989-11-11",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 109
+    },
+    {
+      "id": "hist-b1387f570db53a0d1a6d1dff",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1989-12-12",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 115
+    },
+    {
+      "id": "hist-2c65a5c3da2b6ae5743e96f9",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1989-12-12",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 116
+    },
+    {
+      "id": "hist-4eecec924186419f471d0e90",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1989-12-13",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "VfL Osnabrück",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 117
+    },
+    {
+      "id": "hist-4a51dc5f24a7f5fecd37b082",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1990-02-17",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 118
+    },
+    {
+      "id": "hist-cfd3627fd04d25218e637cbb",
+      "round": "Viertelfinale",
+      "replay": true,
+      "date": "1990-03-13",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Kickers Offenbach",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 124
+    },
+    {
+      "id": "hist-4d22168360fd757c9e24bb13",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1990-03-27",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 131
+    },
+    {
+      "id": "hist-48bb32a26edf1619bcb9cd6d",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1990-03-28",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 132
+    }
+  ],
+  "issues": [
+    {
+      "line": 33,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}0:2{{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 42,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}0:3{{FN|2|gruppe=h1}}"
+    },
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

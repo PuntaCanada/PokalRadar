@@ -1,0 +1,3910 @@
+{
+  "season": "1981-82",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=272137253",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-497c414567d72d3f46ed9d8d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-28",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "TSV Bayer 04 Leverkusen (A)",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 188
+    },
+    {
+      "id": "hist-c7fa0057b0201c6f9a549d7f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-28",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "FC Rastatt 04",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 189
+    },
+    {
+      "id": "hist-627b05a36a52ea0b0c425002",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-28",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "VfB Bottrop",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 190
+    },
+    {
+      "id": "hist-25b3bc4e54b1c0b911c04326",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "SC Jülich",
+      "score": [
+        8,
+        0
+      ],
+      "reportedScore": [
+        8,
+        0
+      ],
+      "raw": "8:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    },
+    {
+      "id": "hist-97c257f36d9504e10f9e26dc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "Arminia Bielefeld",
+      "score": [
+        3,
+        6
+      ],
+      "reportedScore": [
+        3,
+        6
+      ],
+      "raw": "3:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 192
+    },
+    {
+      "id": "hist-fb1d5240560189d7272e3331",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "SpVgg Landshut",
+      "away": "Hassia Bingen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hassia Bingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-45cdbf373487c433f62145ac",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "TSV 1861 Nördlingen",
+      "away": "VfB Oldenburg",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Oldenburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-0416b1b4938b9d212d655c4c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "SV Leiwen",
+      "away": "SC Herford",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Leiwen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-266a62e4866fb9bb007601b0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "BFC Preussen",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BFC Preussen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-1108a1529f15eaf5f77c9190",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-cf43389ea55915c996343138",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-39eb106421dd0a940a139a54",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-fd551af47d4f862f0bb2df13",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "SG Union Solingen",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-5dba7cd2a416c0c8c89c59ee",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "FC Grone",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-bee64d16588e279c8b1d3ad1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "1. FC Paderborn",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-b66f36f51532c629e5c5e741",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "BSC Brunsbüttel",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-d94f4543f4efa78a43737a28",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "SSV Dillenburg",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        7
+      ],
+      "reportedScore": [
+        2,
+        7
+      ],
+      "raw": "2:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-2d49188e0439c9ea345853a9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "1. FC Eislingen",
+      "away": "SV Darmstadt 98",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-c0008b1c002c829a7f934fb5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "1. FC Haßfurt",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-284099ffb59af8f3050a1e62",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Wuppertaler SV",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wuppertaler SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 208
+    },
+    {
+      "id": "hist-0ff226b3fd46241c8081afaf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Kickers Offenbach",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 209
+    },
+    {
+      "id": "hist-11f4346939c6fbaf956eddde",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Bayreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 210
+    },
+    {
+      "id": "hist-891560ce0619683350d6d638",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "FC Bayern Hof",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    },
+    {
+      "id": "hist-38f8f80ceffbb147cf5cb610",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "TuS Lörrach-Stetten",
+      "away": "Wormatia Worms",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-c83f2b423dab6116e7975714",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "TS Woltmershausen",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Freiburger FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 213
+    },
+    {
+      "id": "hist-7afc6075eff0c0da63bbe4b1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "OSV Hannover",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 214
+    },
+    {
+      "id": "hist-95d616d3ce6f6aa51fa75b7c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Alemannia Aachen",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    },
+    {
+      "id": "hist-095f02b9e7af60d7c0234848",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Raspo Osnabrück",
+      "away": "SC Fortuna Köln",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 216
+    },
+    {
+      "id": "hist-34a9b847eb7b2088b937ebe8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "FC Tailfingen",
+      "away": "SV Ruchheim",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Tailfingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-f6b425e19caee81d743ef0a7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "ASC Dudweiler",
+      "away": "FSV Salmrohr",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-d0c7bfabbc75757a7f7ead9f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "SV Neckargerach",
+      "away": "Würzburger Kickers",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Neckargerach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-98a6c0493f323d55e6aed80a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "FV 09 Weinheim",
+      "away": "SpVgg 07 Ludwigsburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FV 09 Weinheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-2e5adea81efc1a06865e6582",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "SC Urania Hamburg",
+      "away": "VfL Hamm/Sieg",
+      "score": [
+        6,
+        4
+      ],
+      "reportedScore": [
+        6,
+        4
+      ],
+      "raw": "6:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Urania Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 221
+    },
+    {
+      "id": "hist-70381ee4228b3d7f5ff74f26",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "1. FC Kaiserslautern (A)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 222
+    },
+    {
+      "id": "hist-c2e3f556ba08444156fb512a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "FSV Frankfurt II",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 223
+    },
+    {
+      "id": "hist-b2867da2312933cb34a7afd5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "1. FC Bocholt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Bocholt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 224
+    },
+    {
+      "id": "hist-653636ecfdac987182f606af",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Rendsburger TSV",
+      "away": "SC Viktoria Köln",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 225
+    },
+    {
+      "id": "hist-b4a21480b6053cc7fff5703f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "1. FC Nürnberg (A)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-e873e99b267cd6b6432ac0eb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "SV Union Salzgitter",
+      "away": "FC Augsburg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Union Salzgitter",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-0cd604cdbe2f676d0bf83390",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "Preußen Münster",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-0f533b9b4d542ef2f9bed274",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "TuS Oberwinter",
+      "away": "FC Rhade",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Oberwinter",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-3362dd49a9893082e7138d8b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Hermannia Kassel",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-8bb4454ce5d07d0adb38eb2e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Offenburger FV",
+      "away": "Reinickendorfer Füchse",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Offenburger FV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 231
+    },
+    {
+      "id": "hist-514c43ba3e26c9b5334ec00c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "TSV Röttenbach",
+      "away": "SV Elversberg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Elversberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 232
+    },
+    {
+      "id": "hist-236ec225f14536e7ff036da7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Siegburger SV 04",
+      "away": "FK Pirmasens",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 233
+    },
+    {
+      "id": "hist-b9983674708ca10ad5af349d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "SpVgg Fürth",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 234
+    },
+    {
+      "id": "hist-7afb45e064d5d5eb876a1448",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "TSV Marktl",
+      "away": "SC Freiburg",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 235
+    },
+    {
+      "id": "hist-88fc653710e333dc45b5a12f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "VfB Eppingen",
+      "away": "Hannover 96 (A)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Eppingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 236
+    },
+    {
+      "id": "hist-7131b685d17b09246a83c066",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Post SV Regensburg",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 237
+    },
+    {
+      "id": "hist-8bc349117fe71faff535e5a3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "SpVgg Erkenschwick",
+      "away": "TSV Bayer 04 Leverkusen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 238
+    },
+    {
+      "id": "hist-60ef94a11c321664ac60e693",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "TuS Iserlohn",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 239
+    },
+    {
+      "id": "hist-7a028dfb3deee88b84907ab5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "TuS Xanten",
+      "away": "Göttingen 05",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Göttingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 240
+    },
+    {
+      "id": "hist-54a0db51e87ed8aad0fafc43",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "SC Viktoria Griesheim",
+      "away": "Hamburger SV (A)",
+      "score": [
+        8,
+        2
+      ],
+      "reportedScore": [
+        8,
+        2
+      ],
+      "raw": "8:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Viktoria Griesheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 241
+    },
+    {
+      "id": "hist-43369bbf6c9c43afc77338fc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "FC Gohfeld",
+      "away": "FVgg. Kastel 06",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Gohfeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 242
+    },
+    {
+      "id": "hist-99bb5dd1bcb5771501a7a21b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "TuSpo Ziegenhain",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-47476e1b403772bd23c4e555",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "VfL Witten",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-53ea2264a494bbd6b766e66a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "TuS Celle",
+      "away": "ESV Ingolstadt-Ringsee",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Celle",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 245
+    },
+    {
+      "id": "hist-79977ccb82110fd74d3b8b40",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "Rot-Weiß Lüdenscheid",
+      "away": "VfL Wolfsburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 246
+    },
+    {
+      "id": "hist-9c91d63b5ac9290469471f5e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "1. FC Köln (A)",
+      "away": "OSC Bremerhaven",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 247
+    },
+    {
+      "id": "hist-e11b787fe55c879266b3e80d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "VfB Stuttgart (A)",
+      "away": "VfL Klafeld-Geisweid 08",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 248
+    },
+    {
+      "id": "hist-a6b8c3d555940a7fe9fa5bf6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "FC Schalke 04",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSV Hessen Kassel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 249
+    },
+    {
+      "id": "hist-96c1b7f3748342d6472a2b75",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "SC Geislingen",
+      "away": "VfR OLI Bürstadt",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 250
+    },
+    {
+      "id": "hist-47573a73975324d11a21cc63",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-30",
+      "time": null,
+      "home": "SV Arminia Hannover",
+      "away": "TSV Kappeln",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Arminia Hannover",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 251
+    },
+    {
+      "id": "hist-883afbf9b0c53b0f437be3ce",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1981-09-08",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 256
+    },
+    {
+      "id": "hist-a546409f911608e9c4a875da",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1981-09-08",
+      "time": null,
+      "home": "SC Viktoria Köln",
+      "away": "Rendsburger TSV",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Viktoria Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 257
+    },
+    {
+      "id": "hist-56db05762ae5fd47a92af6d9",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1981-09-09",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "ASC Dudweiler",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Salmrohr",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 258
+    },
+    {
+      "id": "hist-570c2af33c1b9f0245c6707b",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1981-09-09",
+      "time": null,
+      "home": "VfR OLI Bürstadt",
+      "away": "SC Geislingen",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR OLI Bürstadt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 259
+    },
+    {
+      "id": "hist-cc8d0aefb1e4cd73864a50c3",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1981-09-09",
+      "time": null,
+      "home": "1. FC Nürnberg (A)",
+      "away": "SSV Ulm 1846",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 260
+    },
+    {
+      "id": "hist-28c7f407e4e4df28533ba2e8",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-09",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "SV Leiwen",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 265
+    },
+    {
+      "id": "hist-965a87997ca3614cab12e652",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-09",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "SV Neckargerach",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 266
+    },
+    {
+      "id": "hist-e9707a79fa49673875dc46e2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-09",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "FK Pirmasens",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 267
+    },
+    {
+      "id": "hist-db7ef64fd8ee9acc3e4ddb39",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-09",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 268
+    },
+    {
+      "id": "hist-a84e99cf7229e62c79ff1f46",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "Göttingen 05",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Göttingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 269
+    },
+    {
+      "id": "hist-c06993021b203c3b7a036d35",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "Hassia Bingen",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 270
+    },
+    {
+      "id": "hist-f6c1ff1f874fa27903326a20",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 271
+    },
+    {
+      "id": "hist-cf55379c9181577b2dede322",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "SC Fortuna Köln",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "KSV Hessen Kassel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 272
+    },
+    {
+      "id": "hist-b0206a093d06182ee6d18a85",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "TuS Celle",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Freiburger FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 273
+    },
+    {
+      "id": "hist-4891e8582747948937784c6b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "FV 09 Weinheim",
+      "away": "VfL Osnabrück",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 274
+    },
+    {
+      "id": "hist-e55e2ad69af523a97a791bd6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "SC Viktoria Griesheim",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 275
+    },
+    {
+      "id": "hist-a2a52acacca052d4d41cb180",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "VfB Eppingen",
+      "away": "BFC Preussen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Eppingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 276
+    },
+    {
+      "id": "hist-b48292540b2c1de07c213b9c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "FC Gohfeld",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 277
+    },
+    {
+      "id": "hist-ba13200599b934f2a6206fea",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "SC Viktoria Köln",
+      "away": "VfR OLI Bürstadt",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 278
+    },
+    {
+      "id": "hist-e1fd4d79e9ba061d8f9aea5a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "VfL Wolfsburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 279
+    },
+    {
+      "id": "hist-5b56013921307a0895c9f4f4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 280
+    },
+    {
+      "id": "hist-ca22548b80fe31fcace373b2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 281
+    },
+    {
+      "id": "hist-2131d670c1bc744e9a2e01cc",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 282
+    },
+    {
+      "id": "hist-a965a2d4f99868f17c79e360",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Eintracht Trier",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 283
+    },
+    {
+      "id": "hist-5ad93a70d83f122bef87bf97",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "SV Arminia Hannover",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 284
+    },
+    {
+      "id": "hist-f3d41090665148df520e8358",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Wuppertaler SV",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 285
+    },
+    {
+      "id": "hist-bbe046141f1e7a8e6e932324",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "FC Tailfingen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 287
+    },
+    {
+      "id": "hist-9f5d828c518fa1fa6147f434",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "SV Elversberg",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 288
+    },
+    {
+      "id": "hist-5ab190fde3b2d8062e167c77",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 289
+    },
+    {
+      "id": "hist-3e1c495b474bd126d1cda4b2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "Wormatia Worms",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 290
+    },
+    {
+      "id": "hist-e0e4a2160b0636a210d25494",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "1. FC Kaiserslautern (A)",
+      "away": "SC Urania Hamburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Urania Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 291
+    },
+    {
+      "id": "hist-47d5aceb42e3b53fc7d2afed",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-11",
+      "time": null,
+      "home": "1. FC Köln (A)",
+      "away": "TSV Bayer 04 Leverkusen",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 292
+    },
+    {
+      "id": "hist-faf94ab0ea9003f7d58f6383",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-11",
+      "time": null,
+      "home": "VfB Stuttgart (A)",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Bayreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 293
+    },
+    {
+      "id": "hist-62cbb81443af9a6b1df594e4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-11",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "VfB Oldenburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Oldenburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 294
+    },
+    {
+      "id": "hist-eff28a041580284df4217b9d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-11",
+      "time": null,
+      "home": "1. FC Bocholt",
+      "away": "Offenburger FV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Bocholt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 295
+    },
+    {
+      "id": "hist-484bf3aa0fa11fd4ee946f3c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-11",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "SV Union Salzgitter",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 296
+    },
+    {
+      "id": "hist-dde3e36ea8a5b4c6dd3b63ae",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1981-10-27",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 301
+    },
+    {
+      "id": "hist-2909aa23468dafc771ee41c6",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1981-11-18",
+      "time": null,
+      "home": "TSV Bayer 04 Leverkusen",
+      "away": "1. FC Köln (A)",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 302
+    },
+    {
+      "id": "hist-c4cbac80862aef16267d763e",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1981-11-18",
+      "time": null,
+      "home": "VfR OLI Bürstadt",
+      "away": "SC Viktoria Köln",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfR OLI Bürstadt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 303
+    },
+    {
+      "id": "hist-9cc91e8b31c20b3abee612e1",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-04",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 308
+    },
+    {
+      "id": "hist-70114ef0994e4185ce4a063e",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-04",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "VfL Osnabrück",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 309
+    },
+    {
+      "id": "hist-bc097af41b8de775a139bd9a",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-04",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "SSV Ulm 1846",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 310
+    },
+    {
+      "id": "hist-0e75def9be17a19412b75c7f",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-05",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 311
+    },
+    {
+      "id": "hist-d61e7148a81ebc04727d1dd9",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-05",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 312
+    },
+    {
+      "id": "hist-a3ca7cf0e191a6b8aced290e",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-05",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "VfB Eppingen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 313
+    },
+    {
+      "id": "hist-161cc6e60ad57f89cb55dc45",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-05",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "Holstein Kiel",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Freiburger FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 314
+    },
+    {
+      "id": "hist-2a035f683d10e1d076e3f55c",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-05",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 315
+    },
+    {
+      "id": "hist-869247edcebff64fe781af4f",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-05",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 316
+    },
+    {
+      "id": "hist-4de5bed5c063c81367a4aa79",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-05",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Borussia Dortmund",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 317
+    },
+    {
+      "id": "hist-76420a9d8bf3cfbb6e22b957",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-06",
+      "time": null,
+      "home": "SC Urania Hamburg",
+      "away": "Göttingen 05",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Göttingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 318
+    },
+    {
+      "id": "hist-c13d00645b7dfa88577c710c",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-06",
+      "time": null,
+      "home": "1. FC Bocholt",
+      "away": "VfR OLI Bürstadt",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Bocholt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 319
+    },
+    {
+      "id": "hist-e2ca3a603e0bf5233c80ac6e",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-15",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "TSV Bayer 04 Leverkusen",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 320
+    },
+    {
+      "id": "hist-bbd609d67988ff1772a7263f",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-22",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 321
+    },
+    {
+      "id": "hist-4d21ba59ac5674e0dff70326",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1981-12-30",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "FSV Frankfurt",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 322
+    },
+    {
+      "id": "hist-819992ce4f1b2f49364284e2",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1982-01-03",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "VfB Oldenburg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SpVgg Bayreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 323
+    },
+    {
+      "id": "hist-d4556159d983d524be12ad08",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-01-09",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 329
+    },
+    {
+      "id": "hist-c6ada9b84a0a0c3e50354d9a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-01-09",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 330
+    },
+    {
+      "id": "hist-1ffd87a7f38b809843aecdbe",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-01-09",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 331
+    },
+    {
+      "id": "hist-e7effb6f95ab794ef3d3acf2",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-01-09",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 332
+    },
+    {
+      "id": "hist-bbda8bdbd55e73565e16ae02",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-01-10",
+      "time": null,
+      "home": "1. FC Bocholt",
+      "away": "Göttingen 05",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 333
+    },
+    {
+      "id": "hist-ac065cf85f08e378dace8074",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-01-16",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "FSV Frankfurt",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 334
+    },
+    {
+      "id": "hist-ece0906ea4afba65bbb654d3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-01-19",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 335
+    },
+    {
+      "id": "hist-4c282969418a56254295f7a6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1982-01-26",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Karlsruher SC",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 336
+    },
+    {
+      "id": "hist-e20002b102edab8e1829c603",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1982-01-16",
+      "time": null,
+      "home": "Göttingen 05",
+      "away": "1. FC Bocholt",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Göttingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 342
+    },
+    {
+      "id": "hist-39a90ecbbe01463a820c8df0",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1982-01-26",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 343
+    },
+    {
+      "id": "hist-00e429d56496955a62cbb94b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1982-02-20",
+      "time": null,
+      "home": "Göttingen 05",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 348
+    },
+    {
+      "id": "hist-d8fe32b323dbf8d70bf22160",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1982-02-20",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 349
+    },
+    {
+      "id": "hist-185121002f2aed8001ce9c78",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1982-02-20",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 350
+    },
+    {
+      "id": "hist-04f5ac489cc3e46309ef358b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1982-02-20",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "SSV Ulm 1846",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 351
+    },
+    {
+      "id": "hist-b095762bebdc42a21356b15a",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1982-04-10",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 356
+    },
+    {
+      "id": "hist-985124c3f484714099722b4e",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1982-04-10",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 357
+    }
+  ],
+  "issues": [
+    {
+      "line": 205,
+      "reason": "unparsed row",
+      "raw": "10:1{{0}}"
+    },
+    {
+      "line": 286,
+      "reason": "unparsed row",
+      "raw": "10:1{{0}}"
+    },
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

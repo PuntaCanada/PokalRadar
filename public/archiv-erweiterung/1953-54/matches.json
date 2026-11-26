@@ -1,0 +1,198 @@
+{
+  "season": "1953-54",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266123832",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-9e90e495bafd17d8af963620",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1953-08-01",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "BFC Viktoria 1889",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 24
+    },
+    {
+      "id": "hist-e7bfb072425b681efda44c17",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1953-08-02",
+      "time": null,
+      "home": "TuS Neuendorf",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Neuendorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 25
+    },
+    {
+      "id": "hist-be381bb9d8b4c9b918ce29d3",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1953-08-02",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "SV Bergisch Gladbach",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-0446432f21cf6284425dbd9a",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1953-12-13",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-cb4e0968923d3df5f90ac0c7",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1953-12-13",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "TuS Neuendorf",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-d5b0cd4bc50f8c32c659ed75",
+      "round": "Halbfinale",
+      "replay": true,
+      "date": "1954-03-24",
+      "time": null,
+      "home": "TuS Neuendorf",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    }
+  ],
+  "issues": [
+    {
+      "line": 23,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}2:3{{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 32,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}0:6{{FN|2|gruppe=h1}}"
+    },
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

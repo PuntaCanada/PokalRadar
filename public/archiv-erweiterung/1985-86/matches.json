@@ -1,0 +1,1950 @@
+{
+  "season": "1985-86",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270465758",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-ad281768dfe5bfd7c4b355da",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "SpVgg Plattling",
+      "away": "Itzehoer SV",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Plattling",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-fa9c2c4fe964cf1a1eed479b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
+      "id": "hist-00f69d590c714cf3122cddbb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Hamburger SV",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-fee9aa01568236b6ada65743",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        6,
+        3
+      ],
+      "reportedScore": [
+        6,
+        3
+      ],
+      "raw": "6:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-7633c2b7a198da1e2d8a2db5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "SC Freiburg",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-14e50e5b5300112ce6aa663c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "SV Weil",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-3b350c9b56213afb0dcd78f8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "SpVgg Ansbach 09",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 182
+    },
+    {
+      "id": "hist-741ccc1ecba3d463758f0e50",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "VfR Bürstadt",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    },
+    {
+      "id": "hist-5ba30fa36f308a389d3a1c3c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 184
+    },
+    {
+      "id": "hist-ebc5f1c9bee67db87a14fcb8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-2d645a9fd44f1fef1efc54eb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "FC Altona 93",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    },
+    {
+      "id": "hist-3a8be6c95263275ef11b7b4f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "Eisbachtaler Sportfreunde",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 187
+    },
+    {
+      "id": "hist-3765c134bc63755c123948b7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "Göttingen 05",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 188
+    },
+    {
+      "id": "hist-ac9673ee0c86721b0fc44c41",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "SC Neukirchen",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        9
+      ],
+      "reportedScore": [
+        2,
+        9
+      ],
+      "raw": "2:9",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 189
+    },
+    {
+      "id": "hist-800e6ec0b8b909df9dc21a56",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "FV 07 Ebingen",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        7
+      ],
+      "reportedScore": [
+        2,
+        7
+      ],
+      "raw": "2:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 190
+    },
+    {
+      "id": "hist-9d16720e5ac64b27ceadb92f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "SC Fortuna Köln",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    },
+    {
+      "id": "hist-5811a5aae58da934e2b625ce",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 192
+    },
+    {
+      "id": "hist-49123819ed531b57247348b3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-0cbe8d0dccb7e6f298c56e11",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "1. FC Achternberg",
+      "away": "VfL Osnabrück",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-5e1c557416860710facab1c4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "Wuppertaler SV",
+      "away": "KSV Hessen Kassel",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSV Hessen Kassel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-8646e61fe804134ec08f2c84",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-4a2fa9bfd320114137821d06",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "Bremer SV",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-5ace19db322646274086a183",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "SG Union Solingen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Sandhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-b0b9464e0fec9a6d4d0c4af4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "FC Wangen 05",
+      "away": "SV Darmstadt 98",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Wangen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-8697394bd7b3f84ccc83c25e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "TuS Paderborn-Neuhaus",
+      "away": "1. FC Köln (A)",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Paderborn-Neuhaus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-93efac47de9e1ba15887987f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "VfL Erp",
+      "away": "SSV Ulm 1846",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-3536e0d2f7468e8b3aa34ea0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-24",
+      "time": null,
+      "home": "VfR Langelsheim",
+      "away": "DSC Wanne-Eickel",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "DSC Wanne-Eickel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-a48b92e65845f4b3bf925479",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-25",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-3b1e1bca80b08baac6d9f8de",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-25",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-b6b7950f1f7adc3ef889d30d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-25",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "Arminia Bielefeld",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-35db7bc6f780a2299335b5c9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-25",
+      "time": null,
+      "home": "FC Erbach",
+      "away": "SC Birkenfeld",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Erbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-b74f87c568f7e493be39745a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1985-08-25",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "FC 08 Homburg",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-b958cb3248afd9564a7e3cdb",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1985-09-11",
+      "time": null,
+      "home": "FC 08 Homburg / Saar",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg / Saar",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-e315249dca4df03afc60dcf4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-17",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "VfL Osnabrück",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-663b25663f8431d71728b51d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-18",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "MSV Duisburg",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-8b0c05201ece39886ff5461b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "SpVgg Plattling",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-a8fc3df4a28aee62c6c60d36",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "TuS Paderborn-Neuhaus",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-82264879ca056992646d912c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 221
+    },
+    {
+      "id": "hist-d724ed246a2439750eae399c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "FC 08 Homburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 222
+    },
+    {
+      "id": "hist-2ac3bf2c7a24aec74f356937",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "FC Erbach",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 223
+    },
+    {
+      "id": "hist-36589731daf6bf4d8962d0ed",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "FC Wangen 05",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Sandhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 224
+    },
+    {
+      "id": "hist-dabd3f4fd00e726308973759",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "FC St. Pauli",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 225
+    },
+    {
+      "id": "hist-07fa08b3e11e0997f044b88c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "1. FC Köln",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-6bffca0c49fc6bbcd73a6d16",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-dbab0975b0e935254b0973d2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-acbfb76f2026a40476d1f8c6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-aeef36e4cb7f26d346f31690",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "KSV Hessen Kassel",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-e7e28c07c9b2866d2e0b74a0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-19",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 231
+    },
+    {
+      "id": "hist-1890a1107e6105c5de59f523",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1985-10-20",
+      "time": null,
+      "home": "DSC Wanne-Eickel",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 232
+    },
+    {
+      "id": "hist-a2cb45c000665931c940be66",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1985-10-29",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "SV Eintracht Trier",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 237
+    },
+    {
+      "id": "hist-2c89bc112153fea7c77df539",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1985-10-30",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Fortuna Düsseldorf",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(3:1 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 238
+    },
+    {
+      "id": "hist-307761a4dbcf60e599346112",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1985-11-12",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Hannover 96",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-f7a236e49e9eb03e31fbb23c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1985-11-13",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-1ce9665f202d294bd038b1e8",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1985-11-13",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 245
+    },
+    {
+      "id": "hist-49f2c4941044aeff6e236c42",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1985-11-13",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 246
+    },
+    {
+      "id": "hist-491286fb40ecd62e1fae35f8",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1985-11-16",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 247
+    },
+    {
+      "id": "hist-28d822544c42da201227ef2a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1985-11-16",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 248
+    },
+    {
+      "id": "hist-74896ee5be8cf7e22a14fca3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1985-11-20",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Sandhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 249
+    },
+    {
+      "id": "hist-b259ce3c4167c4ef0baefca3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1985-12-21",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 250
+    },
+    {
+      "id": "hist-2fcb898f645ad1b519358d93",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1985-12-18",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 257
+    },
+    {
+      "id": "hist-ed00fc260116c1d7eb0021c6",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1985-12-19",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 262
+    },
+    {
+      "id": "hist-aed37a40550a4a76a871c18f",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1985-12-21",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 263
+    },
+    {
+      "id": "hist-e1b8ea797a5349635ecb8c2a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1985-12-21",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "FC Schalke 04",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 264
+    },
+    {
+      "id": "hist-691ff21a06b67cf7d1619624",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1986-01-22",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 265
+    },
+    {
+      "id": "hist-626c302f43637e2687151a59",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1986-03-25",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 270
+    },
+    {
+      "id": "hist-97e457e7d46086507664d8e4",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1986-03-26",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Borussia Dortmund",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 271
+    },
+    {
+      "id": "hist-565be6de5459e5a361b27b6b",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "VfB Stuttgart",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 351
+    }
+  ],
+  "issues": []
+}

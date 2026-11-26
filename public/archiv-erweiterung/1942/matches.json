@@ -1,0 +1,1795 @@
+{
+  "season": "1942",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266089196",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-7a1a59a8d59b56382197f45e",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "LSV Gütersloh",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-df4b2250a1d9bedb4d77c196",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "TSG 1861 Ludwigshafen",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-4934618cc8545a466306a316",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Königsberg",
+      "away": "MTV Ponarth",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Königsberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-ac7d9c06016cab14f1a638d1",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Neufahrwasser",
+      "away": "LSV Heiligenbeil",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Neufahrwasser",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-38942c6eb8379a6f1faa334c",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "HUS Marienwerder",
+      "away": "LSV Stettin",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Stettin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-a143c6360c2dddb3f37401fc",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Stettiner SC",
+      "away": "LSV Pütnitz",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Pütnitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-da70e4a2af731db5f5099abb",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "Lufthansa SG Berlin",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-01109b83d4b6dc0378a2a4e3",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Sportfreunde Halle",
+      "away": "SC Minerva Berlin",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Minerva Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-09fecb97e33fdbfad1cedfdd",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Boelcke Krakau",
+      "away": "TuS Lipine",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Lipine",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-a851a06fe3dd5da7b629ddd0",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Reinecke Brieg",
+      "away": "LSV Olmütz",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Reinecke Brieg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-a9eefe6a05c460ae89444057",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Germania Königshütte",
+      "away": "LSV Adler Deblin",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Adler Deblin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-86469ae43e072ffb12f186ab",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "NSTG Falkenau",
+      "away": "Planitzer SC",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "NSTG Falkenau",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-9b2e84f233b90a52b6632b6a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Döbelner SC",
+      "away": "NSTG Prag",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Döbelner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-a4c2741a02339f08d2ab6698",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Dessau 05",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Dessau 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-448a731ceedb9a8bd3ac87cd",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "SC Victoria Hamburg",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-f4513b2b642edb479d9960cb",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Eimsbütteler TV",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-50e729f28d9d1102659a9a49",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hannover 96",
+      "away": "SV Fortuna Leipzig 02",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-d542f4f2d06951a9dfb17eda",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Reichsbahn SG Borussia Fulda",
+      "away": "Westende Hamborn",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westende Hamborn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 64
+    },
+    {
+      "id": "hist-4effd17ea954606be132687f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Schwarz-Weiß 07 Esch",
+      "away": "FV Stadt Düdelingen",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FV Stadt Düdelingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 65
+    },
+    {
+      "id": "hist-98ec42088fa6111f697168f3",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Victoria Köln",
+      "away": "SpVgg 07 Sülz",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg 07 Sülz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 66
+    },
+    {
+      "id": "hist-c0a273677e04f62d981ac9da",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamborn 07",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-cc9072d09f5f7f3f1c5538b2",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Hanau 93",
+      "away": "1. FC Schweinfurt 05",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Hanau 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-e9f4b124ee4a78dcf05147f7",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "VfR Mannheim",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-8f7ebf2cfefd364d5942fdc9",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Kickers Offenbach",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-3276aebf0c0d668ef4b609fe",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "SG SS Straßburg",
+      "score": [
+        4,
+        5
+      ],
+      "reportedScore": [
+        4,
+        5
+      ],
+      "raw": "4:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG SS Straßburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 71
+    },
+    {
+      "id": "hist-2c0f85948e1b38b0b6ca10ec",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "VfL Köln 1899",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Köln 1899",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 72
+    },
+    {
+      "id": "hist-5e4600cfeb3ab8384246c7a0",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Mülhausen 93",
+      "away": "RSC Straßburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Mülhausen 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 73
+    },
+    {
+      "id": "hist-eccfbd1bb11668a7c5a01b81",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SG Böblingen",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-a77ba7fc1a320fdcc2222a1d",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "SpVgg Fürth",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-59a4c032702f896a19c2c445",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "SK Rapid Wien",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-77eca552ea515e0f2acccaa1",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Wiener AC",
+      "away": "First Vienna FC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "First Vienna FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-27c6eb18d2cc762a9c234ee3",
+      "round": "1. Schlussrunde",
+      "replay": true,
+      "date": null,
+      "time": null,
+      "home": "SV Fortuna Leipzig 02",
+      "away": "Hannover 96",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Fortuna Leipzig 02",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 83
+    },
+    {
+      "id": "hist-32489e163b267c47a911d686",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Dessau 05",
+      "away": "Döbelner SC",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Dessau 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 90
+    },
+    {
+      "id": "hist-f9ccfce54cb7608022863134",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Westende Hamborn",
+      "away": "DSC Arminia Bielefeld",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westende Hamborn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 91
+    },
+    {
+      "id": "hist-bc4b58aea3ec642dbc068f2b",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Mülhausen 93",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 92
+    },
+    {
+      "id": "hist-08c8922f6d7152073424d1d4",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Stettin",
+      "away": "VfB Königsberg",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Stettin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 93
+    },
+    {
+      "id": "hist-69d3d6e4f83b594d5929ee05",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Pütnitz",
+      "away": "SV Neufahrwasser",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Pütnitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 94
+    },
+    {
+      "id": "hist-ecfcd4931f60aa053fcde091",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TuS Lipine",
+      "away": "Breslauer SpVgg 02",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Lipine",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 95
+    },
+    {
+      "id": "hist-300ac128267279dcc5abfd9c",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Adler Deblin",
+      "away": "LSV Reinecke Brieg",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Adler Deblin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 96
+    },
+    {
+      "id": "hist-6f4221b417ee06487ea651f1",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfL 99 Köln",
+      "away": "SV Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 98
+    },
+    {
+      "id": "hist-1ce7846e0e4a82cadd095440",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "FC Hanau 93",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 99
+    },
+    {
+      "id": "hist-032ec3825854761e16973079",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SG SS Straßburg",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        5,
+        4
+      ],
+      "reportedScore": [
+        5,
+        4
+      ],
+      "raw": "5:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SG SS Straßburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 100
+    },
+    {
+      "id": "hist-28e09742a78e9a56f485e31e",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 101
+    },
+    {
+      "id": "hist-fdfbaf152472e13bcebc811f",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FV Stadt Düdelingen",
+      "away": "SpVgg 07 Sülz",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FV Stadt Düdelingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 102
+    },
+    {
+      "id": "hist-3a25007043dc705a1a2e87b7",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "NSTG Falkenau",
+      "away": "First Vienna FC",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "NSTG Falkenau",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 103
+    },
+    {
+      "id": "hist-12b71a63fa3c46c147042d0e",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Fortuna Leipzig 02",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 104
+    },
+    {
+      "id": "hist-3995f4ebf7623d6857a1be5c",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SC Minerva Berlin",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 105
+    },
+    {
+      "id": "hist-021724b3d3f2af640b4d784b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Stettin",
+      "away": "LSV Pütnitz",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Stettin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 113
+    },
+    {
+      "id": "hist-b405f95501bcf11fd96b9112",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TuS Lipine",
+      "away": "LSV Adler Deblin",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Lipine",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 114
+    },
+    {
+      "id": "hist-185f0f7b188ce976e044ba0b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Werder Bremen",
+      "away": "Kickers Offenbach",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 115
+    },
+    {
+      "id": "hist-4d1bc499883f9668db7640b1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Westende Hamborn",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 116
+    },
+    {
+      "id": "hist-393622ff52daa8740d70abac",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "FV Stadt Düdelingen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FV Stadt Düdelingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 118
+    },
+    {
+      "id": "hist-d037f5f6ae500a8c00b0637c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "SV Dessau 05",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Dessau 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 119
+    },
+    {
+      "id": "hist-98575445ec59a02120f17918",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "NSTG Falkenau",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 120
+    },
+    {
+      "id": "hist-04978fcdd92d605fa7456744",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Dessau 05",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 126
+    },
+    {
+      "id": "hist-197fa8fa6ce22f39f02f687a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FV Stadt Düdelingen",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 127
+    },
+    {
+      "id": "hist-3059b0fb5c26f2e5258540ba",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TuS Lipine",
+      "away": "Blau-Weiß 90 Berlin (4.10.)",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Lipine",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 128
+    },
+    {
+      "id": "hist-00e1db73c9e78ca0c083f2e5",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Werder Bremen",
+      "away": "LSV Stettin (4.10.)",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 129
+    },
+    {
+      "id": "hist-280f468d25e1432cc3356d05",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "TuS Lipine",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 135
+    },
+    {
+      "id": "hist-2ac83186caa86802bb82c2b1",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "SV Werder Bremen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 136
+    },
+    {
+      "id": "hist-dbc93408609d19e9d046c214",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    }
+  ],
+  "issues": [
+    {
+      "line": 54,
+      "reason": "unparsed row",
+      "raw": "12:3{{0}}"
+    },
+    {
+      "line": 97,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}6:0{{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 117,
+      "reason": "unparsed row",
+      "raw": "15:1{{0}}"
+    }
+  ]
+}

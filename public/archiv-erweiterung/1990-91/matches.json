@@ -1,0 +1,1986 @@
+{
+  "season": "1990-91",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270512871",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-8b1c3018c16c7e76770a48e0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-03",
+      "time": null,
+      "home": "SpVgg Unterhaching",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-bc531fa229b17c5ba6244953",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-03",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Bayer Uerdingen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
+      "id": "hist-51ffbeacdc48aa2b3314cef6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "FV 09 Weinheim",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FV 09 Weinheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-5cf797dfee97a2bd122943db",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "Eintracht Haiger",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-5cacd3014edd24df1556a842",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "FC Kilia Kiel",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-472bb8fcd751bee82582cbb8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-ce03a17e82709a8b5a0ae894",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 182
+    },
+    {
+      "id": "hist-d06e82bcdcb7491c390b9ea2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "FC 08 Homburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSV Hessen Kassel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    },
+    {
+      "id": "hist-b9fa8894f0e7bac08bb7f1c4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "FC Wangen 05",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 184
+    },
+    {
+      "id": "hist-da6a48137426bbd7094fad67",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "Preußen Münster",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Preußen Münster",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-0d1d647f957795596f35446e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "DJK Teutonia Waltrop",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    },
+    {
+      "id": "hist-db30a6c4c7439dccd25817a5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "Türkiyemspor Berlin",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        2,
+        6
+      ],
+      "reportedScore": [
+        2,
+        6
+      ],
+      "raw": "2:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 187
+    },
+    {
+      "id": "hist-db2b70870f70dd8b517dee10",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "SC Pfullendorf",
+      "away": "MSV Duisburg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 188
+    },
+    {
+      "id": "hist-97d8fe3c3cb292e6fa6bdd48",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "SC Viktoria Köln",
+      "away": "VfL Osnabrück",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 189
+    },
+    {
+      "id": "hist-0d4a6b86f5992381b74e2578",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "ASC Schöppingen",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 190
+    },
+    {
+      "id": "hist-e3f52347fc39ae7def7bc24d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "DSC Wanne-Eickel",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    },
+    {
+      "id": "hist-41186f497ea3fd0f1d63fc11",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "SV Werder Bremen (A)",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 192
+    },
+    {
+      "id": "hist-5d17f37a983505e11e9ca049",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "Borussia Dortmund",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-bf05bab37bf7ada15a5666fb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-777dfe26a7391af4b2cd30e8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "SV Hilden-Nord",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Hilden-Nord",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-0db3cde3ffee6d519f43b321",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "SpVgg Weiden",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-0edf1c1820f3bab853d8952a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "TuS Bersenbrück",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-f4a06ce262ede46a791a5c83",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-a8b378995e8bfe3db6358c8b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "SV Ludweiler-Warndt",
+      "away": "SV Meppen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Meppen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-9db1cc771d7fd10241ee56a5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "SV Darmstadt 98",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-9f869051ba0fb7785180ac91",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "SC Victoria Hamburg",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-e52e1c9f6fba9476d092cbe9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "1. SC Göttingen 05",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-93c0825c1485aec2bd7bccce",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "1. FC Miltach",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-ada42dfa689203e76a976ac0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "SSV Reutlingen 05",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        6
+      ],
+      "reportedScore": [
+        3,
+        6
+      ],
+      "raw": "3:6 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-266fbe95d3199e5c5ae38cc8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-04",
+      "time": null,
+      "home": "Südwest Ludwigshafen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        7
+      ],
+      "reportedScore": [
+        1,
+        7
+      ],
+      "raw": "1:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-7a025d6247c0a412652bcded",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-05",
+      "time": null,
+      "home": "FC Remscheid",
+      "away": "SC Fortuna Köln",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Remscheid",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-c908ea7a7c6ddadd4a177a82",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1990-08-05",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "VfL Bochum",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-a002a993516650bb9bf91ed8",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-02",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC St. Pauli",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-cb6b0eaaf8d2dacd498203dd",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-03",
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 213
+    },
+    {
+      "id": "hist-853b3510a60bff4cfb8319d4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-03",
+      "time": null,
+      "home": "SV Hilden-Nord",
+      "away": "Preußen Münster",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Preußen Münster",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 214
+    },
+    {
+      "id": "hist-9a508a9881f36608d30be13a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-03",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    },
+    {
+      "id": "hist-2aff35c826a7bb3a63b62f62",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-03",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Bayer Uerdingen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 216
+    },
+    {
+      "id": "hist-391e39469fb712662e68ac35",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-03",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-ae8aaef1b81c17d11279a433",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-03",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-5b308cfaa28656cbe38de15f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-03",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-b5119af2d2e263c886f13501",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-03",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-6920e6b025e5483e7fd2eac2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-03",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 221
+    },
+    {
+      "id": "hist-917e3246be5a676292c7cdf2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-03",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 222
+    },
+    {
+      "id": "hist-e25bdef89b4f3ea5e327fa70",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-04",
+      "time": null,
+      "home": "FV 09 Weinheim",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 223
+    },
+    {
+      "id": "hist-ec4ff8c1dc680900d8596b50",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-04",
+      "time": null,
+      "home": "FC Remscheid",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Remscheid",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 224
+    },
+    {
+      "id": "hist-ba6f5f5cb8beb7c211c43510",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-04",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSV Hessen Kassel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 225
+    },
+    {
+      "id": "hist-c145c28a4f688cf052fd4d3c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-04",
+      "time": null,
+      "home": "SV Meppen",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Meppen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-2861f370b54164a483e46dc3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1990-11-04",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-a5ab372244fff0b2d1558e44",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1990-11-13",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 232
+    },
+    {
+      "id": "hist-1868b66c4c24f9eb831507d0",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1990-11-13",
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 233
+    },
+    {
+      "id": "hist-249fc26c37ee076a51596a77",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1990-11-13",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 234
+    },
+    {
+      "id": "hist-7e2a6465bd74f7e62c557df7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1990-11-30",
+      "time": null,
+      "home": "Preußen Münster",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 239
+    },
+    {
+      "id": "hist-ebf1174b03f0e3e5f47b66d9",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1990-11-30",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 240
+    },
+    {
+      "id": "hist-8542ba469c17f9f3c2bb5a4f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1990-11-30",
+      "time": null,
+      "home": "Bayer Uerdingen",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 241
+    },
+    {
+      "id": "hist-48ce2ea516b6bdbca6ae2540",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1990-12-01",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "SV Meppen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 242
+    },
+    {
+      "id": "hist-d7c2ee445fa0009d12eeaa3f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1990-12-01",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-a70cc4d430f4b59d324bcff7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1990-12-01",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-9d73014cd4c5057f575fd666",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1990-12-01",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 245
+    },
+    {
+      "id": "hist-cc780d0482a4afece0ce218a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1990-12-02",
+      "time": null,
+      "home": "FC Remscheid",
+      "away": "KSV Hessen Kassel",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "KSV Hessen Kassel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 246
+    },
+    {
+      "id": "hist-8dc04dcaf5a7c52ee216a176",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1991-03-05",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 251
+    },
+    {
+      "id": "hist-1858b6e1b5a0243ec2cc1b9a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1991-03-28",
+      "time": null,
+      "home": "Bayer Uerdingen",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 256
+    },
+    {
+      "id": "hist-216e860d5fae547f0016c63e",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1991-03-30",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 257
+    },
+    {
+      "id": "hist-d28bf8a62bfe48decf43a239",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1991-03-30",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 258
+    },
+    {
+      "id": "hist-a5139780b19a3f0f649dab9c",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1991-03-30",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 259
+    },
+    {
+      "id": "hist-ab8293be709fca63b0f3fd29",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1991-04-23",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 264
+    },
+    {
+      "id": "hist-84b7df7597a16d3f32c36f17",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1991-04-25",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 265
+    },
+    {
+      "id": "hist-0d0261d03010a397be8bed12",
+      "round": "Halbfinale",
+      "replay": true,
+      "date": "1991-05-07",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "MSV Duisburg",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 271
+    },
+    {
+      "id": "hist-daaf2dc787e2866b868da5e5",
+      "round": "Halbfinale",
+      "replay": true,
+      "date": "1991-05-08",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        6,
+        3
+      ],
+      "reportedScore": [
+        6,
+        3
+      ],
+      "raw": "6:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 272
+    }
+  ],
+  "issues": [
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

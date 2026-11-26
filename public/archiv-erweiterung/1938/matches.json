@@ -1,0 +1,2027 @@
+{
+  "season": "1938",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=267541214",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-20483bdb684d462c7e922c3d",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-27",
+      "time": null,
+      "home": "Stettiner SC",
+      "away": "Yorck Boyen Insterburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 122
+    },
+    {
+      "id": "hist-b208c9eded2c5c5ad9b608d8",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "VfB Peine",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Peine",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 123
+    },
+    {
+      "id": "hist-e162ee3d2a3a56decb885a27",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "WKG BSG Neumeyer Nürnberg",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "WKG BSG Neumeyer Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 124
+    },
+    {
+      "id": "hist-9a01254230f1d695b8544226",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "CSC 03 Kassel",
+      "away": "FSV Frankfurt",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 125
+    },
+    {
+      "id": "hist-dbf415dcd16b152daff12451",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "BC Hartha",
+      "away": "Sportfreunde Klausberg",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BC Hartha",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 126
+    },
+    {
+      "id": "hist-d24ff1dcc8a29309b8265624",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "SV Polizei Lübeck",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 127
+    },
+    {
+      "id": "hist-7f806eedae36c4488baa584f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "SC Opel Rüsselsheim",
+      "away": "Alemannia Aachen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Opel Rüsselsheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 128
+    },
+    {
+      "id": "hist-0945c292efbb88bf0a0a7ca9",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Brandenburger SC Süd 05",
+      "away": "MTV Pommerensdorf",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Brandenburger SC Süd 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 129
+    },
+    {
+      "id": "hist-aeb3e9584aaf8f6e2d8725f7",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Polizei SV Berlin",
+      "away": "Vorwärts-Rasensport Gleiwitz",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Vorwärts-Rasensport Gleiwitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 130
+    },
+    {
+      "id": "hist-214365803416baaa60fc7577",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "SV Dessau 05",
+      "away": "SV BEWAG Berlin",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Dessau 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 131
+    },
+    {
+      "id": "hist-1c86ae24f4cb6b19aee9ffc2",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "FC St. Pauli",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 132
+    },
+    {
+      "id": "hist-aba8adf1a08ecf36ed5067b7",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "SpVgg Röhlinghausen",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 133
+    },
+    {
+      "id": "hist-680987b9b84c3c0aa33d7258",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "1. SV Jena",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 134
+    },
+    {
+      "id": "hist-6f79a252bedd5716d684b4f2",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Borussia Fulda",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 135
+    },
+    {
+      "id": "hist-1166cee4684d469f9bfc8c6d",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "SSV Velbert",
+      "away": "Grün-Weiß Eschweiler",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Grün-Weiß Eschweiler",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 136
+    },
+    {
+      "id": "hist-a57830643cd95ab8e882a51f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Westfalia Herne",
+      "away": "Sportfreunde Katernberg",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westfalia Herne",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 137
+    },
+    {
+      "id": "hist-bb3b15364db516ceec297b47",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "SC Victoria Hamburg",
+      "away": "FC Schalke 04",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Victoria Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 138
+    },
+    {
+      "id": "hist-cbad66ed3fbc45913485f09c",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 139
+    },
+    {
+      "id": "hist-3609d53130294d1fb8259709",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "Hannover 96",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Freiburger FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 140
+    },
+    {
+      "id": "hist-7f36564195ec15e2f67f8fd1",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Beuthener SuSV 09",
+      "away": "Berliner SV 92",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Beuthener SuSV 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 142
+    },
+    {
+      "id": "hist-5185010c662fa07c1bf75e29",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "SV Klein-Steinheim",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 143
+    },
+    {
+      "id": "hist-201880ee75a7b06b4eeb970a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "1. SSV Ulm 1928",
+      "away": "SpVgg Fürth",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. SSV Ulm 1928",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 144
+    },
+    {
+      "id": "hist-7e3e483159fc616153161063",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "SC Blau-Weiß Köln 06",
+      "away": "VfR Mannheim",
+      "score": [
+        1,
+        7
+      ],
+      "reportedScore": [
+        1,
+        7
+      ],
+      "raw": "1:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 145
+    },
+    {
+      "id": "hist-986f1cb00f01cac7e37668a4",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Union Böckingen",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 146
+    },
+    {
+      "id": "hist-3235af9a23821a87fb94e037",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Phönix Lübeck",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Phönix Lübeck",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 147
+    },
+    {
+      "id": "hist-266c5f62328c07c2ddbb72a0",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "Holstein Kiel",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 148
+    },
+    {
+      "id": "hist-cd8c863eeaf4a9bb1cdaf2c3",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "TSV 1861 Swinemünde",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 149
+    },
+    {
+      "id": "hist-9469666db8b4e37c718d121a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Riesaer SV",
+      "away": "Wacker 04 Tegel",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Riesaer SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 150
+    },
+    {
+      "id": "hist-7ea1f58be82405842c4e43f4",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "SV Hindenburg Allenstein",
+      "away": "Preußen Danzig",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Hindenburg Allenstein",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 151
+    },
+    {
+      "id": "hist-678d3574de06f4150b8e2203",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Karlsruher FC Phönix",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 152
+    },
+    {
+      "id": "hist-a511e6498568bc2e81fe6348",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "FC Hanau 93",
+      "away": "VfB Mühlburg",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Mühlburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 153
+    },
+    {
+      "id": "hist-9a5376aef98447273597607b",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "BC Hartha",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 170
+    },
+    {
+      "id": "hist-87e8e542d8d8282e808f340e",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Opel Rüsselsheim",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 171
+    },
+    {
+      "id": "hist-3d6c7d606525f0c0f9e42522",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "Vorwärts-Rasensport Gleiwitz",
+      "away": "SV Dessau 05",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Vorwärts-Rasensport Gleiwitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 172
+    },
+    {
+      "id": "hist-da9da64b5d65b9ac5f546411",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 173
+    },
+    {
+      "id": "hist-3237aac2f18f410d3e392d88",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "Grün-Weiß Eschweiler",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 175
+    },
+    {
+      "id": "hist-54cbb5b9e60bc51f0af5b475",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "Westfalia Herne",
+      "away": "SC Victoria Hamburg",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westfalia Herne",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-7bc8924a7908d76d259d0e13",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Freiburger FC",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
+      "id": "hist-57b98934532b30fe82175ee7",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "Beuthener SuSV 09",
+      "score": [
+        10,
+        1
+      ],
+      "reportedScore": [
+        10,
+        1
+      ],
+      "raw": "10:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-fbae87bd658e7d1ddda5542e",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-18",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "1. SSV Ulm 1928",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-fdbb54a490a1ce10af91711f",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "VfR Mannheim",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-6f94c69eb7ebdcfdf6d79cdc",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-11",
+      "time": null,
+      "home": "Phönix Lübeck",
+      "away": "Arminia Bielefeld",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Phönix Lübeck",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-4cb180f388be8643026a68dc",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-18",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "WKG BSG Neumeyer Nürnberg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 182
+    },
+    {
+      "id": "hist-783c5a8f78ed8934aa6929aa",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-18",
+      "time": null,
+      "home": "VfB Mühlburg",
+      "away": "VfB Peine",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Mühlburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    },
+    {
+      "id": "hist-882efe17c214bba652691b9d",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-25",
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "Riesaer SV",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 184
+    },
+    {
+      "id": "hist-b61c8a117d6eb60333a78687",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1938-09-25",
+      "time": null,
+      "home": "Yorck-Boyen Insterburg",
+      "away": "Brandenburger SC 05",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Brandenburger SC 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-12469e0dd3e60c2527680e21",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-812e245bfc8e7208f0abe197",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Mühlburg",
+      "away": "VfB Stuttgart",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Mühlburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-47db68a8b47485bdb8cda916",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Brandenburger SC 05",
+      "away": "Vorwärts-Rasensport Gleiwitz",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Vorwärts-Rasensport Gleiwitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-d75ec2a27fa6613943712e91",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Hertha BSC",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-975fb456c037178a34170078",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Westfalia Herne",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-e014c1e328c611e0a62883f0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Dresdner SC",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-713f0fd10e3a4a16cbbe6f0c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "VfR Mannheim",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-97a4909742316e519d2c2a1a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Phönix Lübeck",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-6c79a7b8381ff3a14abb3d50",
+      "round": "Ausscheidungsrunde Altreich",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Waldhof Mannheim",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 209
+    },
+    {
+      "id": "hist-36b400e1329dec5a7d1147b4",
+      "round": "Ausscheidungsrunde Altreich",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "VfB Mühlburg",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 210
+    },
+    {
+      "id": "hist-959cf0eecf97b0a22cee241a",
+      "round": "Ausscheidungsrunde Altreich",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "1860 München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    },
+    {
+      "id": "hist-902e0d4e783f27f6d60acba4",
+      "round": "Ausscheidungsrunde Altreich",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Vorwärts Rasensport Gleiwitz",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-9ed9399d3001fb5b5c9cefd7",
+      "round": "Ausscheidungsrunde Ostmark",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SK Admira Wien",
+      "away": "First Vienna FC 1894",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "First Vienna FC 1894",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-27538ca80c6e6ca6b59f929f",
+      "round": "Ausscheidungsrunde Ostmark",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SC Wacker Wien",
+      "away": "Wiener Sport-Club",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wiener Sport-Club",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-27a3a6172ab9d54b24d047f0",
+      "round": "Ausscheidungsrunde Ostmark",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SK Rapid Wien",
+      "away": "SV Amateure Fiat Wien",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-047ce71a7770b26721ff8290",
+      "round": "Ausscheidungsrunde Ostmark",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Grazer SC",
+      "away": "FK Austria Wien",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Grazer SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 221
+    },
+    {
+      "id": "hist-cd91252d37443769bb5017ca",
+      "round": "Viertelfinale Altreich/Ostmark",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "First Vienna FC 1894",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-c98cccda2cf1f6b2dfb9700d",
+      "round": "Viertelfinale Altreich/Ostmark",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1860 München",
+      "away": "FSV Frankfurt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-ff2dd550c4b080ff9244216a",
+      "round": "Viertelfinale Altreich/Ostmark",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Waldhof Mannheim",
+      "away": "SK Rapid Wien",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-dc68ff9d49a133ae8491a5de",
+      "round": "Viertelfinale Altreich/Ostmark",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Wiener Sport-Club",
+      "away": "Grazer SC",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wiener Sport-Club",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-cfab162cae0401188ead0860",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SK Rapid Wien",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 236
+    },
+    {
+      "id": "hist-6ffae306aaf4aaf21f2c4f50",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "Wiener Sport-Club",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 237
+    },
+    {
+      "id": "hist-5c0ef24cf3bc1939babb8aef",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "SK Rapid Wien",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 307
+    }
+  ],
+  "issues": [
+    {
+      "line": 141,
+      "reason": "unparsed row",
+      "raw": "{{0}}0:13"
+    },
+    {
+      "line": 158,
+      "reason": "unparsed row",
+      "raw": ""
+    },
+    {
+      "line": 174,
+      "reason": "unparsed row",
+      "raw": ""
+    }
+  ]
+}

@@ -1,0 +1,2132 @@
+{
+  "season": "1993-94",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266092375",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-20d1a1ee0d88fff7940c0b6f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-02",
+      "time": null,
+      "home": "Werder Bremen (A)",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-d5f276f199ad38272d54d0c3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-03",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-bb35f91a08ea60561b579802",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-03",
+      "time": null,
+      "home": "SpVgg Plattling",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Plattling",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-d6130585a69373beea8ca022",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-03",
+      "time": null,
+      "home": "SpVgg Erkenschwick",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-b9530a66f187ecabf71e82ec",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-03",
+      "time": null,
+      "home": "FC Kilia Kiel",
+      "away": "SC Freiburg",
+      "score": [
+        0,
+        8
+      ],
+      "reportedScore": [
+        0,
+        8
+      ],
+      "raw": "0:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-92437fa0bba2ebd7cb6411a1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-03",
+      "time": null,
+      "home": "SV Ludweiler-Warndt",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-07a6eca27dd707039b7c44d5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-03",
+      "time": null,
+      "home": "FC Bayern München (A)",
+      "away": "FC 08 Homburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-aca2c8743980be7c022f2d58",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-04",
+      "time": null,
+      "home": "1. FC Pforzheim",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-b717a239e059217970cce448",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-04",
+      "time": null,
+      "home": "FC Remscheid",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-ee7cc7651ce6c57c27c68352",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-04",
+      "time": null,
+      "home": "SV Böblingen",
+      "away": "MSV Duisburg",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-47cea6c54d64e68707ea21f7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-04",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-7e1da8691f455658cbe7abd3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-04",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-9ab954eeb5fc743834a1479c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-23",
+      "time": null,
+      "home": "TSV Havelse",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-8508b72f440036cbc6ab7804",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-23",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 45
+    },
+    {
+      "id": "hist-84e52101e1d009a9fefc1295",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "SpVgg Plattling",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-6c21507e7b7d513bb2376b4e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "Sportfreunde Ricklingen",
+      "away": "MSV Duisburg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-8596fb1779ba5b26ba7e2916",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "TSF Ditzingen",
+      "away": "Hansa Rostock",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-a7928a52258813a0d6b5b6ab",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "1. FC Magdeburg",
+      "away": "Wuppertaler SV",
+      "score": null,
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.<br /><small>(5:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-06da3a7d499facd38246b5c6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "FC Oberneuland",
+      "away": "Chemnitzer FC",
+      "score": [
+        1,
+        8
+      ],
+      "reportedScore": [
+        1,
+        8
+      ],
+      "raw": "1:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Chemnitzer FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-078f6f4052c6ee36f712823c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "ASV Neumarkt",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-49e01918438df2bf55bd0ccf",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "Rot-Weiß Lüdenscheid",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-28c5214eac32315bb378b5c7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "SC Fortuna Köln",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-5bb255fe61509f21c0ba2b7f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-04b6073192fa1ee4a4bf506a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "FC Bayern München (A)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-6e9c115db769b7c7ad9885fd",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Hamburger SV",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-65dcbd0a37057060a5f59262",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "FC Carl Zeiss Jena",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-8be4a02e89939ca8a99b39d5",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "VfB Leipzig",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-6ec5205605369071ce2609c4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-24",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-ca052db00090f05c9c04e628",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "Eisenhüttenstädter FC Stahl",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-04adc3d3fba1e1ceae673ad3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "SV Mettlach",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-5a5cb5d11ea2ce86e1290c74",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "FC Sachsen Leipzig",
+      "away": "FC St. Pauli",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(3:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-646aa357ce712f1a845c7cbe",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "VfB Gaggenau",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-7d3eac96ddae6fd3fa27f197",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "SpVg Marl",
+      "away": "Borussia Fulda",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVg Marl",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 64
+    },
+    {
+      "id": "hist-21943fa008e34ee529cc7949",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "Greifswalder SC",
+      "away": "TSG Pfeddersheim",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG Pfeddersheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 65
+    },
+    {
+      "id": "hist-40962e99fbd138340c4fa784",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "Eintracht Haiger",
+      "away": "Raspo Elmshorn",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Haiger",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 66
+    },
+    {
+      "id": "hist-64d82bd6846c897386912274",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "1. FC Bocholt",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-1ce9e837a88fca04f5f5bd12",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "SV Meppen",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-3e4c502b74c82671fb8e6f05",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-d0bcbae9a92ee2ff6995da5f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "1. FC Nürnberg",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-c847ef8d792ad9e7941221f4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "Dynamo Dresden",
+      "away": "VfL Wolfsburg",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(4:2 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 71
+    },
+    {
+      "id": "hist-9eea36437512b3734008f878",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 72
+    },
+    {
+      "id": "hist-9141e4c954b3709a59f91f6f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "FC Carl Zeiss Jena (A)",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 73
+    },
+    {
+      "id": "hist-a1fb4069d8a16ce4ff0ad579",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "VfB Oldenburg",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-6bb43aa821949bc5037cdb91",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1993-08-25",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        6
+      ],
+      "reportedScore": [
+        2,
+        6
+      ],
+      "raw": "2:6 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-462a9dc1a05e2a3fd7e1d4cc",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-10",
+      "time": null,
+      "home": "SpVgg Unterhaching",
+      "away": "Hansa Rostock",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 80
+    },
+    {
+      "id": "hist-2572e21dbd6efd21f3bc2ee2",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-10",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "FC St. Pauli",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 81
+    },
+    {
+      "id": "hist-3345ce7ab253e77bfcb1f10b",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-10",
+      "time": null,
+      "home": "1. FC Magdeburg",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 82
+    },
+    {
+      "id": "hist-41678cfce462b1036237e58d",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-10",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 83
+    },
+    {
+      "id": "hist-60c6e70a7835531814c475d3",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-11",
+      "time": null,
+      "home": "Eintracht Haiger",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 84
+    },
+    {
+      "id": "hist-965db332666ef17460f589c8",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-11",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "SpVg Marl",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 85
+    },
+    {
+      "id": "hist-bd8a9c239e028fd4303b33a8",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-11",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 86
+    },
+    {
+      "id": "hist-4d60612806667ee38cdda4c0",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-11",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 87
+    },
+    {
+      "id": "hist-d912e7ef2e4dae8976d32f57",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-11",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Dynamo Dresden",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dynamo Dresden",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 88
+    },
+    {
+      "id": "hist-874c947d43ae9a39baa8b79a",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-11",
+      "time": null,
+      "home": "FC Bayern München (A)",
+      "away": "1. FC Köln",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(5:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 89
+    },
+    {
+      "id": "hist-2aaecc5d465dfaf443b9747c",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-11",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "FC Carl Zeiss Jena",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 90
+    },
+    {
+      "id": "hist-e2b677044e5fc83ff70bb86e",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-12",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Werder Bremen",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.<br /><small>(3:5 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 91
+    },
+    {
+      "id": "hist-03715eaed43f4922573c35ce",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-12",
+      "time": null,
+      "home": "Chemnitzer FC",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 92
+    },
+    {
+      "id": "hist-dc8c41bd9930fc744375e1fd",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-12",
+      "time": null,
+      "home": "TSG Pfeddersheim",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 93
+    },
+    {
+      "id": "hist-cc8b91ac02acd631079d6a9d",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-09-12",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 94
+    },
+    {
+      "id": "hist-78cfcf2d0964106a2339d312",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1993-10-26",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Hansa Rostock",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 102
+    },
+    {
+      "id": "hist-42295c00f2ce7b669ab17ab0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1993-10-26",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "Bayer 04 Leverkusen",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 103
+    },
+    {
+      "id": "hist-6972fc33728ae3b6f76d2864",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1993-10-27",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 104
+    },
+    {
+      "id": "hist-82c311792a09167ca65fa9a6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1993-10-27",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Hamburger SV",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 105
+    },
+    {
+      "id": "hist-6f99a36787300eedbad0baab",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1993-10-27",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "MSV Duisburg",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 106
+    },
+    {
+      "id": "hist-81a6ad47ae4b57ef883987d1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1993-10-27",
+      "time": null,
+      "home": "FC Bayern München (A)",
+      "away": "Tennis Borussia Berlin",
+      "score": null,
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.<br /><small>(3:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 107
+    },
+    {
+      "id": "hist-c8c4d310a87abb3ed073c69c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1993-11-09",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 108
+    },
+    {
+      "id": "hist-a4f3792ded84befd88b3103c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1993-11-09",
+      "time": null,
+      "home": "Dynamo Dresden",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dynamo Dresden",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 109
+    },
+    {
+      "id": "hist-2f393c0ca6b53aed61e82880",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1993-11-30",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "Rot-Weiss Essen",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(5:6 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 114
+    },
+    {
+      "id": "hist-75920308be1c81b17dc53b62",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1993-12-01",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 115
+    },
+    {
+      "id": "hist-b12748162492c0f1f5afe6f7",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1993-12-01",
+      "time": null,
+      "home": "Dynamo Dresden",
+      "away": "Bayer 04 Leverkusen",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.<br /><small>(5:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 116
+    },
+    {
+      "id": "hist-5a3abaa1d22110dc62280195",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1993-12-09",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "1. FC Kaiserslautern",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(4:3 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 117
+    },
+    {
+      "id": "hist-e7f6b6449ac483fc9d22e8a9",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1994-03-08",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 122
+    },
+    {
+      "id": "hist-e5ca4a8c9692444df3f13be4",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1994-03-09",
+      "time": null,
+      "home": "Dynamo Dresden",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 123
+    },
+    {
+      "id": "hist-054e8e19233c12c355a29e8d",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    }
+  ],
+  "issues": [
+    {
+      "line": 95,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}1:0{{FN|2|gruppe=h1}}"
+    }
+  ]
+}

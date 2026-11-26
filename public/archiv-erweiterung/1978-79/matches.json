@@ -1,0 +1,3683 @@
+{
+  "season": "1978-79",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265915742",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-a9cb83e574683a678fa2b4df",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-04",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "SpVgg Neckarelz",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Freiburger FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 302
+    },
+    {
+      "id": "hist-b03ec2a5f93bfe8766a7e1f8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-04",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "ASV Neumarkt",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 303
+    },
+    {
+      "id": "hist-b75c1402ceaa194bd7f534ce",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 305
+    },
+    {
+      "id": "hist-5bc0aa4d7645b3d0d668b4d0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 306
+    },
+    {
+      "id": "hist-71cde5a5456e986139cb3ebf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        7,
+        2
+      ],
+      "reportedScore": [
+        7,
+        2
+      ],
+      "raw": "7:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 307
+    },
+    {
+      "id": "hist-3ae95066eb1bf6cf51530f0e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "FV Würzburg 04",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 308
+    },
+    {
+      "id": "hist-7bad8849701509f3c5d31c64",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Wuppertaler SV",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 309
+    },
+    {
+      "id": "hist-52d29561658e8cb454ab8928",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 310
+    },
+    {
+      "id": "hist-8cb8fb165af56a0e9cafcebb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 311
+    },
+    {
+      "id": "hist-70880b97902e95847dff3e36",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "DJK Abenberg",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 312
+    },
+    {
+      "id": "hist-1341bb46d74f8f4a8940ef9e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "SV Holzwickede",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 313
+    },
+    {
+      "id": "hist-7abab037fa6149a1ae2a723d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Bünder SV",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 314
+    },
+    {
+      "id": "hist-35351fc1798182aebb224767",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SpVgg Bad Pyrmont",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 315
+    },
+    {
+      "id": "hist-d9f066829e9f8dafd396eba8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "SpVgg Fürth",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 317
+    },
+    {
+      "id": "hist-fe1d9145c94c8c8bbbcdb748",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "SG Union Solingen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 318
+    },
+    {
+      "id": "hist-9c0f921425b095e7d079f649",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "FC Hanau 93",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 319
+    },
+    {
+      "id": "hist-354931f944f33046668ec24f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 320
+    },
+    {
+      "id": "hist-b3ac38b44e8f3fdda77a4f6f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "SG Fuchsmühl",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 321
+    },
+    {
+      "id": "hist-4014548560560ba0a512bc90",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "DSC Wanne-Eickel",
+      "away": "VfR Mannheim",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "DSC Wanne-Eickel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 322
+    },
+    {
+      "id": "hist-d3e318a36d845dd266650a2b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SC Pfullendorf",
+      "away": "FC 08 Homburg",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 323
+    },
+    {
+      "id": "hist-ceb8a2fd45f10566c1273069",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SSV Dillenburg",
+      "away": "FSV Frankfurt",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 325
+    },
+    {
+      "id": "hist-7ffd42fbb239fefe59342427",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SV Chio Waldhof",
+      "away": "SV Börnsen",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Chio Waldhof",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 326
+    },
+    {
+      "id": "hist-07f0bb4301c93f964bba54d0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Eintracht Bad Kreuznach",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 328
+    },
+    {
+      "id": "hist-7daf7b5b57e9ebf0cab6b761",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "Offenburger FV",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 329
+    },
+    {
+      "id": "hist-18e146912553078fa4daa501",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Viktoria Sindlingen",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 330
+    },
+    {
+      "id": "hist-c51e30c804c38048f2d8eee4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "VfB 06/08 Remscheid",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 331
+    },
+    {
+      "id": "hist-c8dbabb311051e7a1dbad416",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "1. FC Eislingen",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 332
+    },
+    {
+      "id": "hist-32eba6d34453b85db51acf55",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "FC Bayern Hof",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 333
+    },
+    {
+      "id": "hist-a7f844a6ad7f6a405a46d238",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SVO Germaringen",
+      "away": "VfR OLI Bürstadt",
+      "score": [
+        1,
+        7
+      ],
+      "reportedScore": [
+        1,
+        7
+      ],
+      "raw": "1:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR OLI Bürstadt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 334
+    },
+    {
+      "id": "hist-1b58ce6306e6b1a143857a2d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "ETSV 09 Landshut",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 335
+    },
+    {
+      "id": "hist-9ac5cb54399a595a4fb68f4a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Union Böckingen",
+      "away": "Bayer Uerdingen",
+      "score": [
+        2,
+        8
+      ],
+      "reportedScore": [
+        2,
+        8
+      ],
+      "raw": "2:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 338
+    },
+    {
+      "id": "hist-40e76749c75493e5c918401f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "KSV Baunatal",
+      "away": "Union Frintrop",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSV Baunatal",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 339
+    },
+    {
+      "id": "hist-ca79234336d79199bffec8fe",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "SV Saar 05 Saarbrücken",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 340
+    },
+    {
+      "id": "hist-ba09e375e6c36f46c2cd723c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "ESV Ingolstadt-Ringsee",
+      "away": "Viktoria Kleingladbach",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "ESV Ingolstadt-Ringsee",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 341
+    },
+    {
+      "id": "hist-02d47e0fe25e0db67b3051ed",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Südwest Ludwigshafen",
+      "away": "SC Concordia Hamburg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Südwest Ludwigshafen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 342
+    },
+    {
+      "id": "hist-73ad863ad005d87fb6765bc9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SV Memmelsdorf/Ufr.",
+      "away": "1. FC Bocholt",
+      "score": [
+        1,
+        8
+      ],
+      "reportedScore": [
+        1,
+        8
+      ],
+      "raw": "1:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Bocholt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 343
+    },
+    {
+      "id": "hist-93e6bef8d057aa3fef96c556",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SG Bad Soden",
+      "away": "VfL Neustadt/Weinstraße",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Neustadt/Weinstraße",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 344
+    },
+    {
+      "id": "hist-e0b699374f92870d39e5ca49",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "VfB Schrecksbach",
+      "away": "SV Arminia Hannover",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Arminia Hannover",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 345
+    },
+    {
+      "id": "hist-36612a5eed21db928effce59",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "FC Tailfingen",
+      "away": "SV Sandhausen",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Tailfingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 346
+    },
+    {
+      "id": "hist-e61a6cfe2adf42d777c4f7ce",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "1. SC Göttingen 05",
+      "away": "FC Epe",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. SC Göttingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 347
+    },
+    {
+      "id": "hist-fd71eeea9abbaee6f2b7dae2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "SC Victoria Hamburg",
+      "away": "SSV Ulm 1846",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 350
+    },
+    {
+      "id": "hist-069c8df7c576cd7282ecb63f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "Rot-Weiß Lüdenscheid",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 351
+    },
+    {
+      "id": "hist-33c464172ccf52a7cdbcac26",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "TuS Iserlohn",
+      "away": "VfL Osnabrück",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 353
+    },
+    {
+      "id": "hist-5803f728fa85a370a0545ab3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "OSC Bremerhaven",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 354
+    },
+    {
+      "id": "hist-b7ada78c1d3e5954dfa3d9e7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "ASV Burglengenfeld",
+      "away": "SC Viktoria Köln",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Viktoria Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 355
+    },
+    {
+      "id": "hist-1c9e373678c3166d93c7a96e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "OSV Hannover",
+      "away": "TSV Helmstedt",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "OSV Hannover",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 356
+    },
+    {
+      "id": "hist-04b044d5d2a8f02ee4c01486",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "FC Gütersloh",
+      "away": "Eintracht Nordhorn",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Gütersloh",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 357
+    },
+    {
+      "id": "hist-29d46f46e3f4bacf218a51ce",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "1. FC Kirchheim",
+      "away": "SpVgg EGC Wirges",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg EGC Wirges",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 358
+    },
+    {
+      "id": "hist-9fa326f77efcd9a153a7c1ab",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "Werder Bremen (A)",
+      "away": "TuS Neuendorf",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 360
+    },
+    {
+      "id": "hist-9d2449eaa8318f6718a1e36c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "MTV Gifhorn",
+      "away": "FK Pirmasens",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 361
+    },
+    {
+      "id": "hist-c9029daf002ae30c0ed55069",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "VfR Heilbronn",
+      "away": "TuS 08 Langerwehe",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Heilbronn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 362
+    },
+    {
+      "id": "hist-26f738c4fcebbb78caa279e8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "Blumenthaler SV",
+      "away": "Fortuna Düsseldorf (A)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 363
+    },
+    {
+      "id": "hist-496a01c3def36b52c0bc3564",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "SV Haidlfing",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Bayreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 364
+    },
+    {
+      "id": "hist-6defe7a24560280ea17c8235",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "TuS Hessisch Oldendorf",
+      "away": "Westfalia Herne",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westfalia Herne",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 365
+    },
+    {
+      "id": "hist-8a8cbb7209a8d6fc7c3938b2",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1978-09-13",
+      "time": null,
+      "home": "TuS Neuendorf",
+      "away": "Werder Bremen (A)",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Neuendorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 378
+    },
+    {
+      "id": "hist-f6ed765ce9c162bf1deb6946",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-22",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Bayer Uerdingen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 383
+    },
+    {
+      "id": "hist-c2f8de60ecac147d06cef69d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-22",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Arminia Bielefeld",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 384
+    },
+    {
+      "id": "hist-9fe17a13fd69a6b8965133e4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-22",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "DSC Wanne-Eickel",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 385
+    },
+    {
+      "id": "hist-b4b1a8c616cc6a95e2650f27",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "SC Herford",
+      "away": "Holstein Kiel",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 386
+    },
+    {
+      "id": "hist-c85622a0f713082d7ef9b35c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "VfR OLI Bürstadt",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 387
+    },
+    {
+      "id": "hist-34764da6816ffe176cd985b7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 388
+    },
+    {
+      "id": "hist-f09aa2419d66c420aa244efb",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 389
+    },
+    {
+      "id": "hist-848c07a3fd23f7e9036f60d6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "VfL Osnabrück",
+      "score": [
+        4,
+        5
+      ],
+      "reportedScore": [
+        4,
+        5
+      ],
+      "raw": "4:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 390
+    },
+    {
+      "id": "hist-fa205bfc6435ed80d4c12e04",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "SV Arminia Hannover",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 391
+    },
+    {
+      "id": "hist-897ec32863e53bd8b82acbb6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 392
+    },
+    {
+      "id": "hist-eb1e13dfe1f1baba706d4380",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "Preußen Münster",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 393
+    },
+    {
+      "id": "hist-d722f4b78a8be9a5bf388f6a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 394
+    },
+    {
+      "id": "hist-32727dfd9fd619bef7a18630",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 395
+    },
+    {
+      "id": "hist-d8e03336c87b156dcdd1a2ba",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 396
+    },
+    {
+      "id": "hist-fc697358b342d668f4bd29be",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "SG Ellingen-Bonefeld",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 397
+    },
+    {
+      "id": "hist-90a607a1c94c2e5a38ba3cce",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "VfR Heilbronn",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 398
+    },
+    {
+      "id": "hist-7fd3f201611565ce1d1d950d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Alemannia Aachen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 399
+    },
+    {
+      "id": "hist-9967fb555712ffb5d532b739",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Südwest Ludwigshafen",
+      "away": "SC Viktoria Köln",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Südwest Ludwigshafen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 400
+    },
+    {
+      "id": "hist-b81422e638173a40908d87cd",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "1. FC Bocholt",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 401
+    },
+    {
+      "id": "hist-af3732d2e6d5286ae4303c10",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "VfL Neustadt/Weinstraße",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 402
+    },
+    {
+      "id": "hist-5b512735ce7d48ee6875e6a0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "KSV Baunatal",
+      "away": "1. SC Göttingen 05",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSV Baunatal",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 403
+    },
+    {
+      "id": "hist-7a05a27c8bdfaa466c267310",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "ESV Ingolstadt-Ringsee",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 404
+    },
+    {
+      "id": "hist-bfee1cf4ce811f5b111eec5c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "TuS Neuendorf",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Neuendorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 405
+    },
+    {
+      "id": "hist-b987aec0e2d5f7fbd69f7190",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-23",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "FSV Frankfurt",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 406
+    },
+    {
+      "id": "hist-7c0df73421001be1d947721a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-24",
+      "time": null,
+      "home": "Westfalia Herne",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 407
+    },
+    {
+      "id": "hist-54542f19f9226970f1dbdbc0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-24",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "FK Pirmasens",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 408
+    },
+    {
+      "id": "hist-aef52e9759e99f843067ea32",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-24",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "FC Tailfingen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 409
+    },
+    {
+      "id": "hist-077328949a72146e6898056e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-24",
+      "time": null,
+      "home": "OSV Hannover",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 410
+    },
+    {
+      "id": "hist-0de51e0b398e184aa74ef17c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-24",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "Melsunger FV 08",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Bayreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 411
+    },
+    {
+      "id": "hist-7dd4cef4cd007c12ab583784",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-24",
+      "time": null,
+      "home": "SpVgg EGC Wirges",
+      "away": "SC Fortuna Köln",
+      "score": [
+        1,
+        7
+      ],
+      "reportedScore": [
+        1,
+        7
+      ],
+      "raw": "1:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 412
+    },
+    {
+      "id": "hist-c76936e4f3ce7eba4bbf67db",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-24",
+      "time": null,
+      "home": "FC Gütersloh",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 413
+    },
+    {
+      "id": "hist-0a649d88af91d497ec84f18a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1978-09-24",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "Fortuna Düsseldorf (A)",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 414
+    },
+    {
+      "id": "hist-ea85fa2acd2ef5db7b9399ed",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1978-10-03",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "FC Gütersloh",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 419
+    },
+    {
+      "id": "hist-90d0939ee89a49fc74a2af4d",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1978-10-04",
+      "time": null,
+      "home": "VfR OLI Bürstadt",
+      "away": "Tennis Borussia Berlin",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 420
+    },
+    {
+      "id": "hist-e6d6dd9cae3b94d33f3b2660",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1978-10-04",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 421
+    },
+    {
+      "id": "hist-1ed45f8bf39c851453f95aa5",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1978-10-04",
+      "time": null,
+      "home": "1. FC Bocholt",
+      "away": "Freiburger FC",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Bocholt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 422
+    },
+    {
+      "id": "hist-b8ee32c66db2ddc668bb8230",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1978-11-07",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Wormatia Worms",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 423
+    },
+    {
+      "id": "hist-f95ef186a4a2540e5af8f5ed",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-11-29",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 428
+    },
+    {
+      "id": "hist-c7cc37541d0ad83df78a33a0",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-01",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 429
+    },
+    {
+      "id": "hist-48fee5af97b168d9ddc7a70f",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-01",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Alemannia Aachen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 430
+    },
+    {
+      "id": "hist-74f668dc0be0512268618aec",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 431
+    },
+    {
+      "id": "hist-4dac72be5009c75202d84bd1",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 432
+    },
+    {
+      "id": "hist-16a2ff9a355665c8a853c8b4",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 433
+    },
+    {
+      "id": "hist-486da763112669b9f5b6215d",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "KSV Baunatal",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 434
+    },
+    {
+      "id": "hist-153406be2bf0ec020f5dd6c6",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "Bayer Uerdingen",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 435
+    },
+    {
+      "id": "hist-09ed6f9722462fc3e145d937",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Kickers Offenbach",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 436
+    },
+    {
+      "id": "hist-1bce9b2f263f8081f64fd455",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "SSV Ulm 1846",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 437
+    },
+    {
+      "id": "hist-f4983888c3366e7fd12ae8f7",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "Südwest Ludwigshafen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Südwest Ludwigshafen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 438
+    },
+    {
+      "id": "hist-d65bdd4386952dba9ceab0b4",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "SC Fortuna Köln",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 439
+    },
+    {
+      "id": "hist-a55dcebccdfb773c5cf38776",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 440
+    },
+    {
+      "id": "hist-8165d072948d3c4594cb380b",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Karlsruher SC",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 441
+    },
+    {
+      "id": "hist-b1b7589c87c22b8efd4c8f33",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-02",
+      "time": null,
+      "home": "TuS Neuendorf",
+      "away": "1. FC Bocholt",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TuS Neuendorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 442
+    },
+    {
+      "id": "hist-ddb05cf3f61daa4f46226356",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1978-12-03",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 443
+    },
+    {
+      "id": "hist-3b351c008f4b03c591243ef7",
+      "round": "3. Hauptrunde",
+      "replay": true,
+      "date": "1978-12-26",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "SC Rot-Weiß Oberhausen",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(2:3 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 448
+    },
+    {
+      "id": "hist-ae6f1228fa3a94bdc0bcd64d",
+      "round": "3. Hauptrunde",
+      "replay": true,
+      "date": "1979-01-06",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "FC 08 Homburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 449
+    },
+    {
+      "id": "hist-acf2453a09b6eb3ab736563d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1979-04-27",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 454
+    },
+    {
+      "id": "hist-dc7bb1caba03ef270d2fd452",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1979-04-27",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 455
+    },
+    {
+      "id": "hist-a5ece5d00be9cf1216890993",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1979-04-27",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 456
+    },
+    {
+      "id": "hist-615baca0f8a7e1e4c486a690",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1979-04-27",
+      "time": null,
+      "home": "Südwest Ludwigshafen",
+      "away": "SSV Ulm 1846",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 457
+    },
+    {
+      "id": "hist-ee125e658c86b610cb02d77a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1979-04-27",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Holstein Kiel",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 458
+    },
+    {
+      "id": "hist-6c3543f2788d92cf3f8f60ee",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1979-04-27",
+      "time": null,
+      "home": "Bayer Uerdingen",
+      "away": "VfL Bochum",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 459
+    },
+    {
+      "id": "hist-ab5558d62bd674e06bd8e88e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1979-04-27",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "VfL Osnabrück",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 460
+    },
+    {
+      "id": "hist-17c32adf023dac006da4cf32",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1979-04-27",
+      "time": null,
+      "home": "TuS Neuendorf",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 461
+    },
+    {
+      "id": "hist-4fedf51dfd9f80a794cd4914",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1979-05-08",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "Südwest Ludwigshafen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Südwest Ludwigshafen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 466
+    },
+    {
+      "id": "hist-29f952cec912a3c27dac2352",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1979-05-26",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Südwest Ludwigshafen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 471
+    },
+    {
+      "id": "hist-e14ee65c5508962e88e085e5",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1979-05-26",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Bayer Uerdingen",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 472
+    },
+    {
+      "id": "hist-d154a2a8b321ab4815ee2f40",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1979-05-26",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 473
+    },
+    {
+      "id": "hist-71d0c1338267502e5709b23f",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1979-05-26",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 474
+    },
+    {
+      "id": "hist-f8bc88df561cd4be9b8825c9",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1979-06-06",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 479
+    },
+    {
+      "id": "hist-712f91ed40d7cf7d4bc7f494",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1979-06-06",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "1. FC Nürnberg",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 480
+    }
+  ],
+  "issues": [
+    {
+      "line": 304,
+      "reason": "unparsed row",
+      "raw": "12:0{{0}}"
+    },
+    {
+      "line": 316,
+      "reason": "unparsed row",
+      "raw": "14:1{{0}}"
+    },
+    {
+      "line": 324,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}6:0{{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 327,
+      "reason": "unparsed row",
+      "raw": "{{0}}1:10"
+    },
+    {
+      "line": 336,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}3:1{{FN|2|gruppe=h1}}"
+    },
+    {
+      "line": 337,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}0:6{{FN|3|gruppe=h1}}"
+    },
+    {
+      "line": 348,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}5:0{{FN|4|gruppe=h1}}"
+    },
+    {
+      "line": 349,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}7:0{{FN|5|gruppe=h1}}"
+    },
+    {
+      "line": 352,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}2:1{{FN|6|gruppe=h1}}"
+    },
+    {
+      "line": 359,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}2:3{{FN|7|gruppe=h1}}"
+    },
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

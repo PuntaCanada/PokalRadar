@@ -1,0 +1,1746 @@
+{
+  "season": "1995-96",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266106100",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-02cbaa5862e5bee99efd466a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-22",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-5cfe79c2b1c76f0ebb85b109",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-24",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "Chemnitzer FC",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Chemnitzer FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-5e6acbacf0c453522d030124",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-25",
+      "time": null,
+      "home": "FV Zeulenroda",
+      "away": "FSV Zwickau",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Zwickau",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-c679f12b335eb1beeaacad7b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-25",
+      "time": null,
+      "home": "Werder Bremen Amateure",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-dee859af790e25ec56e116c1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-25",
+      "time": null,
+      "home": "SV Mettlach",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-4470bebdf840385039c55bac",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-25",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "FC St. Pauli",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-5dbe9fa57e52c822c6fd286d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-25",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Hansa Rostock",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-1bcec8dec53fecd2aea380cc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-25",
+      "time": null,
+      "home": "Dynamo Dresden",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-6197b89190fe868f8ecf87ed",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-25",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-73cbc2e8db55efe6b8d7f118",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "FC Carl Zeiss Jena",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 42
+    },
+    {
+      "id": "hist-0600b9cbf3641c66c44d4f09",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "SpVg Beckum",
+      "away": "1. FC Köln",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(4:3 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-aedf37dcf4d58aa2efa72362",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "Greifswalder SC",
+      "away": "VfB Lübeck",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Greifswalder SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-0b7cf64e3d42336fcb3070da",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "Heider SV",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 45
+    },
+    {
+      "id": "hist-5f90d744ffdfa54f6950924c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "SSV Vorsfelde",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-e607d1ee4dd3c06db6ddd4bd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-0cd429c76fd8f62368c96116",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "1. FC Nürnberg Amateure",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-ff7d5756ca7fb147d5971338",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "SC Neukirchen",
+      "away": "1. FSV Mainz 05",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(3:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-4fb1ee70aadc3962d8019dfc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "1. SC Norderstedt",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-a06900077712389b9b1e2286",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "VfB Gaggenau",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-52b9021ac84da5e429338891",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "VfB Leipzig",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-b439c7be13ac4c01381ad9c8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "FC Sachsen Leipzig",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Sachsen Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-c1ffd473a95d4804a3bd9104",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "FC Bayern München Amateure",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-447fc3d81cf402b205535110",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "Energie Cottbus",
+      "away": "SV Meppen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Meppen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-d87eda209f3a707ad07502df",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-f063eb089d0876948b52b29c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-b14685f58c7335b4cf5b0e01",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-d42148f83410cdd996d48e6b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-26",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-d17206d9b38ca2dd75575e39",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-27",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "VfB Stuttgart",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(13:12 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-410b38b93a9de55320221dce",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-27",
+      "time": null,
+      "home": "1. FC Köln Amateure",
+      "away": "KFC Uerdingen 05",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KFC Uerdingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-c6d28f1655868ff46225d2cf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-27",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-70abb65b38cf84a90fe1028a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-18",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "FC Bayern München",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 71
+    },
+    {
+      "id": "hist-62edbbe5d50ef981a63208c4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-19",
+      "time": null,
+      "home": "VfB Leipzig",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 72
+    },
+    {
+      "id": "hist-ac0a7629050adab45dcaff36",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-19",
+      "time": null,
+      "home": "SpVg Beckum",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 73
+    },
+    {
+      "id": "hist-0f48039f66fced23e2dd11a7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-19",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "KFC Uerdingen 05",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-b8226b53936444c51f8f827e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-19",
+      "time": null,
+      "home": "1. FC K’lautern",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC K’lautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-f8271fab3402cd0c8d60762d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-19",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Arminia Bielefeld",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-b1413ec4fb62108b13ce16ab",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-19",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "SV Meppen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-804b405969822ee6ea969b0d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-19",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 78
+    },
+    {
+      "id": "hist-4dad12f3074eb2335ac44099",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-20",
+      "time": null,
+      "home": "FSV Lok Altmark Stendal",
+      "away": "Hertha BSC",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FSV Lok Altmark Stendal",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 79
+    },
+    {
+      "id": "hist-c4df68ef05189807afddb80a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-20",
+      "time": null,
+      "home": "Greifswalder SC",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 80
+    },
+    {
+      "id": "hist-1a94b0d1827857b9e6d49008",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-20",
+      "time": null,
+      "home": "FC Sachsen Leipzig",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 81
+    },
+    {
+      "id": "hist-3fcbea099bb44bd24cd8384c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-20",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "FC 08 Homburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 82
+    },
+    {
+      "id": "hist-a964006c9aacf1ff42f56083",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-20",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "Chemnitzer FC",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Chemnitzer FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 83
+    },
+    {
+      "id": "hist-302360ad7ced8a4ad3bae05a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-20",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Borussia M’gladbach",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 84
+    },
+    {
+      "id": "hist-c44d35150767e1f74df3e46d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-20",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "SV Werder Bremen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 85
+    },
+    {
+      "id": "hist-2ef81cf05b3d35d6d99e3157",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-20",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "FSV Zwickau",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 86
+    },
+    {
+      "id": "hist-15f50a42f9b1da5566edfcb4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1995-10-03",
+      "time": null,
+      "home": "FSV Lok Altmark Stendal",
+      "away": "SV Waldhof Mannheim",
+      "score": null,
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.<br /><small>(5:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 91
+    },
+    {
+      "id": "hist-3165f504a55c71e8b8a82e65",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1995-10-03",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "TSV 1860 München",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 92
+    },
+    {
+      "id": "hist-d6dcd6876f3a15bb9024506d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1995-10-03",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Werder Bremen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 93
+    },
+    {
+      "id": "hist-4ad59ca8dc98b6fe3ce0c4e9",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1995-10-03",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 94
+    },
+    {
+      "id": "hist-685ea1c12602228b56768db6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1995-10-04",
+      "time": null,
+      "home": "SpVgg Unterhaching",
+      "away": "Karlsruher SC",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 95
+    },
+    {
+      "id": "hist-40fe77aac744cb383d104d64",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1995-10-04",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 96
+    },
+    {
+      "id": "hist-858a5db368a409c8cccb1059",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1995-10-04",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Chemnitzer FC",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 97
+    },
+    {
+      "id": "hist-0e0d4b5a19d30077aa696c30",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1995-10-04",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Bayer 04 Leverkusen",
+      "score": null,
+      "reportedScore": [
+        4,
+        4
+      ],
+      "raw": "4:4 n. V.<br /><small>(1:4 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 98
+    },
+    {
+      "id": "hist-592c2c4c35f10241db548b71",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1995-10-31",
+      "time": null,
+      "home": "FSV Lok Altmark Stendal",
+      "away": "Bayer 04 Leverkusen",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(4:5 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 103
+    },
+    {
+      "id": "hist-1274980f6def4324cdb4bd3d",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1995-11-07",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 104
+    },
+    {
+      "id": "hist-9fffd5e245c623c2120d9306",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1995-11-07",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 105
+    },
+    {
+      "id": "hist-04abca17afa934dac8222836",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1995-11-07",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 106
+    },
+    {
+      "id": "hist-accbcd8bd237d695effa1f09",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1996-02-27",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 111
+    },
+    {
+      "id": "hist-3b7f500dd81375599d0aef9b",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1996-02-28",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 112
+    }
+  ],
+  "issues": [
+    {
+      "line": 32,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}1:1 n. V.<br /><small>(3:4 i. E.){{FN|1|gruppe=h1}}</small>"
+    },
+    {
+      "line": 63,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}0:0 n. V.<br /><small>(4:3 i. E.){{FN|2|gruppe=h1}}</small>"
+    },
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

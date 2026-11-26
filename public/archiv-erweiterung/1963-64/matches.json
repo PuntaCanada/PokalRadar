@@ -1,0 +1,971 @@
+{
+  "season": "1963-64",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265846579",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-211733a85d1209633761fad8",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-07",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "SpVgg Fürth",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 21
+    },
+    {
+      "id": "hist-332b8d56a2d9f4779e0bd9a5",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-07",
+      "time": null,
+      "home": "Meidericher SV",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 22
+    },
+    {
+      "id": "hist-0d5a2af1b8af2452762746a3",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "KSV Hessen Kassel",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSV Hessen Kassel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 23
+    },
+    {
+      "id": "hist-4e7ceabad08858efc37b4484",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 24
+    },
+    {
+      "id": "hist-248acb0afd555efb38d335b3",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "Eintracht Gelsenkirchen",
+      "away": "Duisburger SpV",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Duisburger SpV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 25
+    },
+    {
+      "id": "hist-2b0ed6616b8f010111771545",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "Altonaer FC 93",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Altonaer FC 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-4e3ce01e39c398db1d5a6e9f",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-00a54e303188271366d248a1",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-66caf0bcfb61dc90ceb2cbcd",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "SV Phönix Ludwigshafen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Phönix Ludwigshafen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-9414e6fa0a424c8b4cfbf2b4",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-4fccfe184223b976d60e7f91",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "Preußen Münster",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-e62c3354ee7b08b1d28f7f43",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "VfL Osnabrück",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-7be4ca2ee940654500e5ebea",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Wuppertaler SV",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-59a0041ffbaeafaf8ea17d32",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "1. FC Nürnberg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-bfc8e689bebd03854d3c1313",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-08",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-bd61e88e1a1953a63f630f96",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1964-04-14",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "SSV Reutlingen 05",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-5a93055070b8e64ccb73a48a",
+      "round": "1. Runde",
+      "replay": true,
+      "date": "1964-04-15",
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-493eecd43e4274a5cd27d202",
+      "round": "1. Runde",
+      "replay": true,
+      "date": "1964-04-15",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Eintracht Trier",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 42
+    },
+    {
+      "id": "hist-151b1b50f01841f17cd6679c",
+      "round": "1. Runde",
+      "replay": true,
+      "date": "1964-04-22",
+      "time": null,
+      "home": "SSV Reutlingen 05",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-de5baec6ca24b55e9e36c8cd",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1964-04-22",
+      "time": null,
+      "home": "FC Altona 93",
+      "away": "Duisburger SpV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Altona 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-6cfb307862a3a052427dffe5",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1964-04-22",
+      "time": null,
+      "home": "SV Phönix Ludwigshafen",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-eb37b080306f554d7f51b6a3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1964-04-22",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "SpVgg Fürth",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-180ad5bc1cf2b3225b2b63de",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1964-04-22",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "KSV Hessen Kassel",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-0e1c3e8dfbc745c1522503d3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1964-04-22",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-47f631b0865b800d6dfa77f2",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1964-04-22",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Hannover 96",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-6b1fb9886762e7a404d87c6e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1964-04-22",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-34c0bf4e55db4d21600acc7c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1964-05-02",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "VfB Stuttgart",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-e03290df17ca3a69e51f0168",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1964-05-20",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "1. FC Köln",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-7ec9830a5f9429e4ffaebdc6",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1964-05-20",
+      "time": null,
+      "home": "FC Altona 93",
+      "away": "Karlsruher SC",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Altona 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-6a55f53c5706b40649c2fda0",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1964-05-20",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-c23ab67b835cc14cb97f243f",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1964-05-20",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-4063a5dff165f55b10dc9567",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1964-06-03",
+      "time": null,
+      "home": "FC Altona 93",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-412eb19b1787dabb0aca3d6c",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1964-06-03",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Hertha BSC",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    }
+  ],
+  "issues": [
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

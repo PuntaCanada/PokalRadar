@@ -1,0 +1,3789 @@
+{
+  "season": "1974-75",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265881492",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-b7884384eab3073e01944f5d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "Hertha BSC",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 305
+    },
+    {
+      "id": "hist-2e851358335062708ad2dc0c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 306
+    },
+    {
+      "id": "hist-1f7e4faa33deba78381f7c73",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "1. FC Schweinfurt 05",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 307
+    },
+    {
+      "id": "hist-27cd0e6fcf63ec8d7abf2859",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 308
+    },
+    {
+      "id": "hist-d5da4f098e506c8af81a2601",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 309
+    },
+    {
+      "id": "hist-bc2fed5a8f7b43aadc244e92",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Preußen Münster",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 310
+    },
+    {
+      "id": "hist-0bc4e4fcedce45cc3439eaf0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "Wuppertaler SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 311
+    },
+    {
+      "id": "hist-896c8ebc0bb9e03de505a57e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "TV Gültstein",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 312
+    },
+    {
+      "id": "hist-7cf093136d7242290a2f4ff7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Blumenthaler SV",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 313
+    },
+    {
+      "id": "hist-551b7b7e40f57db0c0502eca",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "OSV Hannover",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 314
+    },
+    {
+      "id": "hist-fe8730af08c80dfd9fc7c1f6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "ASV Neumarkt",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 315
+    },
+    {
+      "id": "hist-024c08a27a72e258491c202a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SC Herford",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 316
+    },
+    {
+      "id": "hist-e337af80d7fe8a3e99602c41",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 317
+    },
+    {
+      "id": "hist-1a66f6e0a08ca6d811d3fb2a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Göttingen 05",
+      "away": "Hannover 96",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Göttingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 318
+    },
+    {
+      "id": "hist-1ba6153d44586cf6a737c707",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "FC Bayern Hof",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern Hof",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 319
+    },
+    {
+      "id": "hist-26989714b349ebb4af6529b5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 320
+    },
+    {
+      "id": "hist-097432f2a6eee13982ff30c0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 321
+    },
+    {
+      "id": "hist-90d3209e5a063b0277f3fc17",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SC Wacker 04 Berlin",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 322
+    },
+    {
+      "id": "hist-1499967d62a50bf18844e74a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "SpVgg Erkenschwick",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 323
+    },
+    {
+      "id": "hist-d865cbc687eb44d6bf52101f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "VfR Heilbronn",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 324
+    },
+    {
+      "id": "hist-725fe91f8fd93241b729cb9f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "OSC Bremerhaven",
+      "away": "VfL Wolfsburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 325
+    },
+    {
+      "id": "hist-091447a219e30d2e2a97f840",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "FK Pirmasens",
+      "away": "VfR Neumünster",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 326
+    },
+    {
+      "id": "hist-4410b0914d23e654f439f6a4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "FV 09 Weinheim",
+      "away": "Bayer Uerdingen",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 327
+    },
+    {
+      "id": "hist-77c53e589002ae87e60a1101",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "SC 07 Bad Neuenahr",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 329
+    },
+    {
+      "id": "hist-5fd5a727d4a2076530be5b60",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "TSV 1860 Weißenburg",
+      "away": "SpVgg Fürth",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 330
+    },
+    {
+      "id": "hist-da1a1b1c7d7cf5c24531d38d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SC Viktoria Köln",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Viktoria Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 331
+    },
+    {
+      "id": "hist-db822fb170420bc42d53f271",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SpVgg 07 Ludwigsburg",
+      "away": "1. FC Mülheim-Styrum",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 332
+    },
+    {
+      "id": "hist-ee617ddca6f800f648104b78",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SV Chio Waldhof",
+      "away": "Heider SV",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Chio Waldhof",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 333
+    },
+    {
+      "id": "hist-8613b92cd0a0dc05e07d1120",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "VfB Eppingen",
+      "away": "SV Röchling Völklingen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Eppingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 334
+    },
+    {
+      "id": "hist-6955172b65f5565157f510be",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "FV Lörrach",
+      "away": "ASV Landau",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "ASV Landau",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 335
+    },
+    {
+      "id": "hist-9f810b4b2932173bc75034d3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "FV Baden-Oos",
+      "away": "SV Arminia Hannover",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Arminia Hannover",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 336
+    },
+    {
+      "id": "hist-cf741d9c073fbfbd663eaa1a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "FV Eppelborn",
+      "away": "Eisbachtaler Sportfreunde",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FV Eppelborn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 337
+    },
+    {
+      "id": "hist-635261be05025be7408b6c73",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "TSV Klein-Linden",
+      "away": "Rot-Weiß Lüdenscheid",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Lüdenscheid",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 338
+    },
+    {
+      "id": "hist-b08d03d63bfc86aa45c25174",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "1. FC Wunstorf",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Sandhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 340
+    },
+    {
+      "id": "hist-4741934d0d95ff9fc5f13129",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Eintracht Bad Kreuznach II",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 341
+    },
+    {
+      "id": "hist-f060527373911cf6153353f1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Rapide Wedding",
+      "away": "TuS Mayen",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rapide Wedding",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 342
+    },
+    {
+      "id": "hist-32d6b972f7b142a1b0bfb837",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Heidenheimer SB",
+      "away": "Hertha Zehlendorf",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 343
+    },
+    {
+      "id": "hist-c651277a8128dbbd39317110",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SG Union Solingen",
+      "away": "Kickers Offenbach",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Union Solingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 346
+    },
+    {
+      "id": "hist-3c955328c00ff8158b8325f8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "HSV Barmbek-Uhlenhorst",
+      "away": "Sportfreunde Siegen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Sportfreunde Siegen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 347
+    },
+    {
+      "id": "hist-5a0a489de3509d1fecd9da67",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Hamborn 07",
+      "away": "SC Fortuna Köln",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 348
+    },
+    {
+      "id": "hist-e87f927f8b8ad385d156f545",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Olympia Wilhelmshaven",
+      "away": "Eintracht Trier",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Olympia Wilhelmshaven",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 349
+    },
+    {
+      "id": "hist-16c4e44493176452eb30d7cd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "TuS 08 Langerwehe",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 350
+    },
+    {
+      "id": "hist-aac17092b7b8faba858f4dac",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "VfB Homberg",
+      "away": "DJK Gütersloh",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "DJK Gütersloh",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 351
+    },
+    {
+      "id": "hist-0ccaf92e9e09a5b1763e573b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "VfB Stuttgart (A)",
+      "away": "FC 08 Villingen",
+      "score": [
+        8,
+        4
+      ],
+      "reportedScore": [
+        8,
+        4
+      ],
+      "raw": "8:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 352
+    },
+    {
+      "id": "hist-880318db452009f7512be6b1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "TuS Ahlen",
+      "away": "VfB Theley",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Theley",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 353
+    },
+    {
+      "id": "hist-4d5c1f91a8692ee63ae41382",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "TSV Ersen",
+      "away": "VfB Dillingen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Dillingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 354
+    },
+    {
+      "id": "hist-58ec7fc8817bac344b22d705",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Eintracht Nordhorn",
+      "away": "SC Westend 1901",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Nordhorn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 355
+    },
+    {
+      "id": "hist-70f0429c1b777eed64af08ac",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SC Jülich",
+      "away": "1. Göppinger SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Jülich",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 356
+    },
+    {
+      "id": "hist-196ed0d4cd79744f0083cfca",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Usinger TSG",
+      "away": "FSV Teutonia Obernau",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Usinger TSG",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 357
+    },
+    {
+      "id": "hist-63688afa891fea1c51520dee",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "ASC Dudweiler",
+      "away": "FC Emmendingen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "ASC Dudweiler",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 358
+    },
+    {
+      "id": "hist-499e089d72b12d92240de0dd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SC Victoria Hamburg",
+      "away": "FC Altona 93",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Altona 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 359
+    },
+    {
+      "id": "hist-3f3c223cecdf0f1fda8ee657",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Spandauer SV",
+      "away": "Hamburger SV (A)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Spandauer SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 361
+    },
+    {
+      "id": "hist-52b40e3a51c6bcff613e9674",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "FC 1906 Rodalben",
+      "away": "TSV Taunusstein-Bleidenstadt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV Taunusstein-Bleidenstadt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 362
+    },
+    {
+      "id": "hist-c819cf0ecd1d9bf3402b19e3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-08",
+      "time": null,
+      "home": "Eintracht Bad Kreuznach I",
+      "away": "Westfalia Herne",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Bad Kreuznach I",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 363
+    },
+    {
+      "id": "hist-9fe8b16ca99065331552c63c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-08",
+      "time": null,
+      "home": "VfB Oldenburg",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        6
+      ],
+      "reportedScore": [
+        2,
+        6
+      ],
+      "raw": "2:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 364
+    },
+    {
+      "id": "hist-6d323f5dd0aa4002870c27b1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-08",
+      "time": null,
+      "home": "Rheydter Spielverein",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 365
+    },
+    {
+      "id": "hist-682a8a1e56e4d66b424f33ef",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-08",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Wormatia Worms",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 366
+    },
+    {
+      "id": "hist-0738e08a175baa7b0bf5557a",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1974-09-22",
+      "time": null,
+      "home": "FC Hertha Zehlendorf",
+      "away": "Heidenheimer SB",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Hertha Zehlendorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 374
+    },
+    {
+      "id": "hist-3753ffe60e747289c98b5201",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1974-09-28",
+      "time": null,
+      "home": "1. FC Pforzheim",
+      "away": "SV Leiwen",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.<br /><small>(5:3 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 375
+    },
+    {
+      "id": "hist-29c78df240a6ffb9499b7394",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1974-10-01",
+      "time": null,
+      "home": "FC Wacker München",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 376
+    },
+    {
+      "id": "hist-bfc2d4e3d90fede117d55c4a",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1974-10-01",
+      "time": null,
+      "home": "1. FC Mülheim-Styrum",
+      "away": "SpVgg 07 Ludwigsburg",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Mülheim-Styrum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 377
+    },
+    {
+      "id": "hist-140cc9eeedc91cdb6a05012d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-25",
+      "time": null,
+      "home": "Rot-Weiß Lüdenscheid",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 383
+    },
+    {
+      "id": "hist-b08f9d48e35da61b097d14ea",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-25",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "TSR Olympia Wilhelmshaven",
+      "score": [
+        7,
+        2
+      ],
+      "reportedScore": [
+        7,
+        2
+      ],
+      "raw": "7:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 384
+    },
+    {
+      "id": "hist-fae3218ebf0a0213622ee0da",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "1. FC Nürnberg",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 385
+    },
+    {
+      "id": "hist-cad9d6bb330bc9b173faf83a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "FC Bayern Hof",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 386
+    },
+    {
+      "id": "hist-85ddc1882b7c24cd7fb6ae5a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "DJK Gütersloh",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 387
+    },
+    {
+      "id": "hist-f5e4c238907da10e03549f6f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 388
+    },
+    {
+      "id": "hist-1f597a52820b13dc433417ae",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 389
+    },
+    {
+      "id": "hist-56641e8896a48c89a64e0c61",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "FV Eppelborn",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 391
+    },
+    {
+      "id": "hist-c1bc312e67afd642c3fe40f7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Spandauer SV",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 392
+    },
+    {
+      "id": "hist-32b7c79e1a79664175b97240",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "VfB Eppingen",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Eppingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 393
+    },
+    {
+      "id": "hist-c283649531aafcc9e531c29c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Rapide Wedding",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 394
+    },
+    {
+      "id": "hist-4876f8f4a5d8d07937c1463f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        8,
+        3
+      ],
+      "reportedScore": [
+        8,
+        3
+      ],
+      "raw": "8:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 395
+    },
+    {
+      "id": "hist-3aa191c7063e3d2406b4f286",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 396
+    },
+    {
+      "id": "hist-dfde9497b2be8740ed5f2444",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "1. FC Mülheim-Styrum",
+      "away": "VfR Mannheim",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Mülheim-Styrum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 397
+    },
+    {
+      "id": "hist-7a29d00d90aa2c473c14ad26",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Bayer Uerdingen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 398
+    },
+    {
+      "id": "hist-539b4b7de0fbe137b7f2fa5a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "ASV Landau",
+      "away": "FC Augsburg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 399
+    },
+    {
+      "id": "hist-2014644007e5479472062133",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "TSV Taunusstein-Bleidenstadt",
+      "away": "FC 08 Homburg",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 400
+    },
+    {
+      "id": "hist-2993bc2bd5ff095a08d26412",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "Eintracht Bad Kreuznach",
+      "away": "TSV 1860 München",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 401
+    },
+    {
+      "id": "hist-924b6a7c923b03ad9a8e56e2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "SV Chio Waldhof",
+      "away": "SV Sandhausen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Sandhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 402
+    },
+    {
+      "id": "hist-083115d0da6dcf2a9147d7ff",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "Sportfreunde Siegen",
+      "away": "1. SC Göttingen 05",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Sportfreunde Siegen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 403
+    },
+    {
+      "id": "hist-95ecc0b368ef98ffaca97ed1",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "SC Viktoria Köln",
+      "away": "Usinger TSG",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Viktoria Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 404
+    },
+    {
+      "id": "hist-0ee089d911b1e0b9097c7ec8",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "VfB Theley",
+      "away": "FC Altona 93",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Altona 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 405
+    },
+    {
+      "id": "hist-81383b06d28910a49bda7808",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Eintracht Nordhorn",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 406
+    },
+    {
+      "id": "hist-a170323fbfd932133dee0358",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "VfB Dillingen",
+      "away": "SC Jülich",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 407
+    },
+    {
+      "id": "hist-4bd5ee7ce61734568e9e6a50",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "SV Arminia Hannover",
+      "away": "ASC Dudweiler",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Arminia Hannover",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 408
+    },
+    {
+      "id": "hist-e4da108f858cf9e3a48cb85b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "VfB Stuttgart (A)",
+      "away": "1. FC Pforzheim",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 409
+    },
+    {
+      "id": "hist-51a552e5be26d1d98edbbc74",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-27",
+      "time": null,
+      "home": "SG Union Solingen",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 410
+    },
+    {
+      "id": "hist-cc4b97e74316f4687aaafbcc",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-27",
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "SV Darmstadt 98",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 411
+    },
+    {
+      "id": "hist-71ffca46c72d3fe2963fe8ab",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-29",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 412
+    },
+    {
+      "id": "hist-6920e12b4e1ec2979a10c278",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-11-13",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 413
+    },
+    {
+      "id": "hist-1699854b0e663ebfdcf57049",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-12-21",
+      "time": null,
+      "home": "FK Pirmasens",
+      "away": "VfB Lübeck",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 414
+    },
+    {
+      "id": "hist-89640e1e2bbe3ad64805c618",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1974-11-12",
+      "time": null,
+      "home": "TSV Taunusstein-Bleidenstadt",
+      "away": "FC 08 Homburg / Saar",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.{{FN|1|gruppe=h2w}}<br /><small>(2:0 i. E.)</small>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 421
+    },
+    {
+      "id": "hist-49ff8844d1b911271d8eaacf",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1974-11-13",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "SpVgg Fürth",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 422
+    },
+    {
+      "id": "hist-ed3484b86acf66460f2409dd",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1974-11-16",
+      "time": null,
+      "home": "SC Jülich",
+      "away": "VfB Dillingen",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Jülich",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 423
+    },
+    {
+      "id": "hist-a8a2ef6a126c5d0a6b465381",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1974-12-21",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "FC Bayern Hof",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 424
+    },
+    {
+      "id": "hist-732f0f9e2006f7549b6f57d5",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-05",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 431
+    },
+    {
+      "id": "hist-481d083c4b95f61c9dc6d560",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 432
+    },
+    {
+      "id": "hist-967317dbacf20a188de85241",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 433
+    },
+    {
+      "id": "hist-626ae56c5039d9f9fb8f2e45",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "FC St. Pauli",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 434
+    },
+    {
+      "id": "hist-a926d672790850c646f5d31d",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC Augsburg",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 435
+    },
+    {
+      "id": "hist-9331e333b63c51053954af97",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Alemannia Aachen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 436
+    },
+    {
+      "id": "hist-178647d440d7a5c0dc6fd098",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "Bayer Uerdingen",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 437
+    },
+    {
+      "id": "hist-5aa5d52556ea4d02010add99",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "1. FC Mülheim-Styrum",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 438
+    },
+    {
+      "id": "hist-8b716a2cfe2af7fcf2b828ee",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 439
+    },
+    {
+      "id": "hist-4beb5b64ffbd7fce04901fbc",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "SC Viktoria Köln",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Viktoria Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 440
+    },
+    {
+      "id": "hist-94acc5cdbc38ad3ef7604ced",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "FK Pirmasens",
+      "away": "TSV 1860 München",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 441
+    },
+    {
+      "id": "hist-66cce2d2d4f87a2edf9e4d93",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Sportfreunde Siegen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 442
+    },
+    {
+      "id": "hist-7364d7e7f9772a5906170738",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "SC Jülich",
+      "away": "TSV Taunusstein-Bleidenstadt",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Jülich",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 443
+    },
+    {
+      "id": "hist-9a14954cf76572eaff6c4bbf",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "FC Altona 93",
+      "away": "SV Arminia Hannover",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Altona 93",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 444
+    },
+    {
+      "id": "hist-4ca6392377ed21a81b4c392b",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-08",
+      "time": null,
+      "home": "VfB Stuttgart (A)",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 445
+    },
+    {
+      "id": "hist-875755d2e2fa93e99b04bb8b",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1975-02-15",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "VfB Eppingen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Eppingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 446
+    },
+    {
+      "id": "hist-e5c9de350b951a4d9ed30ca7",
+      "round": "3. Hauptrunde",
+      "replay": true,
+      "date": "1975-02-19",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 452
+    },
+    {
+      "id": "hist-b36dd671fd2a44e9576b952a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1975-03-15",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 458
+    },
+    {
+      "id": "hist-ed6363c2823a896275661307",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1975-03-15",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "1. FC Köln",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 459
+    },
+    {
+      "id": "hist-5963cc100a89837b768df713",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1975-03-15",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "FK Pirmasens",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 460
+    },
+    {
+      "id": "hist-b1d3d8cd6a3e17ba7d2a9887",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1975-03-15",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "FC Altona 93",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 461
+    },
+    {
+      "id": "hist-7873613c7434ea539056671d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1975-03-15",
+      "time": null,
+      "home": "VfB Stuttgart (A)",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 462
+    },
+    {
+      "id": "hist-65cf8ebfd034f4eeda8c1554",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1975-03-15",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "SC Jülich",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 463
+    },
+    {
+      "id": "hist-c06f825ab09dfc02667b9d80",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1975-03-15",
+      "time": null,
+      "home": "VfB Eppingen",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 464
+    },
+    {
+      "id": "hist-75fc69b5487a96f5d6d7451b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1975-03-16",
+      "time": null,
+      "home": "SC Viktoria Köln",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 465
+    },
+    {
+      "id": "hist-4ebb56bbfbf10e0247bd6b58",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1975-03-26",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "SC Viktoria Köln",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 471
+    },
+    {
+      "id": "hist-078ea19e27841abbde2959c7",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1975-03-29",
+      "time": null,
+      "home": "SC Jülich",
+      "away": "SC Fortuna Köln",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 472
+    },
+    {
+      "id": "hist-68edf4f9dceb0ec663e84329",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1975-04-12",
+      "time": null,
+      "home": "VfB Stuttgart (A)",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 478
+    },
+    {
+      "id": "hist-061151c5d1ceabaa092d9630",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1975-04-12",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "SC Fortuna Köln",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 479
+    },
+    {
+      "id": "hist-d3ebb28a71d31e92db8f622f",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1975-04-12",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "MSV Duisburg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 480
+    },
+    {
+      "id": "hist-3d0a5a786baeb55eaa3cd189",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1975-04-12",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 481
+    },
+    {
+      "id": "hist-f8fa6b9c31f7710f54a98699",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1975-04-29",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 487
+    },
+    {
+      "id": "hist-657961e57ddfa6bdc0875929",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1975-04-30",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 488
+    }
+  ],
+  "issues": [
+    {
+      "line": 303,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}2:2 n. V.{{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 304,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}8:0{{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 328,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}3:0{{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 339,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>2</sup>}}2:2 n. V.{{FN|2|gruppe=h1}}"
+    },
+    {
+      "line": 344,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}6:1{{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 345,
+      "reason": "unparsed row",
+      "raw": "11:1{{0}}"
+    },
+    {
+      "line": 360,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}3:1{{FN|1|gruppe=h1}}"
+    },
+    {
+      "line": 390,
+      "reason": "unparsed row",
+      "raw": "{{0|<sup>1</sup>}}6:0{{FN|1|gruppe=h2}}"
+    },
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}
