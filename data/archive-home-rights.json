@@ -898,5 +898,96 @@
         "FC Bayern München (I)"
       ]
     ]
+  },
+  {
+    "season": "2017-18",
+    "round": "Achtelfinale",
+    "source": "https://schalke04.de/dfb-pokal/dfb-pokal-s04-empfaengt-den-1-fc-koeln/",
+    "pairs": [
+      [
+        "hist-53bf50a41b53df837f4e02e5",
+        "1. FSV Mainz 05 (I)",
+        "VfB Stuttgart (I)"
+      ],
+      [
+        "hist-032b56d4809affee840f7676",
+        "SC Paderborn 07 (III)",
+        "FC Ingolstadt 04 (II)"
+      ],
+      [
+        "hist-8e35c806866744a3a260a0f9",
+        "1. FC Nürnberg (II)",
+        "VfL Wolfsburg (I)"
+      ],
+      [
+        "hist-1d6e127c2ed98a38ec120a2f",
+        "FC Schalke 04 (I)",
+        "1. FC Köln (I)"
+      ],
+      [
+        "hist-489bf965bfb40fd22c1a585d",
+        "Borussia Mönchengladbach (I)",
+        "Bayer 04 Leverkusen (I)"
+      ],
+      [
+        "hist-e83d01e971dcda65121b9da4",
+        "Werder Bremen (I)",
+        "SC Freiburg (I)"
+      ],
+      [
+        "hist-a99027715b3d36d55540bad6",
+        "1. FC Heidenheim (II)",
+        "Eintracht Frankfurt (I)"
+      ],
+      [
+        "hist-e47fc929a32a107b812d14ed",
+        "FC Bayern München (I)",
+        "Borussia Dortmund (I)"
+      ]
+    ]
+  },
+  {
+    "season": "2017-18",
+    "round": "Viertelfinale",
+    "source": "https://www.bild.de/sport/fussball/dfb-pokal/dfb-pokal-das-sind-die-viertelfinal-knaller-54403806.bild.html",
+    "pairs": [
+      [
+        "hist-c6e94aa8aeb98d72a13bc6f9",
+        "SC Paderborn 07 (III)",
+        "FC Bayern München (I)"
+      ],
+      [
+        "hist-4c0a7cf968ff6395a75f27b1",
+        "Bayer 04 Leverkusen (I)",
+        "Werder Bremen (I)"
+      ],
+      [
+        "hist-1a50d62ec945cd51befdacf3",
+        "Eintracht Frankfurt (I)",
+        "1. FSV Mainz 05 (I)"
+      ],
+      [
+        "hist-272381fb70da2efab6c9254f",
+        "FC Schalke 04 (I)",
+        "VfL Wolfsburg (I)"
+      ]
+    ]
+  },
+  {
+    "season": "2017-18",
+    "round": "Halbfinale",
+    "source": "https://profis.eintracht.de/news/dfb-pokalhalbfinale-die-eintracht-gastiert-beim-fc-schalke-04-63988/",
+    "pairs": [
+      [
+        "hist-beb4a6d8420ceeff171e2551",
+        "Bayer 04 Leverkusen (I)",
+        "FC Bayern München (I)"
+      ],
+      [
+        "hist-9d9dda8996828ce47275ae82",
+        "FC Schalke 04 (I)",
+        "Eintracht Frankfurt (I)"
+      ]
+    ]
   }
 ]
