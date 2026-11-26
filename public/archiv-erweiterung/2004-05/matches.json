@@ -209,6 +209,35 @@
       "sourceLine": 200
     },
     {
+      "id": "hist-0e1abf0c8d18860165e53284",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2004-08-21",
+      "time": null,
+      "home": "SC Paderborn 07",
+      "away": "Hamburger SV",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 (2:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Paderborn 07",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
       "id": "hist-4e9b15ec811447d2666466fe",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -702,6 +731,32 @@
       "sourceLine": 218
     },
     {
+      "id": "hist-f52846cfe7a62c927ad04948",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2004-08-22",
+      "time": null,
+      "home": "1. FC Köln Amat.",
+      "away": "VfL Wolfsburg",
+      "score": null,
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 <s>0:3 (0:2)</s>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
       "id": "hist-6566d30b97abc19a5fc4e5f0",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -731,25 +786,31 @@
       "sourceLine": 220
     },
     {
-      "id": "hist-a5d2b66fcb936766d67e5a12",
+      "id": "hist-f9feba6eabcdcec6a069b698",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2004-08-22",
       "time": null,
       "home": "Bayern München Amat.",
       "away": "Borussia M’gladbach",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:0)<br /><small>(6:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:0) (6:5 i. E.)",
+      "penalties": [
+        6,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Bayern München Amat.",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -960,25 +1021,31 @@
       "sourceLine": 234
     },
     {
-      "id": "hist-f1e5fd9eade09788a14cc9a6",
+      "id": "hist-ce43c2c721ec7fb0ef4d703f",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2004-09-21",
       "time": null,
       "home": "TSV 1860 München",
       "away": "Eintracht Trier",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Eintracht Trier",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -986,25 +1053,31 @@
       "sourceLine": 235
     },
     {
-      "id": "hist-05eea76f630b49d4f5865cd2",
+      "id": "hist-8c783c3f6df40540e65cee6c",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2004-09-21",
       "time": null,
       "home": "Karlsruher SC",
       "away": "1. FSV Mainz 05",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:0)<br /><small>(3:0 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:0) (3:0 i. E.)",
+      "penalties": [
+        3,
+        0
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1128,25 +1201,31 @@
       "sourceLine": 240
     },
     {
-      "id": "hist-d27810ba635d985b703f8c15",
+      "id": "hist-c4856b3da47005ed5de78f97",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2004-09-22",
       "time": null,
       "home": "1. FC Kaiserslautern",
       "away": "FC Schalke 04",
-      "score": null,
+      "score": [
+        4,
+        4
+      ],
       "reportedScore": [
         4,
         4
       ],
-      "raw": "4:4 n. V. (3:3, 0:1)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "4:4 n. V. (3:3, 0:1) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1183,25 +1262,31 @@
       "sourceLine": 242
     },
     {
-      "id": "hist-56e42b60798dcac6dd8666f3",
+      "id": "hist-1957da8af5b93c90ed9e23ba",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2004-09-22",
       "time": null,
       "home": "Energie Cottbus",
       "away": "Hannover 96",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 0:1)<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 0:1) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Hannover 96",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1238,25 +1323,31 @@
       "sourceLine": 244
     },
     {
-      "id": "hist-1c3de5e8b5cea0b43e2e31a5",
+      "id": "hist-d149895187b62d3671a1564f",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2004-09-22",
       "time": null,
       "home": "1. FC Köln",
       "away": "Hansa Rostock",
-      "score": null,
+      "score": [
+        3,
+        3
+      ],
       "reportedScore": [
         3,
         3
       ],
-      "raw": "3:3 n. V. (3:3, 1:2)<br /><small>(2:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "3:3 n. V. (3:3, 1:2) (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1438,25 +1529,31 @@
       "sourceLine": 255
     },
     {
-      "id": "hist-5fd791cd9e6f7f2ce6fc77a6",
+      "id": "hist-33f90556721a6e9ee222e5e8",
       "round": "Achtelfinale",
       "replay": false,
       "date": "2004-10-10",
       "time": null,
       "home": "SC Paderborn 07",
       "away": "SC Freiburg",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (1:1, 0:1)<br /><small>(1:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (1:1, 0:1) (1:4 i. E.)",
+      "penalties": [
+        1,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1667,25 +1764,31 @@
       "sourceLine": 267
     },
     {
-      "id": "hist-c21b33fb6e01c53c28dea380",
+      "id": "hist-5c55b06b49b9169e1c38cef2",
       "round": "Halbfinale",
       "replay": false,
       "date": "2005-04-19",
       "time": null,
       "home": "FC Schalke 04",
       "away": "Werder Bremen",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (1:1, 0:0)<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (1:1, 0:0) (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1723,16 +1826,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 201,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}4:2 (2:2){{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 219,
-      "reason": "unparsed row",
-      "raw": "2:0<br /><s>{{0|<sup>2</sup>}}0:3 (0:2)</s>{{FN|2|gruppe=h1}}"
-    },
     {
       "reason": "final template not parsed"
     }

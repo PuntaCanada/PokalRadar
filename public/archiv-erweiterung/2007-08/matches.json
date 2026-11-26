@@ -64,25 +64,31 @@
       "sourceLine": 594
     },
     {
-      "id": "hist-60b8b6611c77b831596d165b",
+      "id": "hist-b1caa0014cb90fe47249933b",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": null,
       "time": null,
       "home": "Rot-Weiss Essen",
       "away": "Energie Cottbus",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (1:1, 0:1)<br /><small>(6:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (1:1, 0:1) (6:5 i. E.)",
+      "penalties": [
+        6,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -409,25 +415,31 @@
       "sourceLine": 606
     },
     {
-      "id": "hist-6664b1bfabdfc6cdb6703178",
+      "id": "hist-71bfd03e116016184f625052",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": null,
       "time": null,
       "home": "Wuppertaler SV Borussia",
       "away": "FC Erzgebirge Aue",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:1)<br /><small>(4:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:1) (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Wuppertaler SV Borussia",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -899,25 +911,31 @@
       "sourceLine": 623
     },
     {
-      "id": "hist-5ad48bb50e40a0b9ae1654c7",
+      "id": "hist-0531ddb8643e4f0b5e449b25",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": null,
       "time": null,
       "home": "Wacker Burghausen",
       "away": "FC Bayern München",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:0)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:0) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -983,25 +1001,31 @@
       "sourceLine": 632
     },
     {
-      "id": "hist-1795de020517eb44f5822eaf",
+      "id": "hist-d7f06cfca520ac4f97033887",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": null,
       "time": null,
       "home": "Werder Bremen II",
       "away": "FC St. Pauli",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 1:1)<br /><small>(4:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 1:1) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Werder Bremen II",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1299,25 +1323,31 @@
       "sourceLine": 643
     },
     {
-      "id": "hist-7f9b94c7e7882a8ec2357f0c",
+      "id": "hist-b19d1a6bb5118626d83bf694",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": null,
       "time": null,
       "home": "FC Carl Zeiss Jena",
       "away": "1. FC Nürnberg",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (1:1, 0:1)<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (1:1, 0:1) (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1441,6 +1471,35 @@
       "sourceLine": 654
     },
     {
+      "id": "hist-19bb6927994fb87cf45ef7c3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Wuppertaler SV Borussia",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5 (2:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 655
+    },
+    {
       "id": "hist-dd8e257c6bdc5dba0ba4a24b",
       "round": "Achtelfinale",
       "replay": false,
@@ -1557,25 +1616,31 @@
       "sourceLine": 659
     },
     {
-      "id": "hist-898e1e73a5dfd676565ce4f8",
+      "id": "hist-e609473400728aa7ea0aa64b",
       "round": "Achtelfinale",
       "replay": false,
       "date": null,
       "time": null,
       "home": "VfL Wolfsburg",
       "away": "FC Schalke 04",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:1)<br /><small>(5:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:1) (5:3 i. E.)",
+      "penalties": [
+        5,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1612,25 +1677,31 @@
       "sourceLine": 671
     },
     {
-      "id": "hist-94f234315db7f1954c02b850",
+      "id": "hist-352445c06eeb540a63cf1c28",
       "round": "Viertelfinale",
       "replay": false,
       "date": null,
       "time": null,
       "home": "VfB Stuttgart",
       "away": "FC Carl Zeiss Jena",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (1:1, 0:1)<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (1:1, 0:1) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1755,11 +1826,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 655,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:5 (2:2){{FN|1|gruppe=h3}}"
-    },
     {
       "reason": "final template not parsed"
     }

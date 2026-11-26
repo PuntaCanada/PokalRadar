@@ -151,6 +151,35 @@
       "sourceLine": 311
     },
     {
+      "id": "hist-0463ab7a956a635ae73105e5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1980-08-30",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "FSV Hemmersdorf",
+      "score": [
+        10,
+        0
+      ],
+      "reportedScore": [
+        10,
+        0
+      ],
+      "raw": "10:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 312
+    },
+    {
       "id": "hist-9cbd12e4286641f45b8004ff",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -236,6 +265,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 315
+    },
+    {
+      "id": "hist-245ec325d4413dc9a69147b1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1980-08-30",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Wormatia Worms",
+      "score": [
+        11,
+        1
+      ],
+      "reportedScore": [
+        11,
+        1
+      ],
+      "raw": "11:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 316
     },
     {
       "id": "hist-66c63551bec71cee0a406459",
@@ -1077,6 +1135,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 345
+    },
+    {
+      "id": "hist-41503c072a36cdd05feac1e6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1980-08-30",
+      "time": null,
+      "home": "TSV Moselfeuer Lehmen",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        15
+      ],
+      "reportedScore": [
+        1,
+        15
+      ],
+      "raw": "1:15",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 346
     },
     {
       "id": "hist-c1a22de424a685c55bf3d915",
@@ -2529,6 +2616,64 @@
       "sourceLine": 405
     },
     {
+      "id": "hist-83386c0ab6083049b1f84022",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1980-10-04",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "SpVgg Ansbach 09",
+      "score": [
+        13,
+        0
+      ],
+      "reportedScore": [
+        13,
+        0
+      ],
+      "raw": "13:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 406
+    },
+    {
+      "id": "hist-de487d5bbceb7c0f5c465df5",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1980-10-04",
+      "time": null,
+      "home": "SG Union Solingen",
+      "away": "Rot-Weiss Frankfurt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 407
+    },
+    {
       "id": "hist-6fe20720cb04f30806c7427a",
       "round": "2. Hauptrunde",
       "replay": false,
@@ -3283,6 +3428,35 @@
       "sourceLine": 442
     },
     {
+      "id": "hist-cbe551af74691539bdbb6749",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1980-11-22",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Rot-Weiss Frankfurt",
+      "score": [
+        11,
+        0
+      ],
+      "reportedScore": [
+        11,
+        0
+      ],
+      "raw": "11:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 443
+    },
+    {
       "id": "hist-9d4be5263b09479f58fa1c16",
       "round": "3. Hauptrunde",
       "replay": false,
@@ -3777,36 +3951,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 312,
-      "reason": "unparsed row",
-      "raw": "10:0{{0}}"
-    },
-    {
-      "line": 316,
-      "reason": "unparsed row",
-      "raw": "11:1{{0}}"
-    },
-    {
-      "line": 346,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}{{0}}1:15{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 406,
-      "reason": "unparsed row",
-      "raw": "13:0{{0}}"
-    },
-    {
-      "line": 407,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:2{{FN|1|gruppe=h2}}"
-    },
-    {
-      "line": 443,
-      "reason": "unparsed row",
-      "raw": "11:0{{0}}"
-    },
     {
       "reason": "final template not parsed"
     }

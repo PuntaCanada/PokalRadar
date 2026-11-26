@@ -6,6 +6,35 @@
   "bye": 0,
   "matches": [
     {
+      "id": "hist-155139dbc17714d62d0d0e1e",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1953-08-01",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 23
+    },
+    {
       "id": "hist-9e90e495bafd17d8af963620",
       "round": "Viertelfinale",
       "replay": false,
@@ -91,6 +120,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 26
+    },
+    {
+      "id": "hist-7847add06bd3fe65fcf6b73c",
+      "round": "Viertelfinale",
+      "replay": true,
+      "date": "1953-08-16",
+      "time": null,
+      "home": "SV Bergisch Gladbach",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
     },
     {
       "id": "hist-0446432f21cf6284425dbd9a",
@@ -181,16 +239,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 23,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:3{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 32,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:6{{FN|2|gruppe=h1}}"
-    },
     {
       "reason": "final template not parsed"
     }

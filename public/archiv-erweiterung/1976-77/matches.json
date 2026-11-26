@@ -1079,6 +1079,35 @@
       "sourceLine": 346
     },
     {
+      "id": "hist-87174a89884cfa6444152130",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Concordia Haaren",
+      "score": [
+        10,
+        0
+      ],
+      "reportedScore": [
+        10,
+        0
+      ],
+      "raw": "10:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 347
+    },
+    {
       "id": "hist-8e8f5f06ef80ea03581e455a",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -1396,6 +1425,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 358
+    },
+    {
+      "id": "hist-f634e89b2c343b4cae15bec8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "SC Union 06 Berlin",
+      "score": [
+        12,
+        1
+      ],
+      "reportedScore": [
+        12,
+        1
+      ],
+      "raw": "12:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 359
     },
     {
       "id": "hist-24fd1fbfe01829bc085ff5af",
@@ -1717,6 +1775,35 @@
       "sourceLine": 370
     },
     {
+      "id": "hist-23f2c4d86cf91fe5a8009729",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hannover 96 Amateure",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        10
+      ],
+      "reportedScore": [
+        0,
+        10
+      ],
+      "raw": "0:10",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 371
+    },
+    {
       "id": "hist-54436e6cc6df699995984edb",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -1949,6 +2036,35 @@
       "sourceLine": 387
     },
     {
+      "id": "hist-f5acf89dc9eece925a910f76",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Hertha Zehlendorf",
+      "score": [
+        10,
+        2
+      ],
+      "reportedScore": [
+        10,
+        2
+      ],
+      "raw": "10:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 388
+    },
+    {
       "id": "hist-0f3ee27aa3721623be71fb19",
       "round": "2. Hauptrunde",
       "replay": false,
@@ -2150,6 +2266,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 395
+    },
+    {
+      "id": "hist-30cc2f0472f68dfb8bd7eb50",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 396
     },
     {
       "id": "hist-c2d15146c4484285644ef8f9",
@@ -2819,25 +2964,31 @@
       "sourceLine": 424
     },
     {
-      "id": "hist-12b1bb69578db8b481a2dbd6",
+      "id": "hist-44ab2244b57016cfef028a0e",
       "round": "2. Hauptrunde",
       "replay": true,
       "date": null,
       "time": null,
       "home": "Olympia Bocholt",
       "away": "Tennis Borussia Berlin",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(1:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:3 i. E.)",
+      "penalties": [
+        1,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -3104,6 +3255,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 438
+    },
+    {
+      "id": "hist-94007184dcb80bae5065d1c0",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "TV Unterboihingen",
+      "score": [
+        10,
+        1
+      ],
+      "reportedScore": [
+        10,
+        1
+      ],
+      "raw": "10:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 439
     },
     {
       "id": "hist-2168e6b1db18f9b9f1c2dc4a",
@@ -3745,36 +3925,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 347,
-      "reason": "unparsed row",
-      "raw": "10:0{{0}}"
-    },
-    {
-      "line": 359,
-      "reason": "unparsed row",
-      "raw": "12:1{{0}}"
-    },
-    {
-      "line": 371,
-      "reason": "unparsed row",
-      "raw": "{{0}}0:10"
-    },
-    {
-      "line": 388,
-      "reason": "unparsed row",
-      "raw": "10:2{{0}}"
-    },
-    {
-      "line": 396,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:2{{FN|1|gruppe=h2}}"
-    },
-    {
-      "line": 439,
-      "reason": "unparsed row",
-      "raw": "10:1{{0}}"
-    },
     {
       "reason": "final template not parsed"
     }

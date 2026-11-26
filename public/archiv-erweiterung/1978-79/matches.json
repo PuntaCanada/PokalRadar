@@ -64,6 +64,35 @@
       "sourceLine": 303
     },
     {
+      "id": "hist-66674a7df716cc4273d3d576",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-04",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Spandauer SV",
+      "score": [
+        12,
+        0
+      ],
+      "reportedScore": [
+        12,
+        0
+      ],
+      "raw": "12:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 304
+    },
+    {
       "id": "hist-b75c1402ceaa194bd7f534ce",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -383,6 +412,35 @@
       "sourceLine": 315
     },
     {
+      "id": "hist-a082498f84cb3c1f76829ab4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "BSV 07 Schwenningen",
+      "score": [
+        14,
+        1
+      ],
+      "reportedScore": [
+        14,
+        1
+      ],
+      "raw": "14:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 316
+    },
+    {
       "id": "hist-d9f066829e9f8dafd396eba8",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -586,6 +644,35 @@
       "sourceLine": 323
     },
     {
+      "id": "hist-3ef411f4a01b09defcdfe699",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "Preußen Münster",
+      "away": "SV Leiwen",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Preußen Münster",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 324
+    },
+    {
       "id": "hist-ceb8a2fd45f10566c1273069",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -642,6 +729,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 326
+    },
+    {
+      "id": "hist-7de2019947cf2d0a5e495342",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SC Jülich",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        10
+      ],
+      "reportedScore": [
+        1,
+        10
+      ],
+      "raw": "1:10",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 327
     },
     {
       "id": "hist-07f0bb4301c93f964bba54d0",
@@ -874,6 +990,64 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 335
+    },
+    {
+      "id": "hist-3aaf5de92e65d042844f1d87",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "SG Ellingen-Bonefeld",
+      "away": "VfB Lübeck",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Ellingen-Bonefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 336
+    },
+    {
+      "id": "hist-ec3690a946ca66d8288d9ba9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "TSV Nord Harrislee",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 337
     },
     {
       "id": "hist-9ac5cb54399a595a4fb68f4a",
@@ -1166,6 +1340,64 @@
       "sourceLine": 347
     },
     {
+      "id": "hist-31d9174518d99ce0e2eee9a2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "SSV Glött",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 348
+    },
+    {
+      "id": "hist-aa1af94bd57d824f8bc228ec",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-05",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "BFC Preussen",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 349
+    },
+    {
       "id": "hist-fd71eeea9abbaee6f2b7dae2",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -1222,6 +1454,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 351
+    },
+    {
+      "id": "hist-c8f5eadedbbbae30d6ad68d5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "SC Herford",
+      "away": "Würzburger Kickers",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Herford",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 352
     },
     {
       "id": "hist-33c464172ccf52a7cdbcac26",
@@ -1396,6 +1657,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 358
+    },
+    {
+      "id": "hist-906c80fb081c2686e45315f0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1978-08-06",
+      "time": null,
+      "home": "SV Bliesen",
+      "away": "Melsunger FV 08",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Melsunger FV 08",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 359
     },
     {
       "id": "hist-9fa326f77efcd9a153a7c1ab",
@@ -2558,25 +2848,31 @@
       "sourceLine": 419
     },
     {
-      "id": "hist-90d0939ee89a49fc74a2af4d",
+      "id": "hist-046fc112e65bac61a2ba4cbe",
       "round": "2. Hauptrunde",
       "replay": true,
       "date": "1978-10-04",
       "time": null,
       "home": "VfR OLI Bürstadt",
       "away": "Tennis Borussia Berlin",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -3135,25 +3431,31 @@
       "sourceLine": 443
     },
     {
-      "id": "hist-3b351c008f4b03c591243ef7",
+      "id": "hist-e2a5337ff11a67b5d42950b3",
       "round": "3. Hauptrunde",
       "replay": true,
       "date": "1978-12-26",
       "time": null,
       "home": "SC Freiburg",
       "away": "SC Rot-Weiß Oberhausen",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(2:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (2:3 i. E.)",
+      "penalties": [
+        2,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SC Rot-Weiß Oberhausen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -3626,56 +3928,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 304,
-      "reason": "unparsed row",
-      "raw": "12:0{{0}}"
-    },
-    {
-      "line": 316,
-      "reason": "unparsed row",
-      "raw": "14:1{{0}}"
-    },
-    {
-      "line": 324,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}6:0{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 327,
-      "reason": "unparsed row",
-      "raw": "{{0}}1:10"
-    },
-    {
-      "line": 336,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}3:1{{FN|2|gruppe=h1}}"
-    },
-    {
-      "line": 337,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:6{{FN|3|gruppe=h1}}"
-    },
-    {
-      "line": 348,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}5:0{{FN|4|gruppe=h1}}"
-    },
-    {
-      "line": 349,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}7:0{{FN|5|gruppe=h1}}"
-    },
-    {
-      "line": 352,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:1{{FN|6|gruppe=h1}}"
-    },
-    {
-      "line": 359,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:3{{FN|7|gruppe=h1}}"
-    },
     {
       "reason": "final template not parsed"
     }

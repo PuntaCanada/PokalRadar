@@ -6,6 +6,35 @@
   "bye": 0,
   "matches": [
     {
+      "id": "hist-0847428edde2f4d191319364",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-28",
+      "time": null,
+      "home": "SV Schalding-Heining",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
       "id": "hist-d5ee343acada1641d23f63ad",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -64,25 +93,31 @@
       "sourceLine": 31
     },
     {
-      "id": "hist-6af988785b00abcb3644203a",
+      "id": "hist-c5c7228e9132fa345fbf27c8",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "1998-08-28",
       "time": null,
       "home": "1. FC Saarbrücken",
       "away": "Borussia Dortmund",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(1:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:3 i. E.)",
+      "penalties": [
+        1,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1047,25 +1082,31 @@
       "sourceLine": 71
     },
     {
-      "id": "hist-6fcae8d4cf8765fa38e48954",
+      "id": "hist-d3de866572078c7cd5834257",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1998-09-22",
       "time": null,
       "home": "1. FC Kaiserslautern",
       "away": "VfL Bochum",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1073,25 +1114,31 @@
       "sourceLine": 72
     },
     {
-      "id": "hist-fa3561917a57db32fb3d47a4",
+      "id": "hist-ac736e43e5ef10da74d10e94",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1998-09-22",
       "time": null,
       "home": "Bayer 04 Leverkusen",
       "away": "Hertha BSC",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1273,25 +1320,31 @@
       "sourceLine": 79
     },
     {
-      "id": "hist-b62b49c7207f8d8cb1ca3f3f",
+      "id": "hist-c30432b217a72841a9933fc5",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1998-09-23",
       "time": null,
       "home": "SpVgg Greuther Fürth",
       "away": "FC Bayern München",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1299,25 +1352,31 @@
       "sourceLine": 80
     },
     {
-      "id": "hist-d2a7f5f246de6b12eaa7eff2",
+      "id": "hist-b7bba0b585c52fab404c9103",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1998-09-23",
       "time": null,
       "home": "KFC Uerdingen 05",
       "away": "FC St. Pauli",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "KFC Uerdingen 05",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1441,25 +1500,31 @@
       "sourceLine": 90
     },
     {
-      "id": "hist-7c149c9db27a0ac3b7035a90",
+      "id": "hist-908a37e011f721cf2da0b460",
       "round": "Achtelfinale",
       "replay": false,
       "date": "1998-10-27",
       "time": null,
       "home": "Rot-Weiß Oberhausen",
       "away": "Hamburger SV",
-      "score": null,
+      "score": [
+        3,
+        3
+      ],
       "reportedScore": [
         3,
         3
       ],
-      "raw": "3:3 n. V.<br /><small>(4:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "3:3 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1699,6 +1764,35 @@
       "sourceLine": 104
     },
     {
+      "id": "hist-10999145072ac4a0119c1657",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1999-03-09",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 110
+    },
+    {
       "id": "hist-3fba323ded5a35b4b5eb3b2f",
       "round": "Halbfinale",
       "replay": false,
@@ -1729,16 +1823,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 29,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:1{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 110,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:3{{FN|2|gruppe=h1}}"
-    },
     {
       "reason": "final template not parsed"
     }

@@ -6,6 +6,35 @@
   "bye": 0,
   "matches": [
     {
+      "id": "hist-329135231ccc595e6aea2020",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1970-12-12",
+      "time": null,
+      "home": "TSV Westerland",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 25
+    },
+    {
       "id": "hist-9be91ba27a932d9eb4248deb",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -441,25 +470,31 @@
       "sourceLine": 40
     },
     {
-      "id": "hist-cec5438c0b4ca376a3701663",
+      "id": "hist-d9669d7318965715c3513fb9",
       "round": "1. Hauptrunde",
       "replay": true,
       "date": "1970-12-23",
       "time": null,
       "home": "FC Schalke 04",
       "away": "VfL Wolfsburg",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(3:1 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (3:1 i. E.)",
+      "penalties": [
+        3,
+        1
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1018,11 +1053,5 @@
       "sourceLine": 151
     }
   ],
-  "issues": [
-    {
-      "line": 25,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:4{{FN|1|gruppe=h1}}"
-    }
-  ]
+  "issues": []
 }

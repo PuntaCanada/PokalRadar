@@ -6,6 +6,35 @@
   "bye": 0,
   "matches": [
     {
+      "id": "hist-4ffbf1ac3232f7247a4e3527",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2017-08-11",
+      "time": null,
+      "home": "TuS Koblenz (IV)",
+      "away": "Dynamo Dresden (II)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dynamo Dresden (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1176
+    },
+    {
       "id": "hist-19432f44664e68e22f0e06ff",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -151,6 +180,64 @@
       "sourceLine": 1181
     },
     {
+      "id": "hist-3569a0aa888cf3dc63519d89",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2017-08-12",
+      "time": null,
+      "home": "Lüneburger SK Hansa (IV)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1182
+    },
+    {
+      "id": "hist-0c39505548d40bf8aad9d7e9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2017-08-12",
+      "time": null,
+      "home": "Leher Turnerschaft (V)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1183
+    },
+    {
       "id": "hist-ebd10dc9d16ef516ef2fd4c6",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -178,6 +265,93 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 1184
+    },
+    {
+      "id": "hist-5fc131e1e360466859a4ea93",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2017-08-12",
+      "time": null,
+      "home": "TuS Erndtebrück (IV)",
+      "away": "Eintracht Frankfurt (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1185
+    },
+    {
+      "id": "hist-f1d39aeedfc54ec368955c92",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2017-08-12",
+      "time": null,
+      "home": "1. FC Rielasingen-Arlen (VI)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1186
+    },
+    {
+      "id": "hist-858da0ae0640c19fea632a45",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2017-08-12",
+      "time": null,
+      "home": "SV Eichede (V)",
+      "away": "1. FC Kaiserslautern (II)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1187
     },
     {
       "id": "hist-9b42df71e6e76197572693ee",
@@ -267,6 +441,35 @@
       "sourceLine": 1190
     },
     {
+      "id": "hist-5d39b79c4b7217405028140e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2017-08-12",
+      "time": null,
+      "home": "Würzburger Kickers (III)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1191
+    },
+    {
       "id": "hist-ffe55aa079b8a8a4d2566bf1",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -354,6 +557,35 @@
       "sourceLine": 1194
     },
     {
+      "id": "hist-3052b7f4b27d2917255bd0df",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2017-08-13",
+      "time": null,
+      "home": "Sportfreunde Dorfmerkingen (VI)",
+      "away": "RB Leipzig (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "RB Leipzig (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1195
+    },
+    {
       "id": "hist-d12ec92ed6289ca539c64346",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -383,6 +615,35 @@
       "sourceLine": 1196
     },
     {
+      "id": "hist-28a7402c4051f7fadf6bdfa6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2017-08-13",
+      "time": null,
+      "home": "SV Morlautern (V)",
+      "away": "SpVgg Greuther Fürth (II)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1197
+    },
+    {
       "id": "hist-89059bc9be4cc016efcad729",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -410,6 +671,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 1198
+    },
+    {
+      "id": "hist-d4c5fe42e0e36eca7513d2e8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2017-08-13",
+      "time": null,
+      "home": "FC Nöttingen (V)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1199
     },
     {
       "id": "hist-f73ff590f0452c682861c146",
@@ -470,25 +760,31 @@
       "sourceLine": 1201
     },
     {
-      "id": "hist-07d9dd63c24280c02548cb67",
+      "id": "hist-5b842e238b5b7bf2a8e55a52",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2017-08-13",
       "time": null,
       "home": "Energie Cottbus (IV)",
       "away": "VfB Stuttgart (I)",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 2:0)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 2:0) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1076,25 +1372,31 @@
       "sourceLine": 1241
     },
     {
-      "id": "hist-de63542f5e6faa261737996d",
+      "id": "hist-2ef9af7199f992b291e9b45e",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2017-10-25",
       "time": null,
       "home": "RB Leipzig (I)",
       "away": "FC Bayern München (I)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:0)<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:0) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1509,56 +1811,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 1176,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:3 (1:1){{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 1182,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>2</sup>}}1:3 (1:2){{FN|2|gruppe=h1}}"
-    },
-    {
-      "line": 1183,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>3</sup>}}0:5 (0:2){{FN|3|gruppe=h1}}"
-    },
-    {
-      "line": 1185,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>4</sup>}}0:3 (0:1){{FN|4|gruppe=h1}}"
-    },
-    {
-      "line": 1186,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>5</sup>}}0:4 (0:2){{FN|5|gruppe=h1}}"
-    },
-    {
-      "line": 1187,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>6</sup>}}0:4 (0:2){{FN|6|gruppe=h1}}"
-    },
-    {
-      "line": 1191,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>7</sup>}}0:3 (0:0){{FN|7|gruppe=h1}}"
-    },
-    {
-      "line": 1195,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>8</sup>}}0:5 (0:1){{FN|8|gruppe=h1}}"
-    },
-    {
-      "line": 1197,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>9</sup>}}0:5 (0:2){{FN|9|gruppe=h1}}"
-    },
-    {
-      "line": 1199,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>10</sup>}}2:5 (0:2){{FN|10|gruppe=h1}}"
-    },
     {
       "reason": "final template not parsed"
     }

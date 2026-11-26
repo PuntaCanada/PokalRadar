@@ -35,6 +35,35 @@
       "sourceLine": 305
     },
     {
+      "id": "hist-87aeb35d192413109f5a2c4d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "1. FC Köln (A)",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 306
+    },
+    {
       "id": "hist-98f6859e7bb9ade6358f20ee",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -412,6 +441,35 @@
       "sourceLine": 319
     },
     {
+      "id": "hist-8ee6b7398a8e7b13e8146a6e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Chio Waldhof",
+      "away": "Cuxhavener SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Chio Waldhof",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 320
+    },
+    {
       "id": "hist-a024c7b558ebaac0671abfeb",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -586,6 +644,64 @@
       "sourceLine": 326
     },
     {
+      "id": "hist-a2725af61026d0cf17c377c3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Röchling Völklingen",
+      "away": "FC Wacker München",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Röchling Völklingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 327
+    },
+    {
+      "id": "hist-7423299cdaad80619cf8a740",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "SC Condor Hamburg",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 328
+    },
+    {
       "id": "hist-8f6f243e51f158d6b27668f5",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -671,6 +787,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 331
+    },
+    {
+      "id": "hist-75d6aa2873073bc3992dd0e0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TuS Xanten",
+      "away": "TS Woltmershausen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TS Woltmershausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 332
     },
     {
       "id": "hist-730075c38278353bf17b4ee3",
@@ -963,6 +1108,35 @@
       "sourceLine": 342
     },
     {
+      "id": "hist-2baebdd6bbdb670acdb6738d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Westfalia Herne",
+      "away": "Freiburger FC",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westfalia Herne",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 343
+    },
+    {
       "id": "hist-bdf1ab576f06c8dfabb22bf3",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -1050,6 +1224,35 @@
       "sourceLine": 346
     },
     {
+      "id": "hist-66326e5947892d8e1145d268",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FV 09 Weinheim",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        7
+      ],
+      "reportedScore": [
+        1,
+        7
+      ],
+      "raw": "1:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 347
+    },
+    {
       "id": "hist-805f81b153e0084e02d6ba59",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -1106,6 +1309,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 349
+    },
+    {
+      "id": "hist-d6c4d1ef93fc5882a8b556dd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "SV St. Georg von 1895",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 350
     },
     {
       "id": "hist-7f1901903746ef999df3964c",
@@ -1253,6 +1485,35 @@
       "sourceLine": 355
     },
     {
+      "id": "hist-457105324e7b9dc75140ecbc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "MTV Fürth",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        10
+      ],
+      "reportedScore": [
+        2,
+        10
+      ],
+      "raw": "2:10",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 356
+    },
+    {
       "id": "hist-02ea7cd37693b5d15f1002ba",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -1369,6 +1630,35 @@
       "sourceLine": 360
     },
     {
+      "id": "hist-706e8bde6afd3a8ba454e2a8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "OT Bremen",
+      "score": [
+        7,
+        2
+      ],
+      "reportedScore": [
+        7,
+        2
+      ],
+      "raw": "7:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 361
+    },
+    {
       "id": "hist-ab6dd1a116d9ecce42ab75d9",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -1396,6 +1686,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 362
+    },
+    {
+      "id": "hist-b0ce9b924093a58741aaeff6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Preußen Münster",
+      "away": "SC Siemensstadt",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Preußen Münster",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 363
     },
     {
       "id": "hist-273dd54b45fb82ff4a9c100d",
@@ -1918,6 +2237,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 390
+    },
+    {
+      "id": "hist-c9df533ac88b8bc5f45f6b20",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Bünder SV",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 391
     },
     {
       "id": "hist-4c4a533ee34a2adf26540fd8",
@@ -3574,66 +3922,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 306,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}4:0{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 320,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:1{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 327,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}5:1{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 328,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}4:0{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 332,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:2{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 343,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}3:1{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 347,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:7{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 350,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}4:0{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 356,
-      "reason": "unparsed row",
-      "raw": "{{0}}2:10"
-    },
-    {
-      "line": 361,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}7:2{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 363,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}7:1{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 391,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:3{{FN|1|gruppe=h2}}"
-    },
     {
       "reason": "final template not parsed"
     }

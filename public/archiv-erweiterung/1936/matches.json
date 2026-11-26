@@ -1340,6 +1340,35 @@
       "sourceLine": 176
     },
     {
+      "id": "hist-f9253dc565550adfaadbbb2f",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1936-06-28",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "SSV Vingst 05",
+      "score": [
+        11,
+        1
+      ],
+      "reportedScore": [
+        11,
+        1
+      ],
+      "raw": "11:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
       "id": "hist-864f3c19ed1f5848f17e3491",
       "round": "2. Schlussrunde",
       "replay": false,
@@ -1978,11 +2007,5 @@
       "sourceLine": 289
     }
   ],
-  "issues": [
-    {
-      "line": 177,
-      "reason": "unparsed row",
-      "raw": "11:1{{0}}"
-    }
-  ]
+  "issues": []
 }

@@ -35,25 +35,31 @@
       "sourceLine": 176
     },
     {
-      "id": "hist-b17f8528424fc3ed8abb0da0",
+      "id": "hist-2f7b603cf177dca03ffbf6d3",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "1992-08-18",
       "time": null,
       "home": "Bayer 04 Leverkusen (A)",
       "away": "Hamburger SV",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(7:8 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (7:8 i. E.)",
+      "penalties": [
+        7,
+        8
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -583,25 +589,31 @@
       "sourceLine": 200
     },
     {
-      "id": "hist-d6d5c5238ea1f5405f25268d",
+      "id": "hist-ecb50b402c6a4981c7d8ec43",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1992-09-11",
       "time": null,
       "home": "MSV Duisburg",
       "away": "1. FC Köln",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(4:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -696,25 +708,31 @@
       "sourceLine": 204
     },
     {
-      "id": "hist-9da21d9e90500d4a4ca90a11",
+      "id": "hist-4234e638282aba1ed188115a",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1992-09-12",
       "time": null,
       "home": "FC Rot-Weiß Erfurt",
       "away": "FC Bayer 05 Uerdingen",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(2:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Bayer 05 Uerdingen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1099,25 +1117,31 @@
       "sourceLine": 218
     },
     {
-      "id": "hist-5848fb70f9a32d2c2ca9855e",
+      "id": "hist-e9edfac15b35e9e181a0d44b",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1992-09-12",
       "time": null,
       "home": "Eisenhüttenstädter FC Stahl",
       "away": "Wuppertaler SV",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Eisenhüttenstädter FC Stahl",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1357,25 +1381,31 @@
       "sourceLine": 227
     },
     {
-      "id": "hist-1ec8c56e98ba9208559a949e",
+      "id": "hist-de85cc5f5d581e84806c32d9",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1992-09-12",
       "time": null,
       "home": "Borussia Dortmund",
       "away": "FC Bayern München",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1847,25 +1877,31 @@
       "sourceLine": 248
     },
     {
-      "id": "hist-f2c45d16c3ef3e04ae543d82",
+      "id": "hist-c9a78e2003116ee07882a12b",
       "round": "3. Hauptrunde",
       "replay": false,
       "date": "1992-10-10",
       "time": null,
       "home": "Fortuna Düsseldorf",
       "away": "Hansa Rostock",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(3:0 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (3:0 i. E.)",
+      "penalties": [
+        3,
+        0
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1960,25 +1996,31 @@
       "sourceLine": 256
     },
     {
-      "id": "hist-881baa03dedb45a76d8ed1a6",
+      "id": "hist-4b16afe6baf38b57b5da5159",
       "round": "Achtelfinale",
       "replay": false,
       "date": "1992-11-06",
       "time": null,
       "home": "FC 08 Homburg",
       "away": "1. FC Nürnberg",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(2:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -2247,25 +2289,31 @@
       "sourceLine": 270
     },
     {
-      "id": "hist-1a4de8d863d2d11999e8a41d",
+      "id": "hist-e92f35ba018fbb8feae5cb1d",
       "round": "Viertelfinale",
       "replay": false,
       "date": "1992-12-02",
       "time": null,
       "home": "Karlsruher SC",
       "away": "Eintracht Frankfurt",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(3:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,

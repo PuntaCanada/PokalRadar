@@ -3,7 +3,7 @@
   "source": "https://de.wikipedia.org/w/index.php?oldid=268191057",
   "license": "CC-BY-SA-4.0",
   "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
-  "bye": 0,
+  "bye": 3,
   "matches": [
     {
       "id": "hist-a9cbe9bbf4887cf348805631",
@@ -1804,21 +1804,5 @@
       "sourceLine": 288
     }
   ],
-  "issues": [
-    {
-      "line": 155,
-      "reason": "unparsed row",
-      "raw": "Freilos"
-    },
-    {
-      "line": 156,
-      "reason": "unparsed row",
-      "raw": "Freilos"
-    },
-    {
-      "line": 157,
-      "reason": "unparsed row",
-      "raw": "Freilos"
-    }
-  ]
+  "issues": []
 }

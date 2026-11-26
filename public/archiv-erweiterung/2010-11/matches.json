@@ -151,25 +151,31 @@
       "sourceLine": 677
     },
     {
-      "id": "hist-22657dde8387c0a94209c087",
+      "id": "hist-d26018d49d8a86a6dca47a37",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2010-08-13",
       "time": null,
       "home": "SSV Jahn Regensburg (III)",
       "away": "Arminia Bielefeld (II)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:1)<br /><small>(5:6 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:1) (5:6 i. E.)",
+      "penalties": [
+        5,
+        6
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld (II)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -438,25 +444,63 @@
       "sourceLine": 687
     },
     {
-      "id": "hist-290143095138a7b7e4112a6f",
+      "id": "hist-5cb289d3feedfe0233a5f6fc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "SV Sandhausen (III)",
+      "away": "FC Augsburg (II)",
+      "score": [
+        4,
+        4
+      ],
+      "reportedScore": [
+        4,
+        4
+      ],
+      "raw": "4:4 n. V. (3:3, 2:1) (1:3 i. E.)",
+      "penalties": [
+        1,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Augsburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 688
+    },
+    {
+      "id": "hist-463396254569dace6954c709",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2010-08-14",
       "time": null,
       "home": "SV 07 Elversberg (IV)",
       "away": "Hannover 96 (I)",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SV 07 Elversberg (IV)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -725,6 +769,35 @@
       "sourceLine": 698
     },
     {
+      "id": "hist-92079b9160b33d5225059df3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "Hallescher FC (IV)",
+      "away": "1. FC Union Berlin (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hallescher FC (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 699
+    },
+    {
       "id": "hist-3fb5d8e2c385bc7a4ce4a4ac",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -812,6 +885,35 @@
       "sourceLine": 702
     },
     {
+      "id": "hist-9b75baea8be9d3169ec77811",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-16",
+      "time": null,
+      "home": "TSV Germania Windeck (V)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 703
+    },
+    {
       "id": "hist-d63b110b2815100289859fce",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -868,6 +970,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 716
+    },
+    {
+      "id": "hist-dc37a20bd16e4a3af9a2c6b7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-26",
+      "time": null,
+      "home": "SC Victoria Hamburg (V)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 717
     },
     {
       "id": "hist-b2ccb60803e7057170cc3fc0",
@@ -1044,6 +1175,35 @@
       "sourceLine": 723
     },
     {
+      "id": "hist-b54d6c8584732bce12ff01a0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-27",
+      "time": null,
+      "home": "Hallescher FC (IV)",
+      "away": "MSV Duisburg (II)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 724
+    },
+    {
       "id": "hist-6cd6b8a95c79fcc077232ca1",
       "round": "2. Hauptrunde",
       "replay": false,
@@ -1131,25 +1291,31 @@
       "sourceLine": 727
     },
     {
-      "id": "hist-32ad8f1bfa21bc27d9296e31",
+      "id": "hist-036f39f701bd33ccd2d5fb8d",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2010-10-27",
       "time": null,
       "home": "Kickers Offenbach (III)",
       "away": "Borussia Dortmund (I)",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(4:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach (III)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1186,25 +1352,31 @@
       "sourceLine": 729
     },
     {
-      "id": "hist-f2390414395afe508e857f77",
+      "id": "hist-c798b8090d0c08ed18ef14f2",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2010-10-27",
       "time": null,
       "home": "Borussia Mönchengladbach (I)",
       "away": "Bayer 04 Leverkusen (I)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (0:0)<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (0:0) (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1357,25 +1529,31 @@
       "sourceLine": 745
     },
     {
-      "id": "hist-a40e0f8489030f7e1c3d00b3",
+      "id": "hist-db32ee3cab05f5e6f2cc176e",
       "round": "Achtelfinale",
       "replay": false,
       "date": "2010-12-22",
       "time": null,
       "home": "Alemannia Aachen (II)",
       "away": "Eintracht Frankfurt (I)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (0:0)<br /><small>(5:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (0:0) (5:3 i. E.)",
+      "penalties": [
+        5,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen (II)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1645,31 +1823,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 688,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}4:4 n. V. (3:3, 2:1)<br /><small>(1:3 i. E.)</small>{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 699,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:0 (1:0){{FN|2|gruppe=h1}}"
-    },
-    {
-      "line": 703,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:4 (0:2){{FN|3|gruppe=h1}}"
-    },
-    {
-      "line": 717,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:3 (0:1){{FN|1|gruppe=h2}}"
-    },
-    {
-      "line": 724,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:3 (0:2){{FN|2|gruppe=h2}}"
-    },
     {
       "reason": "final template not parsed"
     }

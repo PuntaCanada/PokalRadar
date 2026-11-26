@@ -470,25 +470,31 @@
       "sourceLine": 40
     },
     {
-      "id": "hist-ec63a35afca93c6cb73781c6",
+      "id": "hist-4d558dddbdf2d27ba481284f",
       "round": "1. Hauptrunde",
       "replay": true,
       "date": "1973-12-04",
       "time": null,
       "home": "Fortuna Düsseldorf",
       "away": "Hertha BSC",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(1:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:4 i. E.)",
+      "penalties": [
+        1,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -786,25 +792,31 @@
       "sourceLine": 61
     },
     {
-      "id": "hist-3a552b992ff570d1c8c89921",
+      "id": "hist-e15fe7f663358995b1a5eae0",
       "round": "Achtelfinale",
       "replay": true,
       "date": "1973-12-21",
       "time": null,
       "home": "Hamburger SV",
       "away": "Borussia Mönchengladbach",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(3:1 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (3:1 i. E.)",
+      "penalties": [
+        3,
+        1
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,

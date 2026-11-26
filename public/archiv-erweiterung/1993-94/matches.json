@@ -499,25 +499,31 @@
       "sourceLine": 48
     },
     {
-      "id": "hist-a7928a52258813a0d6b5b6ab",
+      "id": "hist-50d4e2791b5014d59deb6e81",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1993-08-24",
       "time": null,
       "home": "1. FC Magdeburg",
       "away": "Wuppertaler SV",
-      "score": null,
+      "score": [
+        3,
+        3
+      ],
       "reportedScore": [
         3,
         3
       ],
-      "raw": "3:3 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "3:3 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FC Magdeburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -873,25 +879,31 @@
       "sourceLine": 61
     },
     {
-      "id": "hist-5a5cb5d11ea2ce86e1290c74",
+      "id": "hist-f09e3e441d4c8ebc4be2c2ae",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1993-08-25",
       "time": null,
       "home": "FC Sachsen Leipzig",
       "away": "FC St. Pauli",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1131,25 +1143,31 @@
       "sourceLine": 70
     },
     {
-      "id": "hist-c847ef8d792ad9e7941221f4",
+      "id": "hist-e9163beefe5b79e862c15fa8",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1993-08-25",
       "time": null,
       "home": "Dynamo Dresden",
       "away": "VfL Wolfsburg",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(4:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Dynamo Dresden",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1534,25 +1552,31 @@
       "sourceLine": 88
     },
     {
-      "id": "hist-874c947d43ae9a39baa8b79a",
+      "id": "hist-b4e1e6e814d81d579d83c2d7",
       "round": "3. Hauptrunde",
       "replay": false,
       "date": "1993-09-11",
       "time": null,
       "home": "FC Bayern München (A)",
       "away": "1. FC Köln",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Bayern München (A)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1589,25 +1613,31 @@
       "sourceLine": 90
     },
     {
-      "id": "hist-e2b677044e5fc83ff70bb86e",
+      "id": "hist-6e0483b873d33f632697ac32",
       "round": "3. Hauptrunde",
       "replay": false,
       "date": "1993-09-12",
       "time": null,
       "home": "Kickers Offenbach",
       "away": "Werder Bremen",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(3:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1702,6 +1732,35 @@
       "sourceLine": 94
     },
     {
+      "id": "hist-238b8f0536b790ab1f6d82ee",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1993-10-26",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 95
+    },
+    {
       "id": "hist-78cfcf2d0964106a2339d312",
       "round": "Achtelfinale",
       "replay": false,
@@ -1731,25 +1790,31 @@
       "sourceLine": 102
     },
     {
-      "id": "hist-42295c00f2ce7b669ab17ab0",
+      "id": "hist-8644fed3dc5cd95a7b22adb1",
       "round": "Achtelfinale",
       "replay": false,
       "date": "1993-10-26",
       "time": null,
       "home": "FC Augsburg",
       "away": "Bayer 04 Leverkusen",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1844,25 +1909,31 @@
       "sourceLine": 106
     },
     {
-      "id": "hist-81a6ad47ae4b57ef883987d1",
+      "id": "hist-07480faf548316c9507104df",
       "round": "Achtelfinale",
       "replay": false,
       "date": "1993-10-27",
       "time": null,
       "home": "FC Bayern München (A)",
       "away": "Tennis Borussia Berlin",
-      "score": null,
+      "score": [
+        3,
+        3
+      ],
       "reportedScore": [
         3,
         3
       ],
-      "raw": "3:3 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "3:3 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1928,25 +1999,31 @@
       "sourceLine": 109
     },
     {
-      "id": "hist-2f393c0ca6b53aed61e82880",
+      "id": "hist-474ed709cfdc265140748ec7",
       "round": "Viertelfinale",
       "replay": false,
       "date": "1993-11-30",
       "time": null,
       "home": "FC Carl Zeiss Jena",
       "away": "Rot-Weiss Essen",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(5:6 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (5:6 i. E.)",
+      "penalties": [
+        5,
+        6
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1983,25 +2060,31 @@
       "sourceLine": 115
     },
     {
-      "id": "hist-b12748162492c0f1f5afe6f7",
+      "id": "hist-3997b38c6abc5be99cbbac40",
       "round": "Viertelfinale",
       "replay": false,
       "date": "1993-12-01",
       "time": null,
       "home": "Dynamo Dresden",
       "away": "Bayer 04 Leverkusen",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Dynamo Dresden",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -2009,25 +2092,31 @@
       "sourceLine": 116
     },
     {
-      "id": "hist-5a3abaa1d22110dc62280195",
+      "id": "hist-69b9bd2d4ce9a5decf34b48e",
       "round": "Viertelfinale",
       "replay": false,
       "date": "1993-12-09",
       "time": null,
       "home": "Werder Bremen",
       "away": "1. FC Kaiserslautern",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(4:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -2122,11 +2211,5 @@
       "sourceLine": 217
     }
   ],
-  "issues": [
-    {
-      "line": 95,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:0{{FN|2|gruppe=h1}}"
-    }
-  ]
+  "issues": []
 }

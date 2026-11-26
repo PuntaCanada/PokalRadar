@@ -1456,25 +1456,31 @@
       "sourceLine": 237
     },
     {
-      "id": "hist-2c89bc112153fea7c77df539",
+      "id": "hist-3389ecdc4323f3cffbc73c5a",
       "round": "2. Hauptrunde",
       "replay": true,
       "date": "1985-10-30",
       "time": null,
       "home": "VfL Bochum",
       "away": "Fortuna Düsseldorf",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(3:1 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (3:1 i. E.)",
+      "penalties": [
+        3,
+        1
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,

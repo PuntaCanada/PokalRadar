@@ -1871,12 +1871,12 @@
     {
       "line": 69,
       "reason": "unparsed row",
-      "raw": "<sup>(1)</sup>"
+      "raw": ""
     },
     {
       "line": 70,
       "reason": "unparsed row",
-      "raw": "<sup>(2)</sup>"
+      "raw": ""
     }
   ]
 }

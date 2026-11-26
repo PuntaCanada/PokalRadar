@@ -499,6 +499,35 @@
       "sourceLine": 204
     },
     {
+      "id": "hist-301ed06c91a7e29cf80a7f4c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1981-08-29",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "SSV Eintracht Überherrn",
+      "score": [
+        10,
+        1
+      ],
+      "reportedScore": [
+        10,
+        1
+      ],
+      "raw": "10:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
       "id": "hist-2d49188e0439c9ea345853a9",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -2587,6 +2616,35 @@
       "sourceLine": 285
     },
     {
+      "id": "hist-31c1e8cf237731edc3d205f3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1981-10-10",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "TuS Oberwinter",
+      "score": [
+        10,
+        1
+      ],
+      "reportedScore": [
+        10,
+        1
+      ],
+      "raw": "10:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 286
+    },
+    {
       "id": "hist-bbe046141f1e7a8e6e932324",
       "round": "2. Hauptrunde",
       "replay": false,
@@ -3893,16 +3951,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 205,
-      "reason": "unparsed row",
-      "raw": "10:1{{0}}"
-    },
-    {
-      "line": 286,
-      "reason": "unparsed row",
-      "raw": "10:1{{0}}"
-    },
     {
       "reason": "final template not parsed"
     }

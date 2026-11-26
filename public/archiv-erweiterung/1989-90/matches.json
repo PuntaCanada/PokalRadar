@@ -6,6 +6,35 @@
   "bye": 0,
   "matches": [
     {
+      "id": "hist-4bd58400522da613a3baed91",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-18",
+      "time": null,
+      "home": "VfL Bückeburg",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
       "id": "hist-542bdcaa76610398f0c35bb4",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -236,6 +265,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 41
+    },
+    {
+      "id": "hist-19d19230712347b4c3245d8d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1989-08-19",
+      "time": null,
+      "home": "VfR Sölde",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 42
     },
     {
       "id": "hist-3f9c706c3aed5e8b76d126ef",
@@ -1834,16 +1892,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 33,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:2{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 42,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:3{{FN|2|gruppe=h1}}"
-    },
     {
       "reason": "final template not parsed"
     }

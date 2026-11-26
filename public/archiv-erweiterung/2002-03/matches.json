@@ -93,25 +93,31 @@
       "sourceLine": 169
     },
     {
-      "id": "hist-2050ef1054a75605123ba570",
+      "id": "hist-843317b88eb203e9dfa0bd49",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2002-08-30",
       "time": null,
       "home": "SpVgg Unterhaching",
       "away": "1. FSV Mainz 05",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:0)<br /><small>(4:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:0) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -148,25 +154,31 @@
       "sourceLine": 171
     },
     {
-      "id": "hist-bb4b30424edd2a045636f0d0",
+      "id": "hist-19ac00305a54f4e8ab62630d",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2002-08-30",
       "time": null,
       "home": "1. FC Saarbrücken",
       "away": "SV Waldhof Mannheim",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:1)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:1) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -638,25 +650,31 @@
       "sourceLine": 188
     },
     {
-      "id": "hist-1f4c4044c3a7bf5b512dc7e1",
+      "id": "hist-b7ce970aa5d4d107cf17eaec",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2002-09-01",
       "time": null,
       "home": "Holstein Kiel",
       "away": "Hertha BSC",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:0)<br /><small>(3:0 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:0) (3:0 i. E.)",
+      "penalties": [
+        3,
+        0
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -925,25 +943,31 @@
       "sourceLine": 198
     },
     {
-      "id": "hist-965b24571b2b9d0eca5b0e4e",
+      "id": "hist-c95f35e6447a73951acea9d2",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2002-11-05",
       "time": null,
       "home": "TSV 1860 München",
       "away": "VfL Wolfsburg",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 2:1)<br /><small>(8:7 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 2:1) (8:7 i. E.)",
+      "penalties": [
+        8,
+        7
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1589,25 +1613,31 @@
       "sourceLine": 229
     },
     {
-      "id": "hist-ddcc41dec463fc0705ecff2a",
+      "id": "hist-c61e71c9d0d88628cb49c0d0",
       "round": "Achtelfinale",
       "replay": false,
       "date": "2002-12-04",
       "time": null,
       "home": "FC Bayern München",
       "away": "FC Schalke 04",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1644,25 +1674,31 @@
       "sourceLine": 235
     },
     {
-      "id": "hist-963e62c953a87b218c69322b",
+      "id": "hist-2273c80a1d5d66596ce3e120",
       "round": "Viertelfinale",
       "replay": false,
       "date": "2003-02-05",
       "time": null,
       "home": "VfL Bochum",
       "away": "1. FC Kaiserslautern",
-      "score": null,
+      "score": [
+        3,
+        3
+      ],
       "reportedScore": [
         3,
         3
       ],
-      "raw": "3:3 n. V. (2:2, 2:2)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "3:3 n. V. (2:2, 2:2) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1670,25 +1706,31 @@
       "sourceLine": 236
     },
     {
-      "id": "hist-d4e6029c66b4db2996e603cd",
+      "id": "hist-5ea4cfcb5737224c46694467",
       "round": "Viertelfinale",
       "replay": false,
       "date": "2003-02-05",
       "time": null,
       "home": "SpVgg Unterhaching",
       "away": "Bayer 04 Leverkusen",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 0:1)<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 0:1) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,

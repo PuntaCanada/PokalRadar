@@ -151,25 +151,31 @@
       "sourceLine": 620
     },
     {
-      "id": "hist-23c3c41cbe4050d4fd7924fb",
+      "id": "hist-5e0844597a2b93014dc25229",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2011-07-29",
       "time": null,
       "home": "Rot-Weiss Essen (IV)",
       "away": "1. FC Union Berlin (II)",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 1:0)<br /><small>(4:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 1:0) (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen (IV)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -525,25 +531,31 @@
       "sourceLine": 633
     },
     {
-      "id": "hist-b70810e04ff24285d7cb0e0c",
+      "id": "hist-e5b9606ce7df585d58f23a5c",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2011-07-30",
       "time": null,
       "home": "Hansa Rostock (II)",
       "away": "VfL Bochum (II)",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 1:0)<br /><small>(3:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 1:0) (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -578,6 +590,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 635
+    },
+    {
+      "id": "hist-5736f439f8ff720530c691ea",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "FC Anker Wismar (V)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 636
     },
     {
       "id": "hist-be0072fa6958254988ef38fb",
@@ -667,6 +708,35 @@
       "sourceLine": 639
     },
     {
+      "id": "hist-dc5c2f894268e2a3436d71d6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "Eimsbütteler TV (VI)",
+      "away": "SpVgg Greuther Fürth (II)",
+      "score": [
+        0,
+        10
+      ],
+      "reportedScore": [
+        0,
+        10
+      ],
+      "raw": "0:10 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 640
+    },
+    {
       "id": "hist-91dec3c91070702a2b776017",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -696,6 +766,35 @@
       "sourceLine": 641
     },
     {
+      "id": "hist-dd8817b798128414467024a2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "TSV Germania Windeck (VI)",
+      "away": "TSG 1899 Hoffenheim (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 642
+    },
+    {
       "id": "hist-6c381344d8dde9f08ff5853d",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -723,6 +822,93 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 643
+    },
+    {
+      "id": "hist-06a0695a0b838baed850ea06",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "FC Teningen (VIII)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        1,
+        11
+      ],
+      "reportedScore": [
+        1,
+        11
+      ],
+      "raw": "1:11 (1:6)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 644
+    },
+    {
+      "id": "hist-a9e913be8382e27f2cf80a12",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "SVN Zweibrücken (V)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (0:0, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 645
+    },
+    {
+      "id": "hist-6ab505359c1f6266c920f2ce",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "SC Wiedenbrück 2000 (IV)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 646
     },
     {
       "id": "hist-455445d7b5f984a3d7806ab0",
@@ -812,25 +998,31 @@
       "sourceLine": 661
     },
     {
-      "id": "hist-47eb657ed3008a52414419a4",
+      "id": "hist-c67a7df70e9298c53cc2ec38",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2011-10-25",
       "time": null,
       "home": "1. FC Heidenheim (III)",
       "away": "Borussia M’gladbach (I)",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Borussia M’gladbach (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1273,25 +1465,31 @@
       "sourceLine": 683
     },
     {
-      "id": "hist-9ceac080cf38b95119df94a5",
+      "id": "hist-0107a5038a4b75dbdcbfe34d",
       "round": "Achtelfinale",
       "replay": false,
       "date": "2011-12-20",
       "time": null,
       "home": "Fortuna Düsseldorf (II)",
       "away": "Borussia Dortmund (I)",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1589,25 +1787,31 @@
       "sourceLine": 705
     },
     {
-      "id": "hist-97f00e552ad2d9b7822e9829",
+      "id": "hist-5e3c7add83deedf099160e7d",
       "round": "Halbfinale",
       "replay": false,
       "date": "2012-03-21",
       "time": null,
       "home": "Borussia Mönchengladbach (I)",
       "away": "FC Bayern München (I)",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(2:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1644,36 +1848,5 @@
       "sourceLine": 805
     }
   ],
-  "issues": [
-    {
-      "line": 636,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:6 (0:4){{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 640,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:10 (0:3){{FN|2|gruppe=h1}}"
-    },
-    {
-      "line": 642,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:3 n. V. (1:1, 1:0){{FN|3|gruppe=h1}}"
-    },
-    {
-      "line": 644,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:11 (1:6){{FN|4|gruppe=h1}}"
-    },
-    {
-      "line": 645,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:2 n. V. (0:0, 0:0){{FN|5|gruppe=h1}}"
-    },
-    {
-      "line": 646,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:3 (0:2){{FN|6|gruppe=h1}}"
-    }
-  ]
+  "issues": []
 }

@@ -64,6 +64,35 @@
       "sourceLine": 28
     },
     {
+      "id": "hist-51250bcb133e5019c2822a9d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1994-08-12",
+      "time": null,
+      "home": "Sportfreunde Oesede",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
       "id": "hist-bbd043a1d008b283209e3b78",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -120,6 +149,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 31
+    },
+    {
+      "id": "hist-d0c8925d03a4836d73beef30",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1994-08-13",
+      "time": null,
+      "home": "BSV Stahl Brandenburg",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        11
+      ],
+      "reportedScore": [
+        0,
+        11
+      ],
+      "raw": "0:11",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
     },
     {
       "id": "hist-7a357fa49a270d2510597686",
@@ -180,6 +238,35 @@
       "sourceLine": 34
     },
     {
+      "id": "hist-75ff99c0189a97bd7b4ee843",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1994-08-13",
+      "time": null,
+      "home": "SC Großrosseln",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
       "id": "hist-82c771f2722861ecaad54b43",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -238,25 +325,31 @@
       "sourceLine": 37
     },
     {
-      "id": "hist-dcbb8cc3aca60805304f1dec",
+      "id": "hist-8513eb59303a0d9581e73ed7",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "1994-08-13",
       "time": null,
       "home": "FC Sachsen Leipzig",
       "away": "TSV 1860 München",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -467,6 +560,35 @@
       "sourceLine": 45
     },
     {
+      "id": "hist-07037c3f6d3aa1639900a129",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1994-08-13",
+      "time": null,
+      "home": "SV Linx",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
       "id": "hist-14c0979bda8032443f989efb",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -641,25 +763,31 @@
       "sourceLine": 52
     },
     {
-      "id": "hist-9f3bf6debface9df3fe10237",
+      "id": "hist-9abefa3f73960f4b94c53e83",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "1994-08-14",
       "time": null,
       "home": "TuS Paderborn-Neuhaus",
       "away": "Chemnitzer FC",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Chemnitzer FC",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -783,6 +911,35 @@
       "sourceLine": 57
     },
     {
+      "id": "hist-25a48b8b093eb5de0a864a90",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1994-08-14",
+      "time": null,
+      "home": "TSV Vestenbergsgreuth",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV Vestenbergsgreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
       "id": "hist-5603da536e2f304a5bc3abe0",
       "round": "2. Hauptrunde",
       "replay": false,
@@ -812,25 +969,31 @@
       "sourceLine": 68
     },
     {
-      "id": "hist-91df08c96225c48f7f1256c4",
+      "id": "hist-9535213f899a10dd93fe7dcf",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1994-09-10",
       "time": null,
       "home": "TSV 1860 München",
       "away": "Bayer 04 Leverkusen",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(4:1 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (4:1 i. E.)",
+      "penalties": [
+        4,
+        1
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -838,25 +1001,31 @@
       "sourceLine": 69
     },
     {
-      "id": "hist-8a4b580f1d776c85d96ee319",
+      "id": "hist-436f10eb5abb4dc8ad50dd17",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1994-09-10",
       "time": null,
       "home": "Eintracht Frankfurt",
       "away": "VfL Wolfsburg",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1067,25 +1236,31 @@
       "sourceLine": 77
     },
     {
-      "id": "hist-22a1ebd0ffef53080e387d1d",
+      "id": "hist-38136593497d5551aa23af2a",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1994-09-10",
       "time": null,
       "home": "Karlsruher SC",
       "away": "SV Waldhof Mannheim",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(3:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (3:2 i. E.)",
+      "penalties": [
+        3,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1151,25 +1326,31 @@
       "sourceLine": 80
     },
     {
-      "id": "hist-2712a618455e3bb47083469e",
+      "id": "hist-6e04d6b528de555bdf5f0904",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1994-09-11",
       "time": null,
       "home": "FC Bayern München (A)",
       "away": "Chemnitzer FC",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(4:1 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (4:1 i. E.)",
+      "penalties": [
+        4,
+        1
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Bayern München (A)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1380,25 +1561,31 @@
       "sourceLine": 92
     },
     {
-      "id": "hist-56320eb4ba8a27caed728587",
+      "id": "hist-f5ae3d78fff9a53e87983087",
       "round": "Achtelfinale",
       "replay": false,
       "date": "1994-11-01",
       "time": null,
       "home": "TSV Vestenbergsgreuth",
       "away": "VfL Wolfsburg",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1435,25 +1622,31 @@
       "sourceLine": 94
     },
     {
-      "id": "hist-91e9658e8a7d0737e27599a0",
+      "id": "hist-bd5f0f31d6bb81ef16ad8b69",
       "round": "Achtelfinale",
       "replay": false,
       "date": "1994-11-08",
       "time": null,
       "home": "FC Bayern München (A)",
       "away": "VfB Stuttgart",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(7:6 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (7:6 i. E.)",
+      "penalties": [
+        7,
+        6
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Bayern München (A)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1664,31 +1857,5 @@
       "sourceLine": 192
     }
   ],
-  "issues": [
-    {
-      "line": 29,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:6{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 32,
-      "reason": "unparsed row",
-      "raw": "{{0}}0:11"
-    },
-    {
-      "line": 35,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:5{{FN|2|gruppe=h1}}"
-    },
-    {
-      "line": 46,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:2{{FN|3|gruppe=h1}}"
-    },
-    {
-      "line": 58,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:0{{FN|4|gruppe=h1}}"
-    }
-  ]
+  "issues": []
 }

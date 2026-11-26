@@ -499,6 +499,35 @@
       "sourceLine": 318
     },
     {
+      "id": "hist-a30014637230fc6f9d837972",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1979-08-25",
+      "time": null,
+      "home": "FC Östringen",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        10
+      ],
+      "reportedScore": [
+        1,
+        10
+      ],
+      "raw": "1:10",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 319
+    },
+    {
       "id": "hist-24e2194af76aa03d057b0557",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -1804,6 +1833,35 @@
       "sourceLine": 364
     },
     {
+      "id": "hist-9eba47cbb97c5f160f3a27fd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1979-08-26",
+      "time": null,
+      "home": "1. FC Pforzheim",
+      "away": "Phönix Düdelsheim",
+      "score": [
+        10,
+        2
+      ],
+      "reportedScore": [
+        10,
+        2
+      ],
+      "raw": "10:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Pforzheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 365
+    },
+    {
       "id": "hist-2ca2ac330a1f0d340e5b4e08",
       "round": "1. Hauptrunde",
       "replay": true,
@@ -1918,6 +1976,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 377
+    },
+    {
+      "id": "hist-4085e48475869deadbed5f79",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1979-09-28",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        10,
+        2
+      ],
+      "reportedScore": [
+        10,
+        2
+      ],
+      "raw": "10:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 378
     },
     {
       "id": "hist-6fea969bfbf91d218c3d3fa6",
@@ -2556,6 +2643,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 400
+    },
+    {
+      "id": "hist-048bfb73b194604674bda77c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1979-09-30",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Altona 93",
+      "score": [
+        10,
+        0
+      ],
+      "reportedScore": [
+        10,
+        0
+      ],
+      "raw": "10:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 401
     },
     {
       "id": "hist-df9a7cb5a2bd5b1e3f9cbe3e",
@@ -3719,26 +3835,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 319,
-      "reason": "unparsed row",
-      "raw": "{{0}}1:10"
-    },
-    {
-      "line": 365,
-      "reason": "unparsed row",
-      "raw": "10:2{{0}}"
-    },
-    {
-      "line": 378,
-      "reason": "unparsed row",
-      "raw": "10:2{{0}}"
-    },
-    {
-      "line": 401,
-      "reason": "unparsed row",
-      "raw": "10:0{{0}}"
-    },
     {
       "reason": "final template not parsed"
     }

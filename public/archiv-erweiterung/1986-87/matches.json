@@ -934,25 +934,31 @@
       "sourceLine": 191
     },
     {
-      "id": "hist-d89f8881a81b5286c4b9f2f9",
+      "id": "hist-5b80445bba3f53ab767a48a6",
       "round": "1. Hauptrunde",
       "replay": true,
       "date": "1986-09-10",
       "time": null,
       "home": "KSV Hessen Kassel",
       "away": "Bremer SV",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Bremer SV",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -960,25 +966,31 @@
       "sourceLine": 196
     },
     {
-      "id": "hist-520aa4685acb055c70cb6e24",
+      "id": "hist-7d0cd4140e226eb810b59434",
       "round": "1. Hauptrunde",
       "replay": true,
       "date": "1986-09-10",
       "time": null,
       "home": "FC Gütersloh",
       "away": "VfL Hamm/Sieg",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Gütersloh",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1015,25 +1027,31 @@
       "sourceLine": 198
     },
     {
-      "id": "hist-605cbb4e97bba03e9090851c",
+      "id": "hist-d73402859d8a664508732a4d",
       "round": "1. Hauptrunde",
       "replay": true,
       "date": "1986-10-07",
       "time": null,
       "home": "Alemannia Aachen",
       "away": "SV Werder Bremen",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(7:6 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (7:6 i. E.)",
+      "penalties": [
+        7,
+        6
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,

@@ -267,6 +267,35 @@
       "sourceLine": 158
     },
     {
+      "id": "hist-f94c89676edde0436b0175db",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        11,
+        2
+      ],
+      "reportedScore": [
+        11,
+        2
+      ],
+      "raw": "11:2 (4:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 159
+    },
+    {
       "id": "hist-821fdd286448ec817afe243b",
       "round": "1. Runde",
       "replay": false,
@@ -381,6 +410,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 163
+    },
+    {
+      "id": "hist-7960da01ba78664f93c7d580",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1988-08-06",
+      "time": null,
+      "home": "SV Ottfingen",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 164
     },
     {
       "id": "hist-7e017fc626ccaaf06bf45337",
@@ -1021,6 +1079,35 @@
       "sourceLine": 196
     },
     {
+      "id": "hist-3f0a84e9ac56b58c577f0923",
+      "round": "2. Runde",
+      "replay": false,
+      "date": "1988-09-24",
+      "time": null,
+      "home": "TuS Hoisdorf",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
       "id": "hist-30be1987786cfe9c9903b37c",
       "round": "2. Runde",
       "replay": false,
@@ -1601,6 +1688,35 @@
       "sourceLine": 237
     },
     {
+      "id": "hist-aae238e4559cfe64124d7ba0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1988-12-09",
+      "time": null,
+      "home": "SV Wehen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 238
+    },
+    {
       "id": "hist-77e3f36ff2042c53c843a2ba",
       "round": "Achtelfinale",
       "replay": false,
@@ -1950,26 +2066,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 159,
-      "reason": "unparsed row",
-      "raw": "11:2{{0}} (4:0)"
-    },
-    {
-      "line": 164,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:5 (0:1){{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 203,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:4 (0:2){{FN|2|gruppe=h1}}"
-    },
-    {
-      "line": 238,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:3 (0:1){{FN|3|gruppe=h1}}"
-    },
     {
       "reason": "final template not parsed"
     }

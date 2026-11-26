@@ -180,6 +180,64 @@
       "sourceLine": 311
     },
     {
+      "id": "hist-a836053b30fb2f52ae4ba31a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "Eintracht Nordhorn",
+      "score": [
+        10,
+        1
+      ],
+      "reportedScore": [
+        10,
+        1
+      ],
+      "raw": "10:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 312
+    },
+    {
+      "id": "hist-476a7e43732c826a30657476",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Eintracht Bremen",
+      "score": [
+        10,
+        0
+      ],
+      "reportedScore": [
+        10,
+        0
+      ],
+      "raw": "10:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 313
+    },
+    {
       "id": "hist-95213169e9092e2d516146ab",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -383,6 +441,35 @@
       "sourceLine": 320
     },
     {
+      "id": "hist-a5746e75396ffb7baaf38241",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "TuS Rosenberg",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        11
+      ],
+      "reportedScore": [
+        1,
+        11
+      ],
+      "raw": "1:11",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 321
+    },
+    {
       "id": "hist-51256cea5018808505e16a1c",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -584,6 +671,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 328
+    },
+    {
+      "id": "hist-bfc4ef42104d4c6c48c5b9d1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Lüssumer TV",
+      "score": [
+        12,
+        0
+      ],
+      "reportedScore": [
+        12,
+        0
+      ],
+      "raw": "12:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 329
     },
     {
       "id": "hist-40c088dbc68c38c51f4e6772",
@@ -1048,6 +1164,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 345
+    },
+    {
+      "id": "hist-3d399323f7db571ee6dbda7c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Horner TV",
+      "away": "Alemannia Eggenstein",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Horner TV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 346
     },
     {
       "id": "hist-16817dcab504893b34d19017",
@@ -1717,25 +1862,31 @@
       "sourceLine": 369
     },
     {
-      "id": "hist-8e6907c8227af2eced9a22ee",
+      "id": "hist-95332f34874698bf41259ffa",
       "round": "1. Hauptrunde",
       "replay": true,
       "date": "1977-08-07",
       "time": null,
       "home": "Wacker 04 Berlin",
       "away": "SV Saar 05 Saarbrücken",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Wacker 04 Berlin",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -2787,6 +2938,35 @@
       "sourceLine": 415
     },
     {
+      "id": "hist-33a4d5a0caeab9b77734d928",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Horner TV",
+      "score": [
+        15,
+        0
+      ],
+      "reportedScore": [
+        15,
+        0
+      ],
+      "raw": "15:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 416
+    },
+    {
       "id": "hist-a972d526a62e9a276990106f",
       "round": "2. Hauptrunde",
       "replay": true,
@@ -3831,36 +4011,5 @@
       "sourceLine": 570
     }
   ],
-  "issues": [
-    {
-      "line": 312,
-      "reason": "unparsed row",
-      "raw": "10:1{{0}}"
-    },
-    {
-      "line": 313,
-      "reason": "unparsed row",
-      "raw": "10:0{{0}}"
-    },
-    {
-      "line": 321,
-      "reason": "unparsed row",
-      "raw": "{{0}}1:11"
-    },
-    {
-      "line": 329,
-      "reason": "unparsed row",
-      "raw": "12:0{{0}}"
-    },
-    {
-      "line": 346,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:1{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 416,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}15:0{{FN|1|gruppe=h2}}{{0}}"
-    }
-  ]
+  "issues": []
 }

@@ -209,7 +209,7 @@
       "sourceLine": 36
     },
     {
-      "id": "hist-9f1a259ec7ea6539f4d37333",
+      "id": "hist-37d762d641e8e5ea8d236431",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2000-08-26",
@@ -224,7 +224,7 @@
         0,
         5
       ],
-      "raw": "0:5 (0:2){{FN|1|gruppe=h1}}",
+      "raw": "0:5 (0:2)",
       "penalties": null,
       "halfTime": null,
       "regular": null,
@@ -673,25 +673,31 @@
       "sourceLine": 52
     },
     {
-      "id": "hist-d12c937cae4ac5168cd4a1d8",
+      "id": "hist-57d300a3c79d32079df0889c",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2000-08-27",
       "time": null,
       "home": "VfB Lübeck",
       "away": "SV Waldhof Mannheim",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 1:0)<br /><small>(3:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 1:0) (3:2 i. E.)",
+      "penalties": [
+        3,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "VfB Lübeck",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1250,25 +1256,31 @@
       "sourceLine": 78
     },
     {
-      "id": "hist-a58fa5b9ad029d287af682d2",
+      "id": "hist-b52572a574f5bfd623d27334",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2000-11-01",
       "time": null,
       "home": "VfB Lübeck",
       "away": "MSV Duisburg",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:0)<br /><small>(3:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:0) (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1363,25 +1375,31 @@
       "sourceLine": 82
     },
     {
-      "id": "hist-112e28c1c2703413d263ec2b",
+      "id": "hist-7d0f8980b39f252bbef16947",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2000-11-01",
       "time": null,
       "home": "1. FC Magdeburg",
       "away": "FC Bayern München",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:0)<br /><small>(4:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:0) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FC Magdeburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1447,25 +1465,31 @@
       "sourceLine": 89
     },
     {
-      "id": "hist-2f37afd68aaedac739bca18b",
+      "id": "hist-951dcd9c1fff6390c04ba31a",
       "round": "Achtelfinale",
       "replay": false,
       "date": "2000-11-28",
       "time": null,
       "home": "VfL Wolfsburg",
       "away": "MSV Duisburg",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (0:0, 0:0)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (0:0, 0:0) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1734,25 +1758,31 @@
       "sourceLine": 103
     },
     {
-      "id": "hist-ed5eedcb67403a432061ff7c",
+      "id": "hist-af432efdd8542396d18faedc",
       "round": "Halbfinale",
       "replay": false,
       "date": "2001-02-06",
       "time": null,
       "home": "1. FC Union Berlin",
       "away": "Bor. Mönchengladbach",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 1:0)<br /><small>(4:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 1:0) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,

@@ -557,6 +557,35 @@
       "sourceLine": 140
     },
     {
+      "id": "hist-cf4e743d297015680bbb304f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1938-08-28",
+      "time": null,
+      "home": "Preußen Greppin",
+      "away": "Dresdner SC",
+      "score": [
+        0,
+        13
+      ],
+      "reportedScore": [
+        0,
+        13
+      ],
+      "raw": "0:13",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 141
+    },
+    {
       "id": "hist-7f36564195ec15e2f67f8fd1",
       "round": "1. Schlussrunde",
       "replay": false,
@@ -2008,11 +2037,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 141,
-      "reason": "unparsed row",
-      "raw": "{{0}}0:13"
-    },
     {
       "line": 158,
       "reason": "unparsed row",

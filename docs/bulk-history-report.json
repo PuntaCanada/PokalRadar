@@ -2,52 +2,25 @@
   {
     "season": "1936",
     "revision": 265709089,
-    "count": 68,
+    "count": 69,
     "bye": 0,
-    "issues": [
-      {
-        "line": 177,
-        "reason": "unparsed row",
-        "raw": "11:1{{0}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1937",
     "revision": 268191057,
     "count": 62,
-    "bye": 0,
-    "issues": [
-      {
-        "line": 155,
-        "reason": "unparsed row",
-        "raw": "Freilos"
-      },
-      {
-        "line": 156,
-        "reason": "unparsed row",
-        "raw": "Freilos"
-      },
-      {
-        "line": 157,
-        "reason": "unparsed row",
-        "raw": "Freilos"
-      }
-    ],
+    "bye": 3,
+    "issues": [],
     "complete": false
   },
   {
     "season": "1938",
     "revision": 267541214,
-    "count": 69,
+    "count": 70,
     "bye": 0,
     "issues": [
-      {
-        "line": 141,
-        "reason": "unparsed row",
-        "raw": "{{0}}0:13"
-      },
       {
         "line": 158,
         "reason": "unparsed row",
@@ -64,33 +37,18 @@
   {
     "season": "1939",
     "revision": 268190999,
-    "count": 61,
-    "bye": 0,
+    "count": 63,
+    "bye": 1,
     "issues": [
-      {
-        "line": 75,
-        "reason": "unparsed row",
-        "raw": "{{0}}0:13"
-      },
       {
         "line": 78,
         "reason": "unparsed row",
         "raw": ""
       },
       {
-        "line": 106,
-        "reason": "unparsed row",
-        "raw": "11:2{{0}}"
-      },
-      {
-        "line": 115,
-        "reason": "unparsed row",
-        "raw": "Freilos"
-      },
-      {
         "line": 153,
         "reason": "unparsed row",
-        "raw": "(L)0:0 n. V.{{0|(L)}}"
+        "raw": "(L)0:0 n. V."
       }
     ],
     "complete": false
@@ -98,15 +56,9 @@
   {
     "season": "1940",
     "revision": 265709122,
-    "count": 64,
+    "count": 65,
     "bye": 0,
-    "issues": [
-      {
-        "line": 93,
-        "reason": "unparsed row",
-        "raw": "{{0}}3:10"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -123,12 +75,12 @@
       {
         "line": 69,
         "reason": "unparsed row",
-        "raw": "<sup>(1)</sup>"
+        "raw": ""
       },
       {
         "line": 70,
         "reason": "unparsed row",
-        "raw": "<sup>(2)</sup>"
+        "raw": ""
       }
     ],
     "complete": false
@@ -136,62 +88,25 @@
   {
     "season": "1942",
     "revision": 266089196,
-    "count": 61,
+    "count": 64,
     "bye": 0,
-    "issues": [
-      {
-        "line": 54,
-        "reason": "unparsed row",
-        "raw": "12:3{{0}}"
-      },
-      {
-        "line": 97,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}6:0{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 117,
-        "reason": "unparsed row",
-        "raw": "15:1{{0}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1943",
     "revision": 267708930,
-    "count": 30,
+    "count": 32,
     "bye": 0,
-    "issues": [
-      {
-        "line": 109,
-        "reason": "unparsed row",
-        "raw": "{{0}}0:14"
-      },
-      {
-        "line": 110,
-        "reason": "unparsed row",
-        "raw": "13:1{{0}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1953-54",
     "revision": 266123832,
-    "count": 6,
+    "count": 8,
     "bye": 0,
     "issues": [
-      {
-        "line": 23,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:3{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 32,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:6{{FN|2|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -201,24 +116,9 @@
   {
     "season": "1954-55",
     "revision": 266123841,
-    "count": 31,
+    "count": 34,
     "bye": 0,
     "issues": [
-      {
-        "line": 75,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:1{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 76,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}3:3 n. V.{{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 84,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}3:0{{FN|3|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -336,14 +236,9 @@
   {
     "season": "1969-70",
     "revision": 265852309,
-    "count": 32,
+    "count": 33,
     "bye": 0,
     "issues": [
-      {
-        "line": 37,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:5{{FN|1|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -353,15 +248,9 @@
   {
     "season": "1970-71",
     "revision": 265852268,
-    "count": 35,
+    "count": 36,
     "bye": 0,
-    "issues": [
-      {
-        "line": 25,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:4{{FN|1|gruppe=h1}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
@@ -399,49 +288,9 @@
   {
     "season": "1974-75",
     "revision": 265881492,
-    "count": 129,
+    "count": 137,
     "bye": 0,
     "issues": [
-      {
-        "line": 303,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:2 n. V.{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 304,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}8:0{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 328,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}3:0{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 339,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>2</sup>}}2:2 n. V.{{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 344,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}6:1{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 345,
-        "reason": "unparsed row",
-        "raw": "11:1{{0}}"
-      },
-      {
-        "line": 360,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}3:1{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 390,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}6:0{{FN|1|gruppe=h2}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -451,69 +300,9 @@
   {
     "season": "1975-76",
     "revision": 271463265,
-    "count": 123,
+    "count": 135,
     "bye": 0,
     "issues": [
-      {
-        "line": 306,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}4:0{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 320,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:1{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 327,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}5:1{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 328,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}4:0{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 332,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:2{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 343,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}3:1{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 347,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:7{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 350,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}4:0{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 356,
-        "reason": "unparsed row",
-        "raw": "{{0}}2:10"
-      },
-      {
-        "line": 361,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}7:2{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 363,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}7:1{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 391,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:3{{FN|1|gruppe=h2}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -523,39 +312,9 @@
   {
     "season": "1976-77",
     "revision": 270784190,
-    "count": 129,
+    "count": 135,
     "bye": 0,
     "issues": [
-      {
-        "line": 347,
-        "reason": "unparsed row",
-        "raw": "10:0{{0}}"
-      },
-      {
-        "line": 359,
-        "reason": "unparsed row",
-        "raw": "12:1{{0}}"
-      },
-      {
-        "line": 371,
-        "reason": "unparsed row",
-        "raw": "{{0}}0:10"
-      },
-      {
-        "line": 388,
-        "reason": "unparsed row",
-        "raw": "10:2{{0}}"
-      },
-      {
-        "line": 396,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:2{{FN|1|gruppe=h2}}"
-      },
-      {
-        "line": 439,
-        "reason": "unparsed row",
-        "raw": "10:1{{0}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -565,98 +324,17 @@
   {
     "season": "1977-78",
     "revision": 265915571,
-    "count": 132,
+    "count": 138,
     "bye": 0,
-    "issues": [
-      {
-        "line": 312,
-        "reason": "unparsed row",
-        "raw": "10:1{{0}}"
-      },
-      {
-        "line": 313,
-        "reason": "unparsed row",
-        "raw": "10:0{{0}}"
-      },
-      {
-        "line": 321,
-        "reason": "unparsed row",
-        "raw": "{{0}}1:11"
-      },
-      {
-        "line": 329,
-        "reason": "unparsed row",
-        "raw": "12:0{{0}}"
-      },
-      {
-        "line": 346,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:1{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 416,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}15:0{{FN|1|gruppe=h2}}{{0}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1978-79",
     "revision": 265915742,
-    "count": 125,
+    "count": 135,
     "bye": 0,
     "issues": [
-      {
-        "line": 304,
-        "reason": "unparsed row",
-        "raw": "12:0{{0}}"
-      },
-      {
-        "line": 316,
-        "reason": "unparsed row",
-        "raw": "14:1{{0}}"
-      },
-      {
-        "line": 324,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}6:0{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 327,
-        "reason": "unparsed row",
-        "raw": "{{0}}1:10"
-      },
-      {
-        "line": 336,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}3:1{{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 337,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:6{{FN|3|gruppe=h1}}"
-      },
-      {
-        "line": 348,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}5:0{{FN|4|gruppe=h1}}"
-      },
-      {
-        "line": 349,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}7:0{{FN|5|gruppe=h1}}"
-      },
-      {
-        "line": 352,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:1{{FN|6|gruppe=h1}}"
-      },
-      {
-        "line": 359,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:3{{FN|7|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -666,29 +344,9 @@
   {
     "season": "1979-80",
     "revision": 265933552,
-    "count": 128,
+    "count": 132,
     "bye": 0,
     "issues": [
-      {
-        "line": 319,
-        "reason": "unparsed row",
-        "raw": "{{0}}1:10"
-      },
-      {
-        "line": 365,
-        "reason": "unparsed row",
-        "raw": "10:2{{0}}"
-      },
-      {
-        "line": 378,
-        "reason": "unparsed row",
-        "raw": "10:2{{0}}"
-      },
-      {
-        "line": 401,
-        "reason": "unparsed row",
-        "raw": "10:0{{0}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -698,39 +356,9 @@
   {
     "season": "1980-81",
     "revision": 265927026,
-    "count": 130,
+    "count": 136,
     "bye": 0,
     "issues": [
-      {
-        "line": 312,
-        "reason": "unparsed row",
-        "raw": "10:0{{0}}"
-      },
-      {
-        "line": 316,
-        "reason": "unparsed row",
-        "raw": "11:1{{0}}"
-      },
-      {
-        "line": 346,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}{{0}}1:15{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 406,
-        "reason": "unparsed row",
-        "raw": "13:0{{0}}"
-      },
-      {
-        "line": 407,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:2{{FN|1|gruppe=h2}}"
-      },
-      {
-        "line": 443,
-        "reason": "unparsed row",
-        "raw": "11:0{{0}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -740,19 +368,9 @@
   {
     "season": "1981-82",
     "revision": 272137253,
-    "count": 134,
+    "count": 136,
     "bye": 0,
     "issues": [
-      {
-        "line": 205,
-        "reason": "unparsed row",
-        "raw": "10:1{{0}}"
-      },
-      {
-        "line": 286,
-        "reason": "unparsed row",
-        "raw": "10:1{{0}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -826,29 +444,9 @@
   {
     "season": "1988-89",
     "revision": 270512772,
-    "count": 67,
+    "count": 71,
     "bye": 0,
     "issues": [
-      {
-        "line": 159,
-        "reason": "unparsed row",
-        "raw": "11:2{{0}} (4:0)"
-      },
-      {
-        "line": 164,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:5 (0:1){{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 203,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:4 (0:2){{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 238,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:3 (0:1){{FN|3|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -858,19 +456,9 @@
   {
     "season": "1989-90",
     "revision": 266624220,
-    "count": 63,
+    "count": 65,
     "bye": 0,
     "issues": [
-      {
-        "line": 33,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:2{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 42,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:3{{FN|2|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -892,48 +480,33 @@
   {
     "season": "1991-92",
     "revision": 270512890,
-    "count": 106,
-    "bye": 0,
+    "count": 108,
+    "bye": 1,
     "issues": [
       {
         "line": 82,
         "reason": "unparsed row",
-        "raw": "{{FN|1|gruppe=nofv1}}"
+        "raw": ""
       },
       {
         "line": 87,
         "reason": "unparsed row",
-        "raw": "{{FN|2|gruppe=nofv1}}"
+        "raw": ""
       },
       {
         "line": 95,
         "reason": "unparsed row",
-        "raw": "{{FN|3|gruppe=nofv1}}"
+        "raw": ""
       },
       {
         "line": 96,
         "reason": "unparsed row",
-        "raw": "{{FN|4|gruppe=nofv1}}"
-      },
-      {
-        "line": 97,
-        "reason": "unparsed row",
-        "raw": "Freilos"
+        "raw": ""
       },
       {
         "line": 113,
         "reason": "unparsed row",
-        "raw": "{{FN|1|gruppe=nofv2}}"
-      },
-      {
-        "line": 431,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:2 n. V.{{FN|1|gruppe=hf}}<br /><small>(2:0 i. E.)</small>"
-      },
-      {
-        "line": 432,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:1 n. V.{{FN|2|gruppe=hf}}<br /><small>(6:5 i. E.)</small>"
+        "raw": ""
       },
       {
         "reason": "final template not parsed"
@@ -956,67 +529,25 @@
   {
     "season": "1993-94",
     "revision": 266092375,
-    "count": 74,
+    "count": 75,
     "bye": 0,
-    "issues": [
-      {
-        "line": 95,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:0{{FN|2|gruppe=h1}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1994-95",
     "revision": 266488016,
-    "count": 58,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "line": 29,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:6{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 32,
-        "reason": "unparsed row",
-        "raw": "{{0}}0:11"
-      },
-      {
-        "line": 35,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:5{{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 46,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:2{{FN|3|gruppe=h1}}"
-      },
-      {
-        "line": 58,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:0{{FN|4|gruppe=h1}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1995-96",
     "revision": 266106100,
-    "count": 60,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 32,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:1 n. V.<br /><small>(3:4 i. E.){{FN|1|gruppe=h1}}</small>"
-      },
-      {
-        "line": 63,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:0 n. V.<br /><small>(4:3 i. E.){{FN|2|gruppe=h1}}</small>"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1026,19 +557,9 @@
   {
     "season": "1996-97",
     "revision": 269706690,
-    "count": 60,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 233,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:1{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 254,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:3{{FN|1|gruppe=h3}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1048,33 +569,17 @@
   {
     "season": "1997-98",
     "revision": 267002041,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "line": 78,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:4{{FN|1|gruppe=h1}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "1998-99",
     "revision": 266487983,
-    "count": 60,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 29,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:1{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 110,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:3{{FN|2|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1113,33 +618,17 @@
   {
     "season": "2003-04",
     "revision": 270511702,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "line": 676,
-        "reason": "unparsed row",
-        "raw": "2:0<br /><s>1:2 n. V. (1:1, 0:0)</s>{{FN|1|gruppe=h1}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "2004-05",
     "revision": 270509883,
-    "count": 60,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 201,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}4:2 (2:2){{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 219,
-        "reason": "unparsed row",
-        "raw": "2:0<br /><s>{{0|<sup>2</sup>}}0:3 (0:2)</s>{{FN|2|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1161,28 +650,17 @@
   {
     "season": "2006-07",
     "revision": 270514216,
-    "count": 62,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "line": 647,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:2 (0:0){{FN|1|gruppe=h2}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "2007-08",
     "revision": 270511438,
-    "count": 61,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 655,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:5 (2:2){{FN|1|gruppe=h3}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1212,34 +690,9 @@
   {
     "season": "2010-11",
     "revision": 270511315,
-    "count": 57,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 688,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}4:4 n. V. (3:3, 2:1)<br /><small>(1:3 i. E.)</small>{{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 699,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:0 (1:0){{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 703,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:4 (0:2){{FN|3|gruppe=h1}}"
-      },
-      {
-        "line": 717,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:3 (0:1){{FN|1|gruppe=h2}}"
-      },
-      {
-        "line": 724,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:3 (0:2){{FN|2|gruppe=h2}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1249,78 +702,17 @@
   {
     "season": "2011-12",
     "revision": 270511275,
-    "count": 57,
+    "count": 63,
     "bye": 0,
-    "issues": [
-      {
-        "line": 636,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:6 (0:4){{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 640,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:10 (0:3){{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 642,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:3 n. V. (1:1, 1:0){{FN|3|gruppe=h1}}"
-      },
-      {
-        "line": 644,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:11 (1:6){{FN|4|gruppe=h1}}"
-      },
-      {
-        "line": 645,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:2 n. V. (0:0, 0:0){{FN|5|gruppe=h1}}"
-      },
-      {
-        "line": 646,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:3 (0:2){{FN|6|gruppe=h1}}"
-      }
-    ],
+    "issues": [],
     "complete": false
   },
   {
     "season": "2012-13",
     "revision": 271105277,
-    "count": 56,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 624,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:3 (0:2){{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 626,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:5 (0:2){{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 633,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:5 (0:3){{FN|3|gruppe=h1}}"
-      },
-      {
-        "line": 635,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:6 (0:2){{FN|4|gruppe=h1}}"
-      },
-      {
-        "line": 638,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:6 (0:2){{FN|5|gruppe=h1}}"
-      },
-      {
-        "line": 647,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:4 (0:2){{FN|6|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1330,54 +722,9 @@
   {
     "season": "2013-14",
     "revision": 271653648,
-    "count": 53,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 625,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 1</sup>}}0:9 (0:0){{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 630,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 2</sup>}}1:4 (0:2){{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 631,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 3</sup>}}0:7 (0:2){{FN|3|gruppe=h1}}"
-      },
-      {
-        "line": 641,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 4</sup>}}0:2 (0:1){{FN|4|gruppe=h1}}"
-      },
-      {
-        "line": 642,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 5</sup>}}0:4 (0:0){{FN|5|gruppe=h1}}"
-      },
-      {
-        "line": 645,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 6</sup>}}1:0 (0:0){{FN|6|gruppe=h1}}"
-      },
-      {
-        "line": 647,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 7</sup>}}0:2 (0:0){{FN|7|gruppe=h1}}"
-      },
-      {
-        "line": 650,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 8</sup>}}0:2 (0:1){{FN|8|gruppe=h1}}"
-      },
-      {
-        "line": 653,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 9</sup>}}0:5 (0:2){{FN|9|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1387,49 +734,9 @@
   {
     "season": "2014-15",
     "revision": 270510825,
-    "count": 54,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 1055,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:6 (0:4){{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 1059,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:3 (0:0){{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 1060,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:1 (0:0){{FN|3|gruppe=h1}}"
-      },
-      {
-        "line": 1061,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:4 (0:0){{FN|4|gruppe=h1}}"
-      },
-      {
-        "line": 1063,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:4 (0:1){{FN|5|gruppe=h1}}"
-      },
-      {
-        "line": 1071,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:3 n. V. (1:1, 1:1){{FN|6|gruppe=h1}}"
-      },
-      {
-        "line": 1072,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:9 (0:7){{FN|7|gruppe=h1}}"
-      },
-      {
-        "line": 1074,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:1 n. V. (1:1, 1:0){{FN|8|gruppe=h1}}<br /><small>(3:4 i. E.)</small>"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1439,34 +746,9 @@
   {
     "season": "2015-16",
     "revision": 270510799,
-    "count": 57,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 686,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 1</sup>}}0:5 (0:2){{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 697,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 2</sup>}}0:3 (0:1){{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 703,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 3</sup>}}0:5 (0:2){{FN|3|gruppe=h1}}"
-      },
-      {
-        "line": 709,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 4</sup>}}1:3 (1:3){{FN|4|gruppe=h1}}"
-      },
-      {
-        "line": 715,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup> 5</sup>}}0:2{{FN|5|gruppe=h1}}<br /><small>(Wertung)</small><br /><s>1:0 (0:0)</s>"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1476,44 +758,9 @@
   {
     "season": "2016-17",
     "revision": 271124912,
-    "count": 55,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 650,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:2 (0:1){{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 657,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:4 (0:2){{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 659,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:7 (0:2){{FN|3|gruppe=h1}}"
-      },
-      {
-        "line": 668,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}4:3 n. V. (2:2, 1:1)"
-      },
-      {
-        "line": 672,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}1:2 (0:1){{FN|4|gruppe=h1}}"
-      },
-      {
-        "line": 673,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:7 (0:4){{FN|5|gruppe=h1}}"
-      },
-      {
-        "line": 742,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}0:3 (0:0){{FN|1|gruppe=v}}"
-      },
       {
         "reason": "final template not parsed"
       }
@@ -1523,59 +770,9 @@
   {
     "season": "2017-18",
     "revision": 270510685,
-    "count": 52,
+    "count": 62,
     "bye": 0,
     "issues": [
-      {
-        "line": 1176,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>1</sup>}}2:3 (1:1){{FN|1|gruppe=h1}}"
-      },
-      {
-        "line": 1182,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>2</sup>}}1:3 (1:2){{FN|2|gruppe=h1}}"
-      },
-      {
-        "line": 1183,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>3</sup>}}0:5 (0:2){{FN|3|gruppe=h1}}"
-      },
-      {
-        "line": 1185,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>4</sup>}}0:3 (0:1){{FN|4|gruppe=h1}}"
-      },
-      {
-        "line": 1186,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>5</sup>}}0:4 (0:2){{FN|5|gruppe=h1}}"
-      },
-      {
-        "line": 1187,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>6</sup>}}0:4 (0:2){{FN|6|gruppe=h1}}"
-      },
-      {
-        "line": 1191,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>7</sup>}}0:3 (0:0){{FN|7|gruppe=h1}}"
-      },
-      {
-        "line": 1195,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>8</sup>}}0:5 (0:1){{FN|8|gruppe=h1}}"
-      },
-      {
-        "line": 1197,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>9</sup>}}0:5 (0:2){{FN|9|gruppe=h1}}"
-      },
-      {
-        "line": 1199,
-        "reason": "unparsed row",
-        "raw": "{{0|<sup>10</sup>}}2:5 (0:2){{FN|10|gruppe=h1}}"
-      },
       {
         "reason": "final template not parsed"
       }

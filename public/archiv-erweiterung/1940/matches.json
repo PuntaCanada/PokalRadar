@@ -1108,6 +1108,35 @@
       "sourceLine": 92
     },
     {
+      "id": "hist-d506d30a1b60f2d02d4ec51b",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "Barmbeker SG",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        3,
+        10
+      ],
+      "reportedScore": [
+        3,
+        10
+      ],
+      "raw": "3:10",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 93
+    },
+    {
       "id": "hist-5bf12c7c83e14284cd886aaf",
       "round": "2. Schlussrunde",
       "replay": false,
@@ -1862,11 +1891,5 @@
       "sourceLine": 202
     }
   ],
-  "issues": [
-    {
-      "line": 93,
-      "reason": "unparsed row",
-      "raw": "{{0}}3:10"
-    }
-  ]
+  "issues": []
 }

@@ -963,25 +963,31 @@
       "sourceLine": 212
     },
     {
-      "id": "hist-bff882ec496e7290e0747345",
+      "id": "hist-7ba1a221170686ccfb4b7e0d",
       "round": "1. Hauptrunde",
       "replay": true,
       "date": "1984-10-02",
       "time": null,
       "home": "MSV Duisburg",
       "away": "SC Fortuna Köln",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(3:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1714,25 +1720,31 @@
       "sourceLine": 250
     },
     {
-      "id": "hist-cedb8449299a8bad4535b8fa",
+      "id": "hist-62acc5069230b95de751d83f",
       "round": "Achtelfinale",
       "replay": true,
       "date": "1985-02-05",
       "time": null,
       "home": "1. FC Saarbrücken",
       "away": "VfB Stuttgart",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(3:0 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (3:0 i. E.)",
+      "penalties": [
+        3,
+        0
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,

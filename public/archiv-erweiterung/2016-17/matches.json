@@ -35,6 +35,35 @@
       "sourceLine": 649
     },
     {
+      "id": "hist-ee3d491c811ca7289fe8c6a2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2016-08-19",
+      "time": null,
+      "home": "FV Ravensburg (V)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 650
+    },
+    {
       "id": "hist-ac72a54c0b24b190108e269e",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -151,25 +180,31 @@
       "sourceLine": 654
     },
     {
-      "id": "hist-4c4fc621fb2fe03e235a5d2f",
+      "id": "hist-4da8c8f532470300aa163fdf",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2016-08-20",
       "time": null,
       "home": "FC Viktoria Köln (IV)",
       "away": "1. FC Nürnberg (II)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:0)<br /><small>(5:6 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:0) (5:6 i. E.)",
+      "penalties": [
+        5,
+        6
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (II)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -177,25 +212,31 @@
       "sourceLine": 655
     },
     {
-      "id": "hist-79a82c957e08f98bc14852d1",
+      "id": "hist-3865e393a520cdeb085b3375",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2016-08-20",
       "time": null,
       "home": "Rot-Weiss Essen (IV)",
       "away": "Arminia Bielefeld (II)",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 0:1)<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 0:1) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld (II)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -203,30 +244,94 @@
       "sourceLine": 656
     },
     {
-      "id": "hist-d27c1e560b56d774c513f3f3",
+      "id": "hist-430d0db3a2c4273cf7bbc526",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2016-08-20",
+      "time": null,
+      "home": "FC 08 Villingen (VI)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 657
+    },
+    {
+      "id": "hist-e5d6cbb80e1c445ddc4c53b5",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2016-08-20",
       "time": null,
       "home": "Dynamo Dresden (II)",
       "away": "RB Leipzig (I)",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 0:2)<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 0:2) (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Dynamo Dresden (II)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
       "venue": null,
       "sourceLine": 658
+    },
+    {
+      "id": "hist-9e28ab2a34cc091195bf02f2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2016-08-20",
+      "time": null,
+      "home": "BFC Preussen (VI)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 659
     },
     {
       "id": "hist-3ade8f4f7318bc0918797d6b",
@@ -461,25 +566,60 @@
       "sourceLine": 667
     },
     {
-      "id": "hist-13ab8be1e9536bc6daa99603",
+      "id": "hist-a33e1ab6d86cda8afbd8156c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2016-08-21",
+      "time": null,
+      "home": "FC-Astoria Walldorf (IV)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 n. V. (2:2, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC-Astoria Walldorf (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 668
+    },
+    {
+      "id": "hist-62708bc396772741ee29acba",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2016-08-21",
       "time": null,
       "home": "1. FC Magdeburg (III)",
       "away": "Eintracht Frankfurt (I)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:1)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:1) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -487,25 +627,31 @@
       "sourceLine": 669
     },
     {
-      "id": "hist-ffe83d060e6224296947bc27",
+      "id": "hist-de946175b3e7e225370d1738",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2016-08-21",
       "time": null,
       "home": "SpVgg Unterhaching (IV)",
       "away": "1. FSV Mainz 05 (I)",
-      "score": null,
+      "score": [
+        3,
+        3
+      ],
       "reportedScore": [
         3,
         3
       ],
-      "raw": "3:3 n. V. (3:3, 1:1)<br /><small>(2:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "3:3 n. V. (3:3, 1:1) (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -542,6 +688,64 @@
       "sourceLine": 671
     },
     {
+      "id": "hist-a01d435a7fa87996b76d5582",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2016-08-21",
+      "time": null,
+      "home": "SC Hauenstein (V)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 672
+    },
+    {
+      "id": "hist-d1ce538c76c4b9e5b76760c7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2016-08-21",
+      "time": null,
+      "home": "Bremer SV (V)",
+      "away": "SV Darmstadt 98 (I)",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 673
+    },
+    {
       "id": "hist-ade03b50127d3b91b4e5645b",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -571,25 +775,31 @@
       "sourceLine": 674
     },
     {
-      "id": "hist-1cf2da31a77c10966e03ca75",
+      "id": "hist-af34bdd18b0b21db26fcd227",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2016-08-21",
       "time": null,
       "home": "SSV Jahn Regensburg (III)",
       "away": "Hertha BSC (I)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:0)<br /><small>(3:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:0) (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Hertha BSC (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -597,25 +807,31 @@
       "sourceLine": 675
     },
     {
-      "id": "hist-744eec46e3aa0e8cf21da4d2",
+      "id": "hist-8bd2065d2b790764611003ca",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2016-08-21",
       "time": null,
       "home": "FC Erzgebirge Aue (II)",
       "away": "FC Ingolstadt 04 (I)",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(7:8 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (7:8 i. E.)",
+      "penalties": [
+        7,
+        8
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Ingolstadt 04 (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -739,25 +955,31 @@
       "sourceLine": 680
     },
     {
-      "id": "hist-bdf80e8572f2c2514d331b15",
+      "id": "hist-c3c3b74f431f741d80ba756f",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2016-10-25",
       "time": null,
       "home": "Sportfreunde Lotte (III)",
       "away": "Bayer 04 Leverkusen (I)",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (1:1, 0:1)<br /><small>(4:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (1:1, 0:1) (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Sportfreunde Lotte (III)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -794,25 +1016,31 @@
       "sourceLine": 698
     },
     {
-      "id": "hist-1b4343168ae3d8a0f83ab8bf",
+      "id": "hist-3c80be1ae0e0543b6e632533",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2016-10-25",
       "time": null,
       "home": "SC Freiburg (I)",
       "away": "SV Sandhausen (II)",
-      "score": null,
+      "score": [
+        3,
+        3
+      ],
       "reportedScore": [
         3,
         3
       ],
-      "raw": "3:3 n. V. (3:3, 1:1)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "3:3 n. V. (3:3, 1:1) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SV Sandhausen (II)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -820,25 +1048,31 @@
       "sourceLine": 699
     },
     {
-      "id": "hist-58d5118363393d8d08b31f4e",
+      "id": "hist-55d0acbd2ef3288f05e406b4",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2016-10-25",
       "time": null,
       "home": "Würzburger Kickers (II)",
       "away": "TSV 1860 München (II)",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "TSV 1860 München (II)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -875,25 +1109,31 @@
       "sourceLine": 701
     },
     {
-      "id": "hist-68586d7c08ab4c8c295795db",
+      "id": "hist-51f33b7568d97648581589eb",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2016-10-25",
       "time": null,
       "home": "Eintracht Frankfurt (I)",
       "away": "FC Ingolstadt 04 (I)",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(4:1 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (4:1 i. E.)",
+      "penalties": [
+        4,
+        1
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1162,25 +1402,31 @@
       "sourceLine": 711
     },
     {
-      "id": "hist-a651620473a0e8829b7b2400",
+      "id": "hist-8281c8c1ff2f9bb03e3f7020",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2016-10-26",
       "time": null,
       "home": "Borussia Dortmund (I)",
       "away": "1. FC Union Berlin (II)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:0)<br /><small>(3:0 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:0) (3:0 i. E.)",
+      "penalties": [
+        3,
+        0
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1217,25 +1463,31 @@
       "sourceLine": 723
     },
     {
-      "id": "hist-4f607f07dba66cae10e6c6b5",
+      "id": "hist-59288119c481b1b8b7801e30",
       "round": "Achtelfinale",
       "replay": false,
       "date": "2017-02-07",
       "time": null,
       "home": "FC-Astoria Walldorf (IV)",
       "away": "Arminia Bielefeld (II)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:0)<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:0) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld (II)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1388,25 +1640,31 @@
       "sourceLine": 729
     },
     {
-      "id": "hist-d83a95f8220f91e483de9d17",
+      "id": "hist-5fe469a4377bc18defa770f5",
       "round": "Achtelfinale",
       "replay": false,
       "date": "2017-02-08",
       "time": null,
       "home": "Borussia Dortmund (I)",
       "away": "Hertha BSC (I)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:1)<br /><small>(3:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:1) (3:2 i. E.)",
+      "penalties": [
+        3,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1501,25 +1759,60 @@
       "sourceLine": 741
     },
     {
-      "id": "hist-7658202aad0edb0c5279df5d",
+      "id": "hist-6a978ebe955bffd8d3d46b1a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2017-03-14",
+      "time": null,
+      "home": "Sportfreunde Lotte (III)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 742
+    },
+    {
+      "id": "hist-489dfb2dd952a824250604c8",
       "round": "Halbfinale",
       "replay": false,
       "date": "2017-04-25",
       "time": null,
       "home": "Borussia Mönchengladbach (I)",
       "away": "Eintracht Frankfurt (I)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:1)<br /><small>(6:7 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:1) (6:7 i. E.)",
+      "penalties": [
+        6,
+        7
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1557,41 +1850,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 650,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:2 (0:1){{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 657,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:4 (0:2){{FN|2|gruppe=h1}}"
-    },
-    {
-      "line": 659,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:7 (0:2){{FN|3|gruppe=h1}}"
-    },
-    {
-      "line": 668,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}4:3 n. V. (2:2, 1:1)"
-    },
-    {
-      "line": 672,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:2 (0:1){{FN|4|gruppe=h1}}"
-    },
-    {
-      "line": 673,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:7 (0:4){{FN|5|gruppe=h1}}"
-    },
-    {
-      "line": 742,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:3 (0:0){{FN|1|gruppe=v}}"
-    },
     {
       "reason": "final template not parsed"
     }

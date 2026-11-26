@@ -6,6 +6,64 @@
   "bye": 0,
   "matches": [
     {
+      "id": "hist-1060d090fcef5cc7d06281c6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-06",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "FC Wacker München",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 303
+    },
+    {
+      "id": "hist-a279a24a2021792866c250f4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-06",
+      "time": null,
+      "home": "VfR Mannheim",
+      "away": "SC Sperber Hamburg",
+      "score": [
+        8,
+        0
+      ],
+      "reportedScore": [
+        8,
+        0
+      ],
+      "raw": "8:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 304
+    },
+    {
       "id": "hist-b7884384eab3073e01944f5d",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -673,6 +731,35 @@
       "sourceLine": 327
     },
     {
+      "id": "hist-915b6e9c4bd50e4ca469a5b3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "TuS Schwachhausen",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 328
+    },
+    {
       "id": "hist-77c53e589002ae87e60a1101",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -963,6 +1050,35 @@
       "sourceLine": 338
     },
     {
+      "id": "hist-aaae453e1c08f47aabfc7ac4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "SV Leiwen",
+      "away": "1. FC Pforzheim",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 339
+    },
+    {
       "id": "hist-b08d03d63bfc86aa45c25174",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -1077,6 +1193,64 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 343
+    },
+    {
+      "id": "hist-58ed29bcc4a84ac4ee70d467",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Rot-Weiss Frankfurt",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 344
+    },
+    {
+      "id": "hist-b66d4fc9946e4dfc88278b71",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "BSC Grünhöfe",
+      "score": [
+        11,
+        1
+      ],
+      "reportedScore": [
+        11,
+        1
+      ],
+      "raw": "11:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 345
     },
     {
       "id": "hist-c651277a8128dbbd39317110",
@@ -1485,6 +1659,35 @@
       "sourceLine": 359
     },
     {
+      "id": "hist-394839bec8fdea60c85bb59c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1974-09-07",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "FC Bayern München (A)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Lübeck",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 360
+    },
+    {
       "id": "hist-3f3c223cecdf0f1fda8ee657",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -1688,25 +1891,31 @@
       "sourceLine": 374
     },
     {
-      "id": "hist-3753ffe60e747289c98b5201",
+      "id": "hist-862814cd4e145735f6f33393",
       "round": "1. Hauptrunde",
       "replay": true,
       "date": "1974-09-28",
       "time": null,
       "home": "1. FC Pforzheim",
       "away": "SV Leiwen",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(5:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (5:3 i. E.)",
+      "penalties": [
+        5,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FC Pforzheim",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1973,6 +2182,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 389
+    },
+    {
+      "id": "hist-10f85ee0cf79ae03132f68c3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1974-10-26",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Hertha Zehlendorf",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 390
     },
     {
       "id": "hist-56641e8896a48c89a64e0c61",
@@ -2671,25 +2909,31 @@
       "sourceLine": 414
     },
     {
-      "id": "hist-89640e1e2bbe3ad64805c618",
+      "id": "hist-91e98f7cfe69b8810da2fbb0",
       "round": "2. Hauptrunde",
       "replay": true,
       "date": "1974-11-12",
       "time": null,
       "home": "TSV Taunusstein-Bleidenstadt",
       "away": "FC 08 Homburg / Saar",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.{{FN|1|gruppe=h2w}}<br /><small>(2:0 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (2:0 i. E.)",
+      "penalties": [
+        2,
+        0
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "TSV Taunusstein-Bleidenstadt",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -3742,46 +3986,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 303,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:2 n. V.{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 304,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}8:0{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 328,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}3:0{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 339,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>2</sup>}}2:2 n. V.{{FN|2|gruppe=h1}}"
-    },
-    {
-      "line": 344,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}6:1{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 345,
-      "reason": "unparsed row",
-      "raw": "11:1{{0}}"
-    },
-    {
-      "line": 360,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}3:1{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 390,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}6:0{{FN|1|gruppe=h2}}"
-    },
     {
       "reason": "final template not parsed"
     }

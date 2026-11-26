@@ -1160,25 +1160,31 @@
       "sourceLine": 709
     },
     {
-      "id": "hist-b648ae50d328d9953b62b077",
+      "id": "hist-abbc0da9d846b21f5e9d733a",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2009-09-23",
       "time": null,
       "home": "TSV 1860 München",
       "away": "Hertha BSC",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 1:0)<br /><small>(4:1 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 1:0) (4:1 i. E.)",
+      "penalties": [
+        4,
+        1
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1273,25 +1279,31 @@
       "sourceLine": 713
     },
     {
-      "id": "hist-b451223699407e3a7e73b1d1",
+      "id": "hist-aab3b3f28d52f6a49eeafda2",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2009-09-23",
       "time": null,
       "home": "VfL Osnabrück",
       "away": "Hamburger SV",
-      "score": null,
+      "score": [
+        3,
+        3
+      ],
       "reportedScore": [
         3,
         3
       ],
-      "raw": "3:3 n. V. (2:2, 0:0)<br /><small>(4:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "3:3 n. V. (2:2, 0:0) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,

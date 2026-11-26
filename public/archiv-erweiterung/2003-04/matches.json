@@ -64,25 +64,31 @@
       "sourceLine": 657
     },
     {
-      "id": "hist-1405c5bf45fdb6607a860c9e",
+      "id": "hist-7c30ccd8c10e9e66f3625333",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2003-08-29",
       "time": null,
       "home": "FC Rot-Weiß Erfurt",
       "away": "Alemannia Aachen",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:0)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:0) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -177,25 +183,31 @@
       "sourceLine": 661
     },
     {
-      "id": "hist-b92497d0cf948f01c4aae92c",
+      "id": "hist-13e6efd15c71951258ae73b7",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2003-08-30",
       "time": null,
       "home": "1. FSV Mainz 05 Amateure",
       "away": "Karlsruher SC",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:1)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:1) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -580,25 +592,57 @@
       "sourceLine": 675
     },
     {
-      "id": "hist-8ab90a8b70041d7b7e3bfa53",
+      "id": "hist-5a99cfe0b2ea8d999cb887a2",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2003-08-31",
       "time": null,
-      "home": "VfL Osnabrück",
-      "away": "Hansa Rostock",
+      "home": "Sportfreunde Siegen",
+      "away": "LR Ahlen",
       "score": null,
       "reportedScore": [
-        0,
+        2,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(4:5 i. E.)</small>",
+      "raw": "2:0 <s>1:2 n. V. (1:1, 0:0)</s>",
       "penalties": null,
       "halfTime": null,
       "regular": null,
       "extraTime": true,
       "status": "reported-unclear",
       "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 676
+    },
+    {
+      "id": "hist-2d82f4edc5683aae1eba1192",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2003-08-31",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Hansa Rostock",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hansa Rostock",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -664,25 +708,31 @@
       "sourceLine": 679
     },
     {
-      "id": "hist-eb61670631241476b45e6df4",
+      "id": "hist-a4934cd6ea03f572126aaf6b",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2003-08-31",
       "time": null,
       "home": "SSVg Velbert",
       "away": "1. FSV Mainz 05",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(5:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (5:3 i. E.)",
+      "penalties": [
+        5,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SSVg Velbert",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -690,25 +740,31 @@
       "sourceLine": 680
     },
     {
-      "id": "hist-cf7eab0673327fad784bf3ec",
+      "id": "hist-62cdb52e7b26f12d60a13d37",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2003-08-31",
       "time": null,
       "home": "1. FC Magdeburg",
       "away": "MSV Duisburg",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -803,25 +859,31 @@
       "sourceLine": 684
     },
     {
-      "id": "hist-f12cd2013715d6ffa98e8e88",
+      "id": "hist-73308ad494fa39edf90b450e",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2003-09-01",
       "time": null,
       "home": "Kickers Offenbach",
       "away": "Eintracht Frankfurt",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:0)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:0) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -829,25 +891,31 @@
       "sourceLine": 685
     },
     {
-      "id": "hist-472dcad8c4f7841601e26a78",
+      "id": "hist-24a6a8466139ce50602be97f",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "2003-09-01",
       "time": null,
       "home": "FC St. Pauli",
       "away": "Arminia Bielefeld",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(4:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -942,25 +1010,31 @@
       "sourceLine": 694
     },
     {
-      "id": "hist-7ac820dd41507a8e6b81dc87",
+      "id": "hist-398f9e39420a95067f458b33",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2003-10-28",
       "time": null,
       "home": "Hansa Rostock",
       "away": "Hertha BSC",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (1:1, 0:1)<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (1:1, 0:1) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -968,25 +1042,31 @@
       "sourceLine": 695
     },
     {
-      "id": "hist-1f1428e5db1494a3862963a6",
+      "id": "hist-66ce83038c7551b863a0a865",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2003-10-28",
       "time": null,
       "home": "FC Bayern München",
       "away": "1. FC Nürnberg",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:1)<br /><small>(7:6 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:1) (7:6 i. E.)",
+      "penalties": [
+        7,
+        6
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1168,25 +1248,31 @@
       "sourceLine": 702
     },
     {
-      "id": "hist-9035c6a134aed3129bafaea7",
+      "id": "hist-1f248d353dbf1bf2e4c6491d",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2003-10-29",
       "time": null,
       "home": "Alemannia Aachen",
       "away": "TSV 1860 München",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 0:1)<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 0:1) (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1339,25 +1425,31 @@
       "sourceLine": 708
     },
     {
-      "id": "hist-36883c3e8f8e2bfc2e77a0a8",
+      "id": "hist-a2e668bd3c9effd47d294997",
       "round": "Achtelfinale",
       "replay": false,
       "date": "2003-12-02",
       "time": null,
       "home": "SSV Jahn Regensburg",
       "away": "MSV Duisburg",
-      "score": null,
+      "score": [
+        3,
+        3
+      ],
       "reportedScore": [
         3,
         3
       ],
-      "raw": "3:3 n. V. (3:0, 2:1)<br /><small>(2:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "3:3 n. V. (3:0, 2:1) (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1452,25 +1544,31 @@
       "sourceLine": 716
     },
     {
-      "id": "hist-60f668924be0aacd8ded443f",
+      "id": "hist-7266cee10a110727d8bce80e",
       "round": "Achtelfinale",
       "replay": false,
       "date": "2003-12-03",
       "time": null,
       "home": "1. FC Köln",
       "away": "SpVgg Greuther Fürth",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:0)<br /><small>(1:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:0) (1:3 i. E.)",
+      "penalties": [
+        1,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1565,25 +1663,31 @@
       "sourceLine": 720
     },
     {
-      "id": "hist-de8a88d5ef3b9e793cdfbac1",
+      "id": "hist-b3c80c6eb9cdc8c5d954a6ad",
       "round": "Viertelfinale",
       "replay": false,
       "date": "2004-02-03",
       "time": null,
       "home": "Borussia Mönchengladbach",
       "away": "MSV Duisburg",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V. (2:2, 0:1)<br /><small>(4:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (2:2, 0:1) (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1765,11 +1869,5 @@
       "sourceLine": 856
     }
   ],
-  "issues": [
-    {
-      "line": 676,
-      "reason": "unparsed row",
-      "raw": "2:0<br /><s>1:2 n. V. (1:1, 0:0)</s>{{FN|1|gruppe=h1}}"
-    }
-  ]
+  "issues": []
 }

@@ -6,6 +6,38 @@
   "bye": 0,
   "matches": [
     {
+      "id": "hist-22953b64d997de9b1381d885",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-08-15",
+      "time": null,
+      "home": "TSG Pfeddersheim",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
       "id": "hist-02cbaa5862e5bee99efd466a",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -296,25 +328,31 @@
       "sourceLine": 42
     },
     {
-      "id": "hist-0600b9cbf3641c66c44d4f09",
+      "id": "hist-304dd6706bd7ce3fb32a1c26",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "1995-08-26",
       "time": null,
       "home": "SpVg Beckum",
       "away": "1. FC Köln",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(4:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SpVg Beckum",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -467,25 +505,31 @@
       "sourceLine": 48
     },
     {
-      "id": "hist-ff7d5756ca7fb147d5971338",
+      "id": "hist-bb6656c0c2d80431dbaf0575",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "1995-08-26",
       "time": null,
       "home": "SC Neukirchen",
       "away": "1. FSV Mainz 05",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -783,25 +827,31 @@
       "sourceLine": 59
     },
     {
-      "id": "hist-d17206d9b38ca2dd75575e39",
+      "id": "hist-e38c909884949189115aa153",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "1995-08-27",
       "time": null,
       "home": "SV Sandhausen",
       "away": "VfB Stuttgart",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(13:12 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (13:12 i. E.)",
+      "penalties": [
+        13,
+        12
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "SV Sandhausen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -865,6 +915,38 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 62
+    },
+    {
+      "id": "hist-c2273237a8f375959c583203",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1995-09-06",
+      "time": null,
+      "home": "FSV Lok Altmark Stendal",
+      "away": "VfL Wolfsburg",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FSV Lok Altmark Stendal",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
     },
     {
       "id": "hist-70abb65b38cf84a90fe1028a",
@@ -1331,25 +1413,31 @@
       "sourceLine": 86
     },
     {
-      "id": "hist-15f50a42f9b1da5566edfcb4",
+      "id": "hist-f864525149077cee4416a299",
       "round": "Achtelfinale",
       "replay": false,
       "date": "1995-10-03",
       "time": null,
       "home": "FSV Lok Altmark Stendal",
       "away": "SV Waldhof Mannheim",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FSV Lok Altmark Stendal",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1531,25 +1619,31 @@
       "sourceLine": 97
     },
     {
-      "id": "hist-0e0d4b5a19d30077aa696c30",
+      "id": "hist-c514882752cc849c6a71f558",
       "round": "Achtelfinale",
       "replay": false,
       "date": "1995-10-04",
       "time": null,
       "home": "Rot-Weiss Essen",
       "away": "Bayer 04 Leverkusen",
-      "score": null,
+      "score": [
+        4,
+        4
+      ],
       "reportedScore": [
         4,
         4
       ],
-      "raw": "4:4 n. V.<br /><small>(1:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "4:4 n. V. (1:4 i. E.)",
+      "penalties": [
+        1,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1557,25 +1651,31 @@
       "sourceLine": 98
     },
     {
-      "id": "hist-592c2c4c35f10241db548b71",
+      "id": "hist-1b58583365d15ad90645f411",
       "round": "Viertelfinale",
       "replay": false,
       "date": "1995-10-31",
       "time": null,
       "home": "FSV Lok Altmark Stendal",
       "away": "Bayer 04 Leverkusen",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1729,16 +1829,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 32,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:1 n. V.<br /><small>(3:4 i. E.){{FN|1|gruppe=h1}}</small>"
-    },
-    {
-      "line": 63,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:0 n. V.<br /><small>(4:3 i. E.){{FN|2|gruppe=h1}}</small>"
-    },
     {
       "reason": "final template not parsed"
     }

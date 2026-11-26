@@ -903,24 +903,96 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 70
+    },
+    {
+      "id": "hist-5b65050a5bc15d0c64faf8f3",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1955-04-07",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Kickers Offenbach",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-9b0659a09a4fc20a9a20a268",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1955-04-20",
+      "time": null,
+      "home": "FC Altona 93",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-021b1c54820255b8cfdae6cc",
+      "round": "Halbfinale",
+      "replay": true,
+      "date": "1955-05-08",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "FC Altona 93",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 84
     }
   ],
   "issues": [
-    {
-      "line": 75,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:1{{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 76,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}3:3 n. V.{{FN|2|gruppe=h1}}"
-    },
-    {
-      "line": 84,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}3:0{{FN|3|gruppe=h1}}"
-    },
     {
       "reason": "final template not parsed"
     }

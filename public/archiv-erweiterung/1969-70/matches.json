@@ -325,6 +325,35 @@
       "sourceLine": 36
     },
     {
+      "id": "hist-906b3cfe6d39cb4ca3e9796c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1970-04-08",
+      "time": null,
+      "home": "SV Alsenborn",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
       "id": "hist-2cb6fc5f58cf0c95438b6c91",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -935,11 +964,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 37,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:5{{FN|1|gruppe=h1}}"
-    },
     {
       "reason": "final template not parsed"
     }

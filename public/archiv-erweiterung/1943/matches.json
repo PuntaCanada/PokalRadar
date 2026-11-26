@@ -151,6 +151,64 @@
       "sourceLine": 108
     },
     {
+      "id": "hist-3b7597b2e38f54fdb30f262b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-22",
+      "time": null,
+      "home": "NSTG Brüx",
+      "away": "First Vienna FC",
+      "score": [
+        0,
+        14
+      ],
+      "reportedScore": [
+        0,
+        14
+      ],
+      "raw": "0:14",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "First Vienna FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 109
+    },
+    {
+      "id": "hist-e40341df37e6e543d0a9ea1b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-22",
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "Borussia Fulda",
+      "score": [
+        13,
+        1
+      ],
+      "reportedScore": [
+        13,
+        1
+      ],
+      "raw": "13:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 110
+    },
+    {
       "id": "hist-1841025c22ef354c319eda4b",
       "round": "1. Schlussrunde",
       "replay": false,
@@ -876,16 +934,5 @@
       "sourceLine": 201
     }
   ],
-  "issues": [
-    {
-      "line": 109,
-      "reason": "unparsed row",
-      "raw": "{{0}}0:14"
-    },
-    {
-      "line": 110,
-      "reason": "unparsed row",
-      "raw": "13:1{{0}}"
-    }
-  ]
+  "issues": []
 }

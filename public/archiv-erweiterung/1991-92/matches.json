@@ -3,7 +3,7 @@
   "source": "https://de.wikipedia.org/w/index.php?oldid=270512890",
   "license": "CC-BY-SA-4.0",
   "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
-  "bye": 0,
+  "bye": 1,
   "matches": [
     {
       "id": "hist-2d5c8faab3536b879cb4410f",
@@ -354,25 +354,31 @@
       "sourceLine": 106
     },
     {
-      "id": "hist-b71ac0306d03c7b9423645d9",
+      "id": "hist-cfdb798b3d5a9713a3bddaf7",
       "round": "2. Runde",
       "replay": false,
       "date": "1991-06-09",
       "time": null,
       "home": "SV Motor Eberswalde",
       "away": "FSV Hoyerswerda",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "FSV Hoyerswerda",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -380,25 +386,31 @@
       "sourceLine": 107
     },
     {
-      "id": "hist-13a5613bd10f1a2f66c0b0e9",
+      "id": "hist-b17848de0896f844d5438844",
       "round": "2. Runde",
       "replay": false,
       "date": "1991-06-09",
       "time": null,
       "home": "SV Stahl Thale",
       "away": "Greifswalder SC",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(4:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Greifswalder SC",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -609,25 +621,31 @@
       "sourceLine": 121
     },
     {
-      "id": "hist-9f9ff7b3eba40b4f236ad2ee",
+      "id": "hist-ed4f21d2bbaec99a0c8d18d7",
       "round": "3. Runde",
       "replay": false,
       "date": "1991-06-16",
       "time": null,
       "home": "Greifswalder SC",
       "away": "Riesaer SV Blau-Weiß",
-      "score": null,
+      "score": [
+        3,
+        3
+      ],
       "reportedScore": [
         3,
         3
       ],
-      "raw": "3:3 n. V.<br /><small>(5:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "3:3 n. V. (5:3 i. E.)",
+      "penalties": [
+        5,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Greifswalder SC",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -838,25 +856,31 @@
       "sourceLine": 332
     },
     {
-      "id": "hist-640e3ea0603b2cc5f36e4127",
+      "id": "hist-c6ef16f59c4447020ae89cdb",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "1991-07-27",
       "time": null,
       "home": "Greifswalder SC",
       "away": "BSV Stahl Brandenburg",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(3:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (3:2 i. E.)",
+      "penalties": [
+        3,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Greifswalder SC",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -951,25 +975,31 @@
       "sourceLine": 336
     },
     {
-      "id": "hist-f215bb544c66c7ffa5a6031a",
+      "id": "hist-f34bb38a3d53ec1286a08d2a",
       "round": "1. Hauptrunde",
       "replay": false,
       "date": "1991-07-27",
       "time": null,
       "home": "SpVgg Unterhaching",
       "away": "Bayer 05 Uerdingen",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(1:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (1:3 i. E.)",
+      "penalties": [
+        1,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1615,25 +1645,31 @@
       "sourceLine": 364
     },
     {
-      "id": "hist-7dc943237e5855e155c2c489",
+      "id": "hist-8f0c455bb76e963ba3dd365c",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1991-08-17",
       "time": null,
       "home": "TSV Havelse",
       "away": "1. FC Nürnberg",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(4:2 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "TSV Havelse",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1844,25 +1880,31 @@
       "sourceLine": 372
     },
     {
-      "id": "hist-1d59a295a2727db32d40287c",
+      "id": "hist-05aea12aa7bbeec0da9fe17f",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "1991-08-17",
       "time": null,
       "home": "Rot-Weiß Hasborn-Dautweiler",
       "away": "VfL Osnabrück",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V.<br /><small>(5:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Hasborn-Dautweiler",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -2566,25 +2608,31 @@
       "sourceLine": 401
     },
     {
-      "id": "hist-6c2775d8a69b1692d2c7131e",
+      "id": "hist-170012695c07ff7f32fbac5f",
       "round": "3. Hauptrunde",
       "replay": false,
       "date": "1991-09-04",
       "time": null,
       "home": "Hamburger SV (A)",
       "away": "PFV Bergmann-Borsig",
-      "score": null,
+      "score": [
+        2,
+        2
+      ],
       "reportedScore": [
         2,
         2
       ],
-      "raw": "2:2 n. V.<br /><small>(6:5 i. E.)</small>",
-      "penalties": null,
+      "raw": "2:2 n. V. (6:5 i. E.)",
+      "penalties": [
+        6,
+        5
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Hamburger SV (A)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -3054,48 +3102,97 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 426
+    },
+    {
+      "id": "hist-f34063630ec3a0d5c186091c",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1992-04-07",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "TSV Bayer 04 Leverkusen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:0 i. E.)",
+      "penalties": [
+        2,
+        0
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 431
+    },
+    {
+      "id": "hist-1b77f9fb39cede6b8a258076",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1992-04-08",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "SV Werder Bremen",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (6:5 i. E.)",
+      "penalties": [
+        6,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 432
     }
   ],
   "issues": [
     {
       "line": 82,
       "reason": "unparsed row",
-      "raw": "{{FN|1|gruppe=nofv1}}"
+      "raw": ""
     },
     {
       "line": 87,
       "reason": "unparsed row",
-      "raw": "{{FN|2|gruppe=nofv1}}"
+      "raw": ""
     },
     {
       "line": 95,
       "reason": "unparsed row",
-      "raw": "{{FN|3|gruppe=nofv1}}"
+      "raw": ""
     },
     {
       "line": 96,
       "reason": "unparsed row",
-      "raw": "{{FN|4|gruppe=nofv1}}"
-    },
-    {
-      "line": 97,
-      "reason": "unparsed row",
-      "raw": "Freilos"
+      "raw": ""
     },
     {
       "line": 113,
       "reason": "unparsed row",
-      "raw": "{{FN|1|gruppe=nofv2}}"
-    },
-    {
-      "line": 431,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}2:2 n. V.{{FN|1|gruppe=hf}}<br /><small>(2:0 i. E.)</small>"
-    },
-    {
-      "line": 432,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:1 n. V.{{FN|2|gruppe=hf}}<br /><small>(6:5 i. E.)</small>"
+      "raw": ""
     },
     {
       "reason": "final template not parsed"

@@ -122,6 +122,35 @@
       "sourceLine": 623
     },
     {
+      "id": "hist-412773cb1728c8150f902e60",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "FC Oberneuland (IV)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 624
+    },
+    {
       "id": "hist-61e376fbdd4a7838bba56cf3",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -149,6 +178,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 625
+    },
+    {
+      "id": "hist-8b6aec259350fcd37f863923",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "SV Falkensee-Finkenkrug (VI)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 626
     },
     {
       "id": "hist-e09ba84e1e1141bc06601b56",
@@ -325,6 +383,35 @@
       "sourceLine": 632
     },
     {
+      "id": "hist-5b12597d09dd571c20cf2a12",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "FC Schönberg 95 (VI)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 633
+    },
+    {
       "id": "hist-624dab825fb4fa8d4f4440b3",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -352,6 +439,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 634
+    },
+    {
+      "id": "hist-28f9f07f303cc77bd03fd704",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "FC Nöttingen (V)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 635
     },
     {
       "id": "hist-6ed56abb4241c06529f91c23",
@@ -410,6 +526,35 @@
       "awayTier": null,
       "venue": null,
       "sourceLine": 637
+    },
+    {
+      "id": "hist-110dad7a0b54f09c575a5001",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "FC Hennef 05 (V)",
+      "away": "TSV 1860 München (II)",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 638
     },
     {
       "id": "hist-cd4df6bec92e3d7dd259c037",
@@ -644,6 +789,35 @@
       "sourceLine": 646
     },
     {
+      "id": "hist-bd3567de98cf9b2712fd7d64",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "SV Roßbach/Verscheid (V)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 647
+    },
+    {
       "id": "hist-2ff361e6a1ce132158d4f16f",
       "round": "1. Hauptrunde",
       "replay": false,
@@ -789,25 +963,31 @@
       "sourceLine": 664
     },
     {
-      "id": "hist-56408d12da53ffb641be690a",
+      "id": "hist-e0a7f7e946970040c82cdb67",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2012-10-30",
       "time": null,
       "home": "Wormatia Worms (IV)",
       "away": "1. FC Köln (II)",
-      "score": null,
+      "score": [
+        0,
+        0
+      ],
       "reportedScore": [
         0,
         0
       ],
-      "raw": "0:0 n. V.<br /><small>(3:4 i. E.)</small>",
-      "penalties": null,
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "1. FC Köln (II)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1105,25 +1285,31 @@
       "sourceLine": 675
     },
     {
-      "id": "hist-231fefbb2f53d2060f743f19",
+      "id": "hist-4cb986b9e70dd30b26189f9c",
       "round": "2. Hauptrunde",
       "replay": false,
       "date": "2012-10-31",
       "time": null,
       "home": "Hannover 96 (I)",
       "away": "Dynamo Dresden (II)",
-      "score": null,
+      "score": [
+        1,
+        1
+      ],
       "reportedScore": [
         1,
         1
       ],
-      "raw": "1:1 n. V. (1:1, 1:1)<br /><small>(4:3 i. E.)</small>",
-      "penalties": null,
+      "raw": "1:1 n. V. (1:1, 1:1) (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
       "halfTime": null,
       "regular": null,
       "extraTime": true,
-      "status": "reported-unclear",
-      "winner": null,
+      "status": "completed",
+      "winner": "Hannover 96 (I)",
       "formalHome": null,
       "homeTier": null,
       "awayTier": null,
@@ -1625,36 +1811,6 @@
     }
   ],
   "issues": [
-    {
-      "line": 624,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:3 (0:2){{FN|1|gruppe=h1}}"
-    },
-    {
-      "line": 626,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:5 (0:2){{FN|2|gruppe=h1}}"
-    },
-    {
-      "line": 633,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:5 (0:3){{FN|3|gruppe=h1}}"
-    },
-    {
-      "line": 635,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}1:6 (0:2){{FN|4|gruppe=h1}}"
-    },
-    {
-      "line": 638,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:6 (0:2){{FN|5|gruppe=h1}}"
-    },
-    {
-      "line": 647,
-      "reason": "unparsed row",
-      "raw": "{{0|<sup>1</sup>}}0:4 (0:2){{FN|6|gruppe=h1}}"
-    },
     {
       "reason": "final template not parsed"
     }
