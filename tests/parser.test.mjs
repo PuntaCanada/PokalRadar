@@ -4,3 +4,5 @@ test('penalties separate',()=>{const s=score('5-3 pen. 3-3 a.e.t. (3-3, 1-2)');a
 test('unknown regulation score',()=>assert.equal(score('1-0 a.e.t. (0-0)').regular,null));
 test('awarded score is not played goals',()=>assert.equal(score('2-0 [awarded]').playedScore,null));
 test('neutral final and unknown venue',()=>{const [m]=parseCup('▪ Final\nSat May 24\n 20:00  Arminia Bielefeld  v VfB Stuttgart  2-4 (0-3)','2024-25');assert.equal(m.neutral,true);assert.equal(m.venue,null);assert.equal(m.winner,'VfB Stuttgart');});
+
+test('real numeric club name',()=>assert.deepEqual(splitMatch('15:30  Chemnitzer FC            2-3 pen. 2-2 a.e.t. (1-1, 0-0)  1899 Hoffenheim'),['Chemnitzer FC','1899 Hoffenheim','2-3 pen. 2-2 a.e.t. (1-1, 0-0)']));

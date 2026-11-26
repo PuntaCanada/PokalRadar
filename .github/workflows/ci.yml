@@ -16,3 +16,7 @@ jobs:
       - run: npm test
       - run: npm run build
       - run: node -e "const s=require('./public/data/seasons.json'); if(s.length!==7 || s.reduce((n,x)=>n+x.matches.length,0)!==441) process.exit(1)"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: validated-seasons
+          path: public/data/seasons.json

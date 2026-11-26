@@ -5,7 +5,7 @@ export function splitMatch(line){
  const l=line.trim().replace(/^\d{1,2}:\d{2}\s+/,'');
  const a=l.match(/^(.+?)\s+v\s+(.+?)\s{2,}(\d+-\d+.*)$/);
  if(a)return [a[1].trim(),a[2].trim(),a[3].trim()];
- const b=l.match(/^(.+?)\s{2,}(\d+-\d+.*?)\s{2,}([^\d].*|\d\..*)$/);
+ const b=l.match(/^(.+?)\s{2,}(\d+-\d+.*?)\s{2,}(.+)$/);
  if(b)return [b[1].trim(),b[3].replace(/\s*\[awarded\]$/,'').trim(),b[2]+(l.includes('[awarded]')?' [awarded]':'')];
  return null;
 }
