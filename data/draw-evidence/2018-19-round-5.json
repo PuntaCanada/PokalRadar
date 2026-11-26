@@ -1,0 +1,38 @@
+{
+  "season": "2018-19",
+  "round": 5,
+  "drawDate": "2019-04-07",
+  "mode": "one",
+  "matches": [
+    {
+      "matchId": "edc972ffabc19c24faea1684",
+      "home": "Hamburger SV",
+      "away": "RB Leipzig",
+      "homeTier": 2,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "Hamburger SV",
+      "venue": null,
+      "ruleSource": "https://www.fussball.de/newsdetail/die-wichtigsten-infos-zur-dfb-pokalauslosung/-/article-id/187879",
+      "pairingSource": "https://www.presseportal.de/pm/6694/4240751"
+    },
+    {
+      "matchId": "03d9757ff5192e36b44c4d64",
+      "home": "Werder Bremen",
+      "away": "Bayern München",
+      "homeTier": 1,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "Werder Bremen",
+      "venue": null,
+      "ruleSource": "https://www.fussball.de/newsdetail/die-wichtigsten-infos-zur-dfb-pokalauslosung/-/article-id/187879",
+      "pairingSource": "https://www.presseportal.de/pm/6694/4240751"
+    }
+  ]
+}
