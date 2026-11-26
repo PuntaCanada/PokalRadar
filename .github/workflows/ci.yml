@@ -7,7 +7,7 @@ permissions:
   contents: read
 jobs:
   validate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
         with:
@@ -19,6 +19,7 @@ jobs:
       - run: npm run build
       - run: git diff --exit-code -- public/data/seasons.json
       - run: node scripts/portal.mjs
+      - run: node tests/portal-links.mjs
       - run: npm install --no-save --no-package-lock playwright@1.56.1
       - run: npx playwright install --with-deps chromium
       - run: node tests/browser.mjs
@@ -27,9 +28,11 @@ jobs:
           name: generated-portal
           path: public
       - name: Check existing production independently
+        if: always()
         continue-on-error: true
         run: |
-          curl -fsSL --max-time 20 https://pokalradar.pages.dev/ -o /tmp/pokal-index
-          curl -fsSL --max-time 20 https://pokalradar.pages.dev/data/seasons.json -o /tmp/pokal-data
-          sha256sum /tmp/pokal-data public/data/seasons.json
-          cmp /tmp/pokal-data public/data/seasons.json
+          if curl -fsSL --max-time 20 https://pokalradar.pages.dev/ -o /tmp/pokal-index; then echo 'PRODUCTION HTML reachable'; else echo 'PRODUCTION HTML unverified'; fi
+          if curl -fsSL --max-time 20 https://pokalradar.pages.dev/data/seasons.json -o /tmp/pokal-data; then
+            sha256sum /tmp/pokal-data public/data/seasons.json
+            if cmp -s /tmp/pokal-data public/data/seasons.json; then echo 'PRODUCTION JSON MATCH'; else echo 'PRODUCTION JSON MISMATCH'; fi
+          else echo 'PRODUCTION JSON unverified'; fi
