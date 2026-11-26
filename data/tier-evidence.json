@@ -688,5 +688,23 @@
     "club": "1. FC Kaan-Marienborn",
     "tier": 4,
     "source": "https://footballsoccerapi.com/our-football-api-data/germany/regionalliga-west/2022"
+  },
+  {
+    "season": "2019-20",
+    "club": "KSV Baunatal",
+    "tier": 5,
+    "source": "https://www.transfermarkt.com/ksv-baunatal/platzierungen/verein/1315"
+  },
+  {
+    "season": "2021-22",
+    "club": "FC Carl Zeiss Jena",
+    "tier": 4,
+    "source": "https://www.nofv-online.de/index.php/aktuelles-leser/zulassung-und-staffeleinteilungen-saison-2021-22.html"
+  },
+  {
+    "season": "2021-22",
+    "club": "FC 08 Villingen",
+    "tier": 5,
+    "source": "https://www.suedkurier.de/ueberregional/sport/fc-08-villingen-infos-zur-mannschaft-gruendung-und-spielstaette%3Bart410965%2C11337483"
   }
 ]
