@@ -1,0 +1,101 @@
+{
+  "season": "1955-56",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266123857",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-e127c8baaf943f8c8e78be2a",
+      "round": "Ausscheidungsspiel",
+      "replay": false,
+      "date": "1956-04-29",
+      "time": null,
+      "home": "Spandauer SV",
+      "away": "FK Pirmasens",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-b4ee1f9bd1386383cd2214be",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1956-05-05",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-d4d72a97c2734d3c394ad900",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1956-05-06",
+      "time": null,
+      "home": "FK Pirmasens",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    }
+  ],
+  "issues": [
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

@@ -1,0 +1,1827 @@
+{
+  "season": "1999-00",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266487968",
+  "license": "CC-BY-SA-4.0",
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-d3abf4856b1c32aad9596464",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1999-07-31",
+      "time": null,
+      "home": "SC Verl",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (6:5 i. E.)",
+      "penalties": [
+        6,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Verl",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-20cf77dc8cfe55a38f524cca",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1999-07-31",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-9010181a723a2540a4974592",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1999-07-31",
+      "time": null,
+      "home": "VFC Plauen",
+      "away": "Alemannia Aachen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VFC Plauen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-735c4146b59fed022a01066d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1999-07-31",
+      "time": null,
+      "home": "VfL Hamm/Sieg",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-2cfda7ca21a96d6255ba0f87",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1999-07-31",
+      "time": null,
+      "home": "FC Singen 04",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Singen 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-7ae27a11b31a1703f62c365a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1999-07-31",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "Chemnitzer FC",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Chemnitzer FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-f7e7d069c6286e7b2cddb155",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1999-07-31",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Energie Cottbus",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-30bcccad284f507431b789b9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-01",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-98491d4f683aa5d5a97d0fdd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-01",
+      "time": null,
+      "home": "Wuppertaler SV",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-1f23e1ee1dea8a4afa1fe18f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-06",
+      "time": null,
+      "home": "VfL Halle 96",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-093a849ce542764d6a1a2d50",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-06",
+      "time": null,
+      "home": "1. SC Norderstedt",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-950e7bc1abbc087088c8ada9",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-06",
+      "time": null,
+      "home": "SSV Reutlingen 05",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-87628c995719a3751784ec74",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-06",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-2daab0057c0d04d393e078b6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-06",
+      "time": null,
+      "home": "KFC Uerdingen 05",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-df2a962b3d2fac93b3b08bde",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-06",
+      "time": null,
+      "home": "FC Gütersloh",
+      "away": "Energie Cottbus",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-86616f7982c26c5770e5c6b9",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "SV Babelsberg 03",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Babelsberg 03",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-779f67ed2af888e1f33249f6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "FK Pirmasens",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-44cdcfd2859d3deeff9f61ba",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "1. FC Pforzheim",
+      "away": "SC Freiburg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-abdb389c447b4612a4053850",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "BFC Dynamo",
+      "away": "Arminia Bielefeld",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-903f3d57d5f6abe8e1bd6930",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "SV Werder Bremen Amateure",
+      "away": "SC Fortuna Köln",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Werder Bremen Amateure",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-ed27e1d64b04be28489134ac",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        7
+      ],
+      "reportedScore": [
+        1,
+        7
+      ],
+      "raw": "1:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-7bbf759d67c984de9f8f66e4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "SV Meppen",
+      "away": "Kickers Offenbach",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Meppen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-8fbb755db091780143a320c0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "VFC Plauen",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-ab7767606e636cd2030c48ea",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "FC Schönberg 95",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-2c0b7f04e91207edff695efd",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "TuS 08 Langerwehe",
+      "away": "Chemnitzer FC",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Chemnitzer FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-c866194a1732734f39f6f039",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "FC Singen 04",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 64
+    },
+    {
+      "id": "hist-491dd1ba8536841b4b7f1904",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-07",
+      "time": null,
+      "home": "SpVgg Landshut",
+      "away": "Hansa Rostock",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 65
+    },
+    {
+      "id": "hist-ea437307fa6fd229dba36504",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-08",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "SSV Ulm 1846",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 66
+    },
+    {
+      "id": "hist-f9d4180d0da88471d9a2da4a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-08",
+      "time": null,
+      "home": "SC Verl",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-f78bbf84b15eb399f9058aad",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-08",
+      "time": null,
+      "home": "TSV 1860 Rosenheim",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-e41ecac1d95a02dd46fdda1d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-08",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-5dcbc4eb66758bdc9a1b1bad",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1999-08-09",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-b38ad427fe9555af6706bc29",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-12",
+      "time": null,
+      "home": "SV Babelsberg 03",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-183b3f5251a7a3b6ed1800f0",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-12",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 78
+    },
+    {
+      "id": "hist-291bc609a804ee616e07006f",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-12",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 79
+    },
+    {
+      "id": "hist-b2618f183d263f09b0895003",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-12",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Arminia Bielefeld",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 80
+    },
+    {
+      "id": "hist-51d260dc94760c0bb869dea8",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-12",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "SSV Ulm 1846",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 81
+    },
+    {
+      "id": "hist-8f9daa9f310b3089986838f8",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-12",
+      "time": null,
+      "home": "Spvgg Greuther Fürth",
+      "away": "Hansa Rostock",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 82
+    },
+    {
+      "id": "hist-a9bf67e8b381b94baf4c9f9a",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-12",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Borussia Dortmund",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 83
+    },
+    {
+      "id": "hist-2fdccf6bfe794f0328deea46",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-12",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 84
+    },
+    {
+      "id": "hist-ec6fe1018eef7f6154500692",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-13",
+      "time": null,
+      "home": "SV Werder Bremen Amateure",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 85
+    },
+    {
+      "id": "hist-e41fdc9420967e5320d46b38",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-13",
+      "time": null,
+      "home": "Chemnitzer FC",
+      "away": "VfL Wolfsburg",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 86
+    },
+    {
+      "id": "hist-4f5dcd02623c09379ea92616",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-13",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (6:5 i. E.)",
+      "penalties": [
+        6,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 87
+    },
+    {
+      "id": "hist-c172ac6af3457a907e660a45",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-13",
+      "time": null,
+      "home": "Energie Cottbus",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 88
+    },
+    {
+      "id": "hist-1dd599049e7746cf134679e9",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-13",
+      "time": null,
+      "home": "SV Meppen",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 89
+    },
+    {
+      "id": "hist-14d217ed7682538fd4becfa4",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-13",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "TSV München 1860",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 90
+    },
+    {
+      "id": "hist-2b68156a648af8e65a0459ef",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-13",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 91
+    },
+    {
+      "id": "hist-cc52bb41563cdf74e2c03248",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1999-10-13",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 92
+    },
+    {
+      "id": "hist-e7f14b4ff6f54435b23bc556",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1999-11-30",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Energie Cottbus",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 98
+    },
+    {
+      "id": "hist-3d516b720654ed3bf575f533",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1999-11-30",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Hansa Rostock",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 99
+    },
+    {
+      "id": "hist-34d8f88c33bc948a0d9bec05",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1999-11-30",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 100
+    },
+    {
+      "id": "hist-6b0dd258efc057e93f3cbf3c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1999-11-30",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "1. FC Köln",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 101
+    },
+    {
+      "id": "hist-2f14d2a6949eb1fecf4685a1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1999-12-01",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "SSV Ulm 1846",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 102
+    },
+    {
+      "id": "hist-6569d58aae1ca71d66ef5b3e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1999-12-01",
+      "time": null,
+      "home": "Waldhof Mannheim",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 103
+    },
+    {
+      "id": "hist-5f59def6f24a18da56a7070e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1999-12-01",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Arminia Bielefeld",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 104
+    },
+    {
+      "id": "hist-d15a44bad3480837b4f51022",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1999-12-01",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "VfL Wolfsburg",
+      "score": [
+        5,
+        4
+      ],
+      "reportedScore": [
+        5,
+        4
+      ],
+      "raw": "5:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 105
+    },
+    {
+      "id": "hist-ade56ed28edc89e4f901f5bf",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1999-12-21",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 111
+    },
+    {
+      "id": "hist-e6a09c8c4d27d956533cccfd",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1999-12-22",
+      "time": null,
+      "home": "Hansa Rostock",
+      "away": "VfB Stuttgart",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 112
+    },
+    {
+      "id": "hist-b91e63c6d9fdc7210086c23d",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1999-12-22",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 113
+    },
+    {
+      "id": "hist-b4a987469df98c5e79a51327",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1999-12-22",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 114
+    },
+    {
+      "id": "hist-7d3638c2d95a22d0ca32417c",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2000-02-15",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 120
+    },
+    {
+      "id": "hist-0e15b5ab79fa3783e207ab72",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2000-02-16",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Hansa Rostock",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 121
+    }
+  ],
+  "issues": [
+    {
+      "reason": "final template not parsed"
+    }
+  ]
+}

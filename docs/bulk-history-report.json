@@ -127,42 +127,94 @@
   },
   {
     "season": "1955-56",
-    "error": "Error: ENOENT: no such file or directory, open 'bulk-sources/1955-56.json'",
+    "revision": 266123857,
+    "count": 3,
+    "bye": 0,
+    "issues": [
+      {
+        "reason": "final template not parsed"
+      }
+    ],
     "complete": false
   },
   {
     "season": "1956-57",
-    "error": "Error: ENOENT: no such file or directory, open 'bulk-sources/1956-57.json'",
+    "revision": 266402058,
+    "count": 10,
+    "bye": 0,
+    "issues": [
+      {
+        "reason": "final section not detected"
+      }
+    ],
     "complete": false
   },
   {
     "season": "1957-58",
-    "error": "Error: ENOENT: no such file or directory, open 'bulk-sources/1957-58.json'",
+    "revision": 266123900,
+    "count": 4,
+    "bye": 0,
+    "issues": [
+      {
+        "reason": "final template not parsed"
+      }
+    ],
     "complete": false
   },
   {
     "season": "1958-59",
-    "error": "Error: ENOENT: no such file or directory, open 'bulk-sources/1958-59.json'",
+    "revision": 266123920,
+    "count": 3,
+    "bye": 0,
+    "issues": [
+      {
+        "reason": "final template not parsed"
+      }
+    ],
     "complete": false
   },
   {
     "season": "1959-60",
-    "error": "Error: ENOENT: no such file or directory, open 'bulk-sources/1959-60.json'",
+    "revision": 266123953,
+    "count": 4,
+    "bye": 0,
+    "issues": [
+      {
+        "reason": "final template not parsed"
+      }
+    ],
     "complete": false
   },
   {
     "season": "1960-61",
-    "error": "Error: ENOENT: no such file or directory, open 'bulk-sources/1960-61.json'",
+    "revision": 267754441,
+    "count": 14,
+    "bye": 0,
+    "issues": [
+      {
+        "reason": "final template not parsed"
+      }
+    ],
     "complete": false
   },
   {
     "season": "1961-62",
-    "error": "Error: ENOENT: no such file or directory, open 'bulk-sources/1961-62.json'",
+    "revision": 265846553,
+    "count": 15,
+    "bye": 0,
+    "issues": [
+      {
+        "reason": "final template not parsed"
+      }
+    ],
     "complete": false
   },
   {
     "season": "1962-63",
-    "error": "Error: ENOENT: no such file or directory, open 'bulk-sources/1962-63.json'",
+    "revision": 265846567,
+    "count": 16,
+    "bye": 0,
+    "issues": [],
     "complete": false
   },
   {
@@ -588,7 +640,14 @@
   },
   {
     "season": "1999-00",
-    "error": "Error: ENOENT: no such file or directory, open 'bulk-sources/1999-00.json'",
+    "revision": 266487968,
+    "count": 62,
+    "bye": 0,
+    "issues": [
+      {
+        "reason": "final template not parsed"
+      }
+    ],
     "complete": false
   },
   {
