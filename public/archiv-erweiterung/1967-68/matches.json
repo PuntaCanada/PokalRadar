@@ -1,0 +1,968 @@
+{
+  "season": "1967-68",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265846678",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-b72b37463b05f7921844bdc2",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "Borussia Neunkirchen (I)",
+      "away": "Eintracht Braunschweig (I)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 22
+    },
+    {
+      "id": "hist-64abff3099227b28dded6fa4",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "Bayer 04 Leverkusen (II)",
+      "away": "1. FC Nürnberg (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 23
+    },
+    {
+      "id": "hist-c98a45a3b366387d95b5f973",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "SV Röchling Völklingen (II)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Röchling Völklingen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 24
+    },
+    {
+      "id": "hist-cdf8d14e4d1b38244e251b2d",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "Hertha BSC (II)",
+      "away": "Hamburger SV (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 25
+    },
+    {
+      "id": "hist-4bc3b0767b13a407c7c3d687",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "VfL Bochum (II)",
+      "away": "Karlsruher SC (I)",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-b5ce48c437649f5772ca96da",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "FC 08 Homburg (II)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-c571c31fb0fe65e260c00ca9",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "Arminia Bielefeld (II)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-8c1f9c81dd869aadd4d25ae9",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "FC Bayern Hof (II)",
+      "away": "Borussia M’gladbach (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia M’gladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-17c0e31b00de6cbca547a8e7",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "1. FC Schweinfurt 05 (II)",
+      "away": "Eintracht Frankfurt (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-08b4c4bb8504e236de1548f3",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "VfB Lübeck (II)",
+      "away": "TSV 1860 München (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-f286d1c4ca7cd0fb619c9a92",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "Preußen Münster (II)",
+      "away": "Alemannia Aachen (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Preußen Münster (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-fe042c3a38b06e91ddc547eb",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "1. FC Kaiserslautern (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-56fa7600b29fd2174edd36c2",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "MSV Duisburg (I)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-061ccb396d4ba7419d34ecfa",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-27",
+      "time": null,
+      "home": "SSV Jahn Regensburg (II)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-a8e8419d98d63c3671c5b7bd",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-01-28",
+      "time": null,
+      "home": "VfB Oldenburg (II)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-08dcf05a938f6f8eb8661d16",
+      "round": "1. Runde",
+      "replay": false,
+      "date": "1968-02-07",
+      "time": null,
+      "home": "SSV Reutlingen 05 (II)",
+      "away": "Itzehoer SV (II)",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Reutlingen 05 (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-dc4106f609c65eafea72884b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1968-02-22",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "MSV Duisburg (I)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-fb4ec425b6cd57d70f7ca9a4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1968-02-24",
+      "time": null,
+      "home": "VfL Bochum (II)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-c2773a5079e91980a7e6788b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1968-02-24",
+      "time": null,
+      "home": "SSV Reutlingen 05 (II)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 45
+    },
+    {
+      "id": "hist-d40855e2b1cbd13ef25724bc",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1968-02-24",
+      "time": null,
+      "home": "FC Schalke 04 (I)",
+      "away": "Eintracht Braunschweig (I)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-a9aa3b48a7635731c7510d6e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1968-02-24",
+      "time": null,
+      "home": "1. FC Nürnberg (I)",
+      "away": "Preußen Münster (II)",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-56b456aea1f308cf0989b40e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1968-02-24",
+      "time": null,
+      "home": "Hertha BSC (II)",
+      "away": "SV Röchling Völklingen (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-d164d21b8d2525a34c56d32d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1968-02-24",
+      "time": null,
+      "home": "TSV 1860 München (I)",
+      "away": "Borussia M’gladbach (I)",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia M’gladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-694b91bec8937687ab1cd022",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1968-03-12",
+      "time": null,
+      "home": "1. FC Köln (I)",
+      "away": "Eintracht Frankfurt (I)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-6c6178484a1d6c92848a7570",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1968-03-19",
+      "time": null,
+      "home": "Eintracht Frankfurt (I)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-682b24929111ea3a934d3c1a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1968-04-10",
+      "time": null,
+      "home": "Borussia Dortmund (I)",
+      "away": "Hertha BSC (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-3b9edf5d62aede08ce3514ef",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1968-04-10",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "1. FC Nürnberg (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-c02c554e840f5b4334189482",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1968-04-11",
+      "time": null,
+      "home": "VfL Bochum (II)",
+      "away": "Borussia M’gladbach (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-2a598f2122250895991af4eb",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1968-04-11",
+      "time": null,
+      "home": "Eintracht Braunschweig (I)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 64
+    },
+    {
+      "id": "hist-7521aa987de3166570bf8697",
+      "round": "Viertelfinale",
+      "replay": true,
+      "date": "1968-04-23",
+      "time": null,
+      "home": "1. FC Köln (I)",
+      "away": "Eintracht Braunschweig (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-dda3e224d15d51ac2f88ae04",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1968-05-03",
+      "time": null,
+      "home": "1. FC Köln (I)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-b666d9a47e8d29e80e8c20ac",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1968-05-15",
+      "time": null,
+      "home": "VfL Bochum (II)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-814cea5a15e164dd86c845b7",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 142
+    }
+  ],
+  "issues": []
+}

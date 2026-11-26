@@ -1,0 +1,1856 @@
+{
+  "season": "2006-07",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270514216",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-f5bfd78ba9c84a1456657c97",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-08",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 596
+    },
+    {
+      "id": "hist-fa5ecd979c58eb6579318dc7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-08",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 597
+    },
+    {
+      "id": "hist-719bf78900f1a43b4cd4bbfa",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "Westfalia Herne",
+      "away": "FC Erzgebirge Aue",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Erzgebirge Aue",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 598
+    },
+    {
+      "id": "hist-7e0023af7f03c9f4f90af8c1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "1. FC Magdeburg",
+      "away": "SC Paderborn 07",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:0) (6:7 i. E.)",
+      "penalties": [
+        6,
+        7
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Paderborn 07",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 599
+    },
+    {
+      "id": "hist-b5e20370fe4c695f4bff0d53",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "SpVgg Bayreuth",
+      "away": "Kickers Offenbach",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 600
+    },
+    {
+      "id": "hist-2b03d60415a86be6f322f87c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 601
+    },
+    {
+      "id": "hist-feab3b6c3eaa5a9386404f17",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "Dynamo Dresden",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 602
+    },
+    {
+      "id": "hist-0e13113bda67a305b93d414a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "Delbrücker SC",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 603
+    },
+    {
+      "id": "hist-b0a955416679f941ec44d61b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "Hansa Rostock II",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        9
+      ],
+      "reportedScore": [
+        1,
+        9
+      ],
+      "raw": "1:9 (0:5)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 604
+    },
+    {
+      "id": "hist-a3212de196e2e1310649733b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "TSG Thannhausen",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 605
+    },
+    {
+      "id": "hist-b61d18369685d6e2f2fa5544",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "FK Pirmasens",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:0) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 606
+    },
+    {
+      "id": "hist-629654eea27f1cfb3b3f21ab",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "BV Cloppenburg",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 607
+    },
+    {
+      "id": "hist-dfc637116ce0cdbaaddc3252",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "1. FC Gera 03",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 608
+    },
+    {
+      "id": "hist-d6b0e5d6c22c5ef791dbf4f1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Energie Cottbus",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 609
+    },
+    {
+      "id": "hist-29bf348f8204d4579243cfa1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Hamburger SV",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 n. V. (3:3, 2:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 610
+    },
+    {
+      "id": "hist-276bcdce25486c87dda3371b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "TuS Koblenz",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (1:1, 0:0) (1:3 i. E.)",
+      "penalties": [
+        1,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 611
+    },
+    {
+      "id": "hist-a75a08e3975fc2b09f3719d5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "Wacker Burghausen",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V. (3:3, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Wacker Burghausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 612
+    },
+    {
+      "id": "hist-328a67f54571b590a066b889",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "Alemannia Aachen II",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 613
+    },
+    {
+      "id": "hist-ee5623a4a4c46f6a8405f8c5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "Sportfreunde Siegen",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 614
+    },
+    {
+      "id": "hist-db58e8ff546534adb799d94d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 615
+    },
+    {
+      "id": "hist-9f652b2c84d91b5159c34e23",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-09",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 616
+    },
+    {
+      "id": "hist-d43ca6020bf29a4cd36fc751",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "SSVg Velbert",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 617
+    },
+    {
+      "id": "hist-e8804a240397334a0b7fff6b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "SV Roßbach/Wied",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 618
+    },
+    {
+      "id": "hist-c53b9ae88482a1ca6dc42c59",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "Rot Weiss Ahlen",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 619
+    },
+    {
+      "id": "hist-385bdf9397bf684bd19613ab",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "SV Babelsberg 03",
+      "away": "Hansa Rostock",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Babelsberg 03",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 620
+    },
+    {
+      "id": "hist-d66d9c2fdde96d86c62df93d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 621
+    },
+    {
+      "id": "hist-5f822d93d806e5448b254eaf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Lübeck",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 622
+    },
+    {
+      "id": "hist-4d13e437b77871fb8d26951b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "FC Bremerhaven",
+      "away": "VfL Wolfsburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 623
+    },
+    {
+      "id": "hist-755648e3be2077076f03c459",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 624
+    },
+    {
+      "id": "hist-c7809ffbb6c24793b1e70754",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "Chemnitzer FC",
+      "away": "Alemannia Aachen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 625
+    },
+    {
+      "id": "hist-c723963f3207155fa2ad6183",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 626
+    },
+    {
+      "id": "hist-7dd0fe02c06bb838bdc8774b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2006-09-10",
+      "time": null,
+      "home": "SC Pfullendorf",
+      "away": "Arminia Bielefeld",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Pfullendorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 627
+    },
+    {
+      "id": "hist-11780214898ede4f1af9937a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-24",
+      "time": null,
+      "home": "SV Babelsberg 03",
+      "away": "VfB Stuttgart",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 633
+    },
+    {
+      "id": "hist-fe2abc16aaa9c220378bc2e8",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-24",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 634
+    },
+    {
+      "id": "hist-e327f6bd58df8abb0078c4c0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-24",
+      "time": null,
+      "home": "FK Pirmasens",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 635
+    },
+    {
+      "id": "hist-346e346d0b030c41827fb03c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-24",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "Wacker Burghausen",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Wacker Burghausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 636
+    },
+    {
+      "id": "hist-685c7f19f3951217174074e0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-24",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 637
+    },
+    {
+      "id": "hist-53f69247daf4bbaa1b077f11",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-24",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 638
+    },
+    {
+      "id": "hist-a98ef0eb312b884a3f6447a9",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-24",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 639
+    },
+    {
+      "id": "hist-b55d7f007a11c43ca6aa8dce",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-24",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "FC Schalke 04",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V. (2:2, 2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 640
+    },
+    {
+      "id": "hist-57c61e72a8f39d05cd78dcd8",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-25",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "FC Erzgebirge Aue",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V. (2:2, 2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 641
+    },
+    {
+      "id": "hist-8e7214e5ba26aa1eafe5ef4d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-25",
+      "time": null,
+      "home": "SC Pfullendorf",
+      "away": "Kickers Offenbach",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 642
+    },
+    {
+      "id": "hist-3cbc860506aa84ba25e55237",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-25",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 643
+    },
+    {
+      "id": "hist-aaaa90d0c8faad52dc8f2aa7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-25",
+      "time": null,
+      "home": "SC Paderborn 07",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 644
+    },
+    {
+      "id": "hist-9d2aab0f8eb1363bd014c0c5",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-25",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 645
+    },
+    {
+      "id": "hist-6c44f6e1201e199374c26eff",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-25",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V. (2:2, 2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 646
+    },
+    {
+      "id": "hist-fc367bc9dc6088baf10e313a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-25",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 647
+    },
+    {
+      "id": "hist-c7bce9a686258fced3ec0729",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2006-10-25",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 648
+    },
+    {
+      "id": "hist-a89d9bdc903a41c6776082a0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2006-12-19",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 655
+    },
+    {
+      "id": "hist-bf662f31bed084554c736f5a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2006-12-19",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 656
+    },
+    {
+      "id": "hist-73c801de5dc9a732a5cbbe74",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2006-12-19",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 657
+    },
+    {
+      "id": "hist-fe71fcf3068ecd242413cf7c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2006-12-19",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (2:1 i. E.)",
+      "penalties": [
+        2,
+        1
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 658
+    },
+    {
+      "id": "hist-63d17130bdbcb1fca5c40448",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2006-12-20",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Wacker Burghausen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 659
+    },
+    {
+      "id": "hist-cf54a84b0a4a0acbb7e72027",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2006-12-20",
+      "time": null,
+      "home": "SpVgg Greuther Fürth",
+      "away": "VfL Wolfsburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 660
+    },
+    {
+      "id": "hist-1dcce51d21ac881b2cc48dee",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2006-12-20",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 661
+    },
+    {
+      "id": "hist-ffc87ef9aa41fbc1d5e5c70f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2006-12-20",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "FC Bayern München",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 662
+    },
+    {
+      "id": "hist-e50e05cd2f21943200fb5966",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2007-02-27",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 668
+    },
+    {
+      "id": "hist-491317ae5f91bfdfce21d69d",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2007-02-27",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "Alemannia Aachen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 669
+    },
+    {
+      "id": "hist-d7a148b7185ae6bdcfee406f",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2007-02-27",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 670
+    },
+    {
+      "id": "hist-01347aa3a91ab7682ee84c9b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2007-02-28",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 671
+    },
+    {
+      "id": "hist-b6daa70b30c7b7979639f0f0",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2007-04-17",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 677
+    },
+    {
+      "id": "hist-60ab715a89e37537aa267bb5",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2007-04-18",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 678
+    },
+    {
+      "id": "hist-e9d0b6ad2419d123fb1819cb",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 776
+    }
+  ],
+  "issues": []
+}

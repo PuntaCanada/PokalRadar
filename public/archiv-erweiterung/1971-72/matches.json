@@ -1,0 +1,1780 @@
+{
+  "season": "1971-72",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266792022",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-c60de89caf7c6c407d4a7e59",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-254cc78d76d0c80ad87a2ede",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "FC St. Pauli",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-b80a9253eb0d24765870bb90",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-3b606c08c32e82fed248602e",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-f60850f262d7ce96099468cd",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Alsenborn",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-9cde970922ab6e34d9abe83b",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "SV Alsenborn",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-abcec6a86f15cad0c9d8a1e7",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SC Tasmania 1900 Berlin",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-a1337e2f6b874911aa9db57a",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "SC Tasmania 1900 Berlin",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-8d18b6100477eae81f661c82",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfR Heilbronn",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-b7432aa29bd8aea71d797656",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "VfR Heilbronn",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-00a490a8a63e52cc7a52b3ee",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-401796d69abe511f275714af",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Kickers Offenbach",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-5a8de55907c2115f53a9f409",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Hertha BSC",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-5dea2bc5e799856034bc269d",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-db08c3fdbc00f9b334655295",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-8edeb066784b8199eab40932",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Freiburger FC",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-60e940f6603523c617328ce2",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Essener FV 1912",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        9
+      ],
+      "reportedScore": [
+        1,
+        9
+      ],
+      "raw": "1:9",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-96a2f4832faa85f2788f7a90",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Essener FV 1912",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-e1f4a1ab068713ed57528b13",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Wuppertaler SV",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wuppertaler SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-f1b5df65dc17fc331c8343c0",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Wuppertaler SV",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-c11e41e8f2d81c35cb7bfcab",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Fortuna Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-fe94a5a8ca956e20d099365c",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "SC Fortuna Köln",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-b9e7b66f92ef46d18c5334e4",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-162075396cf1d0c750c664e2",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Arminia Bielefeld",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-a5a96557cd17c037e8bacfc5",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SpVgg Bad Pyrmont",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-4fc23ec2e409ca9070e5a3d9",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "SpVgg Bad Pyrmont",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-3226f0ded8e2419001b8fff0",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-bfcb9dca6807079e85c66f0a",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-547847aa655a931326e45e73",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Schweinfurt 05",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Schweinfurt 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-efd68127f2072c671eb63276",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "1. FC Schweinfurt 05",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-fa023886818eb06fcff3d75a",
+      "round": "1. Hauptrunde – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Hannover 96",
+      "score": [
+        5,
+        4
+      ],
+      "reportedScore": [
+        5,
+        4
+      ],
+      "raw": "5:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-1b94935cdd1ccec036aa7e7a",
+      "round": "1. Hauptrunde – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Holstein Kiel",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-fcfb62a94df6dcf74608f55a",
+      "round": "Achtelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-b641a12fbcbf9238da0da0dd",
+      "round": "Achtelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-4c17859827867e0c32da675b",
+      "round": "Achtelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hannover 96",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-0e954695bdc1969c8e18ad56",
+      "round": "Achtelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-bb185afce6bf232e26dd0447",
+      "round": "Achtelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Hamburger SV",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-8e4045f37e2f348849839302",
+      "round": "Achtelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-a4b165103cd9b39649530d81",
+      "round": "Achtelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-eceed4643a75688ccbb7d511",
+      "round": "Achtelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-3c0efb92fe2faeab91c0e29f",
+      "round": "Achtelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-f05009027614b41088ebe449",
+      "round": "Achtelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-c78ac69cf2cb6e33f237070d",
+      "round": "Achtelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-933f805b43fabbed3c5b40b6",
+      "round": "Achtelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-46fee50ebee648aa5e421478",
+      "round": "Achtelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-c74ad7e62d69f6c3cf45e4cc",
+      "round": "Achtelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Kickers Offenbach",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-9b7a4a0b49a6f04a47e8e3f4",
+      "round": "Achtelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-66f40b5bbe34725745a241b7",
+      "round": "Achtelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-4d8a8a384329fdc30b239017",
+      "round": "Viertelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-184870210fdc7ebb261f5eac",
+      "round": "Viertelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-b2c8682f47539b9ebc6fa1a5",
+      "round": "Viertelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "1. FC K'lautern",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-b23051e6bdacd69b77304555",
+      "round": "Viertelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC K'lautern",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC K'lautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-832180054c12a8c67a627147",
+      "round": "Viertelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-5eae2e2571b07996fae5e111",
+      "round": "Viertelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-4b20de28fbb68e6ae46471d8",
+      "round": "Viertelfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-d8d112d911ef921939c25ed3",
+      "round": "Viertelfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "FC Bayern München",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-5f8db631b509d57ccbcd6faa",
+      "round": "Halbfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-cb640d6471500499afb60dfe",
+      "round": "Halbfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-a9c2ceb06e034dfda7da9c9b",
+      "round": "Halbfinale – Hinspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "FC Schalke 04",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-f15caf891fca89561d53189b",
+      "round": "Halbfinale – Rückspiel",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "1. FC Köln",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-438ebd251c6ac799d73deac6",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 148
+    }
+  ],
+  "issues": []
+}

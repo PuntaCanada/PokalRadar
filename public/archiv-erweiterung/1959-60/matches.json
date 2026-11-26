@@ -1,0 +1,156 @@
+{
+  "season": "1959-60",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266123953",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-c4a0727933742a8ac9b8c202",
+      "round": "Ausscheidungsspiel",
+      "replay": false,
+      "date": "1960-08-06",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "FK Pirmasens",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 22
+    },
+    {
+      "id": "hist-9ad91654d071331ebe1af6a4",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1960-09-07",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Borussia M. Gladbach",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia M. Gladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-08234e2635ed95c56eea8695",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1960-09-07",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "FK Pirmasens",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-543de04741e8a17f5f05061e",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1960-09-21",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "FK Pirmasens",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-5ab1f50782630620e41f3ae2",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 108
+    }
+  ],
+  "issues": []
+}

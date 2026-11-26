@@ -1,0 +1,1856 @@
+{
+  "season": "2010-11",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270511315",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-dd89c2630d306d07d3c698d3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-13",
+      "time": null,
+      "home": "SV Wilhelmshaven (IV)",
+      "away": "Eintracht Frankfurt (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 673
+    },
+    {
+      "id": "hist-1ade761a9c89fe485b99d966",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-13",
+      "time": null,
+      "home": "FC Ingolstadt 04 (II)",
+      "away": "Karlsruher SC (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Ingolstadt 04 (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 674
+    },
+    {
+      "id": "hist-63dc44959cb3a28fd3bfc750",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-13",
+      "time": null,
+      "home": "VfB Lübeck (IV)",
+      "away": "MSV Duisburg (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 675
+    },
+    {
+      "id": "hist-399d36a3c5a50e7c091d1329",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-13",
+      "time": null,
+      "home": "FSV Frankfurt (II)",
+      "away": "SC Paderborn 07 (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 676
+    },
+    {
+      "id": "hist-945ec4d78d601973c5885e1f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-13",
+      "time": null,
+      "home": "VfL Osnabrück (II)",
+      "away": "1. FC Kaiserslautern (I)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (1:1, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 677
+    },
+    {
+      "id": "hist-d26018d49d8a86a6dca47a37",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-13",
+      "time": null,
+      "home": "SSV Jahn Regensburg (III)",
+      "away": "Arminia Bielefeld (II)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:1) (5:6 i. E.)",
+      "penalties": [
+        5,
+        6
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Arminia Bielefeld (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 678
+    },
+    {
+      "id": "hist-90efbdbff2786f3ce8d7a7fa",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "FK Pirmasens (V)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        1,
+        11
+      ],
+      "reportedScore": [
+        1,
+        11
+      ],
+      "raw": "1:11 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 679
+    },
+    {
+      "id": "hist-d77467e06627d110d966bf75",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "Wacker Burghausen (III)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 680
+    },
+    {
+      "id": "hist-0a8ee3dcdab984c294e0f544",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "SV Babelsberg 03 (III)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 681
+    },
+    {
+      "id": "hist-83754a608625263589363141",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "FC Oberneuland (IV)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 682
+    },
+    {
+      "id": "hist-9ebe8e7a7214b7a4ec791e50",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "SC Pfullendorf (IV)",
+      "away": "Hertha BSC (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 683
+    },
+    {
+      "id": "hist-fe251a820ed77972cbbcc015",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "Rot Weiss Ahlen (III)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 684
+    },
+    {
+      "id": "hist-a1f809f57f554b7ec805ccfd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "SC Verl (III)",
+      "away": "TSV 1860 München (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 685
+    },
+    {
+      "id": "hist-0f78f669bf09b1f9c059a424",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "Hansa Rostock (III)",
+      "away": "TSG 1899 Hoffenheim (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 686
+    },
+    {
+      "id": "hist-3d70d1abbf1f31588f84fc1e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "Chemnitzer FC (IV)",
+      "away": "FC St. Pauli (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Chemnitzer FC (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 687
+    },
+    {
+      "id": "hist-5cb289d3feedfe0233a5f6fc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "SV Sandhausen (III)",
+      "away": "FC Augsburg (II)",
+      "score": [
+        4,
+        4
+      ],
+      "reportedScore": [
+        4,
+        4
+      ],
+      "raw": "4:4 n. V. (3:3, 2:1) (1:3 i. E.)",
+      "penalties": [
+        1,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Augsburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 688
+    },
+    {
+      "id": "hist-463396254569dace6954c709",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "SV 07 Elversberg (IV)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV 07 Elversberg (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 689
+    },
+    {
+      "id": "hist-a68fb81f8900423e6fb8ae07",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "Eintracht Braunschweig (III)",
+      "away": "SpVgg Greuther Fürth (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 690
+    },
+    {
+      "id": "hist-5a3f16ff6366057570a47280",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-14",
+      "time": null,
+      "home": "FC Erzgebirge Aue (II)",
+      "away": "Borussia Mönchengladbach (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 691
+    },
+    {
+      "id": "hist-c180a9e6d6cb6177accf2ede",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "Schwarz-Weiß Essen (V)",
+      "away": "Alemannia Aachen (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 692
+    },
+    {
+      "id": "hist-ab7f5d7cbb919c167ea41733",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "TuS Koblenz (III)",
+      "away": "Fortuna Düsseldorf (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Koblenz (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 693
+    },
+    {
+      "id": "hist-45a361ccaf1a4655d6f4eb41",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "SC Victoria Hamburg (V)",
+      "away": "Rot-Weiß Oberhausen (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Victoria Hamburg (V)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 694
+    },
+    {
+      "id": "hist-a5b170918bbfe81d98d3e031",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "ZFC Meuselwitz (IV)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 695
+    },
+    {
+      "id": "hist-b3765832aff0ffb3c5261606",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "TuS Heeslingen (V)",
+      "away": "Energie Cottbus (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 696
+    },
+    {
+      "id": "hist-57bd5ea045337e0c793f2d76",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "Eintracht Trier (IV)",
+      "away": "1. FC Nürnberg (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 697
+    },
+    {
+      "id": "hist-73bbd43f79ad10c1473e0e24",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "Berlin Ankaraspor (V)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 698
+    },
+    {
+      "id": "hist-92079b9160b33d5225059df3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "Hallescher FC (IV)",
+      "away": "1. FC Union Berlin (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hallescher FC (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 699
+    },
+    {
+      "id": "hist-3fb5d8e2c385bc7a4ce4a4ac",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "Torgelower SV Greif (V)",
+      "away": "Hamburger SV (I)",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 700
+    },
+    {
+      "id": "hist-2a03715c8398c494193ba997",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "Preußen Münster (IV)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 701
+    },
+    {
+      "id": "hist-2140764ef493215bd7d8c5ec",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-15",
+      "time": null,
+      "home": "Kickers Offenbach (III)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 702
+    },
+    {
+      "id": "hist-9b75baea8be9d3169ec77811",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-16",
+      "time": null,
+      "home": "TSV Germania Windeck (V)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 703
+    },
+    {
+      "id": "hist-d63b110b2815100289859fce",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2010-08-16",
+      "time": null,
+      "home": "VfR Aalen (III)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 704
+    },
+    {
+      "id": "hist-a41626732aa608129d7bb982",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-26",
+      "time": null,
+      "home": "TuS Koblenz (III)",
+      "away": "Hertha BSC (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Koblenz (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 716
+    },
+    {
+      "id": "hist-dc37a20bd16e4a3af9a2c6b7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-26",
+      "time": null,
+      "home": "SC Victoria Hamburg (V)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 717
+    },
+    {
+      "id": "hist-b2ccb60803e7057170cc3fc0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-26",
+      "time": null,
+      "home": "1. FC Köln (I)",
+      "away": "TSV 1860 München (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 718
+    },
+    {
+      "id": "hist-6591c6496c2a46e48d9c4267",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-26",
+      "time": null,
+      "home": "SpVgg Greuther Fürth (II)",
+      "away": "FC Augsburg (II)",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 n. V. (1:1, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Augsburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 719
+    },
+    {
+      "id": "hist-84e18771ec747e70f233281a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-26",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 720
+    },
+    {
+      "id": "hist-f353677aa2218a12d4192892",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-26",
+      "time": null,
+      "home": "Energie Cottbus (II)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 721
+    },
+    {
+      "id": "hist-bc8349d8459d1df62c7c379d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-26",
+      "time": null,
+      "home": "FSV Frankfurt (II)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 722
+    },
+    {
+      "id": "hist-78cfa3e24d495da1f57a0dbe",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-26",
+      "time": null,
+      "home": "1. FC Kaiserslautern (I)",
+      "away": "Arminia Bielefeld (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 723
+    },
+    {
+      "id": "hist-b54d6c8584732bce12ff01a0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-27",
+      "time": null,
+      "home": "Hallescher FC (IV)",
+      "away": "MSV Duisburg (II)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 724
+    },
+    {
+      "id": "hist-6cd6b8a95c79fcc077232ca1",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-27",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim (I)",
+      "away": "FC Ingolstadt 04 (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 725
+    },
+    {
+      "id": "hist-faaf950ba9431753bdc35f31",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-27",
+      "time": null,
+      "home": "Alemannia Aachen (II)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 726
+    },
+    {
+      "id": "hist-7ddd5790a57b4174dafc4196",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-27",
+      "time": null,
+      "home": "Eintracht Frankfurt (I)",
+      "away": "Hamburger SV (I)",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2 (3:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 727
+    },
+    {
+      "id": "hist-036f39f701bd33ccd2d5fb8d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-27",
+      "time": null,
+      "home": "Kickers Offenbach (III)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Kickers Offenbach (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 728
+    },
+    {
+      "id": "hist-752f23801c4f2e48dcaca7aa",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-27",
+      "time": null,
+      "home": "Chemnitzer FC (IV)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 729
+    },
+    {
+      "id": "hist-c798b8090d0c08ed18ef14f2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-27",
+      "time": null,
+      "home": "Borussia Mönchengladbach (I)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (0:0) (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 730
+    },
+    {
+      "id": "hist-34008338d72fae034b589b19",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2010-10-27",
+      "time": null,
+      "home": "SV 07 Elversberg (IV)",
+      "away": "1. FC Nürnberg (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 731
+    },
+    {
+      "id": "hist-4a03316c0cb661728170e46d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2010-12-21",
+      "time": null,
+      "home": "FC Augsburg (II)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 742
+    },
+    {
+      "id": "hist-218513b605e876b9fbef8b02",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2010-12-21",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim (I)",
+      "away": "Borussia Mönchengladbach (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 743
+    },
+    {
+      "id": "hist-e85a2549c8f1704517617e0b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2010-12-22",
+      "time": null,
+      "home": "VfL Wolfsburg (I)",
+      "away": "Energie Cottbus (II)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 744
+    },
+    {
+      "id": "hist-500517c1962b30e101015f1f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2010-12-22",
+      "time": null,
+      "home": "1. FC Köln (I)",
+      "away": "MSV Duisburg (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 745
+    },
+    {
+      "id": "hist-db32ee3cab05f5e6f2cc176e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2010-12-22",
+      "time": null,
+      "home": "Alemannia Aachen (II)",
+      "away": "Eintracht Frankfurt (I)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (0:0) (5:3 i. E.)",
+      "penalties": [
+        5,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Alemannia Aachen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 746
+    },
+    {
+      "id": "hist-93d07f56a959246c722f3122",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2010-12-22",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        3,
+        6
+      ],
+      "reportedScore": [
+        3,
+        6
+      ],
+      "raw": "3:6 (2:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 747
+    },
+    {
+      "id": "hist-53148ed2cf4417ef07f4f189",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2011-01-19",
+      "time": null,
+      "home": "Kickers Offenbach (III)",
+      "away": "1. FC Nürnberg (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 748
+    },
+    {
+      "id": "hist-da7fc234944dab42e0752928",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2011-01-19",
+      "time": null,
+      "home": "TuS Koblenz (III)",
+      "away": "1. FC Kaiserslautern (I)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 749
+    },
+    {
+      "id": "hist-3131cefd2289d57c882d1e4b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2011-01-25",
+      "time": null,
+      "home": "FC Schalke 04 (I)",
+      "away": "1. FC Nürnberg (I)",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V. (2:2, 1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 758
+    },
+    {
+      "id": "hist-e821e7f8b2c8f7151de62d9b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2011-01-26",
+      "time": null,
+      "home": "Energie Cottbus (II)",
+      "away": "TSG 1899 Hoffenheim (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 759
+    },
+    {
+      "id": "hist-cb90b9918546dd6295811346",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2011-01-26",
+      "time": null,
+      "home": "MSV Duisburg (II)",
+      "away": "1. FC Kaiserslautern (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 760
+    },
+    {
+      "id": "hist-5d7624c2a5b415cb3a5a04b2",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2011-01-26",
+      "time": null,
+      "home": "Alemannia Aachen (II)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 761
+    },
+    {
+      "id": "hist-b3e56ccb44c160a900babc4e",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2011-03-01",
+      "time": null,
+      "home": "MSV Duisburg (II)",
+      "away": "Energie Cottbus (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 770
+    },
+    {
+      "id": "hist-2edde184e63f5bf82a07f1ad",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2011-03-02",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 771
+    },
+    {
+      "id": "hist-b9696a1b67087bd1a653d920",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "MSV Duisburg (II)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 885
+    }
+  ],
+  "issues": []
+}

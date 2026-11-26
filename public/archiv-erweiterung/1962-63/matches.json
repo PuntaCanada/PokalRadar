@@ -1,0 +1,475 @@
+{
+  "season": "1962-63",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265846567",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-7f870b2b4d15be0ec7d6e1d6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1963-06-09",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "Wuppertaler SV",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 22
+    },
+    {
+      "id": "hist-1ca82d18139e7fcccc9c301b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1963-06-23",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "VfL Wolfsburg",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 23
+    },
+    {
+      "id": "hist-f58e3accdf5b541170dbb404",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1963-06-28",
+      "time": null,
+      "home": "SC Concordia Hamburg",
+      "away": "SC Tasmania 1900 Berlin",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Tasmania 1900 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 24
+    },
+    {
+      "id": "hist-9418e07db6c790579faf64db",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1963-06-30",
+      "time": null,
+      "home": "FC Bayern Hof",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 25
+    },
+    {
+      "id": "hist-834a2de5468dcf30ba7c00b1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1963-06-30",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "VfB Lohberg",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-7ca5959f9ff2c1d27f07719f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1963-07-27",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-a3ffeb017aee83226143b0c4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1963-07-27",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Sportfreunde 05 Saarbrücken",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-6b3f142c0b7a7ab0a5a2326e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1963-07-28",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-15c79f36c6c5f19f26b99844",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1963-07-27",
+      "time": null,
+      "home": "Wuppertaler SV",
+      "away": "KSV Hessen Kassel",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wuppertaler SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-1efdf59f703f09be688e7cb3",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1963-07-31",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "1860 München",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-617c4eb9210d1e75f453ffde",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1963-07-31",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-a6d3e0e24ef682715e5f999b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1963-07-31",
+      "time": null,
+      "home": "Wuppertaler SV",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wuppertaler SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 42
+    },
+    {
+      "id": "hist-5c4cda332e1c29dcdae1282e",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1963-07-31",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Tasmania 1900 Berlin",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-8e617ab5ccc288427e94eaa4",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1963-08-07",
+      "time": null,
+      "home": "Wuppertaler SV",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-de3131f31d47775eadb4c743",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1963-08-07",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-4c77266f7e426d1cf5372418",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 122
+    }
+  ],
+  "issues": []
+}

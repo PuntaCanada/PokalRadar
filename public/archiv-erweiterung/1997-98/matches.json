@@ -1,0 +1,1874 @@
+{
+  "season": "1997-98",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=267002041",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-7c9fc20f1bb6ab323cc7c617",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-14",
+      "time": null,
+      "home": "FSV Zwickau",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-fdba12fcf03ff6097cb396e7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-14",
+      "time": null,
+      "home": "VfB Leipzig",
+      "away": "FC Gütersloh",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-37dfb3bc688e5a715985b282",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-14",
+      "time": null,
+      "home": "Chemnitzer FC",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-e85a3aba6ce092e2c3109534",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-14",
+      "time": null,
+      "home": "SV Warnemünde",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        8
+      ],
+      "reportedScore": [
+        0,
+        8
+      ],
+      "raw": "0:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-018b7a3ba1c8b26a08dca3ee",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-14",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-15403484eea01412914d48e7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-14",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-dd5596f105772719a60ffbb5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-14",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-0d8f6ae47b11cc05aceb27ef",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-15",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-9faf360064b87ce6be4bab77",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-15",
+      "time": null,
+      "home": "DJK Waldberg",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        16
+      ],
+      "reportedScore": [
+        1,
+        16
+      ],
+      "raw": "1:16",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-489ac1119ba41ef79773318d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-15",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-8590d8ecace0ef18c139bef3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-15",
+      "time": null,
+      "home": "TSV Pansdorf",
+      "away": "Energie Cottbus",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 42
+    },
+    {
+      "id": "hist-eb164b6986f5274126ce95bb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-15",
+      "time": null,
+      "home": "Hamburger SV (A)",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-6d7b1054ec0a2d8eb8010404",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-15",
+      "time": null,
+      "home": "Bor. M’gladbach (A)",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-376b5be58f56e39612e9b74e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-15",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (5:3 i. E.)",
+      "penalties": [
+        5,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 45
+    },
+    {
+      "id": "hist-f7be1f47fbea555faf43b023",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-15",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-18f1210e754b65adcccc1306",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-15",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-d9727d33d68341039d03a810",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-15",
+      "time": null,
+      "home": "VfR Mannheim",
+      "away": "SC Fortuna Köln",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-c08d467c347ecd5b66b81adc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "FSV Wacker 90 Nordhausen",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-f95265a85ba5fc2219b8994e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "1. FC Kaiserslautern (A)",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-a951ec333f7890bc94ced6ec",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "Werder Bremen (A)",
+      "away": "VfL Wolfsburg",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-d71f6fa57e0faabac1ff0d8a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "TuS Celle FC",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-a5f38632ce57b04cfa0f787c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "SSV Reutlingen 05",
+      "away": "Arminia Bielefeld",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-e3d3c8f046098b8459eaf7c7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "Eisenhüttenstädter FC Stahl",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-60cd88f796ce551abbd492d5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "Reinickendorfer Füchse",
+      "away": "SV Meppen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Meppen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-0e0f4b75cd9680cd0508b5b5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Lübeck",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-c51e61a5393b4df948097e56",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "FC Singen 04",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-09b3e61c2fcb5690d08093ac",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "Preußen Münster",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (7:8 i. E.)",
+      "penalties": [
+        7,
+        8
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-ff53f80604dd30faf9da4607",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "SC Neukirchen",
+      "away": "KFC Uerdingen 05",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KFC Uerdingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-e106e7474eaa414cd8a19d1d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "VfL Halle 1896",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-9c30ad115d0af2a809b604d2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-95d9e410c8b3f43b12965cf1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "VfB Oldenburg",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-6b764224f72161a1babfe36c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1997-08-16",
+      "time": null,
+      "home": "Hansa Rostock",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-523a6cce190398bc96739d7f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-23",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Schalke 04",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-e53d6c4d6bca822c525ba6ba",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-23",
+      "time": null,
+      "home": "Waldhof Mannheim",
+      "away": "FC Energie Cottbus",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-06959e8cfe1648c4d658be8e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-23",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 71
+    },
+    {
+      "id": "hist-07681bd89e61a87847c8c605",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-23",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Arminia Bielefeld",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 72
+    },
+    {
+      "id": "hist-b878448c24058943e4f33607",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-23",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "SV Werder Bremen",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 73
+    },
+    {
+      "id": "hist-e6c5d2f36ccab5d348ffc0da",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-23",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "VfB Leipzig",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-8b878f4879698cf982a5ff70",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-23",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "FC Bayern München",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-5b8f9430f0e6e8c61a052afb",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-24",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-cee60f85ac74955ffd2f35c5",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-24",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-ff82e9d15772145ed25ddb72",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-24",
+      "time": null,
+      "home": "SpVgg Greuther Fürth",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 78
+    },
+    {
+      "id": "hist-ab69d1b6239549022894cd10",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-24",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "1860 München",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 79
+    },
+    {
+      "id": "hist-605b82d1682e1294c3e4c733",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-24",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 80
+    },
+    {
+      "id": "hist-5daa7bf0945496d1d9d14e07",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-24",
+      "time": null,
+      "home": "SV Meppen",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Meppen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 81
+    },
+    {
+      "id": "hist-9b105dc3647c3cb23175d6de",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-24",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 82
+    },
+    {
+      "id": "hist-ebbaddabeb4c82ff1018757d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-24",
+      "time": null,
+      "home": "VfR Mannheim",
+      "away": "FC Carl Zeiss Jena",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 83
+    },
+    {
+      "id": "hist-77902257d9e900ed9bcd9b8b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1997-09-25",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "KFC Uerdingen 05",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KFC Uerdingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 84
+    },
+    {
+      "id": "hist-9b86371204be6e7107efeeaf",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1997-10-28",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 91
+    },
+    {
+      "id": "hist-bfe02971df3ce0d5b727fc05",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1997-10-28",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 92
+    },
+    {
+      "id": "hist-0122ec6a64e9d47e66436b6e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1997-12-02",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 93
+    },
+    {
+      "id": "hist-3ee184cf4e63830dbd61e2a0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1997-12-02",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "FC Carl Zeiss Jena",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 94
+    },
+    {
+      "id": "hist-371f370bd144022758cb4a1e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1997-12-02",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 95
+    },
+    {
+      "id": "hist-77945286a1c46883fe2744c6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1997-12-03",
+      "time": null,
+      "home": "SV Meppen",
+      "away": "KFC Uerdingen 05",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KFC Uerdingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 96
+    },
+    {
+      "id": "hist-691df14b9b92cf383f20127f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1997-12-03",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Arminia Bielefeld",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 97
+    },
+    {
+      "id": "hist-04a3a447fb5bb1c5e2bd89d9",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1997-12-03",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "SV Waldhof Mannheim 07",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim 07",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 98
+    },
+    {
+      "id": "hist-87daa6a91ff5162fccc93720",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1997-12-16",
+      "time": null,
+      "home": "SV Eintracht Trier",
+      "away": "SV Waldhof Mannheim 07",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 104
+    },
+    {
+      "id": "hist-7cf9b848f3efaa39581d72aa",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1997-12-16",
+      "time": null,
+      "home": "KFC Uerdingen 05",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 105
+    },
+    {
+      "id": "hist-322ac3eaf74e3d4068fc1259",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1997-12-16",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 106
+    },
+    {
+      "id": "hist-d5f4678632c70951590d03ec",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1997-12-17",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 107
+    },
+    {
+      "id": "hist-2d330eba6f71d94e64d49468",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1998-02-17",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 113
+    },
+    {
+      "id": "hist-b10a6135feff066732257f01",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1998-02-18",
+      "time": null,
+      "home": "SV Eintracht Trier",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (9:10 i. E.)",
+      "penalties": [
+        9,
+        10
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 114
+    },
+    {
+      "id": "hist-ae63953f3d50c637000e81d2",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    }
+  ],
+  "issues": []
+}

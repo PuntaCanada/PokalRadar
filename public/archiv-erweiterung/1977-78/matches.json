@@ -1,0 +1,4016 @@
+{
+  "season": "1977-78",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265915571",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-a7d2c96e7b62e9046f284a81",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-29",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 306
+    },
+    {
+      "id": "hist-05d906061772e94af139cc02",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-29",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "SpVgg Fürth",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 307
+    },
+    {
+      "id": "hist-32e9afe3ca3011f9afa24e48",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-29",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 308
+    },
+    {
+      "id": "hist-9254c8b5d7adb0a3e75d6830",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Arminia Bielefeld",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 309
+    },
+    {
+      "id": "hist-0ad9184158ab184a55cf83af",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "1. SC Göttingen 05",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 310
+    },
+    {
+      "id": "hist-17f53542506d9abe8942a59e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "TSV Ofterdingen",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 311
+    },
+    {
+      "id": "hist-a836053b30fb2f52ae4ba31a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "Eintracht Nordhorn",
+      "score": [
+        10,
+        1
+      ],
+      "reportedScore": [
+        10,
+        1
+      ],
+      "raw": "10:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 312
+    },
+    {
+      "id": "hist-476a7e43732c826a30657476",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Eintracht Bremen",
+      "score": [
+        10,
+        0
+      ],
+      "reportedScore": [
+        10,
+        0
+      ],
+      "raw": "10:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 313
+    },
+    {
+      "id": "hist-95213169e9092e2d516146ab",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "RSV Rehburg",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 314
+    },
+    {
+      "id": "hist-c09b207028057e6c5fcc6044",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "FC Konstanz",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 315
+    },
+    {
+      "id": "hist-b5547e9397d104d26752546b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "FC St. Wendel",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 316
+    },
+    {
+      "id": "hist-42dac4f5e4411d3b92a23891",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Blumenthaler SV",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 317
+    },
+    {
+      "id": "hist-7356c01be2798021c33e934a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "SG Ellingen-Bonefeld",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 318
+    },
+    {
+      "id": "hist-cc654ed6bb84858a7276ea1f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "1. FC Viersen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        8
+      ],
+      "reportedScore": [
+        0,
+        8
+      ],
+      "raw": "0:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 319
+    },
+    {
+      "id": "hist-673bd7d340a234b6144c8455",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "FSV Oggersheim",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 320
+    },
+    {
+      "id": "hist-a5746e75396ffb7baaf38241",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "TuS Rosenberg",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        11
+      ],
+      "reportedScore": [
+        1,
+        11
+      ],
+      "raw": "1:11",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 321
+    },
+    {
+      "id": "hist-51256cea5018808505e16a1c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "VfR Bürstadt",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 322
+    },
+    {
+      "id": "hist-88c0d997354819cf08aafe53",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Wuppertaler SV",
+      "away": "SC Herford",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 323
+    },
+    {
+      "id": "hist-37ffe1bd38384cf30d9d49ec",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "OSC Bremerhaven",
+      "away": "Preußen Münster",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "OSC Bremerhaven",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 324
+    },
+    {
+      "id": "hist-558c3ccbf596787cdf66edef",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "KSV Baunatal",
+      "away": "Alemannia Aachen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 325
+    },
+    {
+      "id": "hist-d2b23c78f7f6c7a9ae963e92",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 326
+    },
+    {
+      "id": "hist-d3736bebaeba183ae4c97a29",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "FC 08 Villingen",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Bayreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 327
+    },
+    {
+      "id": "hist-6cb33f31a76825e2b485c738",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Heidenheimer SB",
+      "away": "FK Pirmasens",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 328
+    },
+    {
+      "id": "hist-bfc4ef42104d4c6c48c5b9d1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Lüssumer TV",
+      "score": [
+        12,
+        0
+      ],
+      "reportedScore": [
+        12,
+        0
+      ],
+      "raw": "12:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 329
+    },
+    {
+      "id": "hist-40c088dbc68c38c51f4e6772",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "TSV Taunusstein-Bleidenstadt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV Taunusstein-Bleidenstadt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 330
+    },
+    {
+      "id": "hist-1f917b7a22659c20e5a602d2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "FSV Salmrohr",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 331
+    },
+    {
+      "id": "hist-e27d9b40f951a7216f02b550",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "FV Würzburg 04",
+      "away": "SSV Jahn Regensburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FV Würzburg 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 332
+    },
+    {
+      "id": "hist-7807ec0b4a988a247b1bd7d3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Rendsburger TSV",
+      "away": "VfL Osnabrück",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 333
+    },
+    {
+      "id": "hist-66d455002f3f7594d4e378ff",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "1. FC Normannia Gmünd",
+      "away": "SC Fortuna Köln",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Normannia Gmünd",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 334
+    },
+    {
+      "id": "hist-bf27926850ddfc0c38766d80",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Blau Weiß Wulfen",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 335
+    },
+    {
+      "id": "hist-ace1285cd9af2be31b809223",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "SV Arminia Hannover",
+      "away": "FC Augsburg (A)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 336
+    },
+    {
+      "id": "hist-d542c57449f8231c4c1aef6a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "TSV Südwest Nürnberg",
+      "away": "SV Darmstadt 98",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 337
+    },
+    {
+      "id": "hist-286a92a6d9fae705d9d1eab8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Hummelsbütteler SV",
+      "away": "TuS Schloß Neuhaus",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Schloß Neuhaus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 338
+    },
+    {
+      "id": "hist-8f9aba0a75176e9d6a3e5aac",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "BV 04 Düsseldorf",
+      "away": "VfL Bad Schwartau",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BV 04 Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 339
+    },
+    {
+      "id": "hist-d2440b5ad3b6a775f269dec4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Schleswig 06",
+      "away": "SV Röchling Völklingen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Röchling Völklingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 340
+    },
+    {
+      "id": "hist-d2eb284b30563eda126ffb5f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "VfV Hildesheim",
+      "away": "TV Unterboihingen",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfV Hildesheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 341
+    },
+    {
+      "id": "hist-98656b1713e3493d6c9f6f22",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Itzehoer SV",
+      "away": "Borussia Brand",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Itzehoer SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 342
+    },
+    {
+      "id": "hist-741f6e746133e4ba521fa070",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "FSV Bad Orb",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 343
+    },
+    {
+      "id": "hist-3df4624fabc0a883d7c89fb7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "SV Saar 05 Saarbrücken",
+      "away": "Wacker 04 Berlin",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 344
+    },
+    {
+      "id": "hist-fa67dc459f140d26040d7c90",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "TuRa Harksheide",
+      "away": "SV Ottweiler",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 345
+    },
+    {
+      "id": "hist-3d399323f7db571ee6dbda7c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "Horner TV",
+      "away": "Alemannia Eggenstein",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Horner TV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 346
+    },
+    {
+      "id": "hist-16817dcab504893b34d19017",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "Hertha Zehlendorf",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 347
+    },
+    {
+      "id": "hist-7ffd55436901d1c57fd5f93b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "SC Viktoria Köln",
+      "away": "Eintracht Bad Kreuznach",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Bad Kreuznach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 348
+    },
+    {
+      "id": "hist-6e4b8c95b73ab90078a815df",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-30",
+      "time": null,
+      "home": "SC Gladenbach",
+      "away": "SSV Elspe",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Gladenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 349
+    },
+    {
+      "id": "hist-cf8599b517edf4fe3eeee188",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "VfB Oldenburg",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 350
+    },
+    {
+      "id": "hist-d80a58251ed8a4688ba2398f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "TSV Ottobrunn",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        9
+      ],
+      "reportedScore": [
+        0,
+        9
+      ],
+      "raw": "0:9",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 351
+    },
+    {
+      "id": "hist-e18956ba537d7ffc5e623ffc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "SG Union Solingen",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 352
+    },
+    {
+      "id": "hist-e80fa4cf5ab29beafa702874",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "Hassia Bingen",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 353
+    },
+    {
+      "id": "hist-0fef979fcc04bc432e1af3e9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "BV 08 Lüttringhausen",
+      "away": "Freiburger FC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Freiburger FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 354
+    },
+    {
+      "id": "hist-d209db9997b12c2c495410cf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "Concordia Hamburg",
+      "away": "FC Bayern Hof",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Concordia Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 355
+    },
+    {
+      "id": "hist-c037ca01e90aa7e2e0d85177",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "OSV Hannover",
+      "away": "FSV Frankfurt",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 356
+    },
+    {
+      "id": "hist-b018a1d64b06ece2d868ca56",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "Westfalia Herne",
+      "away": "BC Efferen",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westfalia Herne",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 357
+    },
+    {
+      "id": "hist-0efd0ec7a42b074265354a51",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "SpVgg Bad Homburg",
+      "away": "FC 08 Homburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 358
+    },
+    {
+      "id": "hist-34ba996e21f572349af2d1e4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "Olympia Kirrlach",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 359
+    },
+    {
+      "id": "hist-5a3c5695e5f900fa48f67433",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "Eintracht Glas-Chemie Wirges",
+      "away": "DSC Wanne-Eickel",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "DSC Wanne-Eickel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 360
+    },
+    {
+      "id": "hist-475c5acf70fa936a7cd65572",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "BFC Viktoria 1889",
+      "away": "BSV 07 Schwenningen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "BSV 07 Schwenningen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 361
+    },
+    {
+      "id": "hist-5b6d6d8fab9cde4b9788b2fb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "Bonner SC",
+      "away": "Sportfreunde Eisbachtal",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bonner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 362
+    },
+    {
+      "id": "hist-a8530df03fce93871e529ccd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "Traber FC Berlin",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Sandhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 363
+    },
+    {
+      "id": "hist-529919e4aa83bd66884c54b8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "FC Rastatt",
+      "away": "TuS Struck",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Rastatt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 364
+    },
+    {
+      "id": "hist-9327dc41e563e6ccb673351d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "Lichterfelder SU",
+      "away": "Alemannia Plaidt",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 365
+    },
+    {
+      "id": "hist-acfb976712810fa1e6395729",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "Warendorfer SU",
+      "away": "FSV Hemmersdorf",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Warendorfer SU",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 366
+    },
+    {
+      "id": "hist-d1c919c19c70d91ddedb4fe3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "TuS 08 Langerwehe",
+      "away": "VfB Coburg",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS 08 Langerwehe",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 367
+    },
+    {
+      "id": "hist-2ded83acbe85213c5e5cd3d2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-07-31",
+      "time": null,
+      "home": "FC Tailfingen",
+      "away": "SpVgg Neckargemünd",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Tailfingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 368
+    },
+    {
+      "id": "hist-86fcefe018c173ee5188f64c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-10",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 369
+    },
+    {
+      "id": "hist-95332f34874698bf41259ffa",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1977-08-07",
+      "time": null,
+      "home": "Wacker 04 Berlin",
+      "away": "SV Saar 05 Saarbrücken",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Wacker 04 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 375
+    },
+    {
+      "id": "hist-5e85ced7d02d03458825ca49",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1977-08-10",
+      "time": null,
+      "home": "SC Herford",
+      "away": "Wuppertaler SV",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Herford",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 376
+    },
+    {
+      "id": "hist-8f93b66cd8be89c5ac85e580",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1977-08-10",
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "SG Union Solingen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 377
+    },
+    {
+      "id": "hist-ca0c829575d9cba3dc60af55",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1977-08-10",
+      "time": null,
+      "home": "SV Ottweiler",
+      "away": "TuRa Harksheide",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Ottweiler",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 378
+    },
+    {
+      "id": "hist-c7cd2a6fe8b0cdd50cd0b989",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1977-08-10",
+      "time": null,
+      "home": "Horner TV",
+      "away": "Alemannia Eggenstein",
+      "score": [
+        0,
+        8
+      ],
+      "reportedScore": [
+        0,
+        8
+      ],
+      "raw": "0:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Eggenstein",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 379
+    },
+    {
+      "id": "hist-a6903ea1cc6bda33e0b45346",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1977-08-10",
+      "time": null,
+      "home": "Alemannia Plaidt",
+      "away": "Lichterfelder SU",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Plaidt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 380
+    },
+    {
+      "id": "hist-e9788fd716f0188b7675aba4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-19",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Eintracht Trier",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 385
+    },
+    {
+      "id": "hist-e9119f841e4775e6ee12ff53",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-19",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Wacker 04 Berlin",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 386
+    },
+    {
+      "id": "hist-2edd9aaee88f788f221adabe",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-19",
+      "time": null,
+      "home": "BV 04 Düsseldorf",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 387
+    },
+    {
+      "id": "hist-ecb25ba245e01065d7d56e34",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-19",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Eintracht Bad Kreuznach",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 388
+    },
+    {
+      "id": "hist-e2f5bda69685d070033d74a0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Borussia Dortmund",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 389
+    },
+    {
+      "id": "hist-feafb9dd97ca2678d33e20cc",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 390
+    },
+    {
+      "id": "hist-e335e201f2c01a950e410725",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 391
+    },
+    {
+      "id": "hist-dec9fd2b9ff8e13ce69d5560",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 392
+    },
+    {
+      "id": "hist-c56a28672fb02e0017f53856",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 393
+    },
+    {
+      "id": "hist-482eaa800d7bda3fe8b35be5",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "TuS Schloß Neuhaus",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 394
+    },
+    {
+      "id": "hist-f834006f90a7c83b651eada0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 395
+    },
+    {
+      "id": "hist-5f73363a2fff36561e9eb752",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "SV Röchling Völklingen",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 396
+    },
+    {
+      "id": "hist-61bc10e4b79560af13e6ebfc",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "FK Pirmasens",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 397
+    },
+    {
+      "id": "hist-df3ebde9e124c157a8186c0e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "FSV Frankfurt",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 398
+    },
+    {
+      "id": "hist-7570722c94a257f3f6d0c592",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Westfalia Herne",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westfalia Herne",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 399
+    },
+    {
+      "id": "hist-b70899ab0516aaf0d86b2267",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "SV Darmstadt 98",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 400
+    },
+    {
+      "id": "hist-4d2f044dbaa4a4b6dcd3ddf3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "SC Herford",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 401
+    },
+    {
+      "id": "hist-2bd11fc46f5a7cef36199149",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "OSC Bremerhaven",
+      "away": "FC Augsburg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 402
+    },
+    {
+      "id": "hist-d57b692364311859188f7276",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "FC Tailfingen",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 403
+    },
+    {
+      "id": "hist-5dbe3d73700b46bd0f4cce84",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "FC Rastatt",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 404
+    },
+    {
+      "id": "hist-1e426713d997fcb26d5b6703",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "Concordia Hamburg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 405
+    },
+    {
+      "id": "hist-d3e9e7730a5a5402e4fa34ff",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "Warendorfer SU",
+      "away": "Freiburger FC",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Freiburger FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 406
+    },
+    {
+      "id": "hist-778930685465fa40620eded7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "TuS 08 Langerwehe",
+      "away": "FV Würzburg 04",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TuS 08 Langerwehe",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 407
+    },
+    {
+      "id": "hist-cd6199d3efe6dd0936cfc08a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "VfV Hildesheim",
+      "away": "Alemannia Aachen",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfV Hildesheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 408
+    },
+    {
+      "id": "hist-905b72e39ad09c33cd830ca3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "Itzehoer SV",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Bayreuth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 409
+    },
+    {
+      "id": "hist-007c1c2bd5224d639b5e1186",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "1. FC Normannia Gmünd",
+      "away": "FC Augsburg (A)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 410
+    },
+    {
+      "id": "hist-50702c14999768a32d89022f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "SC Gladenbach",
+      "away": "SV Sandhausen",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Sandhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 411
+    },
+    {
+      "id": "hist-1e4a539ed2e731a6fc7d7ca6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "DSC Wanne-Eickel",
+      "away": "VfL Wolfsburg",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "DSC Wanne-Eickel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 412
+    },
+    {
+      "id": "hist-d49346db4ac9759a4fbb8651",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "Alemannia Plaidt",
+      "away": "Bonner SC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bonner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 413
+    },
+    {
+      "id": "hist-39ba196e0b78ada91f1c7307",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "BSV 07 Schwenningen",
+      "away": "SV Ottweiler",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BSV 07 Schwenningen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 414
+    },
+    {
+      "id": "hist-437bfeec9b1144cefdd5e981",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "TSV Taunusstein-Bleidenstadt",
+      "score": [
+        8,
+        1
+      ],
+      "reportedScore": [
+        8,
+        1
+      ],
+      "raw": "8:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 415
+    },
+    {
+      "id": "hist-33a4d5a0caeab9b77734d928",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1977-08-20",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Horner TV",
+      "score": [
+        15,
+        0
+      ],
+      "reportedScore": [
+        15,
+        0
+      ],
+      "raw": "15:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 416
+    },
+    {
+      "id": "hist-a972d526a62e9a276990106f",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1977-08-24",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "TuS Schloß Neuhaus",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 422
+    },
+    {
+      "id": "hist-f4232d949e58217b31c1f4b0",
+      "round": "2. Hauptrunde",
+      "replay": true,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Alemannia Eggenstein",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 423
+    },
+    {
+      "id": "hist-edc994d3567b5fb532819d7f",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-14",
+      "time": null,
+      "home": "FC Augsburg (A)",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 428
+    },
+    {
+      "id": "hist-814c823c09b013355e80a2f0",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-14",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 429
+    },
+    {
+      "id": "hist-dc30a7fb8beb4940996a7201",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 430
+    },
+    {
+      "id": "hist-8a2d94947db5b29aa2774a1c",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 431
+    },
+    {
+      "id": "hist-1a558a57ee55f53ee5fa9c9c",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "FC Bayern München",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC 08 Homburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 432
+    },
+    {
+      "id": "hist-0fd5eb19422a453cfe1e88b0",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 433
+    },
+    {
+      "id": "hist-46ddbd9c01dcd86d1ceaef45",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        6
+      ],
+      "reportedScore": [
+        2,
+        6
+      ],
+      "raw": "2:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 434
+    },
+    {
+      "id": "hist-e4924181663edcbbcfe1dceb",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 435
+    },
+    {
+      "id": "hist-e34c5c63a2a426c11c188547",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "DSC Wanne-Eickel",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 436
+    },
+    {
+      "id": "hist-d72216fc66be4e7dbe4880d0",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "VfV Hildesheim",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 437
+    },
+    {
+      "id": "hist-e41cb4f86db856f10c696a01",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Bonner SC",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 438
+    },
+    {
+      "id": "hist-1181f101604ba539b003a204",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Westfalia Herne",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westfalia Herne",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 439
+    },
+    {
+      "id": "hist-32d57340c6da531de2af0fca",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 440
+    },
+    {
+      "id": "hist-96dd9ec26d3cfdca2d2bc183",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-15",
+      "time": null,
+      "home": "TuS 08 Langerwehe",
+      "away": "VfL Osnabrück",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS 08 Langerwehe",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 441
+    },
+    {
+      "id": "hist-12249dcc467b664278fcb13e",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-16",
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "BSV 07 Schwenningen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 442
+    },
+    {
+      "id": "hist-b800a741ff0e6b8aa4399c75",
+      "round": "3. Hauptrunde",
+      "replay": false,
+      "date": "1977-10-25",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "FC Augsburg",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 443
+    },
+    {
+      "id": "hist-ff32289699662e4b67a6cf98",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1977-11-19",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 448
+    },
+    {
+      "id": "hist-5b67c0898b3947628710da91",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1977-11-19",
+      "time": null,
+      "home": "TuS 08 Langerwehe",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 449
+    },
+    {
+      "id": "hist-28549fcc364492eddf4544f5",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1977-11-19",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "VfL Bochum",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 450
+    },
+    {
+      "id": "hist-2285365b2c3e5c2daeb74c19",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1977-11-19",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 451
+    },
+    {
+      "id": "hist-9bd7b9ba02c72d7db2d7b2ae",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1977-11-19",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Hamburger SV",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 452
+    },
+    {
+      "id": "hist-352f3f37b94493974bd55784",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1977-11-19",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "TSV 1860 München",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 453
+    },
+    {
+      "id": "hist-8c9f46513acc48ab4cd0646d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1977-11-19",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Karlsruher SC",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 454
+    },
+    {
+      "id": "hist-da9b0c475a98843381c768e3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1977-11-19",
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "Westfalia Herne",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 455
+    },
+    {
+      "id": "hist-c75c2de1a35cd741dcbcc7f5",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1977-11-29",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "FC 08 Homburg / Saar",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 460
+    },
+    {
+      "id": "hist-c6b5b9479df13de2d24e749f",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1977-11-30",
+      "time": null,
+      "home": "Westfalia Herne",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 461
+    },
+    {
+      "id": "hist-30833fa58413f52dbe753863",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1977-12-20",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        9,
+        0
+      ],
+      "reportedScore": [
+        9,
+        0
+      ],
+      "raw": "9:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 466
+    },
+    {
+      "id": "hist-ee57977bbbe1373f442cf280",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1977-12-20",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 467
+    },
+    {
+      "id": "hist-44dad0503b8cd7b88abaddd4",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1977-12-20",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 468
+    },
+    {
+      "id": "hist-7416e11b4b48db6f79e1da8b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1977-12-20",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 469
+    },
+    {
+      "id": "hist-79b9298c2ee0bcfc73bd5b49",
+      "round": "Viertelfinale",
+      "replay": true,
+      "date": "1977-12-26",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 474
+    },
+    {
+      "id": "hist-81336c5a19a3bd16c0a464e6",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1978-01-25",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 479
+    },
+    {
+      "id": "hist-86047afc1712b98d015f6218",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1978-01-25",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "MSV Duisburg",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 480
+    },
+    {
+      "id": "hist-80c4d5c03498bc217e07f1a2",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 570
+    }
+  ],
+  "issues": []
+}

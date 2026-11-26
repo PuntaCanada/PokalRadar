@@ -1,0 +1,1862 @@
+{
+  "season": "1996-97",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=269706690",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-fb689ef1eaebb0922da10d24",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-09",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 192
+    },
+    {
+      "id": "hist-47bc84eca1d721d0cccded5b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "Hamburger SV (A)",
+      "away": "Arminia Bielefeld",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-b83672e5c1809f1d32221103",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "FC Bremerhaven",
+      "away": "Karlsruher SC",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-b5d100eec3c265b644a5a73b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "1. FC Schweinfurt 05",
+      "away": "FC Hansa Rostock",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-5ae9f3a0ab17add2b6a336bd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "SV Bonlanden",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-d798cdf6f9c72942c2efbcd0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-ca65e5c371aae340c9294975",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-f417614d2b2d1979b9d2228a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "FV Donaueschingen",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-166c93060d5fa221e7cef72e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "Bayer Leverkusen (A)",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-39d3310b48333d3776743144",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "SpVgg Greuther Fürth",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-6ad0cf383d2a6f5fb9eae413",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "Kickers Emden",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-7446aebf734aa09d410f3624",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "VfR Mannheim",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-67eda203d5dedd00ad4ce70e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "SC Fortuna Köln",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:1 i. E.)",
+      "penalties": [
+        4,
+        1
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-bc31ee5cf5657387420a635e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "KFC Uerdingen 05",
+      "away": "SC Freiburg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-9c754a9e2ebea529dfc2cf21",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "Greifswalder SC",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-51feca2139206ba930a0fdc1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "VfB Leipzig",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-fb3827a8a00c545ef910e4d1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-10",
+      "time": null,
+      "home": "FSV Wacker 90 Nordhausen",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 208
+    },
+    {
+      "id": "hist-fef37bcb5dae99c20a979c56",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "FSV Lok Altmark Stendal",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 209
+    },
+    {
+      "id": "hist-e1feaedef1fb6f4c9cae74d9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 210
+    },
+    {
+      "id": "hist-2f68cc0ff5f127d457709c90",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "Borussia Dortmund",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    },
+    {
+      "id": "hist-fb38cbc324b14d4644d3fcb4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "TuS Paderborn-Neuhaus",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-437afe7a05cf737bad279277",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "Chemnitzer FC",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 213
+    },
+    {
+      "id": "hist-dbffc03b124e141b7348bd82",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "VfB Oldenburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Oldenburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 214
+    },
+    {
+      "id": "hist-d33e458d91f79312e3147877",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "SV Wehen",
+      "away": "VfB Lübeck",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Lübeck",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    },
+    {
+      "id": "hist-efe74c26229a2008bfb8c2f0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "VfB Leipzig (A)",
+      "away": "VfL Wolfsburg",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 216
+    },
+    {
+      "id": "hist-ea1a01ffc609bf462f7a2732",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "Karlsruher SC (A)",
+      "away": "FC Carl Zeiss Jena",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-1dffff3a0ec52250be25e052",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "FC Energie Cottbus",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-f5b606d2ad8bb1e8f23c473f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "SSV Vorsfelde",
+      "away": "SV Meppen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Meppen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-49c4209651af96ceb69ccaed",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "FC Gütersloh",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-cd6b2fd28000a3c1ab921119",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 221
+    },
+    {
+      "id": "hist-d1cad4bf0477005f4a9adcbd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "TSG Pfeddersheim",
+      "away": "FSV Zwickau",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Zwickau",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 222
+    },
+    {
+      "id": "hist-60b8413d9376b09b7a8cb860",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-11",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (5:3 i. E.)",
+      "penalties": [
+        5,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 223
+    },
+    {
+      "id": "hist-92afdb6e36fb8ecfc3a98aed",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-31",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "FC Hansa Rostock",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-cf1d434de3443a6f18d18794",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-31",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "VfB Lübeck",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-8093eeb471b02730b707b226",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-31",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-234ef6fa0957001c56b1b904",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-31",
+      "time": null,
+      "home": "SV Meppen",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Meppen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 231
+    },
+    {
+      "id": "hist-f3b787afba47d1ca5a1e7b0e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-31",
+      "time": null,
+      "home": "FC Energie Cottbus",
+      "away": "VfL Wolfsburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 232
+    },
+    {
+      "id": "hist-9d32f724442f1d334c10caaf",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-08-31",
+      "time": null,
+      "home": "SpVgg Greuther Fürth",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 233
+    },
+    {
+      "id": "hist-d4786166048db0b33c60b5ac",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-09-01",
+      "time": null,
+      "home": "FSV Zwickau",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FSV Zwickau",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 234
+    },
+    {
+      "id": "hist-07ee910b7027753347c600a4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-09-01",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "Karlsruher SC (A)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Karlsruher SC (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 235
+    },
+    {
+      "id": "hist-22160c8faa84697105c16ed6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-09-17",
+      "time": null,
+      "home": "VfB Oldenburg",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 236
+    },
+    {
+      "id": "hist-15d1fd33aaaecfbd2ec5d37e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-09-18",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 237
+    },
+    {
+      "id": "hist-a68017c63166ac5e841e2fbb",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-10-01",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "SC Freiburg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 238
+    },
+    {
+      "id": "hist-9ea1eb588a03c8fc3db7a41c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-10-01",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "TSV 1860 München",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 239
+    },
+    {
+      "id": "hist-661a812295e84eda0c43d0b8",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-10-01",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 240
+    },
+    {
+      "id": "hist-9f4ba629869170c65b7564d4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-10-01",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 241
+    },
+    {
+      "id": "hist-b3f6018eccefe9ef3bc378c7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-10-01",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 242
+    },
+    {
+      "id": "hist-d65c26148ca72e3daea236fc",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1996-10-02",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-aaba25c5fb24363330fcac37",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1996-10-22",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 249
+    },
+    {
+      "id": "hist-7f3c8e9b180790e87855a6e7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1996-10-22",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 250
+    },
+    {
+      "id": "hist-2c5ff3ceff4a3c019449e688",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1996-10-22",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "SV Meppen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 251
+    },
+    {
+      "id": "hist-738e7290ff62b94588a77712",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1996-10-22",
+      "time": null,
+      "home": "Karlsruher SC (A)",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 252
+    },
+    {
+      "id": "hist-51e8e6086a35fe6e0d4ace01",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1996-10-23",
+      "time": null,
+      "home": "FC Energie Cottbus",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 253
+    },
+    {
+      "id": "hist-642d328a5f0937748d4dfd35",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1996-10-23",
+      "time": null,
+      "home": "SpVgg Greuther Fürth",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 254
+    },
+    {
+      "id": "hist-3fd189ea30a33739b7680466",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1996-10-23",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "FSV Zwickau",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 255
+    },
+    {
+      "id": "hist-2a7bb312d8f3be7c6c6e763b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1996-11-12",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Werder Bremen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 256
+    },
+    {
+      "id": "hist-cc163143e383fb0cdaa9c87a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1996-11-12",
+      "time": null,
+      "home": "FC Energie Cottbus",
+      "away": "FC St. Pauli",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 262
+    },
+    {
+      "id": "hist-c1e8ac8ff065bc034f87402b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1996-11-13",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 263
+    },
+    {
+      "id": "hist-748c7270156684f99caa9970",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1996-11-13",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 264
+    },
+    {
+      "id": "hist-b5f9fb7a71745f933b0f6c5a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1997-02-19",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 265
+    },
+    {
+      "id": "hist-591c06fcdc3e10b41e8abb8f",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1997-04-15",
+      "time": null,
+      "home": "FC Energie Cottbus",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 270
+    },
+    {
+      "id": "hist-6c5f95213dfb1e1557d8ff56",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1997-04-16",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 271
+    },
+    {
+      "id": "hist-ff63323ada9be5f6f9c60a55",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "FC Energie Cottbus",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 331
+    }
+  ],
+  "issues": []
+}

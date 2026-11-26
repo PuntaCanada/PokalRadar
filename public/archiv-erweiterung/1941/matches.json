@@ -1,0 +1,1948 @@
+{
+  "season": "1941",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265709132",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-d2a7c68648f03170a3734582",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SK Rapid Wien",
+      "away": "FC Wien",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-ed1b649c1d33ac7a431fad90",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FK Austria Wien",
+      "away": "SC Wacker Wien",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2 (5:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Austria Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-e7be3d314a1f78c8e3f69511",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-d0d2309d52ef5cc9cb1c682d",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "SpVgg Sandhofen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-e5e76e6d356963cb3e53011a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SSV Jahn Regensburg",
+      "away": "TSV 1860 München",
+      "score": [
+        2,
+        6
+      ],
+      "reportedScore": [
+        2,
+        6
+      ],
+      "raw": "2:6 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-162bfd9dd8cea713bf05ede9",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TSV Schwaben Augsburg",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-b65925ce9c0fabc9ac59dbdb",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Prussia-Samland Königsberg",
+      "away": "Königsberger STV",
+      "score": [
+        3,
+        8
+      ],
+      "reportedScore": [
+        3,
+        8
+      ],
+      "raw": "3:8 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Königsberger STV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-1eb33e311fa45694655b9c2f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Königsberg",
+      "away": "Polizei Tilsit",
+      "score": null,
+      "reportedScore": null,
+      "raw": "kampflos",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "walkover",
+      "winner": "VfB Königsberg",
+      "abandonedScore": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54,
+      "sourceRevision": 265709132
+    },
+    {
+      "id": "hist-85cab68ac521f90dd30c156b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Preußen Danzig",
+      "away": "Viktoria Stolp",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Viktoria Stolp",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-6a8143f8b531f5f69a58b4a1",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "HSV Hubertus Kolberg",
+      "away": "LSV Kamp-Köslin",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Kamp-Köslin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-48da39a088ffa463e68f7aae",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Stettin",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-f360a4df8f8fab62747dab21",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-3be19bb9c52c81d993253a0a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Vorwärts-Rasensport Gleiwitz",
+      "away": "DTSG Krakau",
+      "score": [
+        7,
+        2
+      ],
+      "reportedScore": [
+        7,
+        2
+      ],
+      "raw": "7:2 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Vorwärts-Rasensport Gleiwitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-e4e6cb423982295737c5ea33",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Breslauer SpVg 02",
+      "away": "Germania Königshütte",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Breslauer SpVg 02",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-4ae2f27d72278e045d3739b2",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Dresdner Sportfreunde 01",
+      "away": "PSV Chemnitz",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "PSV Chemnitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-744fb4739c299ec56def413f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Nordhausen",
+      "away": "1. SV Jena",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (1:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. SV Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-7c32112d9d4b5fe647fd9d6a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eimsbütteler TV",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-1620f74c3a0a099304d1e57e",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 64
+    },
+    {
+      "id": "hist-4b29517073717f628ef4ddd7",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Linden 07",
+      "away": "Wilhelmsburg 09",
+      "score": [
+        6,
+        5
+      ],
+      "reportedScore": [
+        6,
+        5
+      ],
+      "raw": "6:5 n. V. (5:5, 3:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Linden 07",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 65
+    },
+    {
+      "id": "hist-dd45e132a0477799cade776d",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 66
+    },
+    {
+      "id": "hist-fc06e593c05440a642b473af",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Westende Hamborn",
+      "away": "TuS Helene Altenessen",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-72a203db9772afdaa0cffc3a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TuS Duisburg 48/99",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-a43a3b74be5d8bf316692d34",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Victoria Köln",
+      "away": "Fortuna Düsseldorf",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Abgebrochen beim Stand 1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "abandoned",
+      "winner": null,
+      "abandonedScore": [
+        1,
+        0
+      ],
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69,
+      "sourceRevision": 265709132
+    },
+    {
+      "id": "hist-88eba6ed31d7be0b82aa794d",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Reichsbahn TSV Rot-Weiß Frankfurt",
+      "away": "VfL Köln 1899",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Abgebrochen beim Stand 1:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "abandoned",
+      "winner": null,
+      "abandonedScore": [
+        1,
+        1
+      ],
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70,
+      "sourceRevision": 265709132
+    },
+    {
+      "id": "hist-1f9f63c90dd445ea02d17600",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Kurhessen Kassel",
+      "away": "BC Sport Kassel",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BC Sport Kassel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 71
+    },
+    {
+      "id": "hist-a104d5f64f633a5850093059",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Fulda",
+      "away": "Kickers Offenbach",
+      "score": [
+        9,
+        6
+      ],
+      "reportedScore": [
+        9,
+        6
+      ],
+      "raw": "9:6 (1:5)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Fulda",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 72
+    },
+    {
+      "id": "hist-93124f668945e28278feabed",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Rheinfelden",
+      "away": "FC Mülhausen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Mülhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 73
+    },
+    {
+      "id": "hist-b703408dd5b35c40c7ef39ad",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FV Metz",
+      "away": "VfL Neckarau",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FV Metz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-6e7c50f8d72022a87c1b9fe8",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "VfB 05 Knielingen",
+      "score": [
+        17,
+        0
+      ],
+      "reportedScore": [
+        17,
+        0
+      ],
+      "raw": "17:0 (8:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-74622a6b13c2b521db99367e",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "Stuttgarter SC",
+      "score": [
+        7,
+        0
+      ],
+      "reportedScore": [
+        7,
+        0
+      ],
+      "raw": "7:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-8e6f1abc1f97c8880b394d91",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "NSTG Prag",
+      "away": "SK Admira Wien",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Admira Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-299c6302d53cad1f20722199",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Wurzen",
+      "away": "Dresdner SC",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 78
+    },
+    {
+      "id": "hist-2eb79d4eccebe9882334205c",
+      "round": "1. Schlussrunde",
+      "replay": true,
+      "date": null,
+      "time": null,
+      "home": "TuS Helene Altenessen",
+      "away": "Westende Hamborn",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Westende Hamborn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 93
+    },
+    {
+      "id": "hist-ced44f20124b0c31197b1b9d",
+      "round": "1. Schlussrunde",
+      "replay": true,
+      "date": null,
+      "time": null,
+      "home": "Reichsbahn TSV Rot-Weiß Frankfurt",
+      "away": "VfL Köln 1899",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Reichsbahn TSV Rot-Weiß Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 94
+    },
+    {
+      "id": "hist-ecff83de8f92fe40a0f9e166",
+      "round": "1. Schlussrunde",
+      "replay": true,
+      "date": null,
+      "time": null,
+      "home": "SV Victoria Köln",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 95
+    },
+    {
+      "id": "hist-dcb2f9efc61f887150f0d1d8",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 102
+    },
+    {
+      "id": "hist-3b3cffe5696f29f1022c9e1e",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Königsberger STV",
+      "away": "VfB Königsberg",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Königsberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 103
+    },
+    {
+      "id": "hist-9f2e7ef2c114d5b831351d60",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Vorwärts Rasensport Gleiwitz",
+      "away": "Breslauer SpVg 02",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1 (4:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Vorwärts Rasensport Gleiwitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 104
+    },
+    {
+      "id": "hist-93cd32992a9b04f3b7bd0fbe",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Polizei-SV Chemnitz",
+      "away": "Dresdner SC",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 105
+    },
+    {
+      "id": "hist-d6abbe14fff899ae87dcca2e",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Viktoria Stolp",
+      "away": "LSV Kamp-Köslin",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Kamp-Köslin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 106
+    },
+    {
+      "id": "hist-fb4acd5e6dc1de442f99ecd6",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. SV Jena",
+      "away": "Borussia Fulda",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. SV Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 107
+    },
+    {
+      "id": "hist-58749e46d223551fa0a76237",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Holstein Kiel",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 108
+    },
+    {
+      "id": "hist-f89d4968f1273caacfe53353",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hannover 96",
+      "away": "SV Linden 07",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 109
+    },
+    {
+      "id": "hist-892b07f32b859aab1d7a9046",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "WKG Westende Hamborn",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 110
+    },
+    {
+      "id": "hist-e35aa44602782833e8f5e275",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "BC Sport Kassel",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 111
+    },
+    {
+      "id": "hist-df28a3537a0e013e5c0d032a",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FV Metz",
+      "away": "Reichsbahn TSV Rot-Weiß Frankfurt",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 112
+    },
+    {
+      "id": "hist-16de0082c57c7efeb2429052",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Mülhausen",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 113
+    },
+    {
+      "id": "hist-6832eaf36191ad31cbc75e64",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "FK Austria Wien",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Austria Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 114
+    },
+    {
+      "id": "hist-996b112edd19d4151bd1f044",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SK Rapid Wien",
+      "away": "SK Admira Wien",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5 (2:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Admira Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 115
+    },
+    {
+      "id": "hist-6c3a1efed495e6652c5747f5",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 (4:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 116
+    },
+    {
+      "id": "hist-26fe7e7abd7f5f43e42e9a49",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "SpVgg Fürth",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 117
+    },
+    {
+      "id": "hist-4e2c00d44fed49147858c3de",
+      "round": "2. Schlussrunde",
+      "replay": true,
+      "date": null,
+      "time": null,
+      "home": "Reichsbahn TSV Rot-Weiß Frankfurt",
+      "away": "FV Metz",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FV Metz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 124
+    },
+    {
+      "id": "hist-4b060f02d1c9bce00679cf3c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Kamp-Köslin",
+      "away": "VfB Königsberg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Kamp-Köslin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 131
+    },
+    {
+      "id": "hist-c78d08cd46e90ee84eb54ee7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 132
+    },
+    {
+      "id": "hist-ba13ac2aa4270f32c9c24d86",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FK Austria Wien",
+      "away": "Vorwärts Rasensport Gleiwitz",
+      "score": [
+        8,
+        0
+      ],
+      "reportedScore": [
+        8,
+        0
+      ],
+      "raw": "8:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Austria Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 133
+    },
+    {
+      "id": "hist-4faa6eab0a62cda3fa367c8d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "Hannover 96",
+      "score": [
+        9,
+        2
+      ],
+      "reportedScore": [
+        9,
+        2
+      ],
+      "raw": "9:2 (4:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 134
+    },
+    {
+      "id": "hist-1cbc57bb21514367111b12e5",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "SK Admira Wien",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Admira Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 135
+    },
+    {
+      "id": "hist-34ada96d417f6faa9bcd690e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "1. FC Nürnberg",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 136
+    },
+    {
+      "id": "hist-785acc4deda70fc78f487307",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. SV Jena",
+      "away": "FV Metz",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. SV Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 137
+    },
+    {
+      "id": "hist-e9e709899d08bab34302be7f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 138
+    },
+    {
+      "id": "hist-199d9fe581565f75b471da50",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "1. SV Jena",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 145
+    },
+    {
+      "id": "hist-7ac5660fe6f5ec37c352bf60",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "LSV Kamp-Köslin",
+      "away": "Dresdner SC",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 146
+    },
+    {
+      "id": "hist-abe1afdd041040014648eb03",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SK Admira Wien",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0 (4:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Admira Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 147
+    },
+    {
+      "id": "hist-042fe7eabe73140c39226d46",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "FK Austria Wien",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 148
+    },
+    {
+      "id": "hist-2b90a7d5250b592bbeac27de",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "SK Admira Wien",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 (3:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 155
+    },
+    {
+      "id": "hist-90641828fcd9ac1033e76ab8",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Holstein Kiel",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 156
+    },
+    {
+      "id": "hist-d0236bc00759124a55f43464",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    }
+  ],
+  "issues": []
+}

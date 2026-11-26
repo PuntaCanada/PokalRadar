@@ -1,0 +1,1838 @@
+{
+  "season": "2009-10",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270511373",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-dc3bfea3958ec1776eb5380a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-07-31",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Hansa Rostock",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 663
+    },
+    {
+      "id": "hist-6680fed7ee58d7f60707f956",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-07-31",
+      "time": null,
+      "home": "SV Babelsberg 03",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 664
+    },
+    {
+      "id": "hist-a28314fad5fb47c0d261fb7d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-07-31",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Lübeck",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 665
+    },
+    {
+      "id": "hist-e0f600e80bb746bd5fcb9a8b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-07-31",
+      "time": null,
+      "home": "FC Ingolstadt 04",
+      "away": "FC Augsburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 666
+    },
+    {
+      "id": "hist-4f6b21708028dc72d73237ea",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-07-31",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 667
+    },
+    {
+      "id": "hist-046743cb1929b5ee7d0b8eee",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-07-31",
+      "time": null,
+      "home": "SV Wehen Wiesbaden",
+      "away": "VfL Wolfsburg",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 668
+    },
+    {
+      "id": "hist-2345449f41b4e4ec9b9e5768",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "Dynamo Dresden",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 669
+    },
+    {
+      "id": "hist-12088dbed8556706d909f326",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "SG Sonnenhof Großaspach",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 670
+    },
+    {
+      "id": "hist-5dfbbba386bb54914b0e6cd3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "SC Paderborn 07",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 671
+    },
+    {
+      "id": "hist-43011c3fbdfa0921f62e22c9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "SpVgg Weiden",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 672
+    },
+    {
+      "id": "hist-e7b2856b23f33b1ab414011f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "SV 07 Elversberg",
+      "away": "SC Freiburg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 673
+    },
+    {
+      "id": "hist-88226eab1738d38ade27cd74",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "SpVgg Unterhaching",
+      "away": "Arminia Bielefeld",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 674
+    },
+    {
+      "id": "hist-dce307f7c0281269a0035e11",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "Kickers Emden",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 675
+    },
+    {
+      "id": "hist-c82119d60ab620690c8bcd72",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 676
+    },
+    {
+      "id": "hist-6e0f8e2bc7431f0aac2e76c1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "TSV Germania Windeck",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 677
+    },
+    {
+      "id": "hist-e0b2fae5557bcb55b3a94e76",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "1. FC Magdeburg",
+      "away": "Energie Cottbus",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 678
+    },
+    {
+      "id": "hist-abb3161a80293a08a9862595",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 679
+    },
+    {
+      "id": "hist-d86b23df673cd44bd8ee34e8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "Wacker Burghausen",
+      "away": "Rot Weiss Ahlen",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (0:0, 0:0), 4:5 i. E.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 680
+    },
+    {
+      "id": "hist-2e5418ee231e70d62e21ebf4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-01",
+      "time": null,
+      "home": "Preußen Münster",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 681
+    },
+    {
+      "id": "hist-c2ea964a2fc5ac88d02b9424",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "1. FC Union Berlin",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 682
+    },
+    {
+      "id": "hist-dcbfc79458920634d1e5fd5e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "FC 08 Villingen",
+      "away": "FC St. Pauli",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 683
+    },
+    {
+      "id": "hist-e2c0906d828e5d45bb619da9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "SC Concordia Hamburg",
+      "away": "TuS Koblenz",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Koblenz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 684
+    },
+    {
+      "id": "hist-1d210abe6bfd06cc5e2480f2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "FC Oberneuland",
+      "away": "TSG 1899 Hoffenheim",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 685
+    },
+    {
+      "id": "hist-24bf2fdec0c0e9ed238f7ec6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "VfB Speldorf",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 686
+    },
+    {
+      "id": "hist-e1a42d46cdec60412cd97a0c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 687
+    },
+    {
+      "id": "hist-3e33f3811956cb470d10f8a2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "Torgelower SV Greif",
+      "away": "Alemannia Aachen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 688
+    },
+    {
+      "id": "hist-7f7df3eac1df13bc96dc0e3e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "FC Rot-Weiß Erfurt",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 689
+    },
+    {
+      "id": "hist-276ed0597de62569e58a7f54",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Hannover 96",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 690
+    },
+    {
+      "id": "hist-66c80b9098682a9a089f6aed",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "SpVgg Neckarelz",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 691
+    },
+    {
+      "id": "hist-e9fbab9eea279d1e6db84bdc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "Sportfreunde Lotte",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 692
+    },
+    {
+      "id": "hist-f923ea60c3f133815a2f6abf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-02",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 693
+    },
+    {
+      "id": "hist-f27cc8e3ec176d6525ee3e96",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2009-08-03",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Hamburger SV",
+      "score": null,
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V. (2:2, 2:1), 1:4 i. E.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 694
+    },
+    {
+      "id": "hist-c5b5f1bb5ffa429b6ce5b804",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-22",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Arminia Bielefeld",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V. (2:2, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Trier",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 702
+    },
+    {
+      "id": "hist-74e382e7d3c3be971443ce05",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-22",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "TSG 1899 Hoffenheim",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 703
+    },
+    {
+      "id": "hist-7cd0dd0c2aa6b7f7152659e2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-22",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 704
+    },
+    {
+      "id": "hist-a2b92595ebae466e3c49c86d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-22",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "MSV Duisburg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 705
+    },
+    {
+      "id": "hist-f1c1498107fe0aae5fd202c3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-22",
+      "time": null,
+      "home": "Rot Weiss Ahlen",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 706
+    },
+    {
+      "id": "hist-bbc4c8af9134cd1a379c498a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-22",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 707
+    },
+    {
+      "id": "hist-456cb1523e2a452c6611ecb7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-22",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 708
+    },
+    {
+      "id": "hist-4a9760b0d87e30d8d4f1a617",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-22",
+      "time": null,
+      "home": "TuS Koblenz",
+      "away": "Energie Cottbus",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V. (2:2, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TuS Koblenz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 709
+    },
+    {
+      "id": "hist-abbc0da9d846b21f5e9d733a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-23",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 1:0) (4:1 i. E.)",
+      "penalties": [
+        4,
+        1
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 710
+    },
+    {
+      "id": "hist-00749dd5f50ad87db74ba881",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-23",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 711
+    },
+    {
+      "id": "hist-b0d6f5d2b071a1d721aee02b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-23",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC St. Pauli",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 712
+    },
+    {
+      "id": "hist-53303175d31e46ac062b4a6a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-23",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Alemannia Aachen",
+      "score": [
+        6,
+        4
+      ],
+      "reportedScore": [
+        6,
+        4
+      ],
+      "raw": "6:4 (3:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 713
+    },
+    {
+      "id": "hist-aab3b3f28d52f6a49eeafda2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-23",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Hamburger SV",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V. (2:2, 0:0) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 714
+    },
+    {
+      "id": "hist-a5eee0b1d94f734167cf9231",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-23",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 715
+    },
+    {
+      "id": "hist-8113b4a8cafb8c6dc953bf4f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-23",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 716
+    },
+    {
+      "id": "hist-8e38c20535aea1e6bd0d6910",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2009-09-23",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "VfL Wolfsburg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 717
+    },
+    {
+      "id": "hist-bbab9b6de908c15d791cae75",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2009-10-27",
+      "time": null,
+      "home": "SpVgg Greuther Fürth",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 725
+    },
+    {
+      "id": "hist-3d5608b88d1a2a88710c129f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2009-10-27",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 726
+    },
+    {
+      "id": "hist-be894dfcd098fa404c9d189c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2009-10-27",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Borussia Dortmund",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 727
+    },
+    {
+      "id": "hist-44fa3b78ee6e5b5252894aa8",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2009-10-27",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "MSV Duisburg",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 728
+    },
+    {
+      "id": "hist-b779f08a338b84f30b37a0a5",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2009-10-28",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 729
+    },
+    {
+      "id": "hist-4fe917db77e6e76c236fa4a7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2009-10-28",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 730
+    },
+    {
+      "id": "hist-000b4831567aa331e94980e8",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2009-10-28",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim",
+      "away": "TuS Koblenz",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 731
+    },
+    {
+      "id": "hist-5ba6ae53c0c8b9da2f5cc6d3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2009-10-28",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 732
+    },
+    {
+      "id": "hist-b3d2a9681bdd084fff2dd0cd",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2010-02-09",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "TSG 1899 Hoffenheim",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 740
+    },
+    {
+      "id": "hist-cdebe3743e7f16fe8db81390",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2010-02-10",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 741
+    },
+    {
+      "id": "hist-e58ad201713098d71c66efde",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2010-02-10",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 742
+    },
+    {
+      "id": "hist-89cb8e3a53436bdc0f797b72",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2010-02-10",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 743
+    },
+    {
+      "id": "hist-41cfd73634f880524015d4e4",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2010-03-23",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC Augsburg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 751
+    },
+    {
+      "id": "hist-c82cdc56e3ead0522250d6b1",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2010-03-24",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 752
+    },
+    {
+      "id": "hist-a003b0c29dfff5c9963f20ca",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 859
+    }
+  ],
+  "issues": []
+}

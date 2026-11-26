@@ -1,0 +1,1868 @@
+{
+  "season": "2005-06",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270511637",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-76937c52d21f7c5d0f1503e3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-19",
+      "time": null,
+      "home": "Wuppertaler SV Borussia",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 649
+    },
+    {
+      "id": "hist-ffc8b018f1bca7c9281ff19a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-19",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 650
+    },
+    {
+      "id": "hist-1cbe3615ef071343fcbebdfb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-19",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 651
+    },
+    {
+      "id": "hist-0b77a9e65906fe97d74ccbad",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-19",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Energie Cottbus",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 1:0) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 652
+    },
+    {
+      "id": "hist-16a02beb5b994cada3225772",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-19",
+      "time": null,
+      "home": "1. FC Köln II",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 653
+    },
+    {
+      "id": "hist-24908efba2500b1b9818bafc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-19",
+      "time": null,
+      "home": "VfL Bochum II",
+      "away": "FC Erzgebirge Aue",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Erzgebirge Aue",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 654
+    },
+    {
+      "id": "hist-7ce048ca66e237cbf29ab68a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-19",
+      "time": null,
+      "home": "1. FSV Mainz 05 II",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 655
+    },
+    {
+      "id": "hist-593a912af8c4a0cd30ce2c3e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-19",
+      "time": null,
+      "home": "FC Rot-Weiß Erfurt",
+      "away": "LR Ahlen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Rot-Weiß Erfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 656
+    },
+    {
+      "id": "hist-cc2d59ec6d8e9d1897e5d449",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "Wacker Burghausen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V. (2:2, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 657
+    },
+    {
+      "id": "hist-2494306ee264d0fa25696eee",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "SSV Jahn Regensburg",
+      "away": "Alemannia Aachen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 658
+    },
+    {
+      "id": "hist-f3ccfe7cd31113a6d24eafa6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "FC Ingolstadt 04",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:1) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 659
+    },
+    {
+      "id": "hist-aca924521dec0ec8992421a2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 660
+    },
+    {
+      "id": "hist-af41a92eedc55db628aadfd5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 661
+    },
+    {
+      "id": "hist-18339c5562b5aad03f9db06f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 662
+    },
+    {
+      "id": "hist-f6fe39388d6105d318ccde4e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 663
+    },
+    {
+      "id": "hist-65b4447819ad48e4d7ad0ea8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "SC Paderborn 07",
+      "away": "VfL Wolfsburg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 664
+    },
+    {
+      "id": "hist-36df60e1d961bb2a92f31c50",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "SG Wattenscheid 09",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 665
+    },
+    {
+      "id": "hist-7ef9507187011ae0bd16184c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "FC 1908 Villingen",
+      "away": "Hansa Rostock",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5 n. V. (2:2, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 666
+    },
+    {
+      "id": "hist-7f5fde800c4b06516c0890b9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "FC Rot-Weiß Erfurt II",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        8
+      ],
+      "reportedScore": [
+        0,
+        8
+      ],
+      "raw": "0:8 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 667
+    },
+    {
+      "id": "hist-184acf2804824ab449af82e0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "FC Bremerhaven 1899",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 668
+    },
+    {
+      "id": "hist-8e642c9adc6e89359c663988",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-20",
+      "time": null,
+      "home": "TuS Koblenz",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 669
+    },
+    {
+      "id": "hist-e1d92140381bdda82f011975",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-21",
+      "time": null,
+      "home": "FC Sachsen Leipzig",
+      "away": "Dynamo Dresden",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:1) (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Dynamo Dresden",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 670
+    },
+    {
+      "id": "hist-47b43a6c64801a945df9534d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-21",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V. (2:2, 2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 671
+    },
+    {
+      "id": "hist-866a28d44325e76882495ef0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-21",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 0:1) (10:9 i. E.)",
+      "penalties": [
+        10,
+        9
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 672
+    },
+    {
+      "id": "hist-e3a267dfa74d0757adc69b1e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-21",
+      "time": null,
+      "home": "Sportfreunde Siegen",
+      "away": "SC Freiburg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 673
+    },
+    {
+      "id": "hist-24e08c1a67122f9b29d39bc4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-21",
+      "time": null,
+      "home": "1. FC Eschborn",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 674
+    },
+    {
+      "id": "hist-7b481a46c8d1461effc0b6cd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-21",
+      "time": null,
+      "home": "FC Kutzhof",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 675
+    },
+    {
+      "id": "hist-72e4b1d7dbb0f9cf2eb24301",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-21",
+      "time": null,
+      "home": "VfL Wolfsburg II",
+      "away": "MSV Duisburg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 676
+    },
+    {
+      "id": "hist-0a5585c27ec518d971df681c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-21",
+      "time": null,
+      "home": "MSV 1919 Neuruppin",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 677
+    },
+    {
+      "id": "hist-1e09ffc5a4b1fbb6a88acde5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-21",
+      "time": null,
+      "home": "FC Hansa Rostock II",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 678
+    },
+    {
+      "id": "hist-8e9ec4178bd993fa32ff869c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-21",
+      "time": null,
+      "home": "Magdeburger SV 90 Preußen",
+      "away": "Arminia Bielefeld",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 679
+    },
+    {
+      "id": "hist-b767c74b440cb259d3726f38",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2005-08-22",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 680
+    },
+    {
+      "id": "hist-d55a73de4868ba8473137e43",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-25",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "VfL Bochum",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 685
+    },
+    {
+      "id": "hist-e11feee818eaab4e4f22c873",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-25",
+      "time": null,
+      "home": "FC Rot-Weiß Erfurt",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 686
+    },
+    {
+      "id": "hist-a095d50f6e031025013f143f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-25",
+      "time": null,
+      "home": "SpVgg Unterhaching",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 687
+    },
+    {
+      "id": "hist-2bcaf93e86eddb8c36bdcdba",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-25",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "VfL Wolfsburg",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (1:1, 0:0) (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 688
+    },
+    {
+      "id": "hist-3aec40a360c77c4063089aed",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-25",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "FC Schalke 04",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 689
+    },
+    {
+      "id": "hist-a172f9708c981bef2c2a75f0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-25",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Dynamo Dresden",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 690
+    },
+    {
+      "id": "hist-3d502a15b84fb420303c1350",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-25",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 691
+    },
+    {
+      "id": "hist-0fec2cda10c4d6464d3e48b8",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-25",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 692
+    },
+    {
+      "id": "hist-01e6e811f47a2a16a58546e0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-26",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 1:1) (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 693
+    },
+    {
+      "id": "hist-dfeac08dfe3fcde567cede2f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-26",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 694
+    },
+    {
+      "id": "hist-d9772eeb6aa021ba505e6ef4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-26",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "MSV Duisburg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 695
+    },
+    {
+      "id": "hist-e730d0cfbca3944fb96f77ee",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-26",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "Energie Cottbus",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 696
+    },
+    {
+      "id": "hist-f2c8e4b31963383af58b8d95",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-26",
+      "time": null,
+      "home": "Hansa Rostock",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (3:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 697
+    },
+    {
+      "id": "hist-b087a839b8e7b88face1442f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-26",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Karlsruher SC",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 698
+    },
+    {
+      "id": "hist-0fd6242ce7737c691c8f6a28",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-26",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 699
+    },
+    {
+      "id": "hist-1bc1d1c20c6acb7017d15218",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2005-10-26",
+      "time": null,
+      "home": "FC Erzgebirge Aue",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 700
+    },
+    {
+      "id": "hist-74446c0f2109ea0dc51b9d30",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2005-12-20",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 705
+    },
+    {
+      "id": "hist-b53d51c64a6b0caff44b98a4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2005-12-20",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 706
+    },
+    {
+      "id": "hist-39689b8eb937461e79f6c12c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2005-12-20",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:0) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 707
+    },
+    {
+      "id": "hist-e1c93c2e1e0b81d8b7aeca0c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2005-12-21",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:1) (4:1 i. E.)",
+      "penalties": [
+        4,
+        1
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 708
+    },
+    {
+      "id": "hist-df07b18f0524396b4a1c0fb4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2005-12-21",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 709
+    },
+    {
+      "id": "hist-9d983fac03d42d8f40074ae1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2005-12-21",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "Hertha BSC",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 n. V. (2:2, 1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 710
+    },
+    {
+      "id": "hist-ff0cc9ba9eaad52c6ec32cb9",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2005-12-21",
+      "time": null,
+      "home": "Hansa Rostock",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:1) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 711
+    },
+    {
+      "id": "hist-9b628d6a42b198cd74a93ce4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2005-12-21",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 712
+    },
+    {
+      "id": "hist-acbeb98fb786847fdc3b0b92",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2006-01-24",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 717
+    },
+    {
+      "id": "hist-8ad028fc27bb2ee61fb47e19",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2006-01-25",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:1) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 718
+    },
+    {
+      "id": "hist-78434640c08c0d1cc0aa5357",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2006-01-25",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 719
+    },
+    {
+      "id": "hist-a5c8f8cc8824ac135d1d6f15",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2006-01-25",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "Werder Bremen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 720
+    },
+    {
+      "id": "hist-e320a8f10df3427d0cc86d9c",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2006-04-11",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Arminia Bielefeld",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 728
+    },
+    {
+      "id": "hist-f65a6a906cb1e87e190f65ba",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2006-04-12",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 729
+    },
+    {
+      "id": "hist-0defc86a8060aed9751a8146",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 830
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,446 @@
+{
+  "season": "1960-61",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=267754441",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-f938da4182e804fa6463912d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1961-07-28",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 21
+    },
+    {
+      "id": "hist-9ad22664b038528f0f23a7fe",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1961-07-29",
+      "time": null,
+      "home": "VfV Hildesheim",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 22
+    },
+    {
+      "id": "hist-3d71d2643b0f26d55a328edf",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1961-07-29",
+      "time": null,
+      "home": "SC Tasmania 1900 Berlin",
+      "away": "Altona 93",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Tasmania 1900 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 23
+    },
+    {
+      "id": "hist-9de6f9658819134a98ce25c1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1961-07-29",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 24
+    },
+    {
+      "id": "hist-bfc1b2ca20a6d7e53b08ed9b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1961-07-29",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Heider SV",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 25
+    },
+    {
+      "id": "hist-98665f2edde0f1d880b8a815",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1961-07-29",
+      "time": null,
+      "home": "Hamborn 07",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamborn 07",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-a5d016b6410c114694ec5f65",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1961-07-29",
+      "time": null,
+      "home": "FK Pirmasens",
+      "away": "VfL Bochum",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FK Pirmasens",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-a6ff62dd2e0b9e7ddef9ad1f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1961-07-29",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Wuppertaler SV",
+      "score": [
+        7,
+        2
+      ],
+      "reportedScore": [
+        7,
+        2
+      ],
+      "raw": "7:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-ca1363df63503dc0f044857c",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1961-08-16",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-2e878380fd52a6ea934506bc",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1961-08-16",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-2c92a22804eb3f09428ccbe6",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1961-08-16",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Tasmania 1900 Berlin",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-fa5f395626ecf1debab7d0ac",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1961-08-16",
+      "time": null,
+      "home": "SF Hamborn 07",
+      "away": "FK Pirmasens",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SF Hamborn 07",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-43382da65aed3652202a1e0a",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1961-08-23",
+      "time": null,
+      "home": "SF Hamborn 07",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-747d78b9c0ae66bbaeb2324a",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1961-08-23",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-ccd25baa336890f4c3656fed",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 122
+    }
+  ],
+  "issues": []
+}

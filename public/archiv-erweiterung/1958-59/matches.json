@@ -1,0 +1,127 @@
+{
+  "season": "1958-59",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266123920",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-d2e95cb97f9c7a398a5ad1f5",
+      "round": "Ausscheidungsspiel",
+      "replay": false,
+      "date": "1959-08-16",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        3,
+        6
+      ],
+      "reportedScore": [
+        3,
+        6
+      ],
+      "raw": "3:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 21
+    },
+    {
+      "id": "hist-0271d6dff4efc6c25c392d2d",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1959-10-03",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "VfR Mannheim",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 26
+    },
+    {
+      "id": "hist-0ce1ae24e6c432eaad22c992",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1959-12-12",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-c85d3c02f8813521486137e2",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 112
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,2009 @@
+{
+  "season": "1983-84",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=272046513",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-fa47f7dea1792d6c1e264049",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-16",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-3b34295fb7345ef07fe7e831",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-26",
+      "time": null,
+      "home": "SV Heidingsfeld",
+      "away": "1. Göppinger SV",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Heidingsfeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-70ff757951bd3b9239a87e0d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-26",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "1. FC Nürnberg",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-4c0c992dad5b2a519465ac43",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-26",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-357f230d2908bd9fb3b1b2ae",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-26",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 182
+    },
+    {
+      "id": "hist-f0dbfb916da8f2238be1a802",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "Werder Bremen (A)",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    },
+    {
+      "id": "hist-e25c7e02c6dbb756c8f9497b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "Rot-Weiß Lüdenscheid",
+      "away": "SSV Ulm 1846",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Lüdenscheid",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 184
+    },
+    {
+      "id": "hist-0a2b762de27ba82674c25420",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "1. FC Köln (A)",
+      "away": "FC Gohfeld",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (A)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-1a404c5fa84b73463346d007",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Borussia Dortmund",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    },
+    {
+      "id": "hist-12cd679096007311eb6e5320",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 187
+    },
+    {
+      "id": "hist-a3e4c9e4f47055ac3a62ebcf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "KSV Hessen Kassel",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 188
+    },
+    {
+      "id": "hist-fb526990a61d46c71f1f5f4e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 189
+    },
+    {
+      "id": "hist-6423e201e1f6aca54c4b31b5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 190
+    },
+    {
+      "id": "hist-49092d85dd13f6a215655b22",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "SV Sandhausen",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    },
+    {
+      "id": "hist-1d3cd2454f51d4fc3ba1543c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "VfR Aachen-Forst",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 192
+    },
+    {
+      "id": "hist-9fdb4890b6549ecd42e7af86",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "SC Pfullendorf",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-aba34a6c41d8268d937089bf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Hannover 96",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-88462c782dd767b74b10ac43",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "SC Charlottenburg",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Charlottenburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-8198cc86f2fdf5263d85119d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "SG Union Solingen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-0d17b97f9ce5451cde2783e5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "FC 08 Homburg / Saar",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-fb94425bd47d57d1db0b202c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "SC Herford",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-1b81eb7626d7d17e93e407fa",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "TuS Lingen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-23269b51c0ceae84eb7134ec",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "ASV Burglengenfeld",
+      "away": "KSV Baunatal",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "ASV Burglengenfeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-c17ec3ac511b5b3e1167e32d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "SV Arminia Hannover",
+      "away": "Spvgg. 03 Neu-Isenburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Spvgg. 03 Neu-Isenburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-f31aa516e2e24df85b6bb7cb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "SG Ellingen-Bonefeld-Willroth",
+      "away": "Holstein Kiel",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-60b1a5d8398a55b14eeb2105",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "SpVgg Bayreuth",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-8c599b030d8b864148d27605",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-27",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "SV Darmstadt 98",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-ea169b463a2eb4b454d2b589",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-28",
+      "time": null,
+      "home": "Hummelsbütteler SV",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-3c3d1e75e2453a7489624e5e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-28",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "Arminia Bielefeld",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-16fc9ce650b5bec5cafb49c3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-28",
+      "time": null,
+      "home": "Göttingen 05",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Göttingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-8907ffe9d92226feb86504c9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-28",
+      "time": null,
+      "home": "TuS Schloß Neuhaus",
+      "away": "BV 08 Lüttringhausen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Schloß Neuhaus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 208
+    },
+    {
+      "id": "hist-0d7bff6fd5a6a8a7c692f60b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1983-08-28",
+      "time": null,
+      "home": "Hassia Bingen",
+      "away": "1. FC Bocholt",
+      "score": [
+        4,
+        4
+      ],
+      "reportedScore": [
+        4,
+        4
+      ],
+      "raw": "4:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 209
+    },
+    {
+      "id": "hist-0ea265dd69f33c498fd1ba77",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1983-09-21",
+      "time": null,
+      "home": "1. FC Bocholt",
+      "away": "Hassia Bingen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Bocholt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 214
+    },
+    {
+      "id": "hist-c720813adb70a53bee7e49ed",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1983-09-21",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "SV Sandhausen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    },
+    {
+      "id": "hist-db087ffa1a14ff96dd87c33a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-07",
+      "time": null,
+      "home": "FC Augsburg",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-270a4ff2aefa7824198a2557",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-07",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "VfL Osnabrück",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 221
+    },
+    {
+      "id": "hist-6af0e37d98959c6e989bff1f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-07",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 222
+    },
+    {
+      "id": "hist-7403060b78f61199455201ef",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "SC Charlottenburg",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 223
+    },
+    {
+      "id": "hist-64f288f86fe083a32cfc1d66",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "SV Heidingsfeld",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 224
+    },
+    {
+      "id": "hist-1f316a2440a5189c0b65db61",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Arminia Bielefeld",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 225
+    },
+    {
+      "id": "hist-a89157d29ea9677af835411d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Kickers Offenbach",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-10789f0bd79bc2323146dd42",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-a077ad9a400d03a9b209240a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        5,
+        4
+      ],
+      "reportedScore": [
+        5,
+        4
+      ],
+      "raw": "5:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-d6db0d2b4634ffb34398399b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "ASV Burglengenfeld",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-9ca65ca5aebf5f71ff2565fe",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 05 Uerdingen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-3d834a560eb4f3d44640acae",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "1. FC Bocholt",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Bocholt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 231
+    },
+    {
+      "id": "hist-1551a1b4f9b83828f77dea26",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "TuS Schloß Neuhaus",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 232
+    },
+    {
+      "id": "hist-a01af0e7dcf19005262cf229",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "Rot-Weiß Lüdenscheid",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 233
+    },
+    {
+      "id": "hist-702edf2e8ac4cacb4e91bfba",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-08",
+      "time": null,
+      "home": "Spvgg. 03 Neu-Isenburg",
+      "away": "Göttingen 05",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Göttingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 234
+    },
+    {
+      "id": "hist-2dd2a92fbadb62cde23a9a35",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1983-10-09",
+      "time": null,
+      "home": "1. FC Köln (A)",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        8
+      ],
+      "reportedScore": [
+        1,
+        8
+      ],
+      "raw": "1:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 235
+    },
+    {
+      "id": "hist-010f236a16e3e69cfa67ebec",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1983-12-18",
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 240
+    },
+    {
+      "id": "hist-092986227eed332f9d32fef6",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-01-14",
+      "time": null,
+      "home": "1. FC Bocholt",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Bocholt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 241
+    },
+    {
+      "id": "hist-0571027f9f2d8cf8ecda8412",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-01-14",
+      "time": null,
+      "home": "Göttingen 05",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 242
+    },
+    {
+      "id": "hist-1c404b9bb9e51f4be9fb879c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-01-14",
+      "time": null,
+      "home": "Bayer 05 Uerdingen",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-32f6d602d0d743bca3b7053a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-01-14",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-697cb1ac433524691eba52f0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-01-14",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 245
+    },
+    {
+      "id": "hist-059b0f6f9ae100c32bae137a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-01-14",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Karlsruher SC",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 246
+    },
+    {
+      "id": "hist-04b2902a70f523c8ff136a3c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1984-01-31",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 247
+    },
+    {
+      "id": "hist-c50fa46979b7a238d298cec7",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1984-01-31",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Bayer 05 Uerdingen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 252
+    },
+    {
+      "id": "hist-229bfccbeb5b5eec397a1b50",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": "1984-01-31",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 253
+    },
+    {
+      "id": "hist-a87efa6f704782f746558f9f",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1984-03-03",
+      "time": null,
+      "home": "1. FC Bocholt",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 258
+    },
+    {
+      "id": "hist-86909e35508085fb1412e9ee",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1984-03-03",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 259
+    },
+    {
+      "id": "hist-d4f7dec5e03ab90f82871fc6",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1984-03-13",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 260
+    },
+    {
+      "id": "hist-a7a0b72a93d49ce3d4e74a66",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1984-03-14",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 261
+    },
+    {
+      "id": "hist-8f491ea721a074f273bcaf8c",
+      "round": "Viertelfinale",
+      "replay": true,
+      "date": "1984-03-27",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 266
+    },
+    {
+      "id": "hist-c1ba15c5c12c2b0f482ec2be",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1984-05-01",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "Werder Bremen",
+      "score": [
+        5,
+        4
+      ],
+      "reportedScore": [
+        5,
+        4
+      ],
+      "raw": "5:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 272
+    },
+    {
+      "id": "hist-caf195ad8f5c14c9cc1383a6",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1984-05-02",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "FC Bayern München",
+      "score": [
+        6,
+        6
+      ],
+      "reportedScore": [
+        6,
+        6
+      ],
+      "raw": "6:6 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 273
+    },
+    {
+      "id": "hist-30ebe893e235630dddeab55e",
+      "round": "Halbfinale",
+      "replay": true,
+      "date": "1984-05-09",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 278
+    },
+    {
+      "id": "hist-52300c54890c19456c3e6529",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Borussia Mönchengladbach",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:1), 7:6 i. E.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 362
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,1844 @@
+{
+  "season": "2012-13",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=271105277",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-e78bc10ebea459c4b6667ed9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-17",
+      "time": null,
+      "home": "SG Sonnenhof Großaspach (IV)",
+      "away": "FSV Frankfurt (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 620
+    },
+    {
+      "id": "hist-51faca375db8321aa609fe43",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-17",
+      "time": null,
+      "home": "VfB Lübeck (IV)",
+      "away": "Eintracht Braunschweig (II)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 621
+    },
+    {
+      "id": "hist-2d13ab9ac05f0d212489e0dd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-17",
+      "time": null,
+      "home": "SV Wilhelmshaven (IV)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 622
+    },
+    {
+      "id": "hist-dda929fad89379ed72971b43",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "Hallescher FC (III)",
+      "away": "MSV Duisburg (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 623
+    },
+    {
+      "id": "hist-412773cb1728c8150f902e60",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "FC Oberneuland (IV)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 624
+    },
+    {
+      "id": "hist-61e376fbdd4a7838bba56cf3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "SpVgg Unterhaching (III)",
+      "away": "1. FC Köln (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 625
+    },
+    {
+      "id": "hist-8b6aec259350fcd37f863923",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "SV Falkensee-Finkenkrug (VI)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 626
+    },
+    {
+      "id": "hist-e09ba84e1e1141bc06601b56",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "SC Victoria Hamburg (IV)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 627
+    },
+    {
+      "id": "hist-b2a3d610232cd2303889baec",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "Offenburger FV (V)",
+      "away": "FC St. Pauli (II)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 628
+    },
+    {
+      "id": "hist-2cfa7d5b75063984e0752884",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "Alemannia Aachen (III)",
+      "away": "Bor. Mönchengladbach (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bor. Mönchengladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 629
+    },
+    {
+      "id": "hist-4e4f6a62d2630b2ad387d6be",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "FC Carl Zeiss Jena (IV)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 630
+    },
+    {
+      "id": "hist-4bbdbba22938a5563bc6e405",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "Berliner AK 07 (IV)",
+      "away": "TSG 1899 Hoffenheim (I)",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Berliner AK 07 (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 631
+    },
+    {
+      "id": "hist-fab1c38cc985844054c87642",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "1. FC Heidenheim (III)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 632
+    },
+    {
+      "id": "hist-5b12597d09dd571c20cf2a12",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "FC Schönberg 95 (VI)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 633
+    },
+    {
+      "id": "hist-624dab825fb4fa8d4f4440b3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-18",
+      "time": null,
+      "home": "Kickers Offenbach (III)",
+      "away": "SpVgg Greuther Fürth (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 634
+    },
+    {
+      "id": "hist-28f9f07f303cc77bd03fd704",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "FC Nöttingen (V)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 635
+    },
+    {
+      "id": "hist-6ed56abb4241c06529f91c23",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "Wormatia Worms (IV)",
+      "away": "Hertha BSC (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 636
+    },
+    {
+      "id": "hist-35759f31dfb5b1911f2ff7f6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "Karlsruher SC (III)",
+      "away": "Hamburger SV (I)",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 637
+    },
+    {
+      "id": "hist-110dad7a0b54f09c575a5001",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "FC Hennef 05 (V)",
+      "away": "TSV 1860 München (II)",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 638
+    },
+    {
+      "id": "hist-cd4df6bec92e3d7dd259c037",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "TSV Havelse (IV)",
+      "away": "1. FC Nürnberg (I)",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V. (2:2, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV Havelse (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 639
+    },
+    {
+      "id": "hist-8ab739d3ffc313fc7a18568d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "VfR Aalen (II)",
+      "away": "FC Ingolstadt 04 (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Aalen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 640
+    },
+    {
+      "id": "hist-f5968391479e6e4b93e0aaa7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "Arminia Bielefeld (III)",
+      "away": "SC Paderborn 07 (II)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 641
+    },
+    {
+      "id": "hist-e371cf99608dab1ffb3fe6f5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "1. FC Saarbrücken (III)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 642
+    },
+    {
+      "id": "hist-42250054bfca27343d55c2ce",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "FC Erzgebirge Aue (II)",
+      "away": "Eintracht Frankfurt (I)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Erzgebirge Aue (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 643
+    },
+    {
+      "id": "hist-3dd0805deaf5d8b8da1b9380",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "Preußen Münster (III)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 n. V. (2:2, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Preußen Münster (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 644
+    },
+    {
+      "id": "hist-cf8b8d5771c792853e272be8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "Hansa Rostock (III)",
+      "away": "1. FC Kaiserslautern (II)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 645
+    },
+    {
+      "id": "hist-8f09733346f7bf1c23921efb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "Wacker Burghausen (III)",
+      "away": "Fortuna Düsseldorf (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 646
+    },
+    {
+      "id": "hist-bd3567de98cf9b2712fd7d64",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-19",
+      "time": null,
+      "home": "SV Roßbach/Verscheid (V)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 647
+    },
+    {
+      "id": "hist-2ff361e6a1ce132158d4f16f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-20",
+      "time": null,
+      "home": "SV Sandhausen (II)",
+      "away": "Energie Cottbus (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Sandhausen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 648
+    },
+    {
+      "id": "hist-226e1dba67a77777873937ea",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-20",
+      "time": null,
+      "home": "Rot-Weiss Essen (IV)",
+      "away": "1. FC Union Berlin (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Union Berlin (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 649
+    },
+    {
+      "id": "hist-5becadaef2d0a0120c4be503",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-20",
+      "time": null,
+      "home": "Chemnitzer FC (III)",
+      "away": "Dynamo Dresden (II)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dynamo Dresden (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 650
+    },
+    {
+      "id": "hist-608c9aafa0e2917547591e88",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2012-08-20",
+      "time": null,
+      "home": "SSV Jahn Regensburg (II)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 651
+    },
+    {
+      "id": "hist-bd5f56ae2343983c264cc047",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-30",
+      "time": null,
+      "home": "Berliner AK 07 (IV)",
+      "away": "TSV 1860 München (II)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 664
+    },
+    {
+      "id": "hist-e0a7f7e946970040c82cdb67",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-30",
+      "time": null,
+      "home": "Wormatia Worms (IV)",
+      "away": "1. FC Köln (II)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 665
+    },
+    {
+      "id": "hist-7de6cc37321aa23c50d9aa72",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-30",
+      "time": null,
+      "home": "Preußen Münster (III)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 666
+    },
+    {
+      "id": "hist-09826bd76f3830c29af71214",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-30",
+      "time": null,
+      "home": "Eintracht Braunschweig (II)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 667
+    },
+    {
+      "id": "hist-44dcca74a45891819fb6063a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-30",
+      "time": null,
+      "home": "TSV Havelse (IV)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 668
+    },
+    {
+      "id": "hist-9d2e1652b85267520fa868c3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-30",
+      "time": null,
+      "home": "FC Schalke 04 (I)",
+      "away": "SV Sandhausen (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 669
+    },
+    {
+      "id": "hist-2ed00048776eaa731488f58d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-30",
+      "time": null,
+      "home": "VfR Aalen (II)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 670
+    },
+    {
+      "id": "hist-48b79523f27f535111d0b123",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-30",
+      "time": null,
+      "home": "1. FSV Mainz 05 (I)",
+      "away": "FC Erzgebirge Aue (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 671
+    },
+    {
+      "id": "hist-5339fdec01a084ab691b8370",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-31",
+      "time": null,
+      "home": "Karlsruher SC (III)",
+      "away": "MSV Duisburg (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 672
+    },
+    {
+      "id": "hist-a1dad2240b5b6eb292277fb3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-31",
+      "time": null,
+      "home": "Arminia Bielefeld (III)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 673
+    },
+    {
+      "id": "hist-9662f33cdb7c36c4ff0ec856",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-31",
+      "time": null,
+      "home": "Kickers Offenbach (III)",
+      "away": "1. FC Union Berlin (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 674
+    },
+    {
+      "id": "hist-fbc462e51b31f0bf4f3834d6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-31",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "FC St. Pauli (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 675
+    },
+    {
+      "id": "hist-4cb986b9e70dd30b26189f9c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-31",
+      "time": null,
+      "home": "Hannover 96 (I)",
+      "away": "Dynamo Dresden (II)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:1) (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hannover 96 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 676
+    },
+    {
+      "id": "hist-dbf80bc2357e1c8a85adef60",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-31",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "1. FC Kaiserslautern (II)",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 677
+    },
+    {
+      "id": "hist-91cc07dd86173394ca1e8e65",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-31",
+      "time": null,
+      "home": "Fortuna Düsseldorf (I)",
+      "away": "Borussia Mönchengladbach (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 678
+    },
+    {
+      "id": "hist-d3522f871241abd1f1e7423c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2012-10-31",
+      "time": null,
+      "home": "VfL Wolfsburg (I)",
+      "away": "FSV Frankfurt (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 679
+    },
+    {
+      "id": "hist-62e7be09ddd2e372bc40fa92",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2012-12-18",
+      "time": null,
+      "home": "FC Schalke 04 (I)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 685
+    },
+    {
+      "id": "hist-af5605b72b091cd201374657",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2012-12-18",
+      "time": null,
+      "home": "Karlsruher SC (III)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 686
+    },
+    {
+      "id": "hist-4e2711136c87dfd8a6e55ea2",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2012-12-18",
+      "time": null,
+      "home": "Kickers Offenbach (III)",
+      "away": "Fortuna Düsseldorf (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 687
+    },
+    {
+      "id": "hist-192e3ba733e927e35e542bbd",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2012-12-18",
+      "time": null,
+      "home": "FC Augsburg (I)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 688
+    },
+    {
+      "id": "hist-dbaccc8bed56c6ddd04488d0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2012-12-19",
+      "time": null,
+      "home": "VfL Wolfsburg (I)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 689
+    },
+    {
+      "id": "hist-7dd333b9ca1760de9a03292c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2012-12-19",
+      "time": null,
+      "home": "VfL Bochum (II)",
+      "away": "TSV 1860 München (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 690
+    },
+    {
+      "id": "hist-b475adce8fdba20354cfa57d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2012-12-19",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "1. FC Köln (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 691
+    },
+    {
+      "id": "hist-412ae89627edf742bc7ca349",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2012-12-19",
+      "time": null,
+      "home": "Borussia Dortmund (I)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 692
+    },
+    {
+      "id": "hist-4db4557c17697b09bed02d74",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2013-02-26",
+      "time": null,
+      "home": "1. FSV Mainz 05 (I)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Freiburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 698
+    },
+    {
+      "id": "hist-50f1c5f64da43e57ab1ae03c",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2013-02-26",
+      "time": null,
+      "home": "Kickers Offenbach (III)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 699
+    },
+    {
+      "id": "hist-6f92fbebea09dff8d3397e55",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2013-02-27",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 700
+    },
+    {
+      "id": "hist-8da8b2a8bcde086f72f0d725",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2013-02-27",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 701
+    },
+    {
+      "id": "hist-7f94942ca4c140bd5a03c5db",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2013-04-16",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 708
+    },
+    {
+      "id": "hist-1d66825f99db7ff58a8bb39d",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2013-04-17",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 709
+    },
+    {
+      "id": "hist-d6ea2ff87cbd3e31a7ebab14",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 845
+    }
+  ],
+  "issues": []
+}

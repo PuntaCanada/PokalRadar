@@ -1,0 +1,1809 @@
+{
+  "season": "1937",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=268191057",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 3,
+  "matches": [
+    {
+      "id": "hist-a9cbe9bbf4887cf348805631",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-22",
+      "time": null,
+      "home": "Wacker 04 Tegel",
+      "away": "SV Hindenburg Allenstein",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wacker 04 Tegel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 126
+    },
+    {
+      "id": "hist-7640d6149677c7740ce31a92",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "VfB Sömmerda",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 127
+    },
+    {
+      "id": "hist-2de26599f9eac6cdf315bda0",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "TuRa Bonn",
+      "away": "SV 06 Kassel-Rothenditmold",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuRa Bonn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 128
+    },
+    {
+      "id": "hist-690010e6c3f05b66892e346a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 129
+    },
+    {
+      "id": "hist-313029fe85c90c6e9a382094",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Kickers Frankenthal",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 130
+    },
+    {
+      "id": "hist-eae4abcf647c4f09ab3f159f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Schwarz-Weiß Wuppertal",
+      "away": "SV Dessau 05",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Wuppertal",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 131
+    },
+    {
+      "id": "hist-419f4b1a813c0920b9aad1a5",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "VfB Friedberg",
+      "away": "SV Waldhof",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 132
+    },
+    {
+      "id": "hist-069929bc8836a72cc778eb1d",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "VfR Mannheim",
+      "away": "Kickers Offenbach",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 133
+    },
+    {
+      "id": "hist-d3f630ddcc0873fa69345c19",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "SV Ratibor 03",
+      "away": "Polizei SV Chemnitz",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Polizei SV Chemnitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 134
+    },
+    {
+      "id": "hist-13194fa864abfbaaf0181ab7",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "WKG BSG Neumeyer Nürnberg",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 135
+    },
+    {
+      "id": "hist-66cbfe4839368912dd5586ea",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Planitzer SC",
+      "away": "Beuthener SuSV 09",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Planitzer SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 136
+    },
+    {
+      "id": "hist-00ae6ccc72a293c75a089d15",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "TuRU Düsseldorf",
+      "away": "Hannover 96",
+      "score": [
+        4,
+        7
+      ],
+      "reportedScore": [
+        4,
+        7
+      ],
+      "raw": "4:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 137
+    },
+    {
+      "id": "hist-fffe07d0f13d3791ff42e9b2",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Minerva 93 Berlin",
+      "away": "SC Victoria Hamburg",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 138
+    },
+    {
+      "id": "hist-e09653f71d2715443b3eccce",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "SC Schlesien Haynau",
+      "away": "BC Hartha",
+      "score": [
+        0,
+        10
+      ],
+      "reportedScore": [
+        0,
+        10
+      ],
+      "raw": "0:10",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BC Hartha",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 139
+    },
+    {
+      "id": "hist-ba62d9c1ce1478a0e25734da",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-05",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "Wormatia Worms",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 140
+    },
+    {
+      "id": "hist-e7d0f494c1d31f6c946b271c",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "1. SSV Ulm 1928",
+      "away": "1. FC Nürnberg",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. SSV Ulm 1928",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 141
+    },
+    {
+      "id": "hist-4aea1b4e74838c420c270c43",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "SV Polizei Lübeck",
+      "away": "Berliner SV 92",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Berliner SV 92",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 142
+    },
+    {
+      "id": "hist-d2436aa4fca86a6afc6deb83",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Germania Bochum",
+      "away": "VfR Köln 04 rrh.",
+      "score": [
+        6,
+        5
+      ],
+      "reportedScore": [
+        6,
+        5
+      ],
+      "raw": "6:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Germania Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 143
+    },
+    {
+      "id": "hist-d07a2821d935a6cd215d6e07",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "FV Zuffenhausen",
+      "away": "SpVgg Fürth",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 144
+    },
+    {
+      "id": "hist-510a4d7a69dcb767a412c53c",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Rasensport Harburg",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 145
+    },
+    {
+      "id": "hist-bba8f9e42840866a265da2b4",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Hamburger SV",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 146
+    },
+    {
+      "id": "hist-e556ffdb18e6a805a8e58d83",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Alemannia Plaidt",
+      "away": "Duisburger FV 08",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Duisburger FV 08",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 147
+    },
+    {
+      "id": "hist-aa918946c5fe01d330b9ca8f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "VfB Mühlburg",
+      "away": "FSV Frankfurt",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Mühlburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 148
+    },
+    {
+      "id": "hist-8b348c51942ad9e382de1a98",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Dunlop SV Hanau",
+      "away": "Eimsbütteler TV",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eimsbütteler TV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 149
+    },
+    {
+      "id": "hist-3bb4754cca3a8b6d30a9dd5e",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "SpVgg Sülz 07",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Sülz 07",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 150
+    },
+    {
+      "id": "hist-443020f9af8f10d49d6522f8",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "SC Sperber Hamburg",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 151
+    },
+    {
+      "id": "hist-e0aee8c2f60e3f579e6b45c1",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "SC Bajuwaren München",
+      "away": "Karlsruher FV",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher FV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 152
+    },
+    {
+      "id": "hist-abb921418defe1c8ff226fe1",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "Homberger SV",
+      "away": "Holstein Kiel",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 153
+    },
+    {
+      "id": "hist-bfdd12df86620c252fdeeaa4",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1937-08-29",
+      "time": null,
+      "home": "BuEV Danzig",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 154
+    },
+    {
+      "id": "hist-a9ea463235021102d4cd97e3",
+      "round": "1. Schlussrunde",
+      "replay": true,
+      "date": "1937-09-05",
+      "time": null,
+      "home": "SC Victoria Hamburg",
+      "away": "Minerva 93 Berlin, Z. 1200",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Victoria Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 165
+    },
+    {
+      "id": "hist-b816ad50acabb1f99de35f7f",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "TuRa Bonn",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-6a4dded775b577efa46fe5da",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
+      "id": "hist-266db590cf971dd8bbe31f1c",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Schwarz-Weiß Wuppertal",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-bfb5c2b0b718dc0169f25f34",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "Polizei Chemnitz",
+      "away": "VfR Mannheim",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Polizei Chemnitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-ee4c0de5a3605b1092cf2a21",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "SC Planitz",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-37e411c2b0bca65a7099c2b4",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "BC Hartha",
+      "away": "Wacker 04 Tegel",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BC Hartha",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-be8b6d4ac34adc5b7d6a5c08",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "Wormatia Worms",
+      "away": "1. SSV Ulm 1928",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wormatia Worms",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 182
+    },
+    {
+      "id": "hist-4b885e75d420521ea66ba6cb",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "Berliner SV 92",
+      "away": "Germania Bochum",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Berliner SV 92",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    },
+    {
+      "id": "hist-5f7ac572a7a2aa1c71a5e027",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "FV 1906 Breslau",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 184
+    },
+    {
+      "id": "hist-ea9516dec266e5240c7b08d6",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Borussia Dortmund",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-2dc2953873acaec0536def18",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "Duisburger FV 08",
+      "away": "VfB Mühlburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Duisburger FV 08",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    },
+    {
+      "id": "hist-526249d93816cdd439fee6f3",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "Eimsbütteler TV",
+      "away": "SpVgg Sülz",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eimsbütteler TV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 187
+    },
+    {
+      "id": "hist-cb7d32cb72e4d2f05131c2e0",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "Tennis-Borussia Berlin",
+      "away": "Dresdner SC",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 188
+    },
+    {
+      "id": "hist-5f4f6d68b3114c0cff51f218",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "Karlsruher FV",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 189
+    },
+    {
+      "id": "hist-4f60c1cd036f41380869ae86",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-09-19",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Hertha BSC",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 190
+    },
+    {
+      "id": "hist-8c231e78d67f98c5ba1fb9b3",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1937-10-17",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "SC Victoria Hamburg",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    },
+    {
+      "id": "hist-ac61f3fa9844d7aab9664df5",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-f81ae0c868f32ac32e94b40a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Polizei Chemnitz",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-eea331bd4a9d570d3328424d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-936e0dcc27737c587de771f4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "BC Hartha",
+      "away": "Wormatia Worms",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BC Hartha",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-59cc6a96b9d2accb8f7e5c41",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Berliner SV 92",
+      "away": "SpVgg Fürth",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Berliner SV 92",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-f7dce28e838413e880c0d944",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "Duisburger FV 08",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-ae7d5cc976b6d5a22669397e",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "Eimsbütteler TV",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-4208a16660d54dc686e8e0e0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Holstein Kiel",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-b1180c8d13ca3d27747f1c77",
+      "round": "Achtelfinale",
+      "replay": true,
+      "date": null,
+      "time": null,
+      "home": "Duisburger FV 08",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    },
+    {
+      "id": "hist-30daae8639ac4af38dc19459",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Berliner SV 92",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-7b3524d7cdc406c692563d5c",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Borussia Dortmund",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-9a4ead01d68595891d0d587d",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-00b672e9ca00eef10f4054ad",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "BC Hartha",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-de325b4b5bedbf99b8aa4fab",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-017954ba8bfe81896941a5b0",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Dresdner SC",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-217c644d9455eab4d7a68b0f",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 288
+    }
+  ],
+  "issues": []
+}

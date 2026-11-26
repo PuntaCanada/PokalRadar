@@ -1,0 +1,1894 @@
+{
+  "season": "1939",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=268190999",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 1,
+  "matches": [
+    {
+      "id": "hist-37ac32c60fb4851cc6b4031c",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "SC Union Oberschöneweide",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-cc511d369b7bd5392ee45d45",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "PSV Danzig",
+      "away": "Viktoria Stolp",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Viktoria Stolp",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-4f7fe1045316bbddb2387328",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "NSTG Warnsdorf",
+      "away": "FC Sportfreunde Leipzig",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Sportfreunde Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-65f2e18be501843f487297bf",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "1. SC Göttingen 05",
+      "away": "1. SV Jena",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. SC Göttingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-3647f89b4e4d5eef57bd4320",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "WKG BSG Neumeyer Nürnberg",
+      "away": "CSC 03 Kassel",
+      "score": [
+        7,
+        3
+      ],
+      "reportedScore": [
+        7,
+        3
+      ],
+      "raw": "7:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "WKG BSG Neumeyer Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-c78a63f58db4b3f2c4672b06",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "VfL Halle 1896",
+      "away": "Dresdner SC",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-d23956f7e8bfa727f0b4fece",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "FC Thüringen Weida",
+      "away": "Berliner SV 92",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Berliner SV 92",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-b4b9b9990df2ac1329e69a4c",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "SV Klettendorf",
+      "away": "Minerva 93 Berlin",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Klettendorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-26e6a02da234a70f5cdd65a4",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "VfL Köln 1899",
+      "away": "Wormatia Worms",
+      "score": [
+        9,
+        0
+      ],
+      "reportedScore": [
+        9,
+        0
+      ],
+      "raw": "9:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Köln 1899",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-4b533a37d81ee68368485e4b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "Eimsbütteler TV",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-29fcf6bdc0a8aca01443e13f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "1. FC Schweinfurt 05",
+      "away": "SC Wacker Wien",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Wacker Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-69505ff6ba22553f68419886",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-05",
+      "time": null,
+      "home": "SpVgg Cannstatt",
+      "away": "VfB Mühlburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-27720002d62d8b3941242910",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "Hamborn 07",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-eb05fe0b115edeb60d5fb60b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "Blumenthaler SV",
+      "away": "SV Polizei Hamburg",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Polizei Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-126210d5a1b30d49987616cd",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "VfR Mannheim",
+      "away": "Westende Hamborn",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Westende Hamborn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-f2aa70c1a5397719037faca3",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "SV Kurhessen Kassel",
+      "away": "SpVgg Köln-Sülz",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Köln-Sülz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-881b8f887ef396812a19be3a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "First Vienna FC 1894",
+      "away": "BC Hartha",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "BC Hartha",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-bf6b654032a2dc2f2442f36c",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "VfL Benrath",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 64
+    },
+    {
+      "id": "hist-e80df98159f196bd4d1c0fd7",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "FC Singen 04",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 65
+    },
+    {
+      "id": "hist-e868db9784e6c0acb9c6c329",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "SpVgg 1899 Leipzig",
+      "away": "Vorwärts-Rasensport Gleiwitz",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Vorwärts-Rasensport Gleiwitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 66
+    },
+    {
+      "id": "hist-cecd9e6419fd2b49e9c147dc",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Planitzer SC",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-e32a1b9f45edb70e17af3490",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "Vorwärts Billstedt",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-b2b3d625c9c7120a6fba8be9",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "FSV Frankfurt",
+      "away": "Mülheimer SV 06",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-7a6d79094616d8ef722503e3",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "SV Dessau 05",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-e0926be1be18a84b85a33099",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "Konkordia Plauen",
+      "away": "SC Victoria Hamburg",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Konkordia Plauen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 71
+    },
+    {
+      "id": "hist-6214dcbff94792645a636614",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "SK Admira Wien",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 72
+    },
+    {
+      "id": "hist-eca7be1c9abf76664f4ede4f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "SV Beuel 06",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 73
+    },
+    {
+      "id": "hist-df33af5349a0b5d5362dac28",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "VfB 03 Bielefeld",
+      "away": "VfL Osnabrück",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-fc8dd33aab4be9eb2d6b278c",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "VfvB Alsum",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        13
+      ],
+      "reportedScore": [
+        0,
+        13
+      ],
+      "raw": "0:13",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-9fba388d4d0fd5de24008d13",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-08-20",
+      "time": null,
+      "home": "VfB Coburg",
+      "away": "SK Rapid Wien",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-f1fd7fac2bd186f62c5fdf5e",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-05",
+      "time": null,
+      "home": "Phönix Karlsruhe",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-b9744d99577cef7940d2c9cb",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Sportvgg. Masovia Lyck",
+      "away": "MSV Tilsit",
+      "score": null,
+      "reportedScore": null,
+      "raw": "Ausgefallen",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "cancelled",
+      "winner": null,
+      "abandonedScore": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 78,
+      "sourceRevision": 268190999
+    },
+    {
+      "id": "hist-6f153892bb627125516ab56c",
+      "round": "1. Schlussrunde",
+      "replay": true,
+      "date": "1939-11-12",
+      "time": null,
+      "home": "VfB Mühlburg",
+      "away": "SpVgg Cannstatt",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Mühlburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 89
+    },
+    {
+      "id": "hist-86ed950b5cd7702eb83fc90d",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "Viktoria Stolp",
+      "away": "Blau-Weiß 90 Berlin",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 100
+    },
+    {
+      "id": "hist-bc0e4d1b40a8b1b0e4aa43a5",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "FC Sportfreunde Leipzig",
+      "away": "1. SC Göttingen 05",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Sportfreunde Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 101
+    },
+    {
+      "id": "hist-065e4ebc4927c49524513beb",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "WKG BSG Neumeyer Nürnberg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "WKG BSG Neumeyer Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 102
+    },
+    {
+      "id": "hist-55ac4fd7b2566f3000e6cf57",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "Berliner SV 92",
+      "away": "SV Klettendorf",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Berliner SV 92",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 103
+    },
+    {
+      "id": "hist-8ca5a241ca3afd72bf3aac4b",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "VfL 99 Köln",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL 99 Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 104
+    },
+    {
+      "id": "hist-6898208963f2c583c4acf6b7",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "SC Wacker Wien",
+      "away": "VfB Mühlburg",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Wacker Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 105
+    },
+    {
+      "id": "hist-6ae4bf37421b87cd96400511",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "SV Polizei Hamburg",
+      "score": [
+        11,
+        2
+      ],
+      "reportedScore": [
+        11,
+        2
+      ],
+      "raw": "11:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 106
+    },
+    {
+      "id": "hist-a0b1b7b71c09c78f9ca1f436",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "Borussia Neunkirchen",
+      "away": "BC Hartha",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "BC Hartha",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 107
+    },
+    {
+      "id": "hist-7e65d09d931be1e16a11214a",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 108
+    },
+    {
+      "id": "hist-c4267c2ca716e0309c71389b",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "Vorwärts-Rasensport Gleiwitz",
+      "away": "Hertha BSC",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Vorwärts-Rasensport Gleiwitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 109
+    },
+    {
+      "id": "hist-64378abeb625c00f7d7dead5",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Konkordia Plauen",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 110
+    },
+    {
+      "id": "hist-dfbacbe3e8a9ae5a77aa386e",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 111
+    },
+    {
+      "id": "hist-e5c706218502f519e5d70aae",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-11-19",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "FC Schalke 04",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 112
+    },
+    {
+      "id": "hist-f4142fe66d21bb6c1509b3fe",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-12-03",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "FSV Frankfurt",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 113
+    },
+    {
+      "id": "hist-2393b03280af293095ad7bfe",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1939-12-03",
+      "time": null,
+      "home": "SpVgg Köln-Sülz",
+      "away": "Westende Hamborn",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Westende Hamborn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 114
+    },
+    {
+      "id": "hist-dcab974fdc02ea391bde2036",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "FC Sportfreunde Leipzig",
+      "score": [
+        9,
+        2
+      ],
+      "reportedScore": [
+        9,
+        2
+      ],
+      "raw": "9:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blau-Weiß 90 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 124
+    },
+    {
+      "id": "hist-0da3ff8e04bf2de7ee1f0367",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "WKG BSG Neumeyer Nürnberg",
+      "away": "Berliner SV 92",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "WKG BSG Neumeyer Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 125
+    },
+    {
+      "id": "hist-3f98493743fadb2c92dc4b91",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfL 99 Köln",
+      "away": "SC Wacker Wien",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Wacker Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 126
+    },
+    {
+      "id": "hist-092ddf9d20e6d6ab750b483b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Westende Hamborn",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 127
+    },
+    {
+      "id": "hist-3648bb7e083af25188a7ee11",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "BC Hartha",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 128
+    },
+    {
+      "id": "hist-77cd462c7d1dedd0ea861af8",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SK Rapid Wien",
+      "away": "Vorwärts-Rasensport Gleiwitz",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SK Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 129
+    },
+    {
+      "id": "hist-656f84daf7afc0a624dec472",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        8,
+        1
+      ],
+      "reportedScore": [
+        8,
+        1
+      ],
+      "raw": "8:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 130
+    },
+    {
+      "id": "hist-e5746e53ca8b119e01dc876b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "VfL Osnabrück",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 131
+    },
+    {
+      "id": "hist-2f487592022eea09d0a13a40",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "Rapid Wien",
+      "score": [
+        1,
+        7
+      ],
+      "reportedScore": [
+        1,
+        7
+      ],
+      "raw": "1:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 137
+    },
+    {
+      "id": "hist-9a3fe09322e08e35ab491c5f",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Waldhof Mannheim",
+      "away": "Hamburger SV",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 138
+    },
+    {
+      "id": "hist-1c9978dacd639ab1e5f24cf2",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 139
+    },
+    {
+      "id": "hist-ea4361ff01f2c0d19774a609",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Wacker Wien",
+      "away": "WKG BSG Neumeyer Nürnberg",
+      "score": [
+        7,
+        4
+      ],
+      "reportedScore": [
+        7,
+        4
+      ],
+      "raw": "7:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wacker Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 140
+    },
+    {
+      "id": "hist-470159529d7f7e8bc8b5f87f",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Rapid Wien",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 146
+    },
+    {
+      "id": "hist-3c84216b1de1d49a81dd22a0",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Waldhof Mannheim",
+      "away": "Wacker Wien",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 147
+    },
+    {
+      "id": "hist-806da09cf83dab94facfab51",
+      "round": "Halbfinale",
+      "replay": true,
+      "date": null,
+      "time": null,
+      "home": "Wacker Wien",
+      "away": "Waldhof Mannheim",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 152
+    },
+    {
+      "id": "hist-2e147dd3eed9c70356335930",
+      "round": "Halbfinale",
+      "replay": true,
+      "date": null,
+      "time": null,
+      "home": "Waldhof Mannheim",
+      "away": "Wacker Wien",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "(L)0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "drawing-lots",
+      "winner": "Waldhof Mannheim",
+      "abandonedScore": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 153,
+      "sourceRevision": 268190999
+    },
+    {
+      "id": "hist-9693dc05310f18d631e95bce",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    }
+  ],
+  "issues": []
+}

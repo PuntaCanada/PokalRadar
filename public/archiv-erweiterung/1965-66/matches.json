@@ -1,0 +1,997 @@
+{
+  "season": "1965-66",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265846610",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-14bf5f92e1a54f0a6b2ee022",
+      "round": "Qualifikation",
+      "replay": false,
+      "date": "1966-01-02",
+      "time": null,
+      "home": "Borussia M’gladbach",
+      "away": "SC Opel Rüsselsheim",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia M’gladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 21
+    },
+    {
+      "id": "hist-7f35c0a5a92d24c02a352516",
+      "round": "Qualifikation",
+      "replay": false,
+      "date": "1966-01-02",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 22
+    },
+    {
+      "id": "hist-39668f2556792c5583a22695",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "Borussia M’gladbach",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Neunkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 27
+    },
+    {
+      "id": "hist-e408dba7a7596b878e8e8e82",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "Südwest Ludwigshafen",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 28
+    },
+    {
+      "id": "hist-4137a493ef012b55fdee313c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-5d3ebe3677d2f04a855cb6bd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "TSV 1860 München",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-222c020d121be4eaf65e0562",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-4103ed5ac49a08513be73728",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "SC Tasmania 1900 Berlin",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-fc311a3d1571631c2b91945a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-cbcd341b73812a837d547ad4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "Meidericher SV",
+      "away": "VfB Stuttgart",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Meidericher SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-2d5b60659bc4e0665e21cc84",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "SV Alsenborn",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-c42f5e39f6e0541d60463935",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-5bc813798ff977395c697bc2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Preußen Münster",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-32ab8a6e528f65134692cf72",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "TSV Schwaben Augsburg",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-540aacb0919dedac96c7f4ab",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Kickers Offenbach",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-2fda7770a2aff4e3822acec2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-01-22",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Arminia Bielefeld",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-1946eda99d10f114791863b3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-02-02",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "Alemannia Aachen",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Freiburger FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-b36a129c6c848a3cac5d198c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1966-02-02",
+      "time": null,
+      "home": "TuS Haste 01",
+      "away": "Concordia Hamburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Concordia Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 42
+    },
+    {
+      "id": "hist-38fb55e3b4eefb33ee3ef16e",
+      "round": "1. Hauptrunde",
+      "replay": true,
+      "date": "1966-02-19",
+      "time": null,
+      "home": "SC Tasmania 1900 Berlin",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-37cafae4e1f70c612b679563",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1966-02-18",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "Borussia Neunkirchen",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-51097ff62fe58737b2777952",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1966-02-19",
+      "time": null,
+      "home": "Meidericher SV",
+      "away": "FC Schalke 04",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Meidericher SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-855d391d970c40f7f1e46f44",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1966-02-19",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-68de97023bb3b886bd5b3768",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1966-02-19",
+      "time": null,
+      "home": "Freiburger FC",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-1cebe4ae0dc5470c9653f3cd",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1966-02-19",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Holstein Kiel",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-2fb51011280c92a9e33a748b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1966-02-19",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Concordia Hamburg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-9792d2fea4fc3eecba0a706a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1966-02-19",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "Kickers Offenbach",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-da85ebce41ab57990053aaa7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1966-03-09",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-89eebfa8a01a65e9c08857fa",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1966-04-07",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-a4fec854c2ebd9684a12d190",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1966-04-07",
+      "time": null,
+      "home": "Meidericher SV",
+      "away": "Karlsruher SC",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Meidericher SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-5f96732f06e3fddbcded2b9a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1966-04-07",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Werder Bremen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-75a0ea37325992dd2cf33d5a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1966-04-08",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-252aee42b142778859e4e64f",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1966-05-18",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-a7001c7c3050183479d93167",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1966-05-18",
+      "time": null,
+      "home": "Meidericher SV",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Meidericher SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-51ddccca32a8e1d7d0e3cce5",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Meidericher SV",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 143
+    }
+  ],
+  "issues": []
+}

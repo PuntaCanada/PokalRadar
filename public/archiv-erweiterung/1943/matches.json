@@ -1,0 +1,939 @@
+{
+  "season": "1943",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=267708930",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-ea0a99445bde2e34eb72f045",
+      "round": "Qualifikation",
+      "replay": false,
+      "date": "1943-08-15",
+      "time": null,
+      "home": "Cuxhavener SV",
+      "away": "LSV Hamburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 99
+    },
+    {
+      "id": "hist-0907a399459f6f35f5042be8",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-15",
+      "time": null,
+      "home": "SV Viktoria Elbing",
+      "away": "LSV Pütnitz",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Pütnitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 105
+    },
+    {
+      "id": "hist-7e3bad5afb7618538cfc6d69",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-15",
+      "time": null,
+      "home": "TSG Rostock",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        7
+      ],
+      "reportedScore": [
+        1,
+        7
+      ],
+      "raw": "1:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 106
+    },
+    {
+      "id": "hist-34d988b47f0f06752ab90c08",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-22",
+      "time": null,
+      "home": "SG SDW Posen",
+      "away": "VfB Königsberg",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Königsberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 107
+    },
+    {
+      "id": "hist-9d8d1ab21032a968e926422c",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-22",
+      "time": null,
+      "home": "Breslauer SpVg 02",
+      "away": "TuS Lipine",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Breslauer SpVg 02",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 108
+    },
+    {
+      "id": "hist-3b7597b2e38f54fdb30f262b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-22",
+      "time": null,
+      "home": "NSTG Brüx",
+      "away": "First Vienna FC",
+      "score": [
+        0,
+        14
+      ],
+      "reportedScore": [
+        0,
+        14
+      ],
+      "raw": "0:14",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "First Vienna FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 109
+    },
+    {
+      "id": "hist-e40341df37e6e543d0a9ea1b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-22",
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "Borussia Fulda",
+      "score": [
+        13,
+        1
+      ],
+      "reportedScore": [
+        13,
+        1
+      ],
+      "raw": "13:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 110
+    },
+    {
+      "id": "hist-1841025c22ef354c319eda4b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-22",
+      "time": null,
+      "home": "FV Saarbrücken",
+      "away": "VfR Köln",
+      "score": [
+        8,
+        0
+      ],
+      "reportedScore": [
+        8,
+        0
+      ],
+      "raw": "8:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FV Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 111
+    },
+    {
+      "id": "hist-c0ec1bab47ed13ad876cd906",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-22",
+      "time": null,
+      "home": "FC Mülhausen",
+      "away": "VfR Mannheim",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 112
+    },
+    {
+      "id": "hist-0796fc19de74195cf8ad50be",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-22",
+      "time": null,
+      "home": "KSG BC/Post Augsburg",
+      "away": "FC Bayern München",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KSG BC/Post Augsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 113
+    },
+    {
+      "id": "hist-25ec9769ec0846cc0b63a362",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-29",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Kickers Offenbach",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 114
+    },
+    {
+      "id": "hist-c7c9359fc397a04c4a23d2f3",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-29",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Eintracht Braunschweig",
+      "score": [
+        5,
+        4
+      ],
+      "reportedScore": [
+        5,
+        4
+      ],
+      "raw": "5:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 115
+    },
+    {
+      "id": "hist-8005c79bfc7e9193d4f5c740",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-29",
+      "time": null,
+      "home": "LSV Hamburg",
+      "away": "SpVgg Wilhelmshaven",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 116
+    },
+    {
+      "id": "hist-0f37b084b1ca1073dd41299d",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-29",
+      "time": null,
+      "home": "Zel Praga Warschau",
+      "away": "MSV Brünn",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Brünn",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 117
+    },
+    {
+      "id": "hist-8ba9c41fc6eff819c1702814",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-29",
+      "time": null,
+      "home": "SpVgg Erfurt",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 118
+    },
+    {
+      "id": "hist-3c9d0eee0c897e69ce04ff16",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-08-29",
+      "time": null,
+      "home": "FK Niederkorn",
+      "away": "Sportfreunde Katernberg",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Sportfreunde Katernberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 119
+    },
+    {
+      "id": "hist-48d34e8f5d8cb7c73c433b38",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1943-09-12",
+      "time": null,
+      "home": "KSG Schweinfurt",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 120
+    },
+    {
+      "id": "hist-219ee31f5c3a37fe9f5c6020",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1943-09-12",
+      "time": null,
+      "home": "VfB Königsberg",
+      "away": "Dresdner SC",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 126
+    },
+    {
+      "id": "hist-fb10e8b00f61831e9ece4d47",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1943-09-19",
+      "time": null,
+      "home": "LSV Pütnitz",
+      "away": "LSV Hamburg",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 127
+    },
+    {
+      "id": "hist-3d5f1d791536488fc6322cf3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1943-09-19",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "Holstein Kiel",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 128
+    },
+    {
+      "id": "hist-d3437860ecb3bd9f6a28c233",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1943-09-19",
+      "time": null,
+      "home": "MSV Brünn",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 129
+    },
+    {
+      "id": "hist-a5cf806bacf273b7f9a887eb",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1943-09-19",
+      "time": null,
+      "home": "Offenbacher Kickers",
+      "away": "FV Saarbrücken",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FV Saarbrücken",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 130
+    },
+    {
+      "id": "hist-4c3a69a080e530f63dc9c3aa",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1943-09-19",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Sportfreunde Katernberg",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 131
+    },
+    {
+      "id": "hist-b21f61e357ce0d373c7346b3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1943-09-19",
+      "time": null,
+      "home": "VfR Mannheim",
+      "away": "KSG BC/Post Augsburg",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 132
+    },
+    {
+      "id": "hist-4015aecf61ab3bebf25b5554",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1943-09-26",
+      "time": null,
+      "home": "First Vienna FC",
+      "away": "Breslauer SpVg 02",
+      "score": [
+        6,
+        5
+      ],
+      "reportedScore": [
+        6,
+        5
+      ],
+      "raw": "6:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "First Vienna FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 133
+    },
+    {
+      "id": "hist-c4c5a4b6d0e56ca014802775",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1943-10-03",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "LSV Hamburg",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 139
+    },
+    {
+      "id": "hist-be008c52e68b898e0c6674b0",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1943-10-03",
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "VfR Mannheim",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 140
+    },
+    {
+      "id": "hist-7ab0ccc041b9be55c08e32b0",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1943-10-03",
+      "time": null,
+      "home": "FV Saarbrücken",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 141
+    },
+    {
+      "id": "hist-0faa677b47862d75dc68cc5b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1943-10-03",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "First Vienna FC",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "First Vienna FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 142
+    },
+    {
+      "id": "hist-b3c1cfe29fcd955668968b86",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1943-10-17",
+      "time": null,
+      "home": "LSV Hamburg",
+      "away": "Dresdner SC",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LSV Hamburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 148
+    },
+    {
+      "id": "hist-282f337983c22092e5547a51",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1943-10-17",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "First Vienna FC",
+      "score": [
+        2,
+        6
+      ],
+      "reportedScore": [
+        2,
+        6
+      ],
+      "raw": "2:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "First Vienna FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 149
+    },
+    {
+      "id": "hist-18c3a7c2e9aee6767d470114",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Luftwaffen-Sportverein Hamburg",
+      "away": "First Vienna FC",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "First Vienna FC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    }
+  ],
+  "issues": []
+}

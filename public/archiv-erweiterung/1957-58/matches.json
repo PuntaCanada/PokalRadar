@@ -1,0 +1,156 @@
+{
+  "season": "1957-58",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266123900",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-a5470fd8b3da5d74749d51e4",
+      "round": "Ausscheidungsspiel",
+      "replay": false,
+      "date": "1958-08-09",
+      "time": null,
+      "home": "SC Tasmania 1900 Berlin",
+      "away": "VfL Osnabrück",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 45
+    },
+    {
+      "id": "hist-382f402f677d3aca8184f9d9",
+      "round": "Ausscheidungsspiel",
+      "replay": true,
+      "date": "1958-09-21",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "SC Tasmania 1900 Berlin",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Tasmania 1900 Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-f67a211247ee0773d07315b1",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1958-09-21",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-7b13adf32cda323e3ed38431",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1958-10-26",
+      "time": null,
+      "home": "Tasmania 1900 Berlin",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-7cc58c7650e0a2e47e7cfed8",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 n. V. (3:3, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 147
+    }
+  ],
+  "issues": []
+}

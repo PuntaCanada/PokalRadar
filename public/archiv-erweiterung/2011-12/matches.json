@@ -1,0 +1,1853 @@
+{
+  "season": "2011-12",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270511275",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-fcd54026eb37a19deea1197a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-29",
+      "time": null,
+      "home": "1. FC Saarbrücken (III)",
+      "away": "FC Erzgebirge Aue (II)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Erzgebirge Aue (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 616
+    },
+    {
+      "id": "hist-0048a514c0bf657f4331547e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-29",
+      "time": null,
+      "home": "RB Leipzig (IV)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (3:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "RB Leipzig (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 617
+    },
+    {
+      "id": "hist-f5d5f418eee2c67068799c88",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-29",
+      "time": null,
+      "home": "SV Wehen Wiesbaden (III)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 618
+    },
+    {
+      "id": "hist-f48baf5c9e7f98338c23f234",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-29",
+      "time": null,
+      "home": "VfL Osnabrück (III)",
+      "away": "TSV 1860 München (II)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV 1860 München (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 619
+    },
+    {
+      "id": "hist-563cf7d7e53bdc329729d9dc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-29",
+      "time": null,
+      "home": "SSV Jahn Regensburg (III)",
+      "away": "Borussia M’gladbach (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia M’gladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 620
+    },
+    {
+      "id": "hist-5e0844597a2b93014dc25229",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-29",
+      "time": null,
+      "home": "Rot-Weiss Essen (IV)",
+      "away": "1. FC Union Berlin (II)",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 1:0) (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 621
+    },
+    {
+      "id": "hist-fddcc730fffefcf8f6e6e518",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "BFC Dynamo (V)",
+      "away": "1. FC Kaiserslautern (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 622
+    },
+    {
+      "id": "hist-9b45ab95284968ce5d256fcc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "1. FC Heidenheim (III)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Heidenheim (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 623
+    },
+    {
+      "id": "hist-493b49ae7482f1f1d45d71cc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "VfB Oldenburg (V)",
+      "away": "Hamburger SV (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 624
+    },
+    {
+      "id": "hist-bd07db40b5a07f6146f19d61",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "Hallescher FC (IV)",
+      "away": "Eintracht Frankfurt (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 625
+    },
+    {
+      "id": "hist-26a14be110cf43f77dacdaf9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "Arminia Bielefeld (III)",
+      "away": "1. FC Nürnberg (I)",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 (1:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 626
+    },
+    {
+      "id": "hist-06c39be04a4330b98cc19793",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "SV Babelsberg 03 (III)",
+      "away": "MSV Duisburg (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 627
+    },
+    {
+      "id": "hist-340e9eee57f8fd24f523cf4c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "Eintracht Trier (IV)",
+      "away": "FC St. Pauli (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Trier (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 628
+    },
+    {
+      "id": "hist-439c8efc595b4fa7cd931249",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "Rot Weiss Ahlen (V)",
+      "away": "SC Paderborn 07 (II)",
+      "score": [
+        0,
+        10
+      ],
+      "reportedScore": [
+        0,
+        10
+      ],
+      "raw": "0:10 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Paderborn 07 (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 629
+    },
+    {
+      "id": "hist-e9d4e431423ba142484ffee3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "Dynamo Dresden (II)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 n. V. (3:3, 0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Dynamo Dresden (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 630
+    },
+    {
+      "id": "hist-59082667c9d05b5f3e8c6486",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "SV Sandhausen (III)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 631
+    },
+    {
+      "id": "hist-384af129ab9bb55033306a20",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "Holstein Kiel (IV)",
+      "away": "Energie Cottbus (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 632
+    },
+    {
+      "id": "hist-d4af57237b6064fed293a328",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen (III)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Augsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 633
+    },
+    {
+      "id": "hist-e5b9606ce7df585d58f23a5c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "Hansa Rostock (II)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 1:0) (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 634
+    },
+    {
+      "id": "hist-c4f2f3c664e768ab8439a8c1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-30",
+      "time": null,
+      "home": "Kickers Emden (V)",
+      "away": "FSV Frankfurt (II)",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FSV Frankfurt (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 635
+    },
+    {
+      "id": "hist-5736f439f8ff720530c691ea",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "FC Anker Wismar (V)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 636
+    },
+    {
+      "id": "hist-be0072fa6958254988ef38fb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "SpVgg Unterhaching (III)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 637
+    },
+    {
+      "id": "hist-664529b957a954c0cb3c7510",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "Karlsruher SC (II)",
+      "away": "Alemannia Aachen (II)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 638
+    },
+    {
+      "id": "hist-89406fa5830370bb12a758f2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "FC Oberneuland (IV)",
+      "away": "FC Ingolstadt 04 (II)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Ingolstadt 04 (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 639
+    },
+    {
+      "id": "hist-dc5c2f894268e2a3436d71d6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "Eimsbütteler TV (VI)",
+      "away": "SpVgg Greuther Fürth (II)",
+      "score": [
+        0,
+        10
+      ],
+      "reportedScore": [
+        0,
+        10
+      ],
+      "raw": "0:10 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 640
+    },
+    {
+      "id": "hist-91dec3c91070702a2b776017",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "ZFC Meuselwitz (IV)",
+      "away": "Hertha BSC (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 641
+    },
+    {
+      "id": "hist-dd8817b798128414467024a2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "TSV Germania Windeck (VI)",
+      "away": "TSG 1899 Hoffenheim (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 642
+    },
+    {
+      "id": "hist-6c381344d8dde9f08ff5853d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "KSV Hessen Kassel (IV)",
+      "away": "Fortuna Düsseldorf (II)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 643
+    },
+    {
+      "id": "hist-06a0695a0b838baed850ea06",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "FC Teningen (VIII)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        1,
+        11
+      ],
+      "reportedScore": [
+        1,
+        11
+      ],
+      "raw": "1:11 (1:6)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 644
+    },
+    {
+      "id": "hist-a9e913be8382e27f2cf80a12",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "SVN Zweibrücken (V)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (0:0, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 645
+    },
+    {
+      "id": "hist-6ab505359c1f6266c920f2ce",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-07-31",
+      "time": null,
+      "home": "SC Wiedenbrück 2000 (IV)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 646
+    },
+    {
+      "id": "hist-455445d7b5f984a3d7806ab0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2011-08-01",
+      "time": null,
+      "home": "Eintracht Braunschweig (II)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 647
+    },
+    {
+      "id": "hist-a7cedb7149bc6eb22b4b459b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-25",
+      "time": null,
+      "home": "RB Leipzig (IV)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 660
+    },
+    {
+      "id": "hist-5d7d8281fc9efaa9eeef5bff",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-25",
+      "time": null,
+      "home": "SpVgg Unterhaching (III)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 661
+    },
+    {
+      "id": "hist-c67a7df70e9298c53cc2ec38",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-25",
+      "time": null,
+      "home": "1. FC Heidenheim (III)",
+      "away": "Borussia M’gladbach (I)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia M’gladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 662
+    },
+    {
+      "id": "hist-6d1816db84ce4d313b04e60a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-25",
+      "time": null,
+      "home": "Fortuna Düsseldorf (II)",
+      "away": "TSV 1860 München (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 663
+    },
+    {
+      "id": "hist-afb637feda82743469e2e3e2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-25",
+      "time": null,
+      "home": "Eintracht Trier (IV)",
+      "away": "Hamburger SV (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hamburger SV (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 664
+    },
+    {
+      "id": "hist-3a91299215308465b410c35c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-25",
+      "time": null,
+      "home": "SpVgg Greuther Fürth (II)",
+      "away": "SC Paderborn 07 (II)",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 665
+    },
+    {
+      "id": "hist-78f3889f947df934b753e02f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-25",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim (I)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 666
+    },
+    {
+      "id": "hist-005057d29230e0e5163fd378",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-25",
+      "time": null,
+      "home": "Borussia Dortmund (I)",
+      "away": "Dynamo Dresden (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 667
+    },
+    {
+      "id": "hist-cbdc337de27cd1ba0e7add38",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-26",
+      "time": null,
+      "home": "Holstein Kiel (IV)",
+      "away": "MSV Duisburg (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 668
+    },
+    {
+      "id": "hist-a2b7e3b5dd7ac558dec28ecd",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-26",
+      "time": null,
+      "home": "Rot-Weiss Essen (IV)",
+      "away": "Hertha BSC (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 669
+    },
+    {
+      "id": "hist-283d5ec7502fa52118269b13",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-26",
+      "time": null,
+      "home": "Hannover 96 (I)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 670
+    },
+    {
+      "id": "hist-a24caead4818c89932b2b72f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-26",
+      "time": null,
+      "home": "Karlsruher SC (II)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 671
+    },
+    {
+      "id": "hist-db324ac08e99f719325f24a5",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-26",
+      "time": null,
+      "home": "FC Erzgebirge Aue (II)",
+      "away": "1. FC Nürnberg (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 672
+    },
+    {
+      "id": "hist-6f187e34c6ebcdf84d907e3b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-26",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "FC Ingolstadt 04 (II)",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 673
+    },
+    {
+      "id": "hist-7b42f049889c81723afc6a2c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-26",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "FSV Frankfurt (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 674
+    },
+    {
+      "id": "hist-10be19b3cdaa97b478e3334a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2011-10-26",
+      "time": null,
+      "home": "Eintracht Frankfurt (II)",
+      "away": "1. FC Kaiserslautern (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 675
+    },
+    {
+      "id": "hist-c2e7152923fe16208ca8bc5c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2011-12-20",
+      "time": null,
+      "home": "VfL Bochum (II)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 682
+    },
+    {
+      "id": "hist-5c028f0afd0fc766cb34aee9",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2011-12-20",
+      "time": null,
+      "home": "1. FC Nürnberg (I)",
+      "away": "SpVgg Greuther Fürth (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 683
+    },
+    {
+      "id": "hist-0107a5038a4b75dbdcbfe34d",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2011-12-20",
+      "time": null,
+      "home": "Fortuna Düsseldorf (II)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 684
+    },
+    {
+      "id": "hist-92ec1e356541de9d40abd0ce",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2011-12-20",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim (I)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 685
+    },
+    {
+      "id": "hist-7a78e35e81648445bfb9743a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2011-12-21",
+      "time": null,
+      "home": "Hertha BSC (I)",
+      "away": "1. FC Kaiserslautern (I)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 686
+    },
+    {
+      "id": "hist-859941cff395abb91d2afc48",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2011-12-21",
+      "time": null,
+      "home": "Holstein Kiel (IV)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 687
+    },
+    {
+      "id": "hist-4633fad0718d11066aa2f8f1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2011-12-21",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "Hamburger SV (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 688
+    },
+    {
+      "id": "hist-4683d6c21a4e417b94964c80",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2011-12-21",
+      "time": null,
+      "home": "Borussia M’gladbach (I)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia M’gladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 689
+    },
+    {
+      "id": "hist-f796ea56b8a8fd8219bf8e34",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2012-02-07",
+      "time": null,
+      "home": "Holstein Kiel (IV)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 696
+    },
+    {
+      "id": "hist-eac28082f2b53edaa0686458",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2012-02-08",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim (I)",
+      "away": "SpVgg Greuther Fürth (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 697
+    },
+    {
+      "id": "hist-706cf8bc3f3f0e5ebd310b93",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2012-02-08",
+      "time": null,
+      "home": "Hertha BSC (I)",
+      "away": "Borussia M’gladbach (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia M’gladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 698
+    },
+    {
+      "id": "hist-5d26fdbc7dc43fe66ddddcb6",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2012-02-08",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 699
+    },
+    {
+      "id": "hist-2335156f7ff833da439763df",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2012-03-20",
+      "time": null,
+      "home": "SpVgg Greuther Fürth (II)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V. (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 705
+    },
+    {
+      "id": "hist-5e3c7add83deedf099160e7d",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2012-03-21",
+      "time": null,
+      "home": "Borussia Mönchengladbach (I)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 706
+    },
+    {
+      "id": "hist-2a893e127e0ac97d503c7620",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "FC Bayern München",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2 (3:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 805
+    }
+  ],
+  "issues": []
+}

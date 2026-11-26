@@ -1,0 +1,1847 @@
+{
+  "season": "2015-16",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270510799",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-fcab9b851e425cc60e75cf42",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-07",
+      "time": null,
+      "home": "TuS Erndtebrück (IV)",
+      "away": "SV Darmstadt 98 (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 686
+    },
+    {
+      "id": "hist-659dc7dcc04a5d0438dae7af",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-07",
+      "time": null,
+      "home": "BFC Dynamo (IV)",
+      "away": "FSV Frankfurt (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FSV Frankfurt (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 687
+    },
+    {
+      "id": "hist-ac245ab204c6b9aedcb51388",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-07",
+      "time": null,
+      "home": "SV Elversberg (IV)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Augsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 688
+    },
+    {
+      "id": "hist-fa3d7c601cc07e50d7d7e667",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "FC Viktoria Köln (IV)",
+      "away": "1. FC Union Berlin (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Viktoria Köln (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 689
+    },
+    {
+      "id": "hist-fc952151a64e157b95e187f1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "SV Meppen (IV)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 690
+    },
+    {
+      "id": "hist-e59ddd1e787320b54604bc94",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "Hallescher FC (III)",
+      "away": "Eintracht Braunschweig (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 691
+    },
+    {
+      "id": "hist-a54b796ee784b37a7ccc9757",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "Stuttgarter Kickers (III)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 692
+    },
+    {
+      "id": "hist-3ed78560f020e5afa42cdbd2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "Sportfreunde Lotte (IV)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 693
+    },
+    {
+      "id": "hist-4f1371a75537beffd9499da8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "MSV Duisburg (II)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 694
+    },
+    {
+      "id": "hist-6423b5914cf55a5f8e394905",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "Würzburger Kickers (III)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 695
+    },
+    {
+      "id": "hist-0ee3ea0d198b4e3486899950",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "FC Erzgebirge Aue (III)",
+      "away": "SpVgg Greuther Fürth (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Erzgebirge Aue (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 696
+    },
+    {
+      "id": "hist-72bec1262091f4ac9e902b81",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "Bremer SV (V)",
+      "away": "Eintracht Frankfurt (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 697
+    },
+    {
+      "id": "hist-c343a09c84ee250452615786",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "TSV 1860 München (II)",
+      "away": "TSG 1899 Hoffenheim (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 698
+    },
+    {
+      "id": "hist-b0819d4520cec3386788d3e6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "SSV Reutlingen 05 (V)",
+      "away": "Karlsruher SC (II)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Reutlingen 05 (V)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 699
+    },
+    {
+      "id": "hist-f879e458a6fbb3f8651f3d50",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-08",
+      "time": null,
+      "home": "Holstein Kiel (III)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 700
+    },
+    {
+      "id": "hist-9e86a34b2879a0493164a76e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "FC Carl Zeiss Jena (IV)",
+      "away": "Hamburger SV (I)",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V. (2:2, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 701
+    },
+    {
+      "id": "hist-8df07391c47e46b1906de62a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "Bahlinger SC (IV)",
+      "away": "SV Sandhausen (II)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Sandhausen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 702
+    },
+    {
+      "id": "hist-7e7d83b20877502c81e96949",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "HSV Barmbek-Uhlenhorst (V)",
+      "away": "SC Freiburg (II)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 703
+    },
+    {
+      "id": "hist-92eb2b7a8e921259eaa69348",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "FSV Salmrohr (V)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 704
+    },
+    {
+      "id": "hist-7e6197950f967d465ae6d5d4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "Chemnitzer FC (III)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 705
+    },
+    {
+      "id": "hist-889cbc4dee4670afa88a4686",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "VfB Lübeck (IV)",
+      "away": "SC Paderborn 07 (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Paderborn 07 (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 706
+    },
+    {
+      "id": "hist-7c0d29a4f4fc5fc3739fa982",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "Rot-Weiss Essen (IV)",
+      "away": "Fortuna Düsseldorf (II)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (1:3 i. E.)",
+      "penalties": [
+        1,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 707
+    },
+    {
+      "id": "hist-12d2a9c00fb6b4b6b2d06d4e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "FK Pirmasens (IV)",
+      "away": "1. FC Heidenheim (II)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Heidenheim (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 708
+    },
+    {
+      "id": "hist-8b492c67d4bbec8ecaa6228b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "FC Nöttingen (V)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 709
+    },
+    {
+      "id": "hist-d913b7cc72eb78126c8339cf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "SpVgg Unterhaching (IV)",
+      "away": "FC Ingolstadt 04 (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 710
+    },
+    {
+      "id": "hist-ccb3a401cd188f23467e76ee",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "Hansa Rostock (III)",
+      "away": "1. FC Kaiserslautern (II)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 711
+    },
+    {
+      "id": "hist-01e999467a4bda169a078fc0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "KSV Hessen Kassel (IV)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 712
+    },
+    {
+      "id": "hist-0aa51252a4ff631775b88a47",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-09",
+      "time": null,
+      "home": "Energie Cottbus (III)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 713
+    },
+    {
+      "id": "hist-408c4611c1a01f7179e28249",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-10",
+      "time": null,
+      "home": "Arminia Bielefeld (II)",
+      "away": "Hertha BSC (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 714
+    },
+    {
+      "id": "hist-ed61d8edc4613d1397233dd9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-10",
+      "time": null,
+      "home": "VfL Osnabrück (III)",
+      "away": "RB Leipzig (II)",
+      "score": null,
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (Wertung) <s>1:0 (0:0)</s>",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 715
+    },
+    {
+      "id": "hist-a1176984af1335476f29d3ff",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-10",
+      "time": null,
+      "home": "VfR Aalen (III)",
+      "away": "1. FC Nürnberg (II)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (1:2 i. E.)",
+      "penalties": [
+        1,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 716
+    },
+    {
+      "id": "hist-32fe827245c5aacba699be68",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2015-08-10",
+      "time": null,
+      "home": "FC St. Pauli (II)",
+      "away": "Borussia Mönchengladbach (I)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 717
+    },
+    {
+      "id": "hist-2e95e2adf8d913301d255da9",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-27",
+      "time": null,
+      "home": "FC Erzgebirge Aue (III)",
+      "away": "Eintracht Frankfurt (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Erzgebirge Aue (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 732
+    },
+    {
+      "id": "hist-0b4801cfa48e3af40213d0be",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-27",
+      "time": null,
+      "home": "FSV Frankfurt (II)",
+      "away": "Hertha BSC (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 733
+    },
+    {
+      "id": "hist-87312a9599b225edb35b30c4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-27",
+      "time": null,
+      "home": "1. FSV Mainz 05 (I)",
+      "away": "TSV 1860 München (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 734
+    },
+    {
+      "id": "hist-23bf5dacdf4c11e9725bfde0",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-27",
+      "time": null,
+      "home": "1. FC Nürnberg (II)",
+      "away": "Fortuna Düsseldorf (II)",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1 (4:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 735
+    },
+    {
+      "id": "hist-4c911101ad131eb2b1467996",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-27",
+      "time": null,
+      "home": "SpVgg Unterhaching (IV)",
+      "away": "RB Leipzig (II)",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 736
+    },
+    {
+      "id": "hist-8fc7f8a99ce618dee186750f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-27",
+      "time": null,
+      "home": "SV Darmstadt 98 (I)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 737
+    },
+    {
+      "id": "hist-1a857498a51a43d5fc071fa4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-27",
+      "time": null,
+      "home": "VfL Bochum (II)",
+      "away": "1. FC Kaiserslautern (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 738
+    },
+    {
+      "id": "hist-6ba508af5fcde3cac399f1d3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-27",
+      "time": null,
+      "home": "VfL Wolfsburg (I)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 739
+    },
+    {
+      "id": "hist-16ca89c6bd6d0b0b6e9aabda",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-28",
+      "time": null,
+      "home": "FC Viktoria Köln (IV)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 740
+    },
+    {
+      "id": "hist-f870331d0daabf715bc6edcc",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-28",
+      "time": null,
+      "home": "SV Sandhausen (II)",
+      "away": "1. FC Heidenheim (II)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Heidenheim (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 741
+    },
+    {
+      "id": "hist-4d2eeeeb9c2b6684107be455",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-28",
+      "time": null,
+      "home": "Borussia Dortmund (I)",
+      "away": "SC Paderborn 07 (II)",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1 (3:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 742
+    },
+    {
+      "id": "hist-3f3cd87a2c10183e7576feac",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-28",
+      "time": null,
+      "home": "SC Freiburg (II)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 743
+    },
+    {
+      "id": "hist-26ed9844fcf98e7ed5153a62",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-28",
+      "time": null,
+      "home": "FC Carl Zeiss Jena (IV)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 744
+    },
+    {
+      "id": "hist-bfdd1a84c632fdbab2d47e56",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-28",
+      "time": null,
+      "home": "SSV Reutlingen 05 (V)",
+      "away": "Eintracht Braunschweig (II)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 745
+    },
+    {
+      "id": "hist-a2f0234da89de16fc3ae6c35",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-28",
+      "time": null,
+      "home": "FC Schalke 04 (I)",
+      "away": "Borussia Mönchengladbach (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 746
+    },
+    {
+      "id": "hist-46205a6c376ad278cc91900d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2015-10-28",
+      "time": null,
+      "home": "Werder Bremen (I)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 747
+    },
+    {
+      "id": "hist-ee6416606c13bbef56248df3",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-12-15",
+      "time": null,
+      "home": "SpVgg Unterhaching (IV)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 756
+    },
+    {
+      "id": "hist-53565da329b14605a84f0fa5",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-12-15",
+      "time": null,
+      "home": "Borussia Mönchengladbach (I)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 757
+    },
+    {
+      "id": "hist-4afa652351c8d5d7f4e5cf61",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-12-15",
+      "time": null,
+      "home": "FC Erzgebirge Aue (III)",
+      "away": "1. FC Heidenheim (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Heidenheim (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 758
+    },
+    {
+      "id": "hist-08b2d08faa7192b159c83f89",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-12-15",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "SV Darmstadt 98 (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 759
+    },
+    {
+      "id": "hist-e9a7f4348e637ca6402ae688",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-12-16",
+      "time": null,
+      "home": "1. FC Nürnberg (II)",
+      "away": "Hertha BSC (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 760
+    },
+    {
+      "id": "hist-c1bfa7a243243177dd556999",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-12-16",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "Eintracht Braunschweig (II)",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 761
+    },
+    {
+      "id": "hist-b8059c8ad24c4fc80ac8f034",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-12-16",
+      "time": null,
+      "home": "TSV 1860 München (II)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 762
+    },
+    {
+      "id": "hist-c38eee9adee8afe64e98b31f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-12-16",
+      "time": null,
+      "home": "FC Augsburg (I)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 763
+    },
+    {
+      "id": "hist-e8d020579b411cf572aedf1d",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2016-02-09",
+      "time": null,
+      "home": "Bayer 04 Leverkusen (I)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 773
+    },
+    {
+      "id": "hist-737a0fb0d1b79239f7011ff7",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2016-02-09",
+      "time": null,
+      "home": "VfB Stuttgart (I)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 774
+    },
+    {
+      "id": "hist-67dcf0359d04c6e6493e2795",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2016-02-10",
+      "time": null,
+      "home": "1. FC Heidenheim (II)",
+      "away": "Hertha BSC (I)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 775
+    },
+    {
+      "id": "hist-c4a7683c786e2d4febdeb885",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2016-02-10",
+      "time": null,
+      "home": "VfL Bochum (II)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 776
+    },
+    {
+      "id": "hist-ac4be9ca10a2580245a0de92",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2016-04-19",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 785
+    },
+    {
+      "id": "hist-d244cdf3fb2af8f91184155a",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2016-04-20",
+      "time": null,
+      "home": "Hertha BSC (I)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 786
+    },
+    {
+      "id": "hist-2f497a6bbe673564184ab7ab",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Borussia Dortmund",
+      "score": null,
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V., 4:3 i. E.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 921
+    }
+  ],
+  "issues": []
+}

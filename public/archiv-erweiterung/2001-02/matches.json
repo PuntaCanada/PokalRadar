@@ -1,0 +1,1865 @@
+{
+  "season": "2001-02",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270509773",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-d543e7e470caf8c62637b1aa",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-24",
+      "time": null,
+      "home": "FC Rot-Weiß Erfurt",
+      "away": "LR Ahlen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 0:2) (9:8 i. E.)",
+      "penalties": [
+        9,
+        8
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Rot-Weiß Erfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 199
+    },
+    {
+      "id": "hist-b50177d4c37f8a11a6958352",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-24",
+      "time": null,
+      "home": "VfB Stuttgart Amateure",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 200
+    },
+    {
+      "id": "hist-c37dbe5b9d39b2ffd7c917f2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-24",
+      "time": null,
+      "home": "VfR Mannheim",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 201
+    },
+    {
+      "id": "hist-72f876233c371f56249ac855",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-24",
+      "time": null,
+      "home": "SV Yeşilyurt Berlin",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    },
+    {
+      "id": "hist-621d5ecbf459f3ebcf84dd2c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-0be27e7e9a9435975bb6caec",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "SV Babelsberg 03",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-732f47fafc605e5822d54605",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "FC 08 Homburg",
+      "away": "Hamburger SV",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5 (0:5)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-ad17bdc04a397e9b5ffb75dd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "FC St. Pauli Amateure",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-a276f70d1b0e04c1cf492d45",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "KFC Uerdingen 05",
+      "away": "Energie Cottbus",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KFC Uerdingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-3671c3c38bf1fcc7758a0cb8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "Würzburger FV",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        10
+      ],
+      "reportedScore": [
+        0,
+        10
+      ],
+      "raw": "0:10 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 208
+    },
+    {
+      "id": "hist-95b3be693b5da62ecbe061ea",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "VfR Aalen",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 209
+    },
+    {
+      "id": "hist-2acd6a9928d0157292a93f6c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "FC Erzgebirge Aue",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 210
+    },
+    {
+      "id": "hist-35ce585b8d115b50516614ff",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "Blau-Weiß Brühl",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (1:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    },
+    {
+      "id": "hist-ac4ec67926660426728bfc93",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Hansa Rostock",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Osnabrück",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-208f50795c7e3fde8b4ada66",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "Werder Bremen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 213
+    },
+    {
+      "id": "hist-1a691ed2252d59d08103c299",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "Alemannia Aachen",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 214
+    },
+    {
+      "id": "hist-941d35394e5f3ebd56774fb6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    },
+    {
+      "id": "hist-8b9e82131fb1174201511a63",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-25",
+      "time": null,
+      "home": "VfL Wolfsburg Amateure",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg Amateure",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 216
+    },
+    {
+      "id": "hist-5b276c9b9f898b59d844a5d7",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "FC St. Pauli",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-337bdf0ca39b558ac00ae77b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "Werder Bremen Amateure",
+      "away": "1. FC Saarbrücken",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen Amateure",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-e5352cac6c926e4fcdb6cf37",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "Energie Cottbus Amateure",
+      "away": "Arminia Bielefeld",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 219
+    },
+    {
+      "id": "hist-4660557e779c852b82d3f451",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "FC Schüttorf 09",
+      "away": "SSV Reutlingen 05",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Reutlingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 220
+    },
+    {
+      "id": "hist-4557fd2284d168507a69491f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "FC Schalke 04 Amateure",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 221
+    },
+    {
+      "id": "hist-356ff002ae557fb41286b3aa",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "FC Schönberg 95",
+      "away": "VfB Stuttgart",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 222
+    },
+    {
+      "id": "hist-c9289f615718ed1ad8eba0fb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "SSV Jahn Regensburg",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 223
+    },
+    {
+      "id": "hist-c9310b19fef398223e8b35d0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "Chemnitzer FC",
+      "away": "1. FC Köln",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5 (2:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 224
+    },
+    {
+      "id": "hist-7d4949ed2dcb44d8c6419241",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "1. FSV Mainz 05 Amateure",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 225
+    },
+    {
+      "id": "hist-7bc1c8fe144def23769b619c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "SC Freiburg Amateure",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-97df64146fb493960a8d2b29",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "1. FC Magdeburg",
+      "away": "VfL Wolfsburg",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 (1:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-644a66bbe7f73e656e23c591",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "1. FC Union Berlin",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-9c93f326e9838cebafa58311",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-26",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-5739f70058af47e3cf417d14",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2001-08-27",
+      "time": null,
+      "home": "SC Paderborn 07",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-36180b1653def9438ac2190d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-27",
+      "time": null,
+      "home": "Rot-Weiß Erfurt",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 235
+    },
+    {
+      "id": "hist-28260dbe52d28879d6426aea",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-27",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 236
+    },
+    {
+      "id": "hist-3f45329f33b55caeec8c1232",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-27",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 237
+    },
+    {
+      "id": "hist-de7f95ddb55d9eebe656d734",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-27",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 238
+    },
+    {
+      "id": "hist-e5022418e5700f83c9682a6b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-27",
+      "time": null,
+      "home": "KFC Uerdingen 05",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:1) (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "KFC Uerdingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 239
+    },
+    {
+      "id": "hist-321d5b5a3d81b4bd24946f7d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-27",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 240
+    },
+    {
+      "id": "hist-296a8795d2b342451251c774",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-28",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        4,
+        3
+      ],
+      "reportedScore": [
+        4,
+        3
+      ],
+      "raw": "4:3 (1:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 241
+    },
+    {
+      "id": "hist-1a55db09344f38ccb832f472",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-28",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 242
+    },
+    {
+      "id": "hist-b24a7cf668b7318574fcbea3",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-28",
+      "time": null,
+      "home": "SV Waldhof Mannheim 07",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-2217fd8f81dd1b6d3c781a1c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-28",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "SC Freiburg",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V. (2:2, 1:1) (3:1 i. E.)",
+      "penalties": [
+        3,
+        1
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-5415335689b7ea7451a28ec1",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-28",
+      "time": null,
+      "home": "SSV Reutlingen 05",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (1:1, 0:1) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 245
+    },
+    {
+      "id": "hist-9283779ae18c33e130b7575a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-28",
+      "time": null,
+      "home": "Werder Bremen Amateure",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V. (3:3, 1:1) (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 246
+    },
+    {
+      "id": "hist-88a9b18267c8bcd94d36c2c6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-28",
+      "time": null,
+      "home": "VfL Wolfsburg Amateure",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 247
+    },
+    {
+      "id": "hist-9e6ca8503cc332633a2792b1",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-11-28",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "1. FC Union Berlin",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 248
+    },
+    {
+      "id": "hist-3a2e50c55f0fe8445cbe0624",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-12-11",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 249
+    },
+    {
+      "id": "hist-57246c31051ae670e4bf9883",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2001-12-12",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 250
+    },
+    {
+      "id": "hist-80bf4b58c9f307e250626390",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2001-12-11",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "TSV München 1860",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (1:1, 0:1) (2:4 i. E.)",
+      "penalties": [
+        2,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV München 1860",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 255
+    },
+    {
+      "id": "hist-4549fcafa0703c3a1181bbf5",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2001-12-11",
+      "time": null,
+      "home": "1. FC Union Berlin",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 256
+    },
+    {
+      "id": "hist-9c5863915e6c0ffb094beaac",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2001-12-11",
+      "time": null,
+      "home": "1. FSV Mainz 05",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 257
+    },
+    {
+      "id": "hist-124e93f98d9b9e909b8eaf09",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2001-12-12",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 258
+    },
+    {
+      "id": "hist-8b5da4d7122d285ec11e2b68",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2001-12-12",
+      "time": null,
+      "home": "KFC Uerdingen 05",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:0) (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 259
+    },
+    {
+      "id": "hist-b22d47c3d9761b4c14289bb4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2001-12-12",
+      "time": null,
+      "home": "SV Darmstadt 98",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 260
+    },
+    {
+      "id": "hist-af2216e9f3f79715a5152333",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2002-01-22",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 261
+    },
+    {
+      "id": "hist-d77dd31483b96006a89d0813",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2002-01-23",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "VfL Wolfsburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 262
+    },
+    {
+      "id": "hist-0f4d0154e20a0877a17a9c74",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2002-01-30",
+      "time": null,
+      "home": "Hertha BSC",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 267
+    },
+    {
+      "id": "hist-8e5dc202f80710c46aeaf874",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2002-01-30",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 268
+    },
+    {
+      "id": "hist-4cd07846fe5ef5695ebed96e",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2002-01-30",
+      "time": null,
+      "home": "Bayer Leverkusen",
+      "away": "TSV 1860 München",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 269
+    },
+    {
+      "id": "hist-0c0fa1b5a392cc28b7a3876a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2002-01-30",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 270
+    },
+    {
+      "id": "hist-d75ce19b9295232c37394a51",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2002-03-05",
+      "time": null,
+      "home": "Bayer Leverkusen",
+      "away": "1. FC Köln",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 276
+    },
+    {
+      "id": "hist-dc93874766a125597c2b01b4",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2002-03-06",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 277
+    },
+    {
+      "id": "hist-69401cb7f00a74be79dc14da",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 388
+    }
+  ],
+  "issues": []
+}

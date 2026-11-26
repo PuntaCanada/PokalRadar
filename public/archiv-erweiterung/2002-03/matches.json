@@ -1,0 +1,1859 @@
+{
+  "season": "2002-03",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=271104777",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-ae7e5c0ec61ab181f626891e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-28",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 167
+    },
+    {
+      "id": "hist-96c040fa45b553b013017c15",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-30",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 168
+    },
+    {
+      "id": "hist-3a5720086ab9e43d5649a4fe",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-30",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 169
+    },
+    {
+      "id": "hist-843317b88eb203e9dfa0bd49",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-30",
+      "time": null,
+      "home": "SpVgg Unterhaching",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:0) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 170
+    },
+    {
+      "id": "hist-ae15651cc2c9bddcfba3b877",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-30",
+      "time": null,
+      "home": "Eintracht Braunschweig",
+      "away": "SSV Reutlingen 05",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Reutlingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 171
+    },
+    {
+      "id": "hist-19ac00305a54f4e8ab62630d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-30",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:1) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 172
+    },
+    {
+      "id": "hist-edbaa651fe3c6a22d4b6b5b4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-30",
+      "time": null,
+      "home": "1. FC Schweinfurt 05",
+      "away": "1. FC Union Berlin",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 173
+    },
+    {
+      "id": "hist-0b969a562fe2c4b0bddead92",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "Eintracht Trier",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 174
+    },
+    {
+      "id": "hist-d78ac08317d49149797c28a5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "Wacker Burghausen",
+      "away": "Energie Cottbus",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 175
+    },
+    {
+      "id": "hist-e60c54e458fae20ff154ab23",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "SC Paderborn 07",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 176
+    },
+    {
+      "id": "hist-2aeb72c66ae79f430251384f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "FC Erzgebirge Aue",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 177
+    },
+    {
+      "id": "hist-d116b97ad0d8043fdbb2e5b0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "FC Schönberg 95",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 178
+    },
+    {
+      "id": "hist-6b4ddbc6cc7d7c2bf0299fa6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "SV Concordia Ihrhove",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 179
+    },
+    {
+      "id": "hist-2f4d31351a6b609c9e7b8b19",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "Werder Bremen Amateure",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    },
+    {
+      "id": "hist-2544d03ed0e5ea7fc4129dee",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "Eisenhüttenstädter FC Stahl",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 181
+    },
+    {
+      "id": "hist-140e691b60d88243b5158cea",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "VfR Aalen",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 182
+    },
+    {
+      "id": "hist-0c0fdefbfd8119132701c335",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "SSV Jahn Regensburg",
+      "away": "LR Ahlen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LR Ahlen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 183
+    },
+    {
+      "id": "hist-3e65685a3f2420a94ef7f190",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 184
+    },
+    {
+      "id": "hist-411459ed33831f45dcc0deb1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "VfL Wolfsburg Amateure",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 185
+    },
+    {
+      "id": "hist-cb83bda409c7dce6ca9cc1d2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "Bahlinger SC",
+      "away": "Alemannia Aachen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bahlinger SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 186
+    },
+    {
+      "id": "hist-472cff4fe6e895d1fbaff09c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "Hallescher FC",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 187
+    },
+    {
+      "id": "hist-230146d44465611179542b38",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-08-31",
+      "time": null,
+      "home": "FC Bayern München Amateure",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 188
+    },
+    {
+      "id": "hist-b7ce970aa5d4d107cf17eaec",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-09-01",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:0) (3:0 i. E.)",
+      "penalties": [
+        3,
+        0
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 189
+    },
+    {
+      "id": "hist-9ef4498720cbba80c6cd1e5a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-09-01",
+      "time": null,
+      "home": "Sportfreunde Siegen",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 190
+    },
+    {
+      "id": "hist-61783ffa55937373f721f8ae",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-09-01",
+      "time": null,
+      "home": "FC Rot-Weiß Erfurt",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    },
+    {
+      "id": "hist-8d2215619766c77269125a87",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-09-01",
+      "time": null,
+      "home": "Alemannia Aachen Amateure",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 192
+    },
+    {
+      "id": "hist-624a7e519fa5e3b21911c9bd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-09-01",
+      "time": null,
+      "home": "1. FC Saarbrücken Amateure",
+      "away": "Arminia Bielefeld",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 193
+    },
+    {
+      "id": "hist-fa28d741a0710daf7882b345",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-09-01",
+      "time": null,
+      "home": "USC Paloma Hamburg",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 194
+    },
+    {
+      "id": "hist-94975f5eeeb555dac75c364b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-09-01",
+      "time": null,
+      "home": "SV Babelsberg 03",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 195
+    },
+    {
+      "id": "hist-8dc242988146113fcd3553a8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-09-01",
+      "time": null,
+      "home": "FSV Salmrohr",
+      "away": "VfL Wolfsburg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 196
+    },
+    {
+      "id": "hist-5c43b84b302427c56d763d1e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-09-01",
+      "time": null,
+      "home": "1. FSV Mainz 05 Amateure",
+      "away": "Hansa Rostock",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 197
+    },
+    {
+      "id": "hist-c444b53a23305911d9c9b9c3",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2002-09-01",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 198
+    },
+    {
+      "id": "hist-c95f35e6447a73951acea9d2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-05",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "VfL Wolfsburg",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 2:1) (8:7 i. E.)",
+      "penalties": [
+        8,
+        7
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 203
+    },
+    {
+      "id": "hist-7a4140cd777dbef78b4fbfb6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-05",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Borussia Dortmund",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 204
+    },
+    {
+      "id": "hist-8678be99b80eae85321f3a4f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-05",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "MSV Duisburg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 205
+    },
+    {
+      "id": "hist-530a939c533a47279c94fee9",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-05",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "Arminia Bielefeld",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 206
+    },
+    {
+      "id": "hist-4df3ccdf054deb8ef506f134",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-05",
+      "time": null,
+      "home": "Hansa Rostock",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 207
+    },
+    {
+      "id": "hist-e9c3f624022416e2208d2eb6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-05",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 208
+    },
+    {
+      "id": "hist-1a0e325284aa55f929d72eaa",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-05",
+      "time": null,
+      "home": "SpVgg Unterhaching",
+      "away": "1. FC Union Berlin",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 209
+    },
+    {
+      "id": "hist-8dd3316ea4882489edacd6b7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-06",
+      "time": null,
+      "home": "Bahlinger SC",
+      "away": "SV Waldhof Mannheim 07",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Waldhof Mannheim 07",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 210
+    },
+    {
+      "id": "hist-7435b843233b2d4745060724",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-06",
+      "time": null,
+      "home": "Holstein Kiel",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 211
+    },
+    {
+      "id": "hist-86cd75a4bbae04b24bfd48de",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-06",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 212
+    },
+    {
+      "id": "hist-16bbda1f04b092f15911be57",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-06",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "1. FC Nürnberg",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 213
+    },
+    {
+      "id": "hist-03c35987c45db2d279922cd6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-06",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 214
+    },
+    {
+      "id": "hist-d224b825a3f10985817ae7ad",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-06",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 215
+    },
+    {
+      "id": "hist-f4b07ddde382f5c507570da1",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-06",
+      "time": null,
+      "home": "Energie Cottbus",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 216
+    },
+    {
+      "id": "hist-ffb3793bf342b7bc759e0222",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-06",
+      "time": null,
+      "home": "LR Ahlen",
+      "away": "SSV Reutlingen 05",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "LR Ahlen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 217
+    },
+    {
+      "id": "hist-e4adace7b93be16bd805e204",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2002-11-06",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 218
+    },
+    {
+      "id": "hist-fe2eb384f12a65ed783ec5b7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2002-12-03",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 223
+    },
+    {
+      "id": "hist-35b57f062f2ed7ca4b6b2775",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2002-12-03",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 224
+    },
+    {
+      "id": "hist-dfca117ed94620fe162874f0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2002-12-03",
+      "time": null,
+      "home": "SpVgg Unterhaching",
+      "away": "Hansa Rostock",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 225
+    },
+    {
+      "id": "hist-f1a52e62a8cc8c22c9a1bdfe",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2002-12-03",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "SV Waldhof Mannheim 07",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 226
+    },
+    {
+      "id": "hist-e623cb48cf0e49ac8ad9c91a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2002-12-04",
+      "time": null,
+      "home": "LR Ahlen",
+      "away": "SV Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 227
+    },
+    {
+      "id": "hist-864f65a194df23fad023642a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2002-12-04",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "1. FC Köln",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 228
+    },
+    {
+      "id": "hist-caa62d2fb9c4e82eccedfcb7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2002-12-04",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 229
+    },
+    {
+      "id": "hist-c61e71c9d0d88628cb49c0d0",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2002-12-04",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 230
+    },
+    {
+      "id": "hist-4088495371fec6ad373f047b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2003-02-04",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "1. FC Köln",
+      "score": [
+        8,
+        0
+      ],
+      "reportedScore": [
+        8,
+        0
+      ],
+      "raw": "8:0 (4:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 235
+    },
+    {
+      "id": "hist-2273c80a1d5d66596ce3e120",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2003-02-05",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V. (2:2, 2:2) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 236
+    },
+    {
+      "id": "hist-5ea4cfcb5737224c46694467",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2003-02-05",
+      "time": null,
+      "home": "SpVgg Unterhaching",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 0:1) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 237
+    },
+    {
+      "id": "hist-3aa25adb267744a65b168d59",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2003-02-05",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "SV Werder Bremen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SV Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 238
+    },
+    {
+      "id": "hist-3e109ffbc56265801ccadf2f",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2003-03-04",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "SV Werder Bremen",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 243
+    },
+    {
+      "id": "hist-7a503206468042df6a6bf04f",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2003-03-05",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 244
+    },
+    {
+      "id": "hist-d42fdecb369f3c4b3e95812b",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 351
+    }
+  ],
+  "issues": []
+}

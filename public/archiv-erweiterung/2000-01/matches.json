@@ -1,0 +1,1853 @@
+{
+  "season": "2000-01",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270511769",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-8f0e53856cffff71bdb27849",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-25",
+      "time": null,
+      "home": "FC Rot-Weiß Erfurt",
+      "away": "SSV Ulm 1846",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-3770d643625c5b54e8cf23b9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-25",
+      "time": null,
+      "home": "SC Halberg Brebach",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-1e1cf8f77e79223c33557c9e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-25",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "Hannover 96",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-b3e67b147de2763284f219ec",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-25",
+      "time": null,
+      "home": "Bayer Leverkusen Amateure",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-86d563cd0339f02a06b199e5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-25",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Chemnitzer FC",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-da07c6126a17a3c3c84e694b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-25",
+      "time": null,
+      "home": "Kickers Emden",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-7ed4e65781d2d44896ef4578",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-25",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Arminia Bielefeld",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-37d762d641e8e5ea8d236431",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "TuS Dassendorf",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-4fb2cf3737c7fb6676c5b76b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "SSV Reutlingen 05",
+      "away": "Hertha BSC",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (2:2, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-93cad15f63dfc5e245a44fc1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "Karlsruher SC Amateure",
+      "away": "Alemannia Aachen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Alemannia Aachen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-7e5064ab10df8e3593ed68a1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "1. FC Union Berlin",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-1d7a7e9e19bcda0cab4180a5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "SV Babelsberg 03",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-503073eb78b8b816878e7401",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "Werder Bremen Amateure",
+      "away": "VfL Wolfsburg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 42
+    },
+    {
+      "id": "hist-9864a55cba4d6b63766b6f91",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "Wuppertaler SV",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-b8cef835e151a7645cfda14c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "FC Schönberg 95",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-f2366093fdf3ce0e780766cd",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "Tennis Borussia Berlin II",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 45
+    },
+    {
+      "id": "hist-f8419f5a2870de006803c91d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "FC Ismaning",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-ea4ef16a9276c9e760b783cc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "VfB Stuttgart Amateure",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart Amateure",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-9972bdfd3f68be6d00922f2e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-20ec2541dc1cb8d5339d2e78",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "LR Ahlen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-89676afb95e619f0ff49856d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "FC Teningen",
+      "away": "MSV Duisburg",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-ff8ec81418ffdbefbcea71c8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-26",
+      "time": null,
+      "home": "SV Wehen",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Wehen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-ea9974fa089bacfef181d63e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-27",
+      "time": null,
+      "home": "1. FC Magdeburg",
+      "away": "1. FC Köln",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Magdeburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-57d300a3c79d32079df0889c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-27",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "SV Waldhof Mannheim",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 1:0) (3:2 i. E.)",
+      "penalties": [
+        3,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Lübeck",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-3bd321cbba5fcfbe0fabd0cb",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-27",
+      "time": null,
+      "home": "TSV 1896 Rain",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-5c8d76a0fb189860b0fed7ed",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-27",
+      "time": null,
+      "home": "VfL Hamm/Sieg",
+      "away": "Energie Cottbus",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-28fcf867f68c9fd1d368bdc8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-27",
+      "time": null,
+      "home": "SC Paderborn 07",
+      "away": "Hansa Rostock",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-70adfb353408494b3c9ce56b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-27",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-0b35111df394b8a359aca66d",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-27",
+      "time": null,
+      "home": "SC Pfullendorf",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-85f96c3f3a0af19768e02288",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-27",
+      "time": null,
+      "home": "FC Erzgebirge Aue",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-88b49703ced4fa6477f4c970",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-27",
+      "time": null,
+      "home": "TSG Pfeddersheim",
+      "away": "TSV 1860 München",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-14a105b1a4a67963123bda28",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2000-08-28",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-02c617131741a6acc283e79f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-10-31",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-b47935e794bcea88381d7d65",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-10-31",
+      "time": null,
+      "home": "Alemannia Aachen",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-828baaa827275c4a591a71d6",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-10-31",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-ce7d42d11fb488eb06465c34",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-10-31",
+      "time": null,
+      "home": "SV Wehen",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 71
+    },
+    {
+      "id": "hist-74cfd14718bbb24edbcbe8eb",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-10-31",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 72
+    },
+    {
+      "id": "hist-a33b54c4f899833be5c4c3a7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-10-31",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0 (3:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 73
+    },
+    {
+      "id": "hist-c27984971827b08a1ff6ef70",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-11-01",
+      "time": null,
+      "home": "1. FC Union Berlin",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-83252f02958919a847d384a2",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-11-01",
+      "time": null,
+      "home": "VfB Stuttgart Amateure",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-5b0675e86b8022b4b826a977",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-11-01",
+      "time": null,
+      "home": "Hannover 96",
+      "away": "Hansa Rostock",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-b7cdb4a777e26b79fdbb0221",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-11-01",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1 (3:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-f07c1dfc1f4604949af4d536",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-11-01",
+      "time": null,
+      "home": "SSV Ulm 1846",
+      "away": "Energie Cottbus",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SSV Ulm 1846",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 78
+    },
+    {
+      "id": "hist-b52572a574f5bfd623d27334",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-11-01",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:0) (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 79
+    },
+    {
+      "id": "hist-1e8b4521afa58880197b24a9",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-11-01",
+      "time": null,
+      "home": "SpVgg Unterhaching",
+      "away": "TSV 1860 München",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 80
+    },
+    {
+      "id": "hist-f23ab0a778da38ec4837d5bd",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-11-01",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "Hertha BSC",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 81
+    },
+    {
+      "id": "hist-406b762023c3a6841a9a5c80",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-11-01",
+      "time": null,
+      "home": "FC St. Pauli",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 82
+    },
+    {
+      "id": "hist-7d0f8980b39f252bbef16947",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2000-11-01",
+      "time": null,
+      "home": "1. FC Magdeburg",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 0:0) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Magdeburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 83
+    },
+    {
+      "id": "hist-ef224be4421b33ce5bc1cd77",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2000-11-28",
+      "time": null,
+      "home": "1. FC Union Berlin",
+      "away": "SSV Ulm 1846",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 88
+    },
+    {
+      "id": "hist-12893acd21487079c4a2fc76",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2000-11-28",
+      "time": null,
+      "home": "1. FC Magdeburg",
+      "away": "Karlsruher SC",
+      "score": [
+        5,
+        3
+      ],
+      "reportedScore": [
+        5,
+        3
+      ],
+      "raw": "5:3 n. V. (3:3, 1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Magdeburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 89
+    },
+    {
+      "id": "hist-951dcd9c1fff6390c04ba31a",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2000-11-28",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (0:0, 0:0) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 90
+    },
+    {
+      "id": "hist-08c8fbda323ddf872fa18a99",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2000-11-29",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Hannover 96",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 91
+    },
+    {
+      "id": "hist-3d7868e39b32fd0758bd6277",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2000-11-29",
+      "time": null,
+      "home": "Borussia Mönchengladbach",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 92
+    },
+    {
+      "id": "hist-749432e6a77b4714618bda60",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2000-11-29",
+      "time": null,
+      "home": "SC Freiburg",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 93
+    },
+    {
+      "id": "hist-9f0105f1205416afb4c773a1",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2000-11-29",
+      "time": null,
+      "home": "TSV 1860 München",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 94
+    },
+    {
+      "id": "hist-05882b2351cc41f73642d8a5",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2000-11-29",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "Borussia Dortmund",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 95
+    },
+    {
+      "id": "hist-0c2525b78b0826471b990643",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2000-12-20",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 100
+    },
+    {
+      "id": "hist-b11dbd9989bc20d168414be3",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2000-12-20",
+      "time": null,
+      "home": "1. FC Union Berlin",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 101
+    },
+    {
+      "id": "hist-27c7749e64b4ad7c94359c84",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2000-12-20",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 102
+    },
+    {
+      "id": "hist-c8dfd53a59f2df9f6ab9881b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2000-12-20",
+      "time": null,
+      "home": "1. FC Magdeburg",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 103
+    },
+    {
+      "id": "hist-af432efdd8542396d18faedc",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2001-02-06",
+      "time": null,
+      "home": "1. FC Union Berlin",
+      "away": "Bor. Mönchengladbach",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (2:2, 1:0) (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 108
+    },
+    {
+      "id": "hist-9b145f0d924f8b6ce108cffb",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2001-02-07",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 109
+    },
+    {
+      "id": "hist-fcbc5a0ff8f7d905ba498121",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Union Berlin",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 191
+    }
+  ],
+  "issues": []
+}

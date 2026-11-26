@@ -1,0 +1,1896 @@
+{
+  "season": "1940",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=265709122",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-66ac730589805a7e5ce76d9b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Reichsbahn TuSV Frankfurt",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Reichsbahn TuSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-9428aad607e4c10d6c5e39f1",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-0b18be53b509e14082fa3013",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "Wiener Sport-Club",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wiener Sport-Club",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 45
+    },
+    {
+      "id": "hist-9d96fafa9e9d866eb4f89473",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-11",
+      "time": null,
+      "home": "1. SV Jena",
+      "away": "TuRa Leipzig",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuRa Leipzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-ba2bc23343b0a557302f7a36",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "VfB Königsberg",
+      "away": "Preußen Danzig",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Königsberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-8c2e6adf43fcaf5e27e1fff4",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "BuEV Danzig",
+      "away": "LSV Stettin",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BuEV Danzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-236a25da12b246adc127c1ff",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "Blau-Weiß 90 Berlin",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-e5472a52a861a2e600c79c4e",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "Hallescher FV Sportfreunde",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-b3ea47f96cbdd08fca0aa5de",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "SV 08 Steinach",
+      "away": "CSC 03 Kassel",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV 08 Steinach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-87321ba7d92c17153487e71b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "SV Dessau 05",
+      "away": "Kickers Offenbach",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-3f51e64eb0eeb747a21be392",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "Eimsbütteler TV",
+      "away": "Spandauer SV",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Spandauer SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-11cd37f61b3b4adf8ba8fed3",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "Blumenthaler SV",
+      "away": "Hamburger SV",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Blumenthaler SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-2a047055f04ffd7614eb361f",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "SV Linden 07",
+      "away": "SC Union Oberschöneweide",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Union Oberschöneweide",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-8e03fa0890421966e239b17a",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "Hildesheim 07",
+      "away": "Barmbecker SG",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Barmbecker SG",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-466e54d4da4f9e6913c21b3b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "BSG Gelsenguß Gelsenkirchen",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BSG Gelsenguß Gelsenkirchen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-6ffe3d9b760c5c0c0daf14fa",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "TuS Neheim",
+      "away": "SG Eschweiler",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Eschweiler",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-82302edab354cb1c36111c02",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "Edelstahl Krefeld",
+      "away": "Rot-Weiss Essen",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiss Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-88bcaa2e472038bc65f2fd4c",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "Germania Mudersbach",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        1,
+        8
+      ],
+      "reportedScore": [
+        1,
+        8
+      ],
+      "raw": "1:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-bab83cbd127345d2a62c3e26",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "TuS Neuendorf",
+      "away": "VfR Mannheim",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Mannheim",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 61
+    },
+    {
+      "id": "hist-11a56da263df2f7a20320c7e",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "BC Sport Kassel",
+      "away": "TuS Duisburg 48/99",
+      "score": [
+        4,
+        5
+      ],
+      "reportedScore": [
+        4,
+        5
+      ],
+      "raw": "4:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TuS Duisburg 48/99",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 62
+    },
+    {
+      "id": "hist-9f37205b7fc6c961f0882e08",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Westfalia Herne",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 63
+    },
+    {
+      "id": "hist-229f2c8c9f4c6251e6209d80",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 64
+    },
+    {
+      "id": "hist-22956528d957b09a84120669",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "Karlsruher FC Phönix",
+      "away": "FSV Frankfurt",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher FC Phönix",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 65
+    },
+    {
+      "id": "hist-0dca3c58a6f0158154459b3e",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "SpVgg Cannstatt",
+      "away": "SC Wacker Wien",
+      "score": [
+        0,
+        7
+      ],
+      "reportedScore": [
+        0,
+        7
+      ],
+      "raw": "0:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Wacker Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 66
+    },
+    {
+      "id": "hist-7e09b85c925cb253bf223c29",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "VfR 07 Schweinfurt",
+      "away": "Mülheimer SV 06",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfR 07 Schweinfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-7dbceedc4a187a8b080b1e21",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "SK Sturm Graz",
+      "away": "1. FC Nürnberg",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-048e526f09a7ce1ceb654ae8",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-18",
+      "time": null,
+      "home": "NSTG Witkowitz",
+      "away": "SC Hertha Breslau",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "NSTG Witkowitz",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-c896669d5bca40aa80377358",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-25",
+      "time": null,
+      "home": "VfL Stettin",
+      "away": "PSV Chemnitz",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Stettin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-362c54d79a09150893fd1c11",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-25",
+      "time": null,
+      "home": "Planitzer SC",
+      "away": "Vorwärts-Rasensport Gleiwitz",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Planitzer SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 71
+    },
+    {
+      "id": "hist-a3cf8eeb6ffa27b3944a036b",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-25",
+      "time": null,
+      "home": "VfB Waldshut",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        0,
+        8
+      ],
+      "reportedScore": [
+        0,
+        8
+      ],
+      "raw": "0:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 72
+    },
+    {
+      "id": "hist-b0d0e8744222969e8b9c10ad",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-25",
+      "time": null,
+      "home": "NSTG Graslitz",
+      "away": "Dresdner SC",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 73
+    },
+    {
+      "id": "hist-c5ad928b153f60f5c38fed05",
+      "round": "1. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-01",
+      "time": null,
+      "home": "WKG BSG Neumeyer Nürnberg",
+      "away": "SK Rapid Wien",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SK Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-b1d33760b0b5c3f3f6860a69",
+      "round": "1. Schlussrunde",
+      "replay": true,
+      "date": "1940-10-25",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "SV Dessau 05",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 82
+    },
+    {
+      "id": "hist-7eea18bbdd75d150710e13c4",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-30",
+      "time": null,
+      "home": "Spandauer SV",
+      "away": "VfB Königsberg",
+      "score": [
+        3,
+        5
+      ],
+      "reportedScore": [
+        3,
+        5
+      ],
+      "raw": "3:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Königsberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 88
+    },
+    {
+      "id": "hist-34df98cf66abe2d52ca322c3",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-08-30",
+      "time": null,
+      "home": "SC Union Oberschöneweide",
+      "away": "SV 08 Steinach",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Union Oberschöneweide",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 89
+    },
+    {
+      "id": "hist-74204c6e9e13b2fe355eb09e",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "VfL Stettin",
+      "away": "BuEV Danzig",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 90
+    },
+    {
+      "id": "hist-681903e0770550753db241e1",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "TuRa Leipzig",
+      "away": "SpVgg Fürth",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 91
+    },
+    {
+      "id": "hist-a99c52136f7f2be0e69b1c45",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-15",
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "Blumenthaler SV",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 92
+    },
+    {
+      "id": "hist-d506d30a1b60f2d02d4ec51b",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "Barmbeker SG",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        3,
+        10
+      ],
+      "reportedScore": [
+        3,
+        10
+      ],
+      "raw": "3:10",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 93
+    },
+    {
+      "id": "hist-5bf12c7c83e14284cd886aaf",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "FC Schalke 04",
+      "away": "SV Werder Bremen",
+      "score": [
+        5,
+        0
+      ],
+      "reportedScore": [
+        5,
+        0
+      ],
+      "raw": "5:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 94
+    },
+    {
+      "id": "hist-6fa9a45b09b94a566ada94bc",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "Rot-Weiss Essen",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 95
+    },
+    {
+      "id": "hist-a022813e99933d8a96378e6f",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "VfR Mannheim",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 96
+    },
+    {
+      "id": "hist-dd17ece04306d5460a8f8469",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "SG Eschweiler",
+      "away": "TuS 48/99 Duisburg",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Eschweiler",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 97
+    },
+    {
+      "id": "hist-da73058ace5651a87c871cf6",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "Reichsbahn TuSV Frankfurt",
+      "away": "Phönix Karlsruhe",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Reichsbahn TuSV Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 98
+    },
+    {
+      "id": "hist-6e5942787a90cdcf05ad3bbc",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "BSG Gelsenguß Gelsenkirchen",
+      "score": [
+        9,
+        2
+      ],
+      "reportedScore": [
+        9,
+        2
+      ],
+      "raw": "9:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 99
+    },
+    {
+      "id": "hist-88d71b9b10ffe1870f4a4a65",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Kickers Offenbach",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 100
+    },
+    {
+      "id": "hist-2872345cf69838fea4be530d",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "Wacker Wien",
+      "away": "Planitzer SC",
+      "score": [
+        6,
+        2
+      ],
+      "reportedScore": [
+        6,
+        2
+      ],
+      "raw": "6:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wacker Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 101
+    },
+    {
+      "id": "hist-d0893cde35452f7ab3a2faad",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-08",
+      "time": null,
+      "home": "Wiener Sport-Club",
+      "away": "NSTG Witkowitz",
+      "score": [
+        9,
+        1
+      ],
+      "reportedScore": [
+        9,
+        1
+      ],
+      "raw": "9:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wiener Sport-Club",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 102
+    },
+    {
+      "id": "hist-9fc9ad50842670ade5accef0",
+      "round": "2. Schlussrunde",
+      "replay": false,
+      "date": "1940-09-15",
+      "time": null,
+      "home": "Rapid Wien",
+      "away": "VfR 07 Schweinfurt",
+      "score": [
+        7,
+        1
+      ],
+      "reportedScore": [
+        7,
+        1
+      ],
+      "raw": "7:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 103
+    },
+    {
+      "id": "hist-5a47c40236ca2195c149d415",
+      "round": "2. Schlussrunde",
+      "replay": true,
+      "date": "1940-09-15",
+      "time": null,
+      "home": "BuEV Danzig",
+      "away": "VfL Stettin",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "BuEV Danzig",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 110
+    },
+    {
+      "id": "hist-feba9a1258e5939b65e01214",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SC Union Oberschöneweide",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 116
+    },
+    {
+      "id": "hist-f5b62ab716a82d7f0ede84cb",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Stuttgarter Kickers",
+      "away": "Rapid Wien",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 117
+    },
+    {
+      "id": "hist-71444c92004fa918afe42c17",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Schwarz-Weiß Essen",
+      "away": "SG Eschweiler",
+      "score": [
+        5,
+        2
+      ],
+      "reportedScore": [
+        5,
+        2
+      ],
+      "raw": "5:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Schwarz-Weiß Essen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 118
+    },
+    {
+      "id": "hist-fc30ddd31b3a42e0e37688c8",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "Reichsbahn TuSV Frankfurt",
+      "score": [
+        6,
+        0
+      ],
+      "reportedScore": [
+        6,
+        0
+      ],
+      "raw": "6:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 119
+    },
+    {
+      "id": "hist-bcc5134688828b31e88a170c",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "SpVgg Fürth",
+      "away": "FC Schalke 04",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 120
+    },
+    {
+      "id": "hist-3081af1d3a4855b9a122b6c7",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Eintracht Frankfurt",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 121
+    },
+    {
+      "id": "hist-31336e04f62f47194089aa83",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Wacker Wien",
+      "away": "Wiener Sport-Club",
+      "score": [
+        5,
+        6
+      ],
+      "reportedScore": [
+        5,
+        6
+      ],
+      "raw": "5:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Wiener Sport-Club",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 122
+    },
+    {
+      "id": "hist-0e15f3ace22d2edf87bb6ec2",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Königsberg",
+      "away": "BuEV Danzig",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Königsberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 123
+    },
+    {
+      "id": "hist-a642c510db8b3e5487c96c43",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Schwarz-Weiß Essen",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 129
+    },
+    {
+      "id": "hist-caef80c6c25074bb48cf9f75",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "Wiener Sport-Club",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 130
+    },
+    {
+      "id": "hist-da3d64a647905efe693a918e",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Rapid Wien",
+      "away": "SpVgg Fürth",
+      "score": [
+        6,
+        1
+      ],
+      "reportedScore": [
+        6,
+        1
+      ],
+      "raw": "6:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rapid Wien",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 131
+    },
+    {
+      "id": "hist-ebc0b76797b5ee88f2cbcf1d",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "VfB Königsberg",
+      "away": "Dresdner SC",
+      "score": [
+        0,
+        8
+      ],
+      "reportedScore": [
+        0,
+        8
+      ],
+      "raw": "0:8",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 132
+    },
+    {
+      "id": "hist-f3ed64141952768cbd011008",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Dresdner SC",
+      "away": "Rapid Wien",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 138
+    },
+    {
+      "id": "hist-4a787e2d8aac4a0a0a7a4842",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 139
+    },
+    {
+      "id": "hist-8c09337d56f5f10bf8a7569b",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "1. FC Nürnberg",
+      "away": "Dresdner SC",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Dresdner SC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 202
+    }
+  ],
+  "issues": []
+}

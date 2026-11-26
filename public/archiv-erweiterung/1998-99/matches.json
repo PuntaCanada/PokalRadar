@@ -1,0 +1,1853 @@
+{
+  "season": "1998-99",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=266487983",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-0847428edde2f4d191319364",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-28",
+      "time": null,
+      "home": "SV Schalding-Heining",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Unterhaching",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 29
+    },
+    {
+      "id": "hist-d5ee343acada1641d23f63ad",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-28",
+      "time": null,
+      "home": "Eisbachtaler Sportfreunde",
+      "away": "FC Gütersloh",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Eisbachtaler Sportfreunde",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 30
+    },
+    {
+      "id": "hist-4b83c44085d71455a85c50cc",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-28",
+      "time": null,
+      "home": "Karlsruher SC",
+      "away": "VfL Wolfsburg",
+      "score": [
+        3,
+        4
+      ],
+      "reportedScore": [
+        3,
+        4
+      ],
+      "raw": "3:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 31
+    },
+    {
+      "id": "hist-c5c7228e9132fa345fbf27c8",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-28",
+      "time": null,
+      "home": "1. FC Saarbrücken",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:3 i. E.)",
+      "penalties": [
+        1,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 32
+    },
+    {
+      "id": "hist-a01ccebec4c56e4e57396854",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-28",
+      "time": null,
+      "home": "FC St. Pauli Am.",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 33
+    },
+    {
+      "id": "hist-016c3dfedc52c1aed39c7b61",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-28",
+      "time": null,
+      "home": "Hansa Rostock Am.",
+      "away": "MSV Duisburg",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 34
+    },
+    {
+      "id": "hist-7ace857b609aee92d2414929",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-28",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 35
+    },
+    {
+      "id": "hist-5e1fe0e552de0e225fcbd76a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-28",
+      "time": null,
+      "home": "Kickers Offenbach",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SG Wattenscheid 09",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 36
+    },
+    {
+      "id": "hist-6c906b1136871806d856a007",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "SC Fortuna Köln",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 37
+    },
+    {
+      "id": "hist-532718109399130b74e1093b",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "Chemnitzer FC",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 38
+    },
+    {
+      "id": "hist-e246c17dd02eb37bda44af7a",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "Bayer 04 Leverkusen Am.",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 39
+    },
+    {
+      "id": "hist-3e26ea9d1c695d77fa9d18ad",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "VfB Lübeck",
+      "away": "VfB Stuttgart",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 40
+    },
+    {
+      "id": "hist-7018cd88cb725d80a5d54565",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "VfB Leipzig",
+      "away": "TSV 1860 München",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "TSV 1860 München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 41
+    },
+    {
+      "id": "hist-cfe30b2c0f8de0a60d87f4b1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "FC Denzlingen",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 42
+    },
+    {
+      "id": "hist-aced4086d417d36fb97575a9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "SV Waldhof Mannheim",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        1,
+        5
+      ],
+      "reportedScore": [
+        1,
+        5
+      ],
+      "raw": "1:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 43
+    },
+    {
+      "id": "hist-b49b33019634d38999d2dfed",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "Energie Cottbus Am.",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 44
+    },
+    {
+      "id": "hist-e5c41ce5bd6d3fac047b205f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "Werder Bremen Am.",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 45
+    },
+    {
+      "id": "hist-c3e385bb85fcb1012ea1de54",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "Sportfreunde Dorfmerkingen",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Stuttgarter Kickers",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 46
+    },
+    {
+      "id": "hist-80eae13bc3fb146348439383",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "SG 01 Hoechst",
+      "away": "Energie Cottbus",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 47
+    },
+    {
+      "id": "hist-ffe7e1befb7d9e99b06e727f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "SV Straelen",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        4,
+        7
+      ],
+      "reportedScore": [
+        4,
+        7
+      ],
+      "raw": "4:7",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 48
+    },
+    {
+      "id": "hist-9c98e23e26e9b1ea33c22fb1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "Sportfreunde Siegen",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Sportfreunde Siegen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 49
+    },
+    {
+      "id": "hist-fb336f2417614f54a531b361",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "SSV Ulm 1846",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Carl Zeiss Jena",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 50
+    },
+    {
+      "id": "hist-33619b1dfe7c8e23ae5dd4cf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "SC 07 Idar-Oberstein",
+      "away": "Arminia Bielefeld",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 51
+    },
+    {
+      "id": "hist-30ef528dba6f2f8d9f0b1285",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "1. FC Magdeburg",
+      "away": "KFC Uerdingen 05",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "KFC Uerdingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 52
+    },
+    {
+      "id": "hist-8356d9a1b792889c27415231",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "VfB Lichterfelde",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 53
+    },
+    {
+      "id": "hist-280f552ccc9debe51634371c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-29",
+      "time": null,
+      "home": "VfL Osnabrück",
+      "away": "1. FC Nürnberg",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Nürnberg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 54
+    },
+    {
+      "id": "hist-e8494ba571b3313a848e69da",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-30",
+      "time": null,
+      "home": "SG Post/Süd Regensburg",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 55
+    },
+    {
+      "id": "hist-c68033617d3368f80ebac808",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-30",
+      "time": null,
+      "home": "FSV Zwickau",
+      "away": "VfL Bochum",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 56
+    },
+    {
+      "id": "hist-ee8e4f0dbbf4ba4ff169f68f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-30",
+      "time": null,
+      "home": "FC Rot-Weiß Erfurt",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        1,
+        6
+      ],
+      "reportedScore": [
+        1,
+        6
+      ],
+      "raw": "1:6",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 57
+    },
+    {
+      "id": "hist-8422f845831706040ad5d4ff",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-30",
+      "time": null,
+      "home": "LR Ahlen",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        5
+      ],
+      "reportedScore": [
+        0,
+        5
+      ],
+      "raw": "0:5",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 58
+    },
+    {
+      "id": "hist-603bcdad89aa838b68718725",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-30",
+      "time": null,
+      "home": "SV Meppen",
+      "away": "FC St. Pauli",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 59
+    },
+    {
+      "id": "hist-9fb91e3180ffa4b2e8a4911f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "1998-08-30",
+      "time": null,
+      "home": "1. FC Köln",
+      "away": "Hansa Rostock",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hansa Rostock",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 60
+    },
+    {
+      "id": "hist-dd5d67c5a5da5825ef2dde5b",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-17",
+      "time": null,
+      "home": "Energie Cottbus",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 67
+    },
+    {
+      "id": "hist-59ad6ea549e212d445d3548c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-17",
+      "time": null,
+      "home": "Hamburger SV",
+      "away": "SpVgg Unterhaching",
+      "score": [
+        4,
+        0
+      ],
+      "reportedScore": [
+        4,
+        0
+      ],
+      "raw": "4:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 68
+    },
+    {
+      "id": "hist-948a1d6d45260ccba3dd76ff",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-22",
+      "time": null,
+      "home": "Sportfreunde Eisbachtal",
+      "away": "Rot-Weiß Oberhausen",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 69
+    },
+    {
+      "id": "hist-5174453de932f979ee829e39",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-22",
+      "time": null,
+      "home": "Tennis-Borussia Berlin",
+      "away": "Stuttgarter Kickers",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis-Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 70
+    },
+    {
+      "id": "hist-96116307125a4ea0ea6dd7c9",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-22",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Hansa Rostock",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 71
+    },
+    {
+      "id": "hist-d3de866572078c7cd5834257",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-22",
+      "time": null,
+      "home": "1. FC Kaiserslautern",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 72
+    },
+    {
+      "id": "hist-ac736e43e5ef10da74d10e94",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-22",
+      "time": null,
+      "home": "Bayer 04 Leverkusen",
+      "away": "Hertha BSC",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 73
+    },
+    {
+      "id": "hist-a96e2df0aab2fb4c25f881b4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-22",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 74
+    },
+    {
+      "id": "hist-9559ce4336ba7ce5ff237e02",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-22",
+      "time": null,
+      "home": "Fortuna Düsseldorf",
+      "away": "TSV 1860 München",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 75
+    },
+    {
+      "id": "hist-0f7c8eb90ab85da907f41605",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-22",
+      "time": null,
+      "home": "Arminia Bielefeld",
+      "away": "SG Wattenscheid 09",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 76
+    },
+    {
+      "id": "hist-8aacd66194d4c32a1cf7921d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-23",
+      "time": null,
+      "home": "Sportfreunde Siegen",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Sportfreunde Siegen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 77
+    },
+    {
+      "id": "hist-030a200ab3e37b525007afdb",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-23",
+      "time": null,
+      "home": "FC Carl Zeiss Jena",
+      "away": "MSV Duisburg",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 78
+    },
+    {
+      "id": "hist-a4e30b8af3011eca3569c7e7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-23",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "1. FC Nürnberg",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 79
+    },
+    {
+      "id": "hist-c30432b217a72841a9933fc5",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-23",
+      "time": null,
+      "home": "SpVgg Greuther Fürth",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 80
+    },
+    {
+      "id": "hist-b7bba0b585c52fab404c9103",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-23",
+      "time": null,
+      "home": "KFC Uerdingen 05",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "KFC Uerdingen 05",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 81
+    },
+    {
+      "id": "hist-a4a0ca6e381cbb1ccef90f0c",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "1998-09-23",
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "FC Schalke 04",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 82
+    },
+    {
+      "id": "hist-c533bcc2661aa39ba5b248cb",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1998-10-27",
+      "time": null,
+      "home": "VfB Stuttgart",
+      "away": "Borussia Dortmund",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 88
+    },
+    {
+      "id": "hist-2385869642b02a12b70e9801",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1998-10-27",
+      "time": null,
+      "home": "VfL Bochum",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 89
+    },
+    {
+      "id": "hist-ef303ca99be0c6097a3c644f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1998-10-27",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "Arminia Bielefeld",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 90
+    },
+    {
+      "id": "hist-908a37e011f721cf2da0b460",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1998-10-27",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "Hamburger SV",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V. (4:3 i. E.)",
+      "penalties": [
+        4,
+        3
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 91
+    },
+    {
+      "id": "hist-b618f442bc495ade9955b76b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1998-10-28",
+      "time": null,
+      "home": "Tennis Borussia Berlin",
+      "away": "Hertha BSC",
+      "score": [
+        4,
+        2
+      ],
+      "reportedScore": [
+        4,
+        2
+      ],
+      "raw": "4:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Tennis Borussia Berlin",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 92
+    },
+    {
+      "id": "hist-61fc4ddab868eddfb2f5a668",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1998-10-28",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 93
+    },
+    {
+      "id": "hist-698acc2919c43bbfac0b18f2",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1998-10-28",
+      "time": null,
+      "home": "MSV Duisburg",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 94
+    },
+    {
+      "id": "hist-14ee7327402950aa39c3967b",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "1998-11-03",
+      "time": null,
+      "home": "Sportfreunde Siegen",
+      "away": "KFC Uerdingen 05",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Sportfreunde Siegen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 95
+    },
+    {
+      "id": "hist-ff5caeb47d876d308f06b19a",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1998-12-01",
+      "time": null,
+      "home": "FC Bayern München",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        0
+      ],
+      "reportedScore": [
+        3,
+        0
+      ],
+      "raw": "3:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 101
+    },
+    {
+      "id": "hist-9a94e8ae4bd8c4dbf7528d1b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1998-12-02",
+      "time": null,
+      "home": "Sportfreunde Siegen",
+      "away": "VfL Wolfsburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 102
+    },
+    {
+      "id": "hist-27af8fd2eee95afbc41d56ff",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1998-12-02",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Rot-Weiß Oberhausen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 103
+    },
+    {
+      "id": "hist-f1cb8f5d17551e791d9ea090",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "1998-12-02",
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "Tennis Borussia Berlin",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 104
+    },
+    {
+      "id": "hist-10999145072ac4a0119c1657",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1999-03-09",
+      "time": null,
+      "home": "Rot-Weiß Oberhausen",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 110
+    },
+    {
+      "id": "hist-3fba323ded5a35b4b5eb3b2f",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "1999-03-10",
+      "time": null,
+      "home": "VfL Wolfsburg",
+      "away": "Werder Bremen",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 111
+    },
+    {
+      "id": "hist-d95523cc647aeb13dc665d0c",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Werder Bremen",
+      "away": "FC Bayern München",
+      "score": null,
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:1), 5:4 i. E.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "reported-unclear",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 180
+    }
+  ],
+  "issues": []
+}

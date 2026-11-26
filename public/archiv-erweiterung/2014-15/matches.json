@@ -1,0 +1,1874 @@
+{
+  "season": "2014-15",
+  "source": "https://de.wikipedia.org/w/index.php?oldid=270510825",
+  "license": "CC-BY-SA-4.0",
+  "finalSource": null,
+  "scope": "Teilbestand der Quellenrevision; Vollständigkeit nicht unabhängig bestätigt",
+  "bye": 0,
+  "matches": [
+    {
+      "id": "hist-018032e2247e92114d579533",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-15",
+      "time": null,
+      "home": "SV Alemannia Waldalgesheim (VI)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        0,
+        6
+      ],
+      "reportedScore": [
+        0,
+        6
+      ],
+      "raw": "0:6 (0:4)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1055
+    },
+    {
+      "id": "hist-56b45de758e5fe5c5d445b9f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-15",
+      "time": null,
+      "home": "Chemnitzer FC (III)",
+      "away": "1. FSV Mainz 05 (I)",
+      "score": [
+        5,
+        5
+      ],
+      "reportedScore": [
+        5,
+        5
+      ],
+      "raw": "5:5 n. V. (3:3, 0:1) (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Chemnitzer FC (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1056
+    },
+    {
+      "id": "hist-ac7c6c0ae47cf514286f3a4c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-15",
+      "time": null,
+      "home": "MSV Duisburg (III)",
+      "away": "1. FC Nürnberg (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "MSV Duisburg (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1057
+    },
+    {
+      "id": "hist-caf7216bbf8bd48611745384",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "FC 08 Homburg (IV)",
+      "away": "Borussia Mönchengladbach (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1058
+    },
+    {
+      "id": "hist-144416c2fb92eaa36c010f7f",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "SV Waldkirch (VI)",
+      "away": "SpVgg Greuther Fürth (II)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1059
+    },
+    {
+      "id": "hist-de3b7b27bce3353e5cc03a29",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "Bremer SV (V)",
+      "away": "Eintracht Braunschweig (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1060
+    },
+    {
+      "id": "hist-f58b83685021d9e90a42047e",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "FT Braunschweig (IV)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1061
+    },
+    {
+      "id": "hist-9cbaf53b673463141d7fbd85",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "FC Viktoria Köln (IV)",
+      "away": "Hertha BSC (I)",
+      "score": [
+        2,
+        4
+      ],
+      "reportedScore": [
+        2,
+        4
+      ],
+      "raw": "2:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1062
+    },
+    {
+      "id": "hist-631bb9470ecffc2b974b2576",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "Stuttgarter Kickers (III)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1063
+    },
+    {
+      "id": "hist-622448482e8cecd137e0fdaf",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "FC-Astoria Walldorf (IV)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hannover 96 (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1064
+    },
+    {
+      "id": "hist-044fdffdeaafae09ff6bada5",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "FSV Optik Rathenow (V)",
+      "away": "FC St. Pauli (II)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1065
+    },
+    {
+      "id": "hist-4a539f9c0457ec0fffdd4ea2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "VfL Bochum (II)",
+      "away": "VfB Stuttgart (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1066
+    },
+    {
+      "id": "hist-ba5b979755162092b562bf87",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "SV Wehen Wiesbaden (III)",
+      "away": "1. FC Kaiserslautern (II)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1067
+    },
+    {
+      "id": "hist-410b32d808dc60fdeef5c035",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "Sportfreunde Siegen (IV)",
+      "away": "FSV Frankfurt (II)",
+      "score": [
+        3,
+        3
+      ],
+      "reportedScore": [
+        3,
+        3
+      ],
+      "raw": "3:3 n. V. (2:2, 2:1) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FSV Frankfurt (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1068
+    },
+    {
+      "id": "hist-da50a0e0c9a0cd00c874a0fe",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-16",
+      "time": null,
+      "home": "FC Viktoria 1889 Berlin (IV)",
+      "away": "Eintracht Frankfurt (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1069
+    },
+    {
+      "id": "hist-a5099d12ed82ce8c7cc81a7c",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "FC Carl Zeiss Jena (IV)",
+      "away": "FC Erzgebirge Aue (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Erzgebirge Aue (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1070
+    },
+    {
+      "id": "hist-93e522362f8dd6994687cf91",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "FV Illertissen (IV)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        2,
+        3
+      ],
+      "reportedScore": [
+        2,
+        3
+      ],
+      "raw": "2:3 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Werder Bremen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1071
+    },
+    {
+      "id": "hist-7364d986efbd3bb4bd2d55b1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "USC Paloma Hamburg (V)",
+      "away": "TSG 1899 Hoffenheim (I)",
+      "score": [
+        0,
+        9
+      ],
+      "reportedScore": [
+        0,
+        9
+      ],
+      "raw": "0:9 (0:7)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1072
+    },
+    {
+      "id": "hist-960c2d1837ddc195490b1794",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "Holstein Kiel (III)",
+      "away": "TSV 1860 München (II)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSV 1860 München (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1073
+    },
+    {
+      "id": "hist-8e97572e05382554c8e845a2",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "BSV Rehden (IV)",
+      "away": "VfR Aalen (II)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:0) (3:4 i. E.)",
+      "penalties": [
+        3,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfR Aalen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1074
+    },
+    {
+      "id": "hist-2bef9b2e9e1cc5af074bd008",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "Preußen Münster (III)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        1,
+        4
+      ],
+      "reportedScore": [
+        1,
+        4
+      ],
+      "raw": "1:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1075
+    },
+    {
+      "id": "hist-0682a265ffec4f4afc4f32d4",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "Arminia Bielefeld (III)",
+      "away": "SV Sandhausen (II)",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1076
+    },
+    {
+      "id": "hist-f31572990c38e821d800e436",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "Eintracht Trier (IV)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1077
+    },
+    {
+      "id": "hist-57e1cde7d16f3ee63cbe24e1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "Würzburger Kickers (IV)",
+      "away": "Fortuna Düsseldorf (II)",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V. (2:2, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Würzburger Kickers (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1078
+    },
+    {
+      "id": "hist-b83579794250b94c3160f749",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "1. FC Neubrandenburg 04 (V)",
+      "away": "Karlsruher SC (II)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1079
+    },
+    {
+      "id": "hist-72603f114c83646d50071cf9",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "RB Leipzig (II)",
+      "away": "SC Paderborn 07 (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V. (1:1, 1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "RB Leipzig (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1080
+    },
+    {
+      "id": "hist-be0396265fb00ba0b52e9906",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "1. FC Magdeburg (IV)",
+      "away": "FC Augsburg (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Magdeburg (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1081
+    },
+    {
+      "id": "hist-a6a403a21bd31aa0a5e4e0c1",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-17",
+      "time": null,
+      "home": "SV Darmstadt 98 (II)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1082
+    },
+    {
+      "id": "hist-13825f4f49b7e815bc7673d0",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-18",
+      "time": null,
+      "home": "Kickers Offenbach (IV)",
+      "away": "FC Ingolstadt 04 (II)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Kickers Offenbach (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1083
+    },
+    {
+      "id": "hist-44bc5a7f79e5019d91be54b6",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-18",
+      "time": null,
+      "home": "1. FC Heidenheim (II)",
+      "away": "1. FC Union Berlin (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Heidenheim (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1084
+    },
+    {
+      "id": "hist-e3e20bdb280898633dc1d638",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-18",
+      "time": null,
+      "home": "Energie Cottbus (III)",
+      "away": "Hamburger SV (I)",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V (1:1, 1:0) (1:4 i. E)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": null,
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1085
+    },
+    {
+      "id": "hist-2bc7ec3fd7c08fef7cd00a66",
+      "round": "1. Hauptrunde",
+      "replay": false,
+      "date": "2014-08-18",
+      "time": null,
+      "home": "Dynamo Dresden (III)",
+      "away": "FC Schalke 04 (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Dynamo Dresden (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1086
+    },
+    {
+      "id": "hist-d1847dfb12693fdc27bac40f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-28",
+      "time": null,
+      "home": "Chemnitzer FC (III)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Werder Bremen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1103
+    },
+    {
+      "id": "hist-101556dcf503b46b08b7f67e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-28",
+      "time": null,
+      "home": "Kickers Offenbach (IV)",
+      "away": "Karlsruher SC (II)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Kickers Offenbach (IV)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1104
+    },
+    {
+      "id": "hist-4b80a3732bfc393b8e2be985",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-28",
+      "time": null,
+      "home": "Arminia Bielefeld (III)",
+      "away": "Hertha BSC (I)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (4:2 i. E.)",
+      "penalties": [
+        4,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Arminia Bielefeld (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1105
+    },
+    {
+      "id": "hist-77d6382dc11280fc5d8a5790",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-28",
+      "time": null,
+      "home": "VfR Aalen (II)",
+      "away": "Hannover 96 (I)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfR Aalen (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1106
+    },
+    {
+      "id": "hist-35ba2b913c1eeb9a71f731e7",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-28",
+      "time": null,
+      "home": "MSV Duisburg (III)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (1:4 i. E.)",
+      "penalties": [
+        1,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "1. FC Köln (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1107
+    },
+    {
+      "id": "hist-2c397bb3c6a3bfe252f5cffc",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-28",
+      "time": null,
+      "home": "Dynamo Dresden (III)",
+      "away": "VfL Bochum (II)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 n. V. (1:1, 0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Dynamo Dresden (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1108
+    },
+    {
+      "id": "hist-5bcdfc0bc81bee7cf9c3f325",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-28",
+      "time": null,
+      "home": "1. FC Kaiserslautern (II)",
+      "away": "SpVgg Greuther Fürth (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1109
+    },
+    {
+      "id": "hist-384bbbcd5071d4b55d470046",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-28",
+      "time": null,
+      "home": "FC St. Pauli (II)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        3
+      ],
+      "reportedScore": [
+        0,
+        3
+      ],
+      "raw": "0:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1110
+    },
+    {
+      "id": "hist-f6ca3ef2ac725a3d677b37c4",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-29",
+      "time": null,
+      "home": "1. FC Magdeburg (IV)",
+      "away": "Bayer 04 Leverkusen (I)",
+      "score": [
+        2,
+        2
+      ],
+      "reportedScore": [
+        2,
+        2
+      ],
+      "raw": "2:2 n. V. (1:1, 1:1) (4:5 i. E.)",
+      "penalties": [
+        4,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1111
+    },
+    {
+      "id": "hist-4fb24fee4c22186c238521ff",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-29",
+      "time": null,
+      "home": "Würzburger Kickers (IV)",
+      "away": "Eintracht Braunschweig (II)",
+      "score": [
+        0,
+        1
+      ],
+      "reportedScore": [
+        0,
+        1
+      ],
+      "raw": "0:1 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Braunschweig (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1112
+    },
+    {
+      "id": "hist-a07484ff452f84825841ff4d",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-29",
+      "time": null,
+      "home": "TSV 1860 München (II)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        2,
+        5
+      ],
+      "reportedScore": [
+        2,
+        5
+      ],
+      "raw": "2:5 (1:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1113
+    },
+    {
+      "id": "hist-d9e4188ef8c8ef2a16a127de",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-29",
+      "time": null,
+      "home": "RB Leipzig (II)",
+      "away": "FC Erzgebirge Aue (II)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 n. V. (1:1, 0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "RB Leipzig (II)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1114
+    },
+    {
+      "id": "hist-58f7c57c2f9fa4dcab7fcd4e",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-29",
+      "time": null,
+      "home": "Hamburger SV (I)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1115
+    },
+    {
+      "id": "hist-b294768a8902f203b5a77a8a",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-29",
+      "time": null,
+      "home": "TSG 1899 Hoffenheim (I)",
+      "away": "FSV Frankfurt (II)",
+      "score": [
+        5,
+        1
+      ],
+      "reportedScore": [
+        5,
+        1
+      ],
+      "raw": "5:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1116
+    },
+    {
+      "id": "hist-183744217c757a6daa780392",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-29",
+      "time": null,
+      "home": "VfL Wolfsburg (I)",
+      "away": "1. FC Heidenheim (II)",
+      "score": [
+        4,
+        1
+      ],
+      "reportedScore": [
+        4,
+        1
+      ],
+      "raw": "4:1 (2:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1117
+    },
+    {
+      "id": "hist-67b6a260edfef168d7d9974f",
+      "round": "2. Hauptrunde",
+      "replay": false,
+      "date": "2014-10-29",
+      "time": null,
+      "home": "Eintracht Frankfurt (I)",
+      "away": "Borussia Mönchengladbach (I)",
+      "score": [
+        1,
+        2
+      ],
+      "reportedScore": [
+        1,
+        2
+      ],
+      "raw": "1:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1118
+    },
+    {
+      "id": "hist-2bff0982df98eabbe7c742d4",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-03-03",
+      "time": null,
+      "home": "VfR Aalen (II)",
+      "away": "TSG 1899 Hoffenheim (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG 1899 Hoffenheim (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1125
+    },
+    {
+      "id": "hist-ae110b12bb5b58b26a3858fc",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-03-03",
+      "time": null,
+      "home": "Bayer 04 Leverkusen (I)",
+      "away": "1. FC Kaiserslautern (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 n. V.",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1126
+    },
+    {
+      "id": "hist-46591244d162fbd912936339",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-03-03",
+      "time": null,
+      "home": "SC Freiburg (I)",
+      "away": "1. FC Köln (I)",
+      "score": [
+        2,
+        1
+      ],
+      "reportedScore": [
+        2,
+        1
+      ],
+      "raw": "2:1 (2:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1127
+    },
+    {
+      "id": "hist-d19ff57633b7f421b281391f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-03-03",
+      "time": null,
+      "home": "Dynamo Dresden (III)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1128
+    },
+    {
+      "id": "hist-e9066f705575b779451eabdf",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-03-04",
+      "time": null,
+      "home": "RB Leipzig (II)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:1)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1129
+    },
+    {
+      "id": "hist-f91d964ab19791fe0ae6b0bb",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-03-04",
+      "time": null,
+      "home": "Arminia Bielefeld (III)",
+      "away": "Werder Bremen (I)",
+      "score": [
+        3,
+        1
+      ],
+      "reportedScore": [
+        3,
+        1
+      ],
+      "raw": "3:1 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Arminia Bielefeld (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1130
+    },
+    {
+      "id": "hist-297b014938381413f76843dd",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-03-04",
+      "time": null,
+      "home": "Kickers Offenbach (IV)",
+      "away": "Borussia Mönchengladbach (I)",
+      "score": [
+        0,
+        2
+      ],
+      "reportedScore": [
+        0,
+        2
+      ],
+      "raw": "0:2 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1131
+    },
+    {
+      "id": "hist-bd2142e199b5c3668427a09f",
+      "round": "Achtelfinale",
+      "replay": false,
+      "date": "2015-03-04",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "Eintracht Braunschweig (II)",
+      "score": [
+        2,
+        0
+      ],
+      "reportedScore": [
+        2,
+        0
+      ],
+      "raw": "2:0 (1:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1132
+    },
+    {
+      "id": "hist-51c9e4ce080a3587c72b317b",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2015-04-07",
+      "time": null,
+      "home": "VfL Wolfsburg (I)",
+      "away": "SC Freiburg (I)",
+      "score": [
+        1,
+        0
+      ],
+      "reportedScore": [
+        1,
+        0
+      ],
+      "raw": "1:0 (0:0)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1139
+    },
+    {
+      "id": "hist-b8ecd7b34401f96b57442ddc",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2015-04-07",
+      "time": null,
+      "home": "Borussia Dortmund (I)",
+      "away": "TSG 1899 Hoffenheim (I)",
+      "score": [
+        3,
+        2
+      ],
+      "reportedScore": [
+        3,
+        2
+      ],
+      "raw": "3:2 n. V. (2:2, 1:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1140
+    },
+    {
+      "id": "hist-94394073752d6e6575a2a878",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2015-04-08",
+      "time": null,
+      "home": "Arminia Bielefeld (III)",
+      "away": "Borussia Mönchengladbach (I)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:1) (5:4 i. E.)",
+      "penalties": [
+        5,
+        4
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Arminia Bielefeld (III)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1141
+    },
+    {
+      "id": "hist-f3bedf99975d4314a26c01f7",
+      "round": "Viertelfinale",
+      "replay": false,
+      "date": "2015-04-08",
+      "time": null,
+      "home": "Bayer 04 Leverkusen (I)",
+      "away": "FC Bayern München (I)",
+      "score": [
+        0,
+        0
+      ],
+      "reportedScore": [
+        0,
+        0
+      ],
+      "raw": "0:0 n. V. (3:5 i. E.)",
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Bayern München (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1142
+    },
+    {
+      "id": "hist-e1b1157cc342bac0020cf558",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2015-04-28",
+      "time": null,
+      "home": "FC Bayern München (I)",
+      "away": "Borussia Dortmund (I)",
+      "score": [
+        1,
+        1
+      ],
+      "reportedScore": [
+        1,
+        1
+      ],
+      "raw": "1:1 n. V. (1:1, 1:0) (0:2 i. E.)",
+      "penalties": [
+        0,
+        2
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1151
+    },
+    {
+      "id": "hist-a0c52a6d3cae206a180636b4",
+      "round": "Halbfinale",
+      "replay": false,
+      "date": "2015-04-29",
+      "time": null,
+      "home": "Arminia Bielefeld (III)",
+      "away": "VfL Wolfsburg (I)",
+      "score": [
+        0,
+        4
+      ],
+      "reportedScore": [
+        0,
+        4
+      ],
+      "raw": "0:4 (0:2)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg (I)",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1152
+    },
+    {
+      "id": "hist-a32afa776054f98814406e62",
+      "round": "Finale",
+      "replay": false,
+      "date": null,
+      "time": null,
+      "home": "Borussia Dortmund",
+      "away": "VfL Wolfsburg",
+      "score": [
+        1,
+        3
+      ],
+      "reportedScore": [
+        1,
+        3
+      ],
+      "raw": "1:3 (1:3)",
+      "penalties": null,
+      "halfTime": null,
+      "regular": null,
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "formalHome": null,
+      "homeTier": null,
+      "awayTier": null,
+      "venue": null,
+      "sourceLine": 1256
+    }
+  ],
+  "issues": []
+}
