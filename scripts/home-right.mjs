@@ -16,19 +16,19 @@ export function loadHome(seasons){
 }
 
 export function historicalHomeRows(seasons,archive,observations){
- const evidence=new Map(observations.map(o=>[o.matchId,o]));
+ const evidence=new Map(observations.map(o=>[o.matchId,o]));const swaps=new Map(JSON.parse(readFileSync('data/covid-home-swaps.json','utf8')).map(o=>[o.matchId,o]));
  const rows=[];
  const name=(n,s)=>canonicalName(s>='2008-09'&&s<='2017-18'?n.replace(/\s+\([IVX]+\)$/,''):n);
  for(const s of [...seasons,...archive])for(const m of s.matches){
  if(m.round===6||/^(Finale|Endspiel|Final)$/i.test(String(m.round)))continue;
  const o=evidence.get(m.id),status=m.result?.status??m.status;
  for(const [n,other] of [[m.home,m.away],[m.away,m.home]]){
- const p=o?.probabilities?.[n];
- rows.push({season:s.season,id:m.id,club:name(n,s.season),opponent:name(other,s.season),date:m.date??null,round:m.round,status,home:o?o.formalHome===n:null,probability:Number.isFinite(p)?p:null,venue:m.venue??null,source:o?.source??null,replay:m.replay===true});
+ const p=o?.probabilities?.[n],swap=swaps.get(m.id),score=m.result?.playedScore??m.score,side=n===m.home?0:1;
+ rows.push({season:s.season,id:m.id,club:name(n,s.season),opponent:name(other,s.season),date:m.date??null,round:m.round,status,home:o?o.formalHome===n:null,probability:Number.isFinite(p)?p:null,venue:m.venue??null,source:o?.source??null,replay:m.replay===true,score:status==='completed'&&score?score[side]+' : '+score[1-side]:null,actual:status==='completed'&&swap?.venue?swap.finalHome===n:null,venue:swap?.venue??m.venue??null});
  }}
  return rows;
 }
-function streaks(rows){const runs=new Map();const ordered=[...rows].sort((a,b)=>a.season.localeCompare(b.season)||String(a.date??'').localeCompare(String(b.date??''))||a.id.localeCompare(b.id));for(const r of ordered){if(!runs.has(r.club))runs.set(r.club,{home:0,away:0,longHome:0,longAway:0,season:null});const x=runs.get(r.club);if(x.season!==r.season){x.home=x.away=0;x.season=r.season;}if(r.home===null||!r.date||r.replay){x.home=x.away=0;continue;}x.home=r.home?x.home+1:0;x.away=r.home?0:x.away+1;x.longHome=Math.max(x.longHome,x.home);x.longAway=Math.max(x.longAway,x.away);}return runs;}
+function streaks(rows){const runs=new Map();const ordered=[...rows].sort((a,b)=>a.season.localeCompare(b.season)||String(a.date??'').localeCompare(String(b.date??''))||a.id.localeCompare(b.id));for(const r of ordered){if(!runs.has(r.club))runs.set(r.club,{home:0,away:0,longHome:0,longAway:0,season:null});const x=runs.get(r.club);if(r.home===null||!r.date||r.replay){x.home=x.away=0;continue;}x.home=r.home?x.home+1:0;x.away=r.home?0:x.away+1;x.longHome=Math.max(x.longHome,x.home);x.longAway=Math.max(x.longAway,x.away);}return runs;}
 export function summarizeHistoricalRows(rows){
  const clubs=new Map();
  for(const r of rows){
