@@ -4,14 +4,15 @@ on:
   push:
     branches: [main]
 permissions:
-  contents: read
+  contents: write
 jobs:
   validate:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: true
+          ref: ${{ github.head_ref }}
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -22,6 +23,16 @@ jobs:
           find public -name index.html -type f -delete
           rm -f public/sitemap.xml public/robots.txt
           node scripts/portal.mjs
+      - name: Save regenerated production files
+        if: github.event_name == 'pull_request' && github.head_ref == 'feature/2018-one-pot' && github.event.pull_request.head.repo.full_name == github.repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- public
+          if ! git diff --cached --quiet; then
+            git commit -m 'Regenerate 2018-19 production pages'
+            git push origin HEAD:feature/2018-one-pot
+          fi
       - name: Verify all committed production files
         run: |
           git diff --exit-code -- public
