@@ -1,0 +1,1 @@
+All 32 first-round 2018/19 original pairings matched individually to the June 8 draw report, with spelling aliases only. Observations, not inferred pot models. Salmrohr and Linx tier six independently sourced in tier-evidence.json. Positive safe integer tiers now supported; pot membership remains independent.

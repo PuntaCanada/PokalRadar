@@ -924,5 +924,172 @@
         "Bayern München"
       ]
     ]
+  },
+  {
+    "season": "2018-19",
+    "round": 1,
+    "source": "https://ig-schiedsrichter.de/dfb-pokal-auslosung-drochtersen-gegen-bayern-titelverteidiger-in-ulm/",
+    "pairs": [
+      [
+        "f308607cc08cfc829f6d8114",
+        "SV Wehen Wiesbaden",
+        "FC St. Pauli"
+      ],
+      [
+        "fbcc055f9b8cd18d41ded40d",
+        "1. FC Magdeburg",
+        "SV Darmstadt 98"
+      ],
+      [
+        "7817d107fbe5e9e3ba76c137",
+        "1. FC Schweinfurt 05",
+        "FC Schalke 04"
+      ],
+      [
+        "872b3f624f2c12765f9e175f",
+        "SV Linx",
+        "1. FC Nürnberg"
+      ],
+      [
+        "b0af51682375c47ef230e14b",
+        "SV Rödinghausen",
+        "Dynamo Dresden"
+      ],
+      [
+        "5aaf0362381a5fd480f412eb",
+        "SV 07 Elversberg",
+        "VfL Wolfsburg"
+      ],
+      [
+        "a3872144f85be797d2588a1b",
+        "TuS Dassendorf",
+        "MSV Duisburg"
+      ],
+      [
+        "9137774fe686c67e49c2be4a",
+        "Wormatia Worms",
+        "Werder Bremen"
+      ],
+      [
+        "a77397fbe5b150b5ff13bc0f",
+        "SV Drochtersen/Assel",
+        "Bayern München"
+      ],
+      [
+        "bb6f84f72ecc418d48748ea3",
+        "1. FC Kaiserslautern",
+        "1899 Hoffenheim"
+      ],
+      [
+        "faca0416fa7edb417aa0e93b",
+        "1. CfR Pforzheim",
+        "Bayer Leverkusen"
+      ],
+      [
+        "31640f1f6c9348aa509e2795",
+        "SSV Ulm 1846",
+        "Eintracht Frankfurt"
+      ],
+      [
+        "94f8acb00c525738296cbd97",
+        "TuS Erndtebrück",
+        "Hamburger SV"
+      ],
+      [
+        "e9d611ae4ce0a5b9d3ea8cd9",
+        "Rot-Weiß Oberhausen",
+        "SV Sandhausen"
+      ],
+      [
+        "b4c27921685607bb731265fe",
+        "Erzgebirge Aue",
+        "1. FSV Mainz 05"
+      ],
+      [
+        "7965548c415a7193a18dae47",
+        "Hansa Rostock",
+        "VfB Stuttgart"
+      ],
+      [
+        "9b16ffff76f3996e441d7321",
+        "1. FC Lok Stendal",
+        "Arminia Bielefeld"
+      ],
+      [
+        "d166549b36bbd40f0d327ceb",
+        "TSV Steinbach Haiger",
+        "FC Augsburg"
+      ],
+      [
+        "12d57886e3fa3964dae66dfc",
+        "Rot-Weiß Koblenz",
+        "Fortuna Düsseldorf"
+      ],
+      [
+        "9dd6daf8c61e8f4e9826ac99",
+        "Weiche Flensburg 08",
+        "VfL Bochum"
+      ],
+      [
+        "11b1fe000b9adb40f88b23e3",
+        "BSG Chemie Leipzig",
+        "Jahn Regensburg"
+      ],
+      [
+        "c2354489e962c95b1f1b85a0",
+        "BFC Dynamo",
+        "1. FC Köln"
+      ],
+      [
+        "dfa368b3085b3937cc3eb2a4",
+        "SSV Jeddeloh II",
+        "1. FC Heidenheim 1846"
+      ],
+      [
+        "a6a5b8ed481be9bfbc417547",
+        "Viktoria Köln",
+        "RB Leipzig"
+      ],
+      [
+        "55c1bd3ae3be495b34da5268",
+        "Karlsruher SC",
+        "Hannover 96"
+      ],
+      [
+        "533241dd798c811d34f20395",
+        "TSV 1860 München",
+        "Holstein Kiel"
+      ],
+      [
+        "86beb65a0ab656f775556684",
+        "FC Carl Zeiss Jena",
+        "1. FC Union Berlin"
+      ],
+      [
+        "61951daca35f22b8a463ec8a",
+        "BSC Hastedt",
+        "Bor. Mönchengladbach"
+      ],
+      [
+        "ae1dec471d694a9719eceb02",
+        "SC Paderborn 07",
+        "FC Ingolstadt 04"
+      ],
+      [
+        "99278f89bcd363aa32b4fc1a",
+        "Energie Cottbus",
+        "SC Freiburg"
+      ],
+      [
+        "3d0b5392634576d8e9b7e168",
+        "Eintracht Braunschweig",
+        "Hertha BSC"
+      ],
+      [
+        "90a447651add28a0c0fa724b",
+        "SpVgg Greuther Fürth",
+        "Borussia Dortmund"
+      ]
+    ]
   }
 ]
