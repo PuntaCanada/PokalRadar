@@ -548,5 +548,65 @@
         "Holstein Kiel"
       ]
     ]
+  },
+  {
+    "season": "2020-21",
+    "round": 1,
+    "source": "https://www.mainz05.de/news/dfb-pokal-tsv-havelse-und-mainz-05-tauschen-heimrecht",
+    "pairs": [
+      [
+        "8e5a597da19177cfb6efde36",
+        "TSV Havelse",
+        "1. FSV Mainz 05"
+      ]
+    ]
+  },
+  {
+    "season": "2020-21",
+    "round": 1,
+    "source": "https://www.bfv.de/news/toto-pokal/2019-20/09/bfv-toto-pokal-munchner-lowen-feiern-premieren-titel",
+    "pairs": [
+      [
+        "e56c62776d7b9791f50bd554",
+        "TSV 1860 München",
+        "Eintracht Frankfurt"
+      ]
+    ]
+  },
+  {
+    "season": "2020-21",
+    "round": 1,
+    "source": "https://archiv.flvw.de/news/detail/auslosung-mal-zwei-dfb-pokal-gegner-und-flvw-entscheidungsspiel/",
+    "pairs": [
+      [
+        "2d7e89547cee95c7510880d5",
+        "RSV Meinerzhagen",
+        "SpVgg Greuther Fürth"
+      ]
+    ]
+  },
+  {
+    "season": "2020-21",
+    "round": 1,
+    "source": "https://www.bfv.de/news/dfb-pokal/2020/11/schiedsgerichts-urteil-der-1.-fc-schweinfurt-05-spielt-im-dfb-pokal-gegen-den-fc-schalke-04",
+    "pairs": [
+      [
+        "539775c20353350bb9c62a38",
+        "1. FC Schweinfurt 05",
+        "FC Schalke 04"
+      ]
+    ]
+  },
+  {
+    "season": "2020-21",
+    "round": 1,
+    "source": "https://archiv.flvw.de/news/detail/auslosung-mal-zwei-dfb-pokal-gegner-und-flvw-entscheidungsspiel/",
+    "pairs": [
+      [
+        "776fdc6f954e2623211d167c",
+        "SC Wiedenbrück",
+        "SC Paderborn 07"
+      ]
+    ]
   }
 ]

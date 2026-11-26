@@ -340,5 +340,29 @@
     "club": "RSV Meinerzhagen",
     "tier": 5,
     "source": "https://www.fussball.de/newsdetail/uebersicht-so-lief-der-finaltag-der-amateure/-/article-id/218343"
+  },
+  {
+    "season": "2019-20",
+    "club": "1. FC Saarbrücken",
+    "tier": 4,
+    "source": "https://www.dynamo-dresden.de/aktuelles/news/profis/auslosung-2-dfb-pokalrunde-am-sonntag"
+  },
+  {
+    "season": "2019-20",
+    "club": "SC Verl",
+    "tier": 4,
+    "source": "https://www.dynamo-dresden.de/aktuelles/news/profis/auslosung-2-dfb-pokalrunde-am-sonntag"
+  },
+  {
+    "season": "2020-21",
+    "club": "TSV Havelse",
+    "tier": 4,
+    "source": "https://www.mainz05.de/news/dfb-pokal-tsv-havelse-und-mainz-05-tauschen-heimrecht"
+  },
+  {
+    "season": "2020-21",
+    "club": "1. FC Schweinfurt 05",
+    "tier": 4,
+    "source": "https://www.bfv.de/news/dfb-pokal/2020/11/schiedsgerichts-urteil-der-1.-fc-schweinfurt-05-spielt-im-dfb-pokal-gegen-den-fc-schalke-04"
   }
 ]

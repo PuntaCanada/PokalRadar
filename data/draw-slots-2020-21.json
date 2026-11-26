@@ -12,10 +12,10 @@
     "matchId": "8e5a597da19177cfb6efde36",
     "slot": "Niedersachsen (3. Liga/Regionalliga)",
     "opponent": "1. FSV Mainz 05",
-    "confirmedParticipant": null,
+    "confirmedParticipant": "TSV Havelse",
     "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
-    "qualificationSource": null,
-    "status": "unresolved"
+    "qualificationSource": "https://www.mainz05.de/news/dfb-pokal-tsv-havelse-und-mainz-05-tauschen-heimrecht",
+    "status": "confirmed"
   },
   {
     "matchId": "c54cdd46523e535217d6fafa",
@@ -30,10 +30,10 @@
     "matchId": "e56c62776d7b9791f50bd554",
     "slot": "Bayern (Pokalsieger)",
     "opponent": "Eintracht Frankfurt",
-    "confirmedParticipant": null,
+    "confirmedParticipant": "TSV 1860 München",
     "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
-    "qualificationSource": null,
-    "status": "unresolved"
+    "qualificationSource": "https://www.bfv.de/news/toto-pokal/2019-20/09/bfv-toto-pokal-munchner-lowen-feiern-premieren-titel",
+    "status": "confirmed"
   },
   {
     "matchId": "17abc0fca0fa9e1f1f943197",
@@ -156,10 +156,10 @@
     "matchId": "2d7e89547cee95c7510880d5",
     "slot": "Westfalen (2. Teilnehmer)",
     "opponent": "SpVgg Greuther Fürth",
-    "confirmedParticipant": null,
+    "confirmedParticipant": "RSV Meinerzhagen",
     "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
-    "qualificationSource": null,
-    "status": "unresolved"
+    "qualificationSource": "https://archiv.flvw.de/news/detail/auslosung-mal-zwei-dfb-pokal-gegner-und-flvw-entscheidungsspiel/",
+    "status": "confirmed"
   },
   {
     "matchId": "71bf89ed5e6eb7ecb3e47149",
@@ -192,18 +192,19 @@
     "matchId": "539775c20353350bb9c62a38",
     "slot": "Bayern (Regionalliga-Amateur)",
     "opponent": "FC Schalke 04",
-    "confirmedParticipant": null,
+    "confirmedParticipant": "1. FC Schweinfurt 05",
     "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
-    "qualificationSource": null,
-    "status": "unresolved"
+    "qualificationSource": "https://www.bfv.de/news/dfb-pokal/2020/11/schiedsgerichts-urteil-der-1.-fc-schweinfurt-05-spielt-im-dfb-pokal-gegen-den-fc-schalke-04",
+    "status": "confirmed",
+    "note": "Final selection confirmed after arbitration; not known at draw."
   },
   {
     "matchId": "776fdc6f954e2623211d167c",
     "slot": "Westfalen (1. Teilnehmer)",
     "opponent": "SC Paderborn 07",
-    "confirmedParticipant": null,
+    "confirmedParticipant": "SC Wiedenbrück",
     "drawSource": "https://www.fussball.de/newsdetail/fc-bayern-trifft-auf-pokalsieger-mittelrhein/-/article-id/217684",
-    "qualificationSource": null,
-    "status": "unresolved"
+    "qualificationSource": "https://archiv.flvw.de/news/detail/auslosung-mal-zwei-dfb-pokal-gegner-und-flvw-entscheidungsspiel/",
+    "status": "confirmed"
   }
 ]
