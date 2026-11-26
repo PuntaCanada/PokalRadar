@@ -14,3 +14,26 @@ export function loadHome(seasons){
  for(const e of JSON.parse(readFileSync('data/home-right-only.json','utf8'))){for(const [matchId,home,away] of e.pairs){const m=seasons.find(s=>s.season===e.season)?.matches.find(m=>m.id===matchId);if(!m||m.round!==e.round||m.home!==home||m.away!==away)throw Error('Home evidence mismatch');obs.push({matchId,formalHome:home,source:e.source,probabilities:null});}}
  return {observations:obs,...summarizeHome(seasons,obs)};
 }
+
+export function historicalHomeRows(seasons,archive,observations){
+ const evidence=new Map(observations.map(o=>[o.matchId,o]));
+ const rows=[];
+ const name=(n,s)=>canonicalName(s>='2008-09'&&s<='2017-18'?n.replace(/\s+\([IVX]+\)$/,''):n);
+ for(const s of [...seasons,...archive])for(const m of s.matches){
+ if(m.round===6||/^(Finale|Endspiel|Final)$/i.test(String(m.round)))continue;
+ const o=evidence.get(m.id),status=m.result?.status??m.status;
+ for(const [n,other] of [[m.home,m.away],[m.away,m.home]]){
+ const p=o?.probabilities?.[n];
+ rows.push({season:s.season,id:m.id,club:name(n,s.season),opponent:name(other,s.season),date:m.date??null,round:m.round,status,home:o?o.formalHome===n:null,probability:Number.isFinite(p)?p:null,venue:m.venue??null,source:o?.source??null,replay:m.replay===true});
+ }}
+ return rows;
+}
+export function summarizeHistoricalRows(rows){
+ const clubs=new Map();
+ for(const r of rows){
+ if(!clubs.has(r.club))clubs.set(r.club,{name:r.club,total:0,known:0,home:0,away:0,unknown:0,modeled:0,expected:0,modeledHome:0});
+ const c=clubs.get(r.club);c.total++;if(r.home===null)c.unknown++;else{c.known++;c.home+=Number(r.home);c.away+=Number(!r.home);}
+ if(r.home!==null&&Number.isFinite(r.probability)){c.modeled++;c.expected+=r.probability;c.modeledHome+=Number(r.home);}
+ }
+ return [...clubs.values()];
+}
