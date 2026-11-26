@@ -4,22 +4,30 @@ on:
   push:
     branches: [main]
 permissions:
-  contents: write
+  contents: read
 jobs:
   validate:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.sha || github.sha }}
-          persist-credentials: true
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
       - run: npm test
       - run: npm run build
       - run: git diff --exit-code -- public/data/seasons.json
-      - run: node scripts/portal.mjs
+      - name: Regenerate all static pages from a clean output set
+        run: |
+          find public -name index.html -type f -delete
+          rm -f public/sitemap.xml public/robots.txt
+          node scripts/portal.mjs
+      - name: Verify all committed production files
+        run: |
+          git diff --exit-code -- public
+          test -z "$(git ls-files --others --exclude-standard -- public)"
+          test -z "$(git ls-files --deleted -- public)"
       - run: node tests/portal-links.mjs
       - run: npm install --no-save --no-package-lock playwright@1.56.1
       - run: npx playwright install --with-deps chromium
@@ -28,21 +36,11 @@ jobs:
         with:
           name: generated-portal
           path: public
-      - name: Persist generated portal after successful checks
-        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'feature/statistics-portal'
-        run: |
-          git add public
-          if ! git diff --cached --quiet; then
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git commit -m 'Persist validated static portal for Cloudflare'
-            git push origin HEAD:refs/heads/feature/statistics-portal
-          fi
       - name: Check existing production independently
         if: always()
         continue-on-error: true
         run: |
-          if curl -fsSL --max-time 20 https://pokalradar.pages.dev/ -o /tmp/pokal-index; then echo 'PRODUCTION HTML reachable'; else echo 'PRODUCTION HTML unverified'; fi
+          node tests/production.mjs
           if curl -fsSL --max-time 20 https://pokalradar.pages.dev/data/seasons.json -o /tmp/pokal-data; then
             sha256sum /tmp/pokal-data public/data/seasons.json
             if cmp -s /tmp/pokal-data public/data/seasons.json; then echo 'PRODUCTION JSON MATCH'; else echo 'PRODUCTION JSON MISMATCH'; fi
