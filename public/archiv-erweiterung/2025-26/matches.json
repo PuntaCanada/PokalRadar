@@ -1,0 +1,1753 @@
+{
+  "season": "2025-26",
+  "source": "https://api.openligadb.de/getmatchdata/dfb/2025",
+  "license": "ODbL-1.0",
+  "matches": [
+    {
+      "id": "oldb-77192",
+      "round": "1. Runde",
+      "date": "2025-08-15",
+      "time": "18:00",
+      "home": "FC Gütersloh",
+      "away": "1. FC Union Berlin",
+      "score": [
+        0,
+        5
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        3
+      ],
+      "regular": [
+        0,
+        5
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77202",
+      "round": "1. Runde",
+      "date": "2025-08-15",
+      "time": "18:00",
+      "home": "1. FC Saarbrücken",
+      "away": "1. FC Magdeburg",
+      "score": [
+        1,
+        3
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        2
+      ],
+      "regular": [
+        1,
+        3
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Magdeburg",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77203",
+      "round": "1. Runde",
+      "date": "2025-08-15",
+      "time": "18:00",
+      "home": "SG Sonnenhof Großaspach",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        4
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        4
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77206",
+      "round": "1. Runde",
+      "date": "2025-08-15",
+      "time": "20:45",
+      "home": "DSC Arminia Bielefeld",
+      "away": "Werder Bremen",
+      "score": [
+        1,
+        0
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": [
+        1,
+        0
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "DSC Arminia Bielefeld",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77179",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "13:00",
+      "home": "FK Pirmasens",
+      "away": "Hamburger SV",
+      "score": [
+        1,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77190",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "13:00",
+      "home": "BFC Dynamo",
+      "away": "VfL Bochum",
+      "score": [
+        1,
+        3
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77175",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "15:30",
+      "home": "SV Hemelingen",
+      "away": "VfL Wolfsburg",
+      "score": [
+        0,
+        9
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        3
+      ],
+      "regular": [
+        0,
+        9
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Wolfsburg",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77186",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "15:30",
+      "home": "FV Illertissen",
+      "away": "1. FC Nürnberg",
+      "score": [
+        3,
+        3
+      ],
+      "penalties": [
+        9,
+        8
+      ],
+      "halfTime": [
+        2,
+        0
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FV Illertissen",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77189",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "15:30",
+      "home": "Eintracht Norderstedt",
+      "away": "FC St. Pauli",
+      "score": [
+        0,
+        0
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77197",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "15:30",
+      "home": "SV Sandhausen",
+      "away": "RB Leipzig",
+      "score": [
+        2,
+        4
+      ],
+      "penalties": null,
+      "halfTime": [
+        2,
+        2
+      ],
+      "regular": [
+        2,
+        4
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "RB Leipzig",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77199",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "15:30",
+      "home": "Hansa Rostock",
+      "away": "TSG Hoffenheim",
+      "score": [
+        0,
+        4
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        4
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "TSG Hoffenheim",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77200",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "15:30",
+      "home": "Bahlinger SC",
+      "away": "1. FC Heidenheim 1846",
+      "score": [
+        0,
+        5
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        2
+      ],
+      "regular": [
+        0,
+        5
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Heidenheim 1846",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77178",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "18:00",
+      "home": "Sportfreunde Lotte",
+      "away": "SC Freiburg",
+      "score": [
+        0,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        2
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77188",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "18:00",
+      "home": "VfB Lübeck",
+      "away": "SV Darmstadt 98",
+      "score": [
+        1,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        1,
+        2
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77196",
+      "round": "1. Runde",
+      "date": "2025-08-16",
+      "time": "18:00",
+      "home": "Energie Cottbus",
+      "away": "Hannover 96",
+      "score": [
+        1,
+        0
+      ],
+      "penalties": null,
+      "halfTime": [
+        1,
+        0
+      ],
+      "regular": [
+        1,
+        0
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Energie Cottbus",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77182",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "13:00",
+      "home": "Viktoria Köln",
+      "away": "SC Paderborn 07",
+      "score": [
+        1,
+        3
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        3
+      ],
+      "regular": [
+        1,
+        3
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Paderborn 07",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77187",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "13:00",
+      "home": "FV Engers 07",
+      "away": "Eintracht Frankfurt",
+      "score": [
+        0,
+        5
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        2
+      ],
+      "regular": [
+        0,
+        5
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Eintracht Frankfurt",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77181",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "15:30",
+      "home": "Atlas Delmenhorst",
+      "away": "Borussia Mönchengladbach",
+      "score": [
+        2,
+        3
+      ],
+      "penalties": null,
+      "halfTime": [
+        2,
+        2
+      ],
+      "regular": [
+        2,
+        3
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77183",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "15:30",
+      "home": "RSV Eintracht 1949",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        7
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        4
+      ],
+      "regular": [
+        0,
+        7
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77185",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "15:30",
+      "home": "ZFC Meuselwitz",
+      "away": "Karlsruher SC",
+      "score": [
+        0,
+        5
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        3
+      ],
+      "regular": [
+        0,
+        5
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Karlsruher SC",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77194",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "15:30",
+      "home": "Jahn Regensburg",
+      "away": "1. FC Köln",
+      "score": [
+        1,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": [
+        1,
+        2
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Köln",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77198",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "15:30",
+      "home": "Blau-Weiß Lohne",
+      "away": "SpVgg Greuther Fürth",
+      "score": [
+        0,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": [
+        0,
+        2
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SpVgg Greuther Fürth",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77201",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "15:30",
+      "home": "1. FC Lok Leipzig",
+      "away": "FC Schalke 04",
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC Schalke 04",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77176",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "18:00",
+      "home": "SSV Ulm 1846",
+      "away": "SV 07 Elversberg",
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": [
+        0,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV 07 Elversberg",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77180",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "18:00",
+      "home": "Hallescher FC",
+      "away": "FC Augsburg",
+      "score": [
+        0,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": [
+        0,
+        2
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Augsburg",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77195",
+      "round": "1. Runde",
+      "date": "2025-08-17",
+      "time": "18:00",
+      "home": "FC 08 Homburg",
+      "away": "Holstein Kiel",
+      "score": [
+        0,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        2
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77191",
+      "round": "1. Runde",
+      "date": "2025-08-18",
+      "time": "18:00",
+      "home": "Dynamo Dresden",
+      "away": "1. FSV Mainz 05",
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FSV Mainz 05",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77193",
+      "round": "1. Runde",
+      "date": "2025-08-18",
+      "time": "18:00",
+      "home": "Preußen Münster",
+      "away": "Hertha BSC",
+      "score": [
+        0,
+        0
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77205",
+      "round": "1. Runde",
+      "date": "2025-08-18",
+      "time": "18:00",
+      "home": "1. FC Schweinfurt 05",
+      "away": "Fortuna Düsseldorf",
+      "score": [
+        2,
+        4
+      ],
+      "penalties": null,
+      "halfTime": [
+        1,
+        0
+      ],
+      "regular": [
+        2,
+        4
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Fortuna Düsseldorf",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77177",
+      "round": "1. Runde",
+      "date": "2025-08-18",
+      "time": "20:45",
+      "home": "Rot-Weiss Essen",
+      "away": "Borussia Dortmund",
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": [
+        0,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77184",
+      "round": "1. Runde",
+      "date": "2025-08-26",
+      "time": "20:45",
+      "home": "Eintracht Braunschweig",
+      "away": "VfB Stuttgart",
+      "score": [
+        4,
+        4
+      ],
+      "penalties": [
+        11,
+        12
+      ],
+      "halfTime": [
+        1,
+        1
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-77204",
+      "round": "1. Runde",
+      "date": "2025-08-27",
+      "time": "20:45",
+      "home": "SV Wehen Wiesbaden",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        3
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        2,
+        3
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79585",
+      "round": "2. Runde",
+      "date": "2025-10-28",
+      "time": "18:30",
+      "home": "1. FC Heidenheim 1846",
+      "away": "Hamburger SV",
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": [
+        0,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hamburger SV",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79587",
+      "round": "2. Runde",
+      "date": "2025-10-28",
+      "time": "18:30",
+      "home": "Hertha BSC",
+      "away": "SV 07 Elversberg",
+      "score": [
+        3,
+        0
+      ],
+      "penalties": null,
+      "halfTime": [
+        1,
+        0
+      ],
+      "regular": [
+        3,
+        0
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79589",
+      "round": "2. Runde",
+      "date": "2025-10-28",
+      "time": "18:30",
+      "home": "Eintracht Frankfurt",
+      "away": "Borussia Dortmund",
+      "score": [
+        1,
+        1
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": [
+        1,
+        0
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Borussia Dortmund",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79595",
+      "round": "2. Runde",
+      "date": "2025-10-28",
+      "time": "18:30",
+      "home": "VfL Wolfsburg",
+      "away": "Holstein Kiel",
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79583",
+      "round": "2. Runde",
+      "date": "2025-10-28",
+      "time": "20:45",
+      "home": "Energie Cottbus",
+      "away": "RB Leipzig",
+      "score": [
+        1,
+        4
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        3
+      ],
+      "regular": [
+        1,
+        4
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "RB Leipzig",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79586",
+      "round": "2. Runde",
+      "date": "2025-10-28",
+      "time": "20:45",
+      "home": "Borussia Mönchengladbach",
+      "away": "Karlsruher SC",
+      "score": [
+        3,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        1,
+        0
+      ],
+      "regular": [
+        3,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Borussia Mönchengladbach",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79591",
+      "round": "2. Runde",
+      "date": "2025-10-28",
+      "time": "20:45",
+      "home": "FC Augsburg",
+      "away": "VfL Bochum",
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfL Bochum",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79597",
+      "round": "2. Runde",
+      "date": "2025-10-28",
+      "time": "20:45",
+      "home": "FC St. Pauli",
+      "away": "TSG Hoffenheim",
+      "score": [
+        2,
+        2
+      ],
+      "penalties": [
+        10,
+        9
+      ],
+      "halfTime": [
+        1,
+        0
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79582",
+      "round": "2. Runde",
+      "date": "2025-10-29",
+      "time": "18:00",
+      "home": "FV Illertissen",
+      "away": "1. FC Magdeburg",
+      "score": [
+        0,
+        3
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        2
+      ],
+      "regular": [
+        0,
+        3
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Magdeburg",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79588",
+      "round": "2. Runde",
+      "date": "2025-10-29",
+      "time": "18:00",
+      "home": "SpVgg Greuther Fürth",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Kaiserslautern",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79593",
+      "round": "2. Runde",
+      "date": "2025-10-29",
+      "time": "18:00",
+      "home": "SC Paderborn 07",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        2,
+        4
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79594",
+      "round": "2. Runde",
+      "date": "2025-10-29",
+      "time": "18:00",
+      "home": "1. FSV Mainz 05",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        2
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79584",
+      "round": "2. Runde",
+      "date": "2025-10-29",
+      "time": "20:45",
+      "home": "1. FC Union Berlin",
+      "away": "DSC Arminia Bielefeld",
+      "score": [
+        2,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        1,
+        1
+      ],
+      "regular": [
+        2,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "1. FC Union Berlin",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79590",
+      "round": "2. Runde",
+      "date": "2025-10-29",
+      "time": "20:45",
+      "home": "SV Darmstadt 98",
+      "away": "FC Schalke 04",
+      "score": [
+        4,
+        0
+      ],
+      "penalties": null,
+      "halfTime": [
+        2,
+        0
+      ],
+      "regular": [
+        4,
+        0
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SV Darmstadt 98",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79592",
+      "round": "2. Runde",
+      "date": "2025-10-29",
+      "time": "20:45",
+      "home": "Fortuna Düsseldorf",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        3
+      ],
+      "penalties": null,
+      "halfTime": [
+        1,
+        2
+      ],
+      "regular": [
+        1,
+        3
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79596",
+      "round": "2. Runde",
+      "date": "2025-10-29",
+      "time": "20:45",
+      "home": "1. FC Köln",
+      "away": "FC Bayern München",
+      "score": [
+        1,
+        4
+      ],
+      "penalties": null,
+      "halfTime": [
+        1,
+        2
+      ],
+      "regular": [
+        1,
+        4
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79780",
+      "round": "Achtelfinale",
+      "date": "2025-12-02",
+      "time": "18:00",
+      "home": "Borussia Mönchengladbach",
+      "away": "FC St. Pauli",
+      "score": [
+        1,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        1,
+        2
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC St. Pauli",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79782",
+      "round": "Achtelfinale",
+      "date": "2025-12-02",
+      "time": "18:00",
+      "home": "Hertha BSC",
+      "away": "1. FC Kaiserslautern",
+      "score": [
+        6,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        3,
+        1
+      ],
+      "regular": [
+        6,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Hertha BSC",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79778",
+      "round": "Achtelfinale",
+      "date": "2025-12-02",
+      "time": "21:00",
+      "home": "Borussia Dortmund",
+      "away": "Bayer 04 Leverkusen",
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79783",
+      "round": "Achtelfinale",
+      "date": "2025-12-02",
+      "time": "21:00",
+      "home": "RB Leipzig",
+      "away": "1. FC Magdeburg",
+      "score": [
+        3,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        2,
+        1
+      ],
+      "regular": [
+        3,
+        1
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "RB Leipzig",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79779",
+      "round": "Achtelfinale",
+      "date": "2025-12-03",
+      "time": "18:00",
+      "home": "VfL Bochum",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        2
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79786",
+      "round": "Achtelfinale",
+      "date": "2025-12-03",
+      "time": "18:00",
+      "home": "SC Freiburg",
+      "away": "SV Darmstadt 98",
+      "score": [
+        2,
+        0
+      ],
+      "penalties": null,
+      "halfTime": [
+        1,
+        0
+      ],
+      "regular": [
+        2,
+        0
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79781",
+      "round": "Achtelfinale",
+      "date": "2025-12-03",
+      "time": "20:45",
+      "home": "Hamburger SV",
+      "away": "Holstein Kiel",
+      "score": [
+        1,
+        1
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "Holstein Kiel",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-79784",
+      "round": "Achtelfinale",
+      "date": "2025-12-03",
+      "time": "20:45",
+      "home": "1. FC Union Berlin",
+      "away": "FC Bayern München",
+      "score": [
+        2,
+        3
+      ],
+      "penalties": null,
+      "halfTime": [
+        1,
+        3
+      ],
+      "regular": [
+        2,
+        3
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-80175",
+      "round": "Viertelfinale",
+      "date": "2026-02-03",
+      "time": "20:45",
+      "home": "Bayer 04 Leverkusen",
+      "away": "FC St. Pauli",
+      "score": [
+        3,
+        0
+      ],
+      "penalties": null,
+      "halfTime": [
+        1,
+        0
+      ],
+      "regular": [
+        3,
+        0
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "Bayer 04 Leverkusen",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-80174",
+      "round": "Viertelfinale",
+      "date": "2026-02-04",
+      "time": "20:45",
+      "home": "Holstein Kiel",
+      "away": "VfB Stuttgart",
+      "score": [
+        0,
+        3
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": [
+        0,
+        3
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-80173",
+      "round": "Viertelfinale",
+      "date": "2026-02-10",
+      "time": "20:45",
+      "home": "Hertha BSC",
+      "away": "SC Freiburg",
+      "score": [
+        1,
+        1
+      ],
+      "penalties": [
+        5,
+        6
+      ],
+      "halfTime": null,
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "SC Freiburg",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-80172",
+      "round": "Viertelfinale",
+      "date": "2026-02-11",
+      "time": "20:45",
+      "home": "FC Bayern München",
+      "away": "RB Leipzig",
+      "score": [
+        2,
+        0
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": [
+        2,
+        0
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-81113",
+      "round": "Halbfinale",
+      "date": "2026-04-22",
+      "time": "20:45",
+      "home": "Bayer 04 Leverkusen",
+      "away": "FC Bayern München",
+      "score": [
+        0,
+        2
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": [
+        0,
+        2
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-81114",
+      "round": "Halbfinale",
+      "date": "2026-04-23",
+      "time": "20:45",
+      "home": "VfB Stuttgart",
+      "away": "SC Freiburg",
+      "score": [
+        2,
+        1
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        1
+      ],
+      "regular": null,
+      "extraTime": true,
+      "status": "completed",
+      "winner": "VfB Stuttgart",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    },
+    {
+      "id": "oldb-81581",
+      "round": "Endspiel",
+      "date": "2026-05-23",
+      "time": "20:00",
+      "home": "FC Bayern München",
+      "away": "VfB Stuttgart",
+      "score": [
+        3,
+        0
+      ],
+      "penalties": null,
+      "halfTime": [
+        0,
+        0
+      ],
+      "regular": [
+        3,
+        0
+      ],
+      "extraTime": null,
+      "status": "completed",
+      "winner": "FC Bayern München",
+      "homeTier": null,
+      "awayTier": null,
+      "formalHome": null,
+      "venue": null
+    }
+  ]
+}
