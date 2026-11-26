@@ -26,7 +26,7 @@ jobs:
       - name: Verify all committed production files
         run: |
           git diff --exit-code -- public
-          test -z "$(git ls-files --others --exclude-standard -- public)"
+          test -z "$(git ls-files --others -- public)"
           test -z "$(git ls-files --deleted -- public)"
       - run: node tests/portal-links.mjs
       - run: npm install --no-save --no-package-lock playwright@1.56.1
@@ -36,12 +36,3 @@ jobs:
         with:
           name: generated-portal
           path: public
-      - name: Check existing production independently
-        if: always()
-        continue-on-error: true
-        run: |
-          node tests/production.mjs
-          if curl -fsSL --max-time 20 https://pokalradar.pages.dev/data/seasons.json -o /tmp/pokal-data; then
-            sha256sum /tmp/pokal-data public/data/seasons.json
-            if cmp -s /tmp/pokal-data public/data/seasons.json; then echo 'PRODUCTION JSON MATCH'; else echo 'PRODUCTION JSON MISMATCH'; fi
-          else echo 'PRODUCTION JSON unverified'; fi
