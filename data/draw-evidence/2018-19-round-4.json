@@ -1,0 +1,68 @@
+{
+  "season": "2018-19",
+  "round": 4,
+  "drawDate": "2019-02-10",
+  "mode": "one",
+  "matches": [
+    {
+      "matchId": "a01468031713ed226dc32da7",
+      "home": "SC Paderborn 07",
+      "away": "Hamburger SV",
+      "homeTier": 2,
+      "awayTier": 2,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "SC Paderborn 07",
+      "venue": null,
+      "ruleSource": "https://www.fussball.de/newsdetail/die-wichtigsten-infos-zur-dfb-pokalauslosung/-/article-id/187879",
+      "pairingSource": "https://schalke04.de/dfb-pokal/dfb-pokal-s04-trifft-im-viertelfinale-auf-werder-bremen/"
+    },
+    {
+      "matchId": "736d1d4feae86d5c71151151",
+      "home": "FC Augsburg",
+      "away": "RB Leipzig",
+      "homeTier": 1,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "FC Augsburg",
+      "venue": null,
+      "ruleSource": "https://www.fussball.de/newsdetail/die-wichtigsten-infos-zur-dfb-pokalauslosung/-/article-id/187879",
+      "pairingSource": "https://schalke04.de/dfb-pokal/dfb-pokal-s04-trifft-im-viertelfinale-auf-werder-bremen/"
+    },
+    {
+      "matchId": "f61bdacf095ba24dc835fe71",
+      "home": "Bayern München",
+      "away": "1. FC Heidenheim 1846",
+      "homeTier": 1,
+      "awayTier": 2,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "Bayern München",
+      "venue": null,
+      "ruleSource": "https://www.fussball.de/newsdetail/die-wichtigsten-infos-zur-dfb-pokalauslosung/-/article-id/187879",
+      "pairingSource": "https://schalke04.de/dfb-pokal/dfb-pokal-s04-trifft-im-viertelfinale-auf-werder-bremen/"
+    },
+    {
+      "matchId": "069ff0f0b7e119b7aaa58965",
+      "home": "FC Schalke 04",
+      "away": "Werder Bremen",
+      "homeTier": 1,
+      "awayTier": 1,
+      "homePot": null,
+      "awayPot": null,
+      "homeAmateur": false,
+      "awayAmateur": false,
+      "formalHome": "FC Schalke 04",
+      "venue": null,
+      "ruleSource": "https://www.fussball.de/newsdetail/die-wichtigsten-infos-zur-dfb-pokalauslosung/-/article-id/187879",
+      "pairingSource": "https://schalke04.de/dfb-pokal/dfb-pokal-s04-trifft-im-viertelfinale-auf-werder-bremen/"
+    }
+  ]
+}
