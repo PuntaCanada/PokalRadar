@@ -4,14 +4,15 @@ on:
   push:
     branches: [main]
 permissions:
-  contents: read
+  contents: write
 jobs:
   validate:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          persist-credentials: true
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -27,6 +28,16 @@ jobs:
         with:
           name: generated-portal
           path: public
+      - name: Persist generated portal after successful checks
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'feature/statistics-portal'
+        run: |
+          git add public
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Persist validated static portal for Cloudflare'
+            git push origin HEAD:refs/heads/feature/statistics-portal
+          fi
       - name: Check existing production independently
         if: always()
         continue-on-error: true
